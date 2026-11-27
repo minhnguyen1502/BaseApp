@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.setting.SettingActivity">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/layout_tool_bar"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="180dp">
+
+                <com.makeramen.roundedimageview.RoundedImageView
+                    android:id="@+id/bgPre"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/img_pre_unlock"
+                    app:riv_corner_radius="20dp" />
+
+                <androidx.constraintlayout.widget.Guideline
+                    android:id="@+id/center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    app:layout_constraintGuide_percent="0.6" />
+
+                <LinearLayout
+                    android:id="@+id/layoutUnlock"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="12dp"
+                    android:orientation="vertical"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toStartOf="@id/center"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/quicksand_semi_bold_600"
+                        android:gravity="center"
+                        android:text="@string/go_premium"
+                        android:textColor="@color/white"
+                        android:textSize="24sp" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:fontFamily="@font/quicksand_regular_400"
+                        android:gravity="center"
+                        android:text="@string/unlock_all_features_and_enjoy_the_app_with_no_ads"
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/btnUnlock"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:background="@drawable/bg_corner_100"
+                        android:fontFamily="@font/quicksand_bold_700"
+                        android:gravity="center"
+                        android:paddingVertical="11dp"
+                        android:text="@string/unlock_premium"
+                        android:textAllCaps="false"
+                        android:textColor="@color/white"
+                        android:textSize="12sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layoutUnlocked"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginVertical="12dp"
+                    android:layout_marginStart="12dp"
+                    android:orientation="vertical"
+                    android:visibility="gone"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toStartOf="@id/center"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/quicksand_semi_bold_600"
+                        android:gravity="center"
+                        android:text="@string/premium_member"
+                        android:textColor="@color/white"
+                        android:textSize="24sp" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tvTimeActive"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:fontFamily="@font/quicksand_regular_400"
+                        android:gravity="center"
+                        android:text="Active until Dec 31, 2026"
+                        android:textColor="@color/white"
+                        android:textSize="14sp" />
+                </LinearLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <LinearLayout
+                android:id="@+id/btnLanguage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/bg_corner_12"
+                android:backgroundTint="@color/surface_s2"
+                android:paddingHorizontal="12dp"
+                android:paddingVertical="16dp">
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:drawableStart="@drawable/ic_setting_translate"
+                    android:drawablePadding="12dp"
+                    android:ellipsize="end"
+                    android:fontFamily="@font/quicksand_medium_500"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:text="@string/language"
+                    android:textColor="@color/text_high_em"
+                    android:textSize="16sp" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/ic_arrow_right_v1"
+                    app:tint="@color/text_med_em" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btnFeedback"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/bg_corner_12"
+                android:backgroundTint="@color/surface_s2"
+                android:paddingHorizontal="12dp"
+                android:paddingVertical="16dp">
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:drawableStart="@drawable/ic_setting_feedback"
+                    android:drawablePadding="12dp"
+                    android:ellipsize="end"
+                    android:fontFamily="@font/quicksand_medium_500"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:text="@string/feedback"
+                    android:textColor="@color/text_high_em"
+                    android:textSize="16sp" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/ic_arrow_right_v1"
+                    app:tint="@color/text_med_em" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btnRate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/bg_corner_12"
+                android:backgroundTint="@color/surface_s2"
+                android:paddingHorizontal="12dp"
+                android:paddingVertical="16dp">
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:drawableStart="@drawable/ic_setting_rate"
+                    android:drawablePadding="12dp"
+                    android:ellipsize="end"
+                    android:fontFamily="@font/quicksand_medium_500"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:text="@string/rate_this_app"
+                    android:textColor="@color/text_high_em"
+                    android:textSize="16sp" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/ic_arrow_right_v1"
+                    app:tint="@color/text_med_em" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btnPrivacyPolicy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/bg_corner_12"
+                android:backgroundTint="@color/surface_s2"
+                android:paddingHorizontal="12dp"
+                android:paddingVertical="16dp">
+
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:drawableStart="@drawable/ic_setting_policy"
+                    android:drawablePadding="12dp"
+                    android:ellipsize="end"
+                    android:fontFamily="@font/quicksand_medium_500"
+                    android:lines="1"
+                    android:maxLines="1"
+                    android:text="@string/privacy_policy"
+                    android:textColor="@color/text_high_em"
+                    android:textSize="16sp" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/ic_arrow_right_v1"
+                    app:tint="@color/text_med_em" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

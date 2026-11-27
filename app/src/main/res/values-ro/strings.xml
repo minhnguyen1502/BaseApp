@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Limba implicită</string>
+    <string name="setting">Setare</string>
+    <string name="language">Limbă</string>
+    <string name="privacy_policy">Politica de confidențialitate</string>
+    <string name="get_started">Începeți</string>
+    <string name="welcome">Bun venit la</string>
+    <string name="next">Următorul</string>
+    <string name="title_onb_1">Urmăriți Totul</string>
+    <string name="content_onb_1">Accesați TV în direct, sporturi, filme și desene animate oricând și oriunde.</string>
+    <string name="title_onb_2">Construiește-ți lista de redare</string>
+    <string name="content_onb_2">Adăugați canalele pe care le iubiți și vizionați-le oricând, instantaneu.</string>
+    <string name="habit_1">TV în direct</string>
+    <string name="habit_2">Filme</string>
+    <string name="habit_3">Sport</string>
+    <string name="habit_4">Ştiri</string>
+    <string name="habit_5">Familial</string>
+    <string name="habit_6">Divertisment</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_now">Evaluați acum</string>
+    <string name="send_feedback">Trimiteți feedback</string>
+    <string name="cancel">Anula</string>
+    <string name="please_select_your_language">Vă rugăm să selectați limba dvs</string>
+    <string name="please_choose_at_least_one_option">Vă rugăm să alegeți cel puțin o opțiune</string>
+    <string name="try_again">Încearcă din nou</string>
+    <string name="got_it">Am înţeles!</string>
+    <string name="_continue">Continua</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="how_to_add_a_playlist">Cum să adăugați o listă de redare</string>
+    <string name="tutorial_step_1">Căutați „listă de redare IPTV publică” folosind orice motor de căutare.</string>
+    <string name="tutorial_step_2">Copiați linkul pentru lista de redare M3U sau salvați fișierele listei de redare.</string>
+    <string name="tutorial_step_3">Deschideți din nou aplicația.\nAtingeți butonul „+”, selectați „Importați adresa URL a listei de redare” și inserați linkul.</string>
+    <string name="tutorial_step_4">Vizionați cu plăcere canalele dvs. IPTV!</string>
+    <string name="tab_import_url">Importați adresa URL</string>
+    <string name="tab_upload_file">Încărcați fișierul</string>
+    <string name="tab_stream">Flux</string>
+    <string name="tut_url_1">Căutați „listă de redare IPTV publică” folosind orice motor de căutare.</string>
+    <string name="tut_url_2">Copiați linkul pentru lista de redare M3U sau salvați fișierul cu lista de redare.</string>
+    <string name="tut_url_3">Deschideți din nou aplicația.\nAtingeți butonul „+”, selectați „Importați adresa URL a listei de redare” și inserați linkul.</string>
+    <string name="tut_url_4">Vizionați cu plăcere canalele dvs. IPTV!</string>
+    <string name="tut_file_1">Căutați „fișier M3U” folosind orice motor de căutare.</string>
+    <string name="tut_file_2">Salvați fișierul .m3u pe dispozitiv.</string>
+    <string name="tut_file_3">Reveniți la aplicație, atingeți butonul \"+\", selectați \"Încărcați fișierul M3U\", apoi alegeți fișierul pe care l-ați descărcat.</string>
+    <string name="tut_file_4">Vizionați cu plăcere canalele dvs. IPTV!</string>
+    <string name="tut_stream_1">Căutați „adresa URL publică a fluxului IPTV” folosind orice motor de căutare.</string>
+    <string name="tut_stream_2">Copiați adresa URL a fluxului complet în clipboard.</string>
+    <string name="tut_stream_3">Reveniți la aplicație, atingeți butonul „+”, selectați „Importați linkul fluxului”, apoi inserați linkul.</string>
+    <string name="tut_stream_4">Vizionați cu plăcere canalele dvs. IPTV!</string>
+    <string name="unlock_premium">Deblocați</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Am aprecia cu drag dacă ne-ați oferi feedback detaliat (cel puțin 6 caractere)</string>
+    <string name="at_least_6_characters">Cel puțin 6 caractere</string>
+    <string name="loading">Încărcare…</string>
+    <string name="install_now">Instalați acum</string>
+    <string name="channels">%1$d canale</string>
+    <string name="this_action_may_contain_ads">Această acțiune poate conține reclame</string>
+    <string name="what_do_you_mainly_use_iptv_for">Pentru ce folosești în principal IPTV?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Găsiți o listă de redare IPTV (M3U) disponibilă online.</string>
+    <string name="title_1">Găsiți o sursă M3U</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Copiați linkul listei de redare sau descărcați fișierul M3U pe dispozitiv.</string>
+    <string name="title_2">Salvați informațiile listei de redare</string>
+    <string name="title_3">Încărcați în aplicație</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Deschideți aplicația → selectați Adăugați o listă de redare → alegeți Din URL → inserați linkul.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Accesați lista de redare și începeți să vizionați canalele preferate.</string>
+    <string name="title_4">Bucurați-vă de conținutul dvs</string>
+    <string name="search">Căutare…</string>
+    <string name="all">Toate</string>
+    <string name="recent">Recent</string>
+    <string name="favorites">Favorite</string>
+    <string name="url">URL</string>
+    <string name="file">Fişier</string>
+    <string name="no_channels_found">Nu s-au găsit canale</string>
+    <string name="no_recents">Fără recente</string>
+    <string name="play_something_to_begin">Redați conținut media pentru a începe</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Importați canale noi atingând butonul de mai jos.</string>
+    <string name="a_z_sort">Sortare A-Z</string>
+    <string name="z_a_sort">Sortare Z-A</string>
+    <string name="_0_9_sort">0–9 Sortare</string>
+    <string name="_9_0_sort">9–0 Sortare</string>
+    <string name="refresh">Reîmprospăta</string>
+    <string name="accept">Accepta</string>
+    <string name="license_agreement">Acord de licență</string>
+    <string name="i_agree">Sunt de acord cu Acordul de licență</string>
+    <string name="content_license_agreement">IPTV acceptă liste de redare M3U și JSON create de utilizatori. Nu oferim și nu găzduim niciun conținut.\n\nAceastă aplicație este destinată numai conținutului obținut legal. Sunteți responsabil să vă asigurați că listele de redare și conținutul dvs. respectă legile și permisiunile aplicabile.\n\nContinuând, confirmați că înțelegeți și acceptați acești termeni.\n\nDeclinare responsabilității\n\nIPTV nu furnizează sau promovează niciun conținut și nu este afiliat cu furnizori terți.\n\nUtilizatorii trebuie să furnizeze propriul conținut. Streamingul neautorizat de materiale protejate prin drepturi de autor este puternic descurajat.</string>
+    <string name="content_1">Puteți căuta online cu cuvinte cheie precum „listă de redare IPTV M3U” sau puteți verifica îndrumările oferite de serviciul TV/streaming.\nUn link M3U adecvat de obicei:\n• Începe cu http:// sau https://\n• Se termină cu .m3u sau .m3u8\nÎncercați să utilizați surse legale și de încredere ori de câte ori este posibil. Rețineți că unele liste de redare pot expira, pot necesita acreditări de conectare sau pot fi limitate de regiune.</string>
+    <string name="content_2">Pentru a copia adresa URL M3U:\n• Pe mobil: țineți apăsat linkul → selectați Copiați linkul\n• Pe desktop: faceți clic dreapta pe link → alegeți Copiere adresa linkului\nPentru a descărca fișierul listei de redare:\n• Salvați fișierul .m3u sau .m3u8 într-o locație ușor de accesat pe dispozitivul dvs.\nPuteți importa ulterior fișierul direct din spațiul de stocare local 3 (consultați-l).</string>
+    <string name="content_3">Lansați IPTV Smart Player.\nSelectați Adăugați lista de redare.\nAlegeți o metodă de importat:\n• Prin URL → Lipiți linkul dvs. M3U\n• Din Fișier → Răsfoiți și alegeți fișierul salvat .m3u / .m3u8 pe dispozitiv\n(Opțional) Introduceți un nume personalizat pentru a vă identifica cu ușurință lista de redare mai târziu\nAtingeți Salvare pentru a finaliza.</string>
+    <string name="content_4">Oferă aplicației un moment pentru a încărca canale și categorii.\nExplorați lista de canale sau utilizați funcția de căutare pentru a găsi rapid ceea ce doriți.\nDacă nu apare niciun conținut:\n• Verificați conexiunea la internet\n• Asigurați-vă că linkul sau fișierul M3U este încă valid și funcționează</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Este necesară o conexiune la internet pentru a continua să utilizați aplicația.\nVă rugăm să verificați setările de rețea și să vă reconectați.</string>
+    <string name="retry">Reîncercați</string>
+    <string name="thank_you_for_using_iptv">Vă mulțumim pentru utilizarea IPTV</string>
+    <string name="playlist_name">Numele listei de redare</string>
+    <string name="playlist">Lista de redare</string>
+    <string name="save">Salvare</string>
+    <string name="password">Parolă</string>
+    <string name="username">Nume de utilizator</string>
+    <string name="no_file_selected">Niciun fișier selectat</string>
+    <string name="m3u_file">Fișier M3U</string>
+    <string name="playlist_url">Adresa URL a listei de redare</string>
+    <string name="choose_icon">Alegeți pictograma</string>
+    <string name="choose_color">Alegeți Culoare</string>
+    <string name="paste_your_url_here">Lipiți adresa URL aici</string>
+    <string name="edit">Edita</string>
+    <string name="delete">Şterge</string>
+    <string name="rate_this_app">Evaluează această aplicație</string>
+    <string name="tell_us_about_your_experiences">Povestește-ne despre experiențele tale</string>
+    <string name="enter_your_stream_link_here">Introduceți linkul pentru flux aici</string>
+    <string name="stream_link">Link pentru flux</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Suport protocoale de rețea: http, ftp, rtsp, rtp, udp...</string>
+    <string name="channel">Canale</string>
+    <string name="import_playlist_url">Importați adresa URL a listei de redare</string>
+    <string name="load_from_device">Încărcare de pe dispozitiv</string>
+    <string name="play_single_stream">Redați un singur flux</string>
+    <string name="upload_m3u_file">Încărcați fișierul M3U</string>
+    <string name="all_channels">Toate canalele</string>
+    <string name="playback_error">Eroare de redare</string>
+    <string name="no_internet_connection">Fără conexiune la internet</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Acest canal este temporar ieșit din funcțiune sau nu este disponibil în regiunea dvs. Vă rugăm să încercați din nou mai târziu.</string>
+    <string name="lock">Blocare</string>
+    <string name="full_screen">Ecran complet</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Blocarea ecranului. Apăsați pentru a debloca</string>
+    <string name="delete_playlist">Ștergeți lista de redare?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Sigur vrei să ștergi acest playlist? Această acțiune nu poate fi anulată.</string>
+    <string name="yes_delete">Da, șterge</string>
+    <string name="error_1">Trebuie să completați câmpurile obligatorii</string>
+    <string name="error_2">Unele câmpuri sunt nevalide</string>
+    <string name="success_1">Import cu succes</string>
+    <string name="success_2">Salvați cu succes</string>
+    <string name="content_rate_1">Dacă v-a plăcut timpul petrecut cu noi, vă rugăm să lăsați o evaluare de 5 stele!</string>
+    <string name="content_rate_2">Dacă v-a plăcut timpul petrecut cu noi, vă rugăm să lăsați o evaluare de 5 stele!</string>
+    <string name="content_rate_3">Dacă v-a plăcut timpul petrecut cu noi, vă rugăm să lăsați o evaluare de 5 stele!</string>
+    <string name="content_rate_4">Aproape perfect? Ne vom strădui pentru acea stea în plus!</string>
+    <string name="content_rate_5">Ne-ai făcut ziua cu totul! 🌟 Să continuăm vibrațiile bune.</string>
+    <string name="no_results_found_for">Nu s-au găsit rezultate pentru</string>
+    <string name="the_device_does_not_support_pip">Dispozitivul nu acceptă PiP.</string>
+    <string name="video_file_not_found">Fișierul video nu a fost găsit</string>
+    <string name="minimize">Minimizați fereastra</string>
+    <string name="refresh_in_progress_please_wait">Actualizare în curs, așteptați...</string>
+    <string name="no_email_app_found">Nu a fost găsită nicio aplicație de e-mail!</string>
+    <string name="error_5">Unele câmpuri sunt nevalide</string>
+    <string name="no_favorite_channel_yet">Niciun canal preferat încă</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Găsiți un canal care vă place și atingeți inima pentru a-l păstra.</string>
+    <string name="refreshed_successfully">Reîmprospătat cu succes</string>
+    <string name="import_xtream_codes_api">Importă API Xtream Codes</string>
+    <string name="suggestion">Sugestie</string>
+    <string name="suggestion_1">Familial</string>
+    <string name="suggestion_2">Sport</string>
+    <string name="suggestion_3">Filme</string>
+    <string name="_100_no_ads">100% fără reclame</string>
+    <string name="hd_4d_quality">Calitate HD și 4D</string>
+    <string name="premium_channels">Canale premium</string>
+    <string name="most_popular">Cel mai popular</string>
+    <string name="weekly">Săptămânal</string>
+    <string name="monthly">Lunar</string>
+    <string name="yearly">Anual</string>
+    <string name="_3_day_free_trial">Probă gratuită de 3 zile</string>
+    <string name="something_went_wrong">Ceva a mers prost</string>
+    <string name="content_error">Urmați acest pas și încercați din nou:\n1. Verificați conexiunea la rețea\n2. Asigurați-vă că sunteți conectat la contul dvs. Google\n3. Asigurați-vă că puteți rula aplicația Google Play</string>
+    <string name="cancel_anytime">Anulați oricând</string>
+    <string name="term_of_use">
+        <u>Termenul de utilizare</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Politica de confidențialitate</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Versiunea dvs. Premium este acum activă. Bucură-te de folosirea aplicației!</string>
+    <string name="payment_success">Plata Succesă</string>
+    <string name="payment_failed">Plata nu a reușit</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">O mică problemă a oprit plata. Vă rugăm să încercați din nou</string>
+    <string name="go_premium">Treci Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Deblocați toate funcțiile și bucurați-vă de aplicație fără reclame!</string>
+    <string name="premium_member">Membru Premium</string>
+    <string name="active_until">Activ până la %s</string>
+    <string name="sever_url">Adresa URL a serverului</string>
+    <string name="find_an_xtream_account">Găsiți un cont Xtream</string>
+    <string name="search_for_xtream_code_api_account_online">Căutați „Cont Xtream Code API” online.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Atinge Adaugă profil pentru a salva și a te bucura de conținutul tău.</string>
+    <string name="start_streaming">Începeți transmiterea în flux</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Deschideți aplicația și completați câmpurile de profil Xtream.</string>
+    <string name="enter_the_information">Introduceți informațiile</string>
+    <string name="copy_the_server_url_username_and_password">Copiați URL-ul serverului, numele de utilizator și parola.</string>
+    <string name="copy_the_account_details">Copiați detaliile contului</string>
+    <string name="how_to_add_an_xtream_profile">Cum să adăugați un profil Xtream</string>
+    <string name="account_added_successfully">Contul adăugat cu succes</string>
+    <string name="your_account_is_ready_to_use">Contul dvs. este gata de utilizare</string>
+    <string name="view_now">Vezi acum</string>
+    <string name="later">Mai târziu</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Adăugați primul dvs. playlist pentru a începe vizionarea</string>
+    <string name="title_slider_1">Transmiteți sport în direct pe telefon</string>
+    <string name="action_try_now">Încearcă acum</string>
+    <string name="title_slider_2">Creați-vă lista de redare a filmului</string>
+    <string name="title_slider_3">Bucurați-vă de toate funcțiile fără reclame</string>
+    <string name="tap_to_search">Atingeți pentru a căuta</string>
+    <string name="sports_hub">Hub Sportiv</string>
+    <string name="wc_schedule">Program</string>
+    <string name="wc_team">Echipe</string>
+    <string name="wc_standing">Clasament</string>
+    <string name="wc_today">Azi</string>
+    <string name="wc_upcoming">Viitoare</string>
+    <string name="wc_full_time">Final</string>
+    <string name="wc_live">În Direct</string>
+    <string name="wc_no_matches">Niciun meci găsit</string>
+    <string name="wc_no_standings">Nu sunt disponibile clasamente</string>
+    <string name="wc_remind_me">Reamintește-mi</string>
+    <string name="wc_updating">Se actualizează…</string>
+    <string name="wc_match_detail">Detalii meci</string>
+    <string name="wc_events">Evenimente</string>
+    <string name="wc_no_events">Nu sunt disponibile evenimente</string>
+    <string name="wc_no_events_desc">Meciul nu a început încă. Setează o memento pentru a nu rata nicio acțiune.</string>
+    <string name="wc_switch_team">Schimbă echipa</string>
+    <string name="wc_bracket">Tablou</string>
+    <string name="wc_round_of_32">Optimi</string>
+    <string name="wc_starting_soon">Începe în curând</string>
+    <string name="wc_round_of_16">Șaisprezecimi</string>
+    <string name="wc_quarter_finals">Sferturi</string>
+    <string name="wc_semi_finals">Semi-finale</string>
+    <string name="wc_final">Finală</string>
+    <string name="wc_no_bracket">Nu sunt disponibile date de tablou</string>
+    <string name="wc_no_matches_today">Niciun meci astazi</string>
+    <string name="wc_upcoming_fixtures">Meciurile viitoare vor apărea aici</string>
+    <string name="wc_no_recent">Niciun meci recent</string>
+    <string name="wc_no_upcoming">Niciun meci programat</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Activează notificările</string>
+    <string name="noti_enable_desc">Primește memento-uri pentru meciuri, actualizări de conținut nou și alerte importante de streaming.</string>
+    <string name="noti_go_to_setting">Accesează setări</string>
+    <string name="visit_sports_hub">Vizitează Sports Hub</string>
+    <string name="_3rd_place_final">Finala pentru locul 3</string>
+    <string name="_16th_finals">Sferturile de Finală</string>
+    <string name="ranking_of_third_placed_teams">Clasamentul echipelor pe locul 3</string>
+    <string name="out">"Ieșire: "</string>
+    <string name="_in">"În: "</string>
+    <string name="_2nd_half">A 2-a Repriză</string>
+    <string name="_1st_half">Primul timp</string>
+    <string name="asst">Asist. %1$s</string>
+    <string name="out_s">Ieșire: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Meciul s-a încheiat. Deschide aplicația pentru rezultatul complet.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Kickoff în 15 minute. Deschide aplicația pentru a urmări.</string>
+    <string name="live_now">În direct acum</string>
+    <string name="full_time">Timp complet</string>
+    <string name="_2nd_group">Grupa a 2-a %1$s</string>
+    <string name="_1st_group">Grupa 1 %1$s</string>
+    <string name="eighth_finals">Șaisprezecimi de finală</string>
+    <string name="quarter_finals">Sferturi de finală</string>
+    <string name="semi_finals">Semifinale</string>
+    <string name="winner">Câștigător</string>
+    <string name="loser">Perdant</string>
+    <string name="round_of_32">Runda de 32</string>
+    <string name="round_of_16">Optimi de finală</string>
+    <string name="_3rd_place">Locul 3</string>
+    <string name="_final">Finală</string>
+    <string name="group_stage">Faza grupelor</string>
+    <string name="round">Runda %1$d</string>
+    <string name="group">Grupa </string>
+    <string name="_1st">1</string>
+    <string name="_2nd">2</string>
+    <string name="_3rd">3</string>
+    <string name="th">%1$d</string>
+    <string name="remind_set">Memento setat</string>
+    <string name="remind_removed">Memento eliminat</string>
+    <string name="_et1">Prelungire Partea 1</string>
+    <string name="_et2">Prelungire Partea 2</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Redare</string>
+    <string name="add_similar_items">Adaugă articole similare</string>
+    <string name="see_more">Arată mai mult</string>
+    <string name="see_less">Arată mai puțin</string>
+    <string name="view_all">Vizualizează tot</string>
+    <string name="home">Acasă</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">În Direct Acum</string>
+    <string name="recommended_for_you">Recomandat Pentru Tine</string>
+    <string name="new_series">Serie Nouă</string>
+    <string name="live_badge">DIRECT</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes oferă o experiență fiabilă de streaming IPTV.</string>
+    <string name="live_tv">TV în Direct</string>
+    <string name="movies">Filme</string>
+    <string name="series">Serii</string>
+    <string name="add_profile">Adaugă Profil</string>
+    <string name="choose_your_profile">Alege-ți Profilul</string>
+    <string name="my_favorite">Favorite Mele</string>
+    <string name="live_channel">Canal în Direct</string>
+    <string name="your_favorite_list_is_empty">Lista de favorite este goală</string>
+    <string name="edit_profile">Editare Profil</string>
+    <string name="profile_name">Nume Profil</string>
+    <string name="delete_profile">Șterge Profil</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Sigur doriți să ștergeți acest profil?</string>
+    <string name="no_browser_found">Nu a fost găsită nicio aplicație pentru a deschide căutarea</string>
+    <string name="reminder_noon_title_1">Timp de resetare 🧠</string>
+    <string name="reminder_noon_body_1">Doar un episod pentru a-ți revigora mintea!</string>
+    <string name="reminder_noon_title_2">Ai câteva minute? 🎬</string>
+    <string name="reminder_noon_body_2">Canalele tale sunt la o atingere distanță.</string>
+    <string name="reminder_noon_title_3">Canalele tale te așteaptă 📺</string>
+    <string name="reminder_noon_body_3">TV live, filme și seriale — totul într-un singur loc.</string>
+    <string name="reminder_evening_title_1">A început prime time-ul 🔥</string>
+    <string name="reminder_evening_body_1">Canalele tale sunt acum live.</string>
+    <string name="reminder_evening_title_2">Ce e diseară? ⚽</string>
+    <string name="reminder_evening_body_2">Sport live, episoade noi și multe altele.</string>
+    <string name="reminder_evening_title_3">Diseară la TV 📺</string>
+    <string name="reminder_evening_body_3">Canale live, filme și seriale — totul aici.</string>
+    <string name="reminder_no_playlist_title">TV-ul tău te așteaptă 📺</string>
+    <string name="reminder_no_playlist_body">Adaugă playlistul tău și începe să urmărești.</string>
+    <string name="reminder_playlist_ready_title">Totul este pregătit! ✅</string>
+    <string name="reminder_playlist_ready_body">Atinge pentru a viziona canalul tău preferat.</string>
+    <string name="noti_enable_title_ver_2">Permite ca %1$s să îți trimită notificări</string>
+    <string name="noti_enable_desc_ver_2">Primește memento-uri TV live, actualizări despre filme noi și alerte importante de streaming</string>
+    <string name="deny">Refuză</string>
+    <string name="allow">Permite</string>
+    <string name="tut_xtream_1">Caută „Xtream Code API Account” folosind orice motor de căutare</string>
+    <string name="tut_xtream_2">Găsește secțiunea „Format” sau „Playlist” și copiază informațiile contului Xtream</string>
+    <string name="tut_xtream_3">Revino la aplicație, atinge butonul &quot;+&quot;, selectează &quot;Import Stream Link&quot;, apoi lipește linkul.</string>
+    <string name="tut_xtream_4">Bucură-te vizionând Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Cum să adaugi un profil Xtream</u>
+    </string>
+</resources>

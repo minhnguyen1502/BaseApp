@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/bgApp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_app" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvHabits"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginHorizontal="8dp"
+        android:layout_marginVertical="16dp"
+        android:orientation="vertical"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:layout_constraintBottom_toTopOf="@+id/tvTitle"
+        app:layout_constraintTop_toTopOf="parent"
+        app:spanCount="3"
+        tools:listitem="@layout/item_habits" />
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/quicksand_medium_500"
+        android:text="@string/what_do_you_mainly_use_iptv_for"
+        android:textAlignment="center"
+        android:textColor="@color/text_high_em"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnNext" />
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/btnNext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/ac_bg_btn"
+        android:fontFamily="@font/quicksand_semi_bold_600"
+        android:gravity="center"
+        android:padding="12dp"
+        android:text="@string/next"
+        android:textColor="@color/ac_text"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@id/adsBottom" />
+
+    <com.wavez.admob.native_ads.template.NativeTemplate
+        android:id="@+id/adsBottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <FrameLayout
+        android:id="@+id/viewAd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <com.wavez.admob.native_ads.template.NativeTemplate
+            android:id="@+id/big_native_ad_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <com.wavez.admob.native_ads.template.NativeTemplate
+            android:id="@+id/bigNativeClick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:visibility="gone" />
+    </FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

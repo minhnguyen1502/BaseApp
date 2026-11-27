@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Oletuskieli</string>
+    <string name="setting">Asetus</string>
+    <string name="language">Kieli</string>
+    <string name="privacy_policy">Tietosuojakäytäntö</string>
+    <string name="get_started">Aloita</string>
+    <string name="welcome">Tervetuloa</string>
+    <string name="next">Seuraavaksi</string>
+    <string name="title_onb_1">Katso Kaikki</string>
+    <string name="content_onb_1">Käytä TV-lähetyksiä, urheilua, elokuvia ja sarjakuvia milloin ja missä tahansa.</string>
+    <string name="title_onb_2">Luo soittolistasi</string>
+    <string name="content_onb_2">Lisää suosikkikanavia ja katso niitä milloin tahansa, välittömästi.</string>
+    <string name="habit_1">Live-TV</string>
+    <string name="habit_2">Elokuvat</string>
+    <string name="habit_3">Urheilu</string>
+    <string name="habit_4">Uutiset</string>
+    <string name="habit_5">Perhe</string>
+    <string name="habit_6">Viihde</string>
+    <string name="feedback">Palaute</string>
+    <string name="rate_now">Arvioi nyt</string>
+    <string name="send_feedback">Lähetä palautetta</string>
+    <string name="cancel">Peruuttaa</string>
+    <string name="please_select_your_language">Valitse kieli</string>
+    <string name="please_choose_at_least_one_option">Valitse vähintään yksi vaihtoehto</string>
+    <string name="try_again">Yritä uudelleen</string>
+    <string name="got_it">Selvä!</string>
+    <string name="_continue">Jatkaa</string>
+    <string name="tutorial">Opetusohjelma</string>
+    <string name="how_to_add_a_playlist">Kuinka lisätä soittolista</string>
+    <string name="tutorial_step_1">Etsi \"julkinen IPTV-soittolista\" millä tahansa hakukoneella.</string>
+    <string name="tutorial_step_2">Kopioi M3U-soittolistalinkki tai tallenna soittolistatiedostot.</string>
+    <string name="tutorial_step_3">Avaa sovellus uudelleen.\nNapauta \"+\"-painiketta, valitse \"Tuo soittolistan URL-osoite\" ja liitä linkki.</string>
+    <string name="tutorial_step_4">Nauti IPTV-kanavien katselusta!</string>
+    <string name="tab_import_url">Tuo URL-osoite</string>
+    <string name="tab_upload_file">Lataa tiedosto</string>
+    <string name="tab_stream">Striimaa</string>
+    <string name="tut_url_1">Etsi \"julkinen IPTV-soittolista\" millä tahansa hakukoneella.</string>
+    <string name="tut_url_2">Kopioi M3U-soittolistalinkki tai tallenna soittolistatiedosto.</string>
+    <string name="tut_url_3">Avaa sovellus uudelleen.\nNapauta \"+\"-painiketta, valitse \"Tuo soittolistan URL-osoite\" ja liitä linkki.</string>
+    <string name="tut_url_4">Nauti IPTV-kanavien katselusta!</string>
+    <string name="tut_file_1">Etsi \"M3U-tiedosto\" millä tahansa hakukoneella.</string>
+    <string name="tut_file_2">Tallenna .m3u-tiedosto laitteellesi.</string>
+    <string name="tut_file_3">Palaa sovellukseen, napauta \"+\" -painiketta, valitse \"Lähetä M3U-tiedosto\" ja valitse sitten lataamasi tiedosto.</string>
+    <string name="tut_file_4">Nauti IPTV-kanavien katselusta!</string>
+    <string name="tut_stream_1">Hae \"julkinen IPTV-virran URL-osoite\" millä tahansa hakukoneella.</string>
+    <string name="tut_stream_2">Kopioi streamin koko URL-osoite leikepöydällesi.</string>
+    <string name="tut_stream_3">Palaa sovellukseen, napauta \"+\" -painiketta, valitse \"Tuo streamin linkki\" ja liitä linkki.</string>
+    <string name="tut_stream_4">Nauti IPTV-kanavien katselusta!</string>
+    <string name="unlock_premium">Avata</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Olisimme kiitollisia, jos antaisit meille yksityiskohtaista palautetta (vähintään 6 merkkiä)</string>
+    <string name="at_least_6_characters">Vähintään 6 merkkiä</string>
+    <string name="loading">Ladataan…</string>
+    <string name="install_now">Asenna nyt</string>
+    <string name="channels">%1$d kanavaa</string>
+    <string name="this_action_may_contain_ads">Tämä toiminto voi sisältää mainoksia</string>
+    <string name="what_do_you_mainly_use_iptv_for">Mihin käytät pääasiassa IPTV:tä?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Etsi IPTV-soittolista (M3U), joka on saatavilla verkossa.</string>
+    <string name="title_1">Etsi M3U-lähde</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Kopioi soittolistan linkki tai lataa M3U-tiedosto laitteellesi.</string>
+    <string name="title_2">Tallenna soittolistan tiedot</string>
+    <string name="title_3">Lataa sovellukseen</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Avaa sovellus → valitse Lisää soittolista → valitse URL-osoitteesta → liitä linkki.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Avaa soittolista ja aloita suosikkikanavien katselu.</string>
+    <string name="title_4">Nauti sisällöstäsi</string>
+    <string name="search">Haku…</string>
+    <string name="all">Kaikki</string>
+    <string name="recent">Viimeaikaiset</string>
+    <string name="favorites">Suosikit</string>
+    <string name="url">URL-osoite</string>
+    <string name="file">Tiedosto</string>
+    <string name="no_channels_found">Kanavia ei löytynyt</string>
+    <string name="no_recents">Ei viimeaikaisia</string>
+    <string name="play_something_to_begin">Aloita toistamalla mediaa</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Tuo uusia kanavia napauttamalla alla olevaa painiketta.</string>
+    <string name="a_z_sort">A-Z Lajittele</string>
+    <string name="z_a_sort">Z-A lajittelu</string>
+    <string name="_0_9_sort">0–9 Lajittele</string>
+    <string name="_9_0_sort">9-0 Lajittele</string>
+    <string name="refresh">Päivitä</string>
+    <string name="accept">Hyväksyä</string>
+    <string name="license_agreement">Lisenssisopimus</string>
+    <string name="i_agree">Hyväksyn lisenssisopimuksen</string>
+    <string name="content_license_agreement">IPTV tukee käyttäjien luomia M3U- ja JSON-soittolistoja. Emme tarjoa tai isännöi mitään sisältöä.\n\nTämä sovellus on tarkoitettu vain laillisesti hankitulle sisällölle. Olet vastuussa siitä, että soittolistasi ja sisältösi ovat sovellettavien lakien ja lupien mukaisia.\n\nJatkamalla vahvistat, että ymmärrät ja hyväksyt nämä ehdot.\n\nVastuuvapauslauseke\n\nIPTV ei tarjoa tai mainosta mitään sisältöä eikä ole sidoksissa kolmansien osapuolien tarjoajiin.\n\nKäyttäjien on toimitettava omaa sisältöään. Tekijänoikeuksilla suojatun materiaalin luvatonta suoratoistoa ei suositella.</string>
+    <string name="content_1">Voit etsiä verkosta avainsanoilla, kuten "IPTV M3U -soittolista" tai tarkistaa TV-/suoratoistopalvelusi antamia ohjeita.\nOikea M3U-linkki yleensä:\n• Alkaa http:// tai https://\n• Päättyy .m3u tai .m3u8\nYritä käyttää luotettavia ja laillisia lähteitä aina kun mahdollista. Huomaa, että jotkin soittolistat voivat vanhentua, vaatia kirjautumistiedot tai olla aluekohtaisia.</string>
+    <string name="content_2">M3U:n URL-osoitteen kopioiminen:\n• Mobiililaitteella: Pidä linkkiä painettuna → valitse Kopioi linkki\n• Työpöydällä: Napsauta linkkiä hiiren kakkospainikkeella → valitse Kopioi linkin osoite\nSoittolistatiedoston lataaminen:\n• Tallenna .m3u- tai .m3u8-tiedosto helposti käytettävään paikkaan laitteellesi\nVoit tuoda tiedoston myöhemmin suoraan paikallisesta Step3-tallennustilasta.</string>
+    <string name="content_3">Käynnistä IPTV Smart Player.\nValitse Lisää soittolista.\nValitse yksi tuontitapa:\n• URL-osoitteen kautta → Liitä M3U-linkki\n• Tiedosto → Selaa ja valitse tallennettu .m3u / .m3u8-tiedosto laitteellesi.\n(Valinnainen) Anna mukautettu nimi tunnistaaksesi soittolistan helposti myöhemmin\nLopeta napauttamalla Tallenna.</string>
+    <string name="content_4">Anna sovellukselle hetki ladata kanavia ja luokkia.\nTutustu kanavaluetteloon tai käytä Haku-ominaisuutta löytääksesi nopeasti haluamasi.\nJos sisältöä ei näy:\n• Tarkista internetyhteytesi\n• Varmista, että M3U-linkki tai tiedosto on edelleen voimassa ja toimii</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Sovelluksen käytön jatkaminen edellyttää internetyhteyttä.\nTarkista verkkoasetukset ja muodosta yhteys uudelleen.</string>
+    <string name="retry">Yritä uudelleen</string>
+    <string name="thank_you_for_using_iptv">Kiitos IPTV:n käytöstä</string>
+    <string name="playlist_name">Soittolistan nimi</string>
+    <string name="playlist">Soittolista</string>
+    <string name="save">Tallenna</string>
+    <string name="password">Salasana</string>
+    <string name="username">Käyttäjätunnus</string>
+    <string name="no_file_selected">Tiedostoa ei ole valittu</string>
+    <string name="m3u_file">M3U tiedosto</string>
+    <string name="playlist_url">Soittolistan URL-osoite</string>
+    <string name="choose_icon">Valitse kuvake</string>
+    <string name="choose_color">Valitse Väri</string>
+    <string name="paste_your_url_here">Liitä URL-osoitteesi tähän</string>
+    <string name="edit">Muokata</string>
+    <string name="delete">Poistaa</string>
+    <string name="rate_this_app">Arvioi tämä sovellus</string>
+    <string name="tell_us_about_your_experiences">Kerro meille kokemuksistasi</string>
+    <string name="enter_your_stream_link_here">Kirjoita stream-linkkisi tähän</string>
+    <string name="stream_link">Suoratoistolinkki</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Tuki verkkoprotokollia: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Kanavat</string>
+    <string name="import_playlist_url">Tuo soittolistan URL-osoite</string>
+    <string name="load_from_device">Lataa laitteesta</string>
+    <string name="play_single_stream">Toista yksittäinen stream</string>
+    <string name="upload_m3u_file">Lataa M3U-tiedosto</string>
+    <string name="all_channels">Kaikki kanavat</string>
+    <string name="playback_error">Toistovirhe</string>
+    <string name="no_internet_connection">Ei Internet-yhteyttä</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Tämä kanava on tilapäisesti pois käytöstä tai se ei ole käytettävissä alueellasi. Yritä myöhemmin uudelleen.</string>
+    <string name="lock">Lukko</string>
+    <string name="full_screen">Koko näyttö</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Näytön lukitus. Avaa lukitus painamalla</string>
+    <string name="delete_playlist">Poistetaanko soittolista?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Haluatko varmasti poistaa tämän soittolistan? Tätä toimintoa ei voi kumota.</string>
+    <string name="yes_delete">Kyllä, poista</string>
+    <string name="error_1">Sinun on täytettävä pakolliset kentät</string>
+    <string name="error_2">Jotkut kentät ovat virheellisiä</string>
+    <string name="success_1">Tuonti onnistui</string>
+    <string name="success_2">Tallennus onnistui</string>
+    <string name="content_rate_1">Jos pidit kanssamme viettämästäsi ajasta, jätä 5 tähden arvio!</string>
+    <string name="content_rate_2">Jos pidit kanssamme viettämästäsi ajasta, jätä 5 tähden arvio!</string>
+    <string name="content_rate_3">Jos pidit kanssamme viettämästäsi ajasta, jätä 5 tähden arvio!</string>
+    <string name="content_rate_4">Melkein täydellinen? Pyrimme siihen ylimääräiseen tähteen!</string>
+    <string name="content_rate_5">Piristit päiväämme täysin! 🌟 Pidetään hyvät fiilikset vireillä.</string>
+    <string name="no_results_found_for">Ei tuloksia haulle</string>
+    <string name="the_device_does_not_support_pip">Laite ei tue PiP:tä.</string>
+    <string name="video_file_not_found">Videotiedostoa ei löydy</string>
+    <string name="minimize">Pienennä ikkuna</string>
+    <string name="refresh_in_progress_please_wait">Päivitys käynnissä, odota…</string>
+    <string name="no_email_app_found">Sähköpostisovellusta ei löydy!</string>
+    <string name="error_5">Jotkut kentät ovat virheellisiä</string>
+    <string name="no_favorite_channel_yet">Ei vielä suosikkikanavaa</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Etsi kanava, josta pidät, ja pidä se napauttamalla sydäntä.</string>
+    <string name="refreshed_successfully">Päivitetty onnistuneesti</string>
+    <string name="import_xtream_codes_api">Tuo Xtream Codes API</string>
+    <string name="suggestion">Ehdotus</string>
+    <string name="suggestion_1">Perhe</string>
+    <string name="suggestion_2">Urheilu</string>
+    <string name="suggestion_3">Elokuvat</string>
+    <string name="_100_no_ads">100 % Ei mainoksia</string>
+    <string name="hd_4d_quality">HD &amp; 4D laatu</string>
+    <string name="premium_channels">Premium-kanavat</string>
+    <string name="most_popular">Suosituin</string>
+    <string name="weekly">Viikoittain</string>
+    <string name="monthly">Kuukausittain</string>
+    <string name="yearly">Vuosittain</string>
+    <string name="_3_day_free_trial">3 päivän ilmainen kokeilu</string>
+    <string name="something_went_wrong">Jotain meni pieleen</string>
+    <string name="content_error">Noudata tätä vaihetta ja yritä uudelleen:\n1. Tarkista verkkoyhteytesi\n2. Varmista, että olet kirjautunut Google-tiliisi\n3. Varmista, että voit käyttää Google Play -sovellusta</string>
+    <string name="cancel_anytime">Peru milloin tahansa</string>
+    <string name="term_of_use">
+        <u>Käyttöaika</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Tietosuojakäytäntö</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Premium-versiosi on nyt aktiivinen. Nauti sovelluksen käytöstä!</string>
+    <string name="payment_success">Maksun onnistuminen</string>
+    <string name="payment_failed">Maksu epäonnistui</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Pieni ongelma pysäytti maksun. Yritä uudelleen</string>
+    <string name="go_premium">Siirry Premiumiin</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Avaa kaikki ominaisuudet ja nauti sovelluksesta ilman mainoksia!</string>
+    <string name="premium_member">Premium-jäsen</string>
+    <string name="active_until">Aktiivinen %s asti</string>
+    <string name="sever_url">Palvelimen URL-osoite</string>
+    <string name="find_an_xtream_account">Etsi Xtream-tili</string>
+    <string name="search_for_xtream_code_api_account_online">Etsi "Xtream Code API -tili" verkosta.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Napauta Lisää profiili tallentaaksesi ja nauttiaksesi sisällöstäsi.</string>
+    <string name="start_streaming">Aloita suoratoisto</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Avaa sovellus ja täytä Xtream-profiilikentät.</string>
+    <string name="enter_the_information">Syötä tiedot</string>
+    <string name="copy_the_server_url_username_and_password">Kopioi palvelimen URL-osoite, käyttäjätunnus ja salasana.</string>
+    <string name="copy_the_account_details">Kopioi tilin tiedot</string>
+    <string name="how_to_add_an_xtream_profile">Kuinka lisätä Xtream-profiili</string>
+    <string name="account_added_successfully">Tili lisätty onnistuneesti</string>
+    <string name="your_account_is_ready_to_use">Tilisi on valmis käytettäväksi</string>
+    <string name="view_now">Näytä nyt</string>
+    <string name="later">Myöhemmin</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Aloita katselu lisäämällä ensimmäinen soittolistasi</string>
+    <string name="title_slider_1">Suoratoista urheilua puhelimessa</string>
+    <string name="action_try_now">Kokeile nyt</string>
+    <string name="title_slider_2">Luo elokuvasoittolistasi</string>
+    <string name="title_slider_3">Nauti kaikista ominaisuuksista ilman mainoksia</string>
+    <string name="tap_to_search">Hae napauttamalla</string>
+    <string name="sports_hub">Urheilukeskus</string>
+    <string name="wc_schedule">Aikataulut</string>
+    <string name="wc_team">Joukkueet</string>
+    <string name="wc_standing">Sarjataulukko</string>
+    <string name="wc_today">Tänään</string>
+    <string name="wc_upcoming">Tulevat</string>
+    <string name="wc_full_time">Lopputulos</string>
+    <string name="wc_live">Suora</string>
+    <string name="wc_no_matches">Otteluita ei löytynyt</string>
+    <string name="wc_no_standings">Ei sarjataulukko saatavilla</string>
+    <string name="wc_remind_me">Muistuta minua</string>
+    <string name="wc_updating">Päivitetään…</string>
+    <string name="wc_match_detail">Ottelun tiedot</string>
+    <string name="wc_events">Tapahtumat</string>
+    <string name="wc_no_events">Ei tapahtumia saatavilla</string>
+    <string name="wc_no_events_desc">Ottelu ei ole vielä alkanut. Aseta muistutus, jotta et missaa mitään.</string>
+    <string name="wc_switch_team">Vaihda joukkuetta</string>
+    <string name="wc_bracket">Turnauskaavio</string>
+    <string name="wc_round_of_32">32:n paras</string>
+    <string name="wc_starting_soon">Alkaa pian</string>
+    <string name="wc_round_of_16">16:n paras</string>
+    <string name="wc_quarter_finals">Neljännesffinaalit</string>
+    <string name="wc_semi_finals">Semifinaalit</string>
+    <string name="wc_final">Finaali</string>
+    <string name="wc_no_bracket">Turnauskaaviota ei ole saatavilla</string>
+    <string name="wc_no_matches_today">Ei otteluita tänään</string>
+    <string name="wc_upcoming_fixtures">Tulevat ottelut näkyvät tässä</string>
+    <string name="wc_no_recent">Ei viimeaikaisia otteluita</string>
+    <string name="wc_no_upcoming">Ei tulevia otteluita</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Ota ilmoitukset käyttöön</string>
+    <string name="noti_enable_desc">Saa ottelun muistutukset, uuden sisällön päivitykset ja tärkeät suoratoistoilmoitukset.</string>
+    <string name="noti_go_to_setting">Siirry asetuksiin</string>
+    <string name="visit_sports_hub">Käy Sports Hubissa</string>
+    <string name="_3rd_place_final">Kolmannen sijan ottelu</string>
+    <string name="_16th_finals">16. finaalit</string>
+    <string name="ranking_of_third_placed_teams">Kolmanneksi sijoittuneiden joukkueiden ranking</string>
+    <string name="out">"Ulos: "</string>
+    <string name="_in">"Sisään: "</string>
+    <string name="_2nd_half">2. puolikas</string>
+    <string name="_1st_half">1. puoliajka</string>
+    <string name="asst">Syöttö %1$s</string>
+    <string name="out_s">Ulos: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Ottelu on päättynyt. Avaa sovellus nähdäksesi täyden tuloksen.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Alkupotkaisua 15 minuutin päästä. Avaa sovellus seurataksesi tapahtumaa.</string>
+    <string name="live_now">Suorassa lähetyksessä nyt</string>
+    <string name="full_time">Lopullinen tulos</string>
+    <string name="_2nd_group">2. lohko %1$s</string>
+    <string name="_1st_group">1. lohko %1$s</string>
+    <string name="eighth_finals">Kahdeksannesfinnaalit</string>
+    <string name="quarter_finals">Neljännesfinnaalit</string>
+    <string name="semi_finals">Välierät</string>
+    <string name="winner">Voittaja</string>
+    <string name="loser">Häviäjä</string>
+    <string name="round_of_32">32:n joukko</string>
+    <string name="round_of_16">16:n joukko</string>
+    <string name="_3rd_place">3. sija</string>
+    <string name="_final">Finaali</string>
+    <string name="group_stage">Lohkovaihe</string>
+    <string name="round">Kierros %1$d</string>
+    <string name="group">Lohko </string>
+    <string name="_1st">1. sija</string>
+    <string name="_2nd">2. sija</string>
+    <string name="_3rd">3. sija</string>
+    <string name="th">%1$d. sija</string>
+    <string name="remind_set">Muistutus asetettu</string>
+    <string name="remind_removed">Muistutus poistettu</string>
+    <string name="_et1">Lisäaika 1. puoliaika</string>
+    <string name="_et2">Lisäaika 2. puoliaika</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Toista</string>
+    <string name="add_similar_items">Lisää samankaltaisia kohteita</string>
+    <string name="see_more">Näytä lisää</string>
+    <string name="see_less">Näytä vähemmän</string>
+    <string name="view_all">Näytä kaikki</string>
+    <string name="home">Koti</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Suora lähetys nyt</string>
+    <string name="recommended_for_you">Suositellut sinulle</string>
+    <string name="new_series">Uudet sarjat</string>
+    <string name="live_badge">LIVE</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes tarjoaa luotettavan IPTV-suoratoiston.</string>
+    <string name="live_tv">Live TV</string>
+    <string name="movies">Elokuvat</string>
+    <string name="series">Sarjat</string>
+    <string name="add_profile">Lisää profiili</string>
+    <string name="choose_your_profile">Valitse profiili</string>
+    <string name="my_favorite">Omat suosikit</string>
+    <string name="live_channel">Live-kanava</string>
+    <string name="your_favorite_list_is_empty">Suosikkilista on tyhjä</string>
+    <string name="edit_profile">Muokkaa profiilia</string>
+    <string name="profile_name">Profiilin nimi</string>
+    <string name="delete_profile">Poista profiili</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Haluatko varmasti poistaa tämän profiilin?</string>
+    <string name="no_browser_found">Sovellusta haun avaamiseen ei löytynyt</string>
+    <string name="reminder_noon_title_1">Aika ladata akkuja 🧠</string>
+    <string name="reminder_noon_body_1">Vain yksi jakso virkistää mielesi!</string>
+    <string name="reminder_noon_title_2">Onko sinulla muutama minuutti? 🎬</string>
+    <string name="reminder_noon_body_2">Kanavasi ovat yhden napautuksen päässä.</string>
+    <string name="reminder_noon_title_3">Kanavasi odottavat 📺</string>
+    <string name="reminder_noon_body_3">Suorat lähetykset, elokuvat &amp; sarjat — kaikki yhdessä paikassa.</string>
+    <string name="reminder_evening_title_1">Paras katseluaika on käynnissä 🔥</string>
+    <string name="reminder_evening_body_1">Kanavasi lähettävät nyt suoraa.</string>
+    <string name="reminder_evening_title_2">Mitä tänä iltana? ⚽</string>
+    <string name="reminder_evening_body_2">Suorat urheilulähetykset, uudet jaksot &amp; paljon muuta.</string>
+    <string name="reminder_evening_title_3">Tänä iltana TV:ssä 📺</string>
+    <string name="reminder_evening_body_3">Suorat kanavat, elokuvat &amp; sarjat — kaikki täällä.</string>
+    <string name="reminder_no_playlist_title">TV:si odottaa 📺</string>
+    <string name="reminder_no_playlist_body">Lisää soittolistasi ja aloita katselu.</string>
+    <string name="reminder_playlist_ready_title">Kaikki on valmista! ✅</string>
+    <string name="reminder_playlist_ready_body">Napauta katsoaksesi suosikkikanavaasi.</string>
+    <string name="noti_enable_title_ver_2">Salli %1$s lähettää sinulle ilmoituksia</string>
+    <string name="noti_enable_desc_ver_2">Saat suorien lähetysten muistutuksia, uusien elokuvien päivityksiä ja tärkeitä suoratoistohälytyksiä</string>
+    <string name="deny">Estä</string>
+    <string name="allow">Salli</string>
+    <string name="tut_xtream_1">Etsi “Xtream Code API Account” millä tahansa hakukoneella</string>
+    <string name="tut_xtream_2">Etsi “Format”- tai “Playlist”-osio ja kopioi Xtream-tilin tiedot</string>
+    <string name="tut_xtream_3">Palaa sovellukseen, napauta &quot;+&quot;-painiketta, valitse &quot;Import Stream Link&quot; ja liitä sitten linkki.</string>
+    <string name="tut_xtream_4">Nauti Xtreamin katselusta</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Kuinka lisätä Xtream-profiili</u>
+    </string>
+</resources>

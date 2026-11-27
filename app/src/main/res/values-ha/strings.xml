@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Tsoffin harshe</string>
+    <string name="setting">Saita</string>
+    <string name="language">Harshe</string>
+    <string name="privacy_policy">Takardar kebantawa</string>
+    <string name="get_started">Fara</string>
+    <string name="welcome">Barka da zuwa</string>
+    <string name="next">Na gaba</string>
+    <string name="title_onb_1">Kalli Komai</string>
+    <string name="content_onb_1">Samun damar talabijin kai tsaye, wasanni, fina-finai, da majigin yara a kowane lokaci, ko\'ina.</string>
+    <string name="title_onb_2">Gina lissafin waƙanku</string>
+    <string name="content_onb_2">Ƙara tashoshi da kuke so ku duba su kowane lokaci, nan take.</string>
+    <string name="habit_1">Talabijin kai tsaye</string>
+    <string name="habit_2">Fina-finai</string>
+    <string name="habit_3">Wasanni</string>
+    <string name="habit_4">Labarai</string>
+    <string name="habit_5">Iyali</string>
+    <string name="habit_6">Nishaɗi</string>
+    <string name="feedback">Jawabin</string>
+    <string name="rate_now">Rate Yanzu</string>
+    <string name="send_feedback">Aika da martani</string>
+    <string name="cancel">Soke</string>
+    <string name="please_select_your_language">Da fatan za a zaɓi yaren ku</string>
+    <string name="please_choose_at_least_one_option">Da fatan za a zaɓi aƙalla zaɓi ɗaya</string>
+    <string name="try_again">Gwada kuma</string>
+    <string name="got_it">Na samu!</string>
+    <string name="_continue">Ci gaba</string>
+    <string name="tutorial">Koyarwa</string>
+    <string name="how_to_add_a_playlist">Yadda ake ƙara lissafin waƙa</string>
+    <string name="tutorial_step_1">Nemo \"jerin waƙa na IPTV na jama\'a" ta amfani da kowane injin bincike.</string>
+    <string name="tutorial_step_2">Kwafi hanyar haɗin lissafin waƙa na M3U ko ajiye fayilolin lissafin waƙa.</string>
+    <string name="tutorial_step_3">Bude ka\'idar kuma.\nTaɓa maɓallin \"+\", zaɓi "Shigo da URL na lissafin waƙa", sannan a liƙa hanyar haɗin.</string>
+    <string name="tutorial_step_4">Ji daɗin kallon tashoshin IPTV ɗin ku!</string>
+    <string name="tab_import_url">Shigo URL</string>
+    <string name="tab_upload_file">Loda fayil</string>
+    <string name="tab_stream">Ruwa</string>
+    <string name="tut_url_1">Nemo \"jerin waƙa na IPTV na jama\'a" ta amfani da kowane injin bincike.</string>
+    <string name="tut_url_2">Kwafi hanyar haɗin lissafin waƙa na M3U ko ajiye fayil ɗin lissafin waƙa.</string>
+    <string name="tut_url_3">Bude ka\'idar kuma.\nTaɓa maɓallin \"+\", zaɓi "Shigo da URL na lissafin waƙa", sannan a liƙa hanyar haɗin.</string>
+    <string name="tut_url_4">Ji daɗin kallon tashoshin IPTV ɗin ku!</string>
+    <string name="tut_file_1">Nemo \"Fayil M3U" ta amfani da kowane injin bincike.</string>
+    <string name="tut_file_2">Ajiye fayil ɗin .m3u zuwa na\'urarka.</string>
+    <string name="tut_file_3">Koma zuwa manhajar, danna maballin \"+\", zaɓi \"Upload M3U File", sannan zaɓi fayil ɗin da kuka zazzage.</string>
+    <string name="tut_file_4">Ji daɗin kallon tashoshin IPTV ɗin ku!</string>
+    <string name="tut_stream_1">Nemo \"jama\'a IPTV rafi URL\" ta amfani da kowane injin bincike.</string>
+    <string name="tut_stream_2">Kwafi cikakken URL ɗin rafi zuwa allon allo.</string>
+    <string name="tut_stream_3">Koma zuwa app, danna maɓallin \"+\", zaɓi "Shigo da Ma\'auni na Rarraba", sannan liƙa hanyar haɗin.</string>
+    <string name="tut_stream_4">Ji daɗin kallon tashoshin IPTV ɗin ku!</string>
+    <string name="unlock_premium">Buɗe</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Za mu yi godiya idan za ku iya ba mu cikakken bayani (akalla haruffa 6)</string>
+    <string name="at_least_6_characters">Akalla haruffa 6</string>
+    <string name="loading">Ana lodawa…</string>
+    <string name="install_now">Shigar yanzu</string>
+    <string name="channels">%1$d tashoshi</string>
+    <string name="this_action_may_contain_ads">Wannan aikin yana iya ƙunsar tallace-tallace</string>
+    <string name="what_do_you_mainly_use_iptv_for">Me kuke yawan amfani da IPTV?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Nemo lissafin waƙa na IPTV (M3U) wanda ke kan layi.</string>
+    <string name="title_1">Nemo tushen M3U</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Kwafi hanyar haɗin lissafin waƙa ko zazzage fayil ɗin M3U zuwa na\'urarka.</string>
+    <string name="title_2">Ajiye bayanin lissafin waƙa</string>
+    <string name="title_3">Loda zuwa App</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Bude app ɗin → zaɓi Ƙara lissafin waƙa → zaɓi Daga URL → liƙa hanyar haɗin.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Shiga lissafin waƙa kuma fara kallon tashoshin da kuka fi so.</string>
+    <string name="title_4">Ji daɗin Abubuwan Ku</string>
+    <string name="search">Bincika…</string>
+    <string name="all">Duka</string>
+    <string name="recent">Kwanan nan</string>
+    <string name="favorites">Abubuwan da aka fi so</string>
+    <string name="url">URL</string>
+    <string name="file">Fayil</string>
+    <string name="no_channels_found">Ba a sami tashoshi ba</string>
+    <string name="no_recents">Babu kwanan nan</string>
+    <string name="play_something_to_begin">Kunna kafofin watsa labarai don farawa</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Shigo sabbin tashoshi ta hanyar latsa maɓallin da ke ƙasa.</string>
+    <string name="a_z_sort">A-Z Gari</string>
+    <string name="z_a_sort">Z-A Gari</string>
+    <string name="_0_9_sort">0–9 Nau\'i</string>
+    <string name="_9_0_sort">9-0 Nau\'i</string>
+    <string name="refresh">Sake sabuntawa</string>
+    <string name="accept">Karba</string>
+    <string name="license_agreement">Yarjejeniyar lasisi</string>
+    <string name="i_agree">Na yarda da Yarjejeniyar Lasisi</string>
+    <string name="content_license_agreement">IPTV tana goyan bayan jerin waƙoƙin M3U da JSON waɗanda masu amfani suka ƙirƙira. Ba mu samarwa ko daukar nauyin kowane abun ciki.\n\nWannan app an yi shi ne don abun ciki da aka samu bisa doka kawai. Kai ne ke da alhakin tabbatar da lissafin waƙa da abun ciki suna bin dokoki da izini masu dacewa.\n\nTa ci gaba, kuna tabbatar da cewa kun fahimci kuma kun karɓi waɗannan sharuɗɗan. An hana yawo mara izini na kayan haƙƙin mallaka.</string>
+    <string name="content_1">Kuna iya bincika kan layi tare da kalmomi kamar "Jin waƙa na IPTV M3U" ko duba jagorar da sabis ɗin TV ɗinku/streaming ke bayarwa.\nMadaidaicin hanyar haɗin M3U yawanci:\n• Yana farawa da http:// ko https://\n• Ya ƙare da .m3u ko .m3u8\nKokarin amfani da amintattun hanyoyin doka a duk lokacin da zai yiwu. Lura cewa wasu lissafin waƙa na iya ƙarewa, suna buƙatar takaddun shaidar shiga, ko iyakance ta yanki.</string>
+    <string name="content_2">Don kwafe M3U URL:\n• A wayar hannu: Taɓa ka riƙe hanyar haɗin → zaɓi Kwafi hanyar haɗin yanar gizo \n• A kan tebur: Danna maɓallin dama → zaɓi Kwafi adireshin haɗin yanar gizo\nDon zazzage fayil ɗin lissafin waƙa:\n• Ajiye fayil ɗin .m3u ko .m3u8 zuwa wuri mai sauƙi-da-hankali akan na\'urarku\nZaku iya shigo da fayil ɗin kai tsaye daga mataki na gida.</string>
+    <string name="content_3">Kaddamar da IPTV Smart Player.\n Zaɓi Ƙara Lissafin Waƙa.\n Zaɓi hanya ɗaya don shigo da:\n• Ta URL → Manna hanyar haɗin M3U ɗinku\n• Daga Fayil → Bincike kuma zaɓi fayil ɗin .m3u / .m3u8 da aka ajiye akan na\'urarku\n(Na zaɓi) Shigar da sunan al\'ada don gane lissafin waƙa daga baya\nTaɓa Ajiye don gamawa.</string>
+    <string name="content_4">Ba wa app ɗin ɗan lokaci don loda tashoshi da rukunoni.\nBincika jerin tashoshi ko amfani da fasalin Bincike don gano abin da kuke so da sauri.\nIdan babu wani abun ciki da ya bayyana:\n• Duba haɗin Intanet ɗinku\n• Tabbatar cewa haɗin M3U ko fayil yana aiki kuma yana aiki.</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Ana buƙatar haɗin intanet don ci gaba da amfani da app.\n Da fatan za a duba saitunan cibiyar sadarwar ku kuma sake haɗawa.</string>
+    <string name="retry">Sake gwadawa</string>
+    <string name="thank_you_for_using_iptv">Na gode don amfani da IPTV</string>
+    <string name="playlist_name">Sunan lissafin waƙa</string>
+    <string name="playlist">Jerin waƙa</string>
+    <string name="save">Ajiye</string>
+    <string name="password">Kalmar wucewa</string>
+    <string name="username">Sunan mai amfani</string>
+    <string name="no_file_selected">Babu fayil da aka zaɓa</string>
+    <string name="m3u_file">M3U fayil</string>
+    <string name="playlist_url">URL jerin waƙa</string>
+    <string name="choose_icon">Zaɓi Icon</string>
+    <string name="choose_color">Zaɓi Launi</string>
+    <string name="paste_your_url_here">Manna URL ɗin ku anan</string>
+    <string name="edit">Gyara</string>
+    <string name="delete">Share</string>
+    <string name="rate_this_app">Rate wannan app</string>
+    <string name="tell_us_about_your_experiences">Faɗa mana abubuwan da kuka samu</string>
+    <string name="enter_your_stream_link_here">Shigar da mahaɗin rafi nan</string>
+    <string name="stream_link">Hanyar hanyar ruwa</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Taimakon ka\'idojin cibiyar sadarwa: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Tashoshi</string>
+    <string name="import_playlist_url">Shigo URL ɗin waƙa</string>
+    <string name="load_from_device">Load daga Na\'ura</string>
+    <string name="play_single_stream">Kunna rafi guda ɗaya</string>
+    <string name="upload_m3u_file">Zazzage fayil ɗin M3U</string>
+    <string name="all_channels">Duk Tashoshi</string>
+    <string name="playback_error">Kuskuren sake kunnawa</string>
+    <string name="no_internet_connection">Babu Haɗin Intanet</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Wannan tashar ta ƙare na ɗan lokaci ko babu samuwa a yankinku. Da fatan za a sake gwadawa daga baya.</string>
+    <string name="lock">Kulle</string>
+    <string name="full_screen">Cikakken kariya</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Kulle allo. Danna don buɗewa</string>
+    <string name="delete_playlist">Share lissafin waƙa?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Shin kun tabbata kuna son share wannan lissafin waƙa? Ba za a iya soke wannan aikin ba.</string>
+    <string name="yes_delete">Ee, share</string>
+    <string name="error_1">Kuna buƙatar cike filayen da ake buƙata</string>
+    <string name="error_2">Wasu filayen ba su da inganci</string>
+    <string name="success_1">Shigo da nasara cikin nasara</string>
+    <string name="success_2">Ajiye cikin nasara</string>
+    <string name="content_rate_1">Idan kuna son lokacinku tare da mu, da fatan za a bar ƙimar tauraro 5!</string>
+    <string name="content_rate_2">Idan kuna son lokacinku tare da mu, da fatan za a bar ƙimar tauraro 5!</string>
+    <string name="content_rate_3">Idan kuna son lokacinku tare da mu, da fatan za a bar ƙimar tauraro 5!</string>
+    <string name="content_rate_4">Kusan cikakke? Za mu yi ƙoƙari don ƙarin tauraro!</string>
+    <string name="content_rate_5">Kun sanya ranar mu gaba ɗaya! 🌟 Bari mu ci gaba da kasancewa mai kyau.</string>
+    <string name="no_results_found_for">Ba a sami sakamako ba</string>
+    <string name="the_device_does_not_support_pip">Na\'urar baya goyan bayan PiP.</string>
+    <string name="video_file_not_found">Ba a sami fayil ɗin bidiyo ba</string>
+    <string name="minimize">Rage girman taga</string>
+    <string name="refresh_in_progress_please_wait">Ana ci gaba da sabuntawa, da fatan za a jira…</string>
+    <string name="no_email_app_found">Ba a sami app ɗin imel ba!</string>
+    <string name="error_5">Wasu filayen ba su da inganci</string>
+    <string name="no_favorite_channel_yet">Babu tashar da aka fi so tukuna</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Nemo tashar da kuke so kuma danna zuciya don kiyaye ta.</string>
+    <string name="refreshed_successfully">An wartsake cikin nasara</string>
+    <string name="import_xtream_codes_api">Shigo Xtream Codes API</string>
+    <string name="suggestion">Shawara</string>
+    <string name="suggestion_1">Iyali</string>
+    <string name="suggestion_2">Wasanni</string>
+    <string name="suggestion_3">Fina-finai</string>
+    <string name="_100_no_ads">100% Babu Talla</string>
+    <string name="hd_4d_quality">HD &amp; ingancin 4D</string>
+    <string name="premium_channels">Tashoshi na Premium</string>
+    <string name="most_popular">Mafi shahara</string>
+    <string name="weekly">mako-mako</string>
+    <string name="monthly">kowane wata</string>
+    <string name="yearly">kowace shekara</string>
+    <string name="_3_day_free_trial">Gwajin kyauta na kwanaki 3</string>
+    <string name="something_went_wrong">Wani abu ya faru</string>
+    <string name="content_error">Da fatan za a bi wannan matakin kuma a sake gwadawa:\n1. Duba hanyar sadarwar ku\n2. Tabbatar cewa kun shiga asusunku na Google\n3. Tabbatar cewa zaku iya gudanar da aikace-aikacen Google play</string>
+    <string name="cancel_anytime">Soke kowane lokaci</string>
+    <string name="term_of_use">
+        <u>Ka\'idojin amfani</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Takardar kebantawa</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Sigar Premium ɗinku yanzu tana aiki. Ji daɗin amfani da app!</string>
+    <string name="payment_success">Nasarar Biyan Kuɗi</string>
+    <string name="payment_failed">Biyan ya kasa</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Wani ƙaramin batu ya dakatar da biyan kuɗi. Da fatan za a sake gwadawa</string>
+    <string name="go_premium">Zama Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Buɗe duk fasalulluka kuma ku more app ɗin ba tare da talla ba!</string>
+    <string name="premium_member">Memba na Premium</string>
+    <string name="active_until">Aiki har zuwa %s</string>
+    <string name="sever_url">Mai raba URL</string>
+    <string name="find_an_xtream_account">Nemo asusun Xtream</string>
+    <string name="search_for_xtream_code_api_account_online">Nemo "Asusun API na Xtream Code" akan layi.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Matsa Ƙara Bayanan martaba don adanawa da jin daɗin abun cikin ku.</string>
+    <string name="start_streaming">Fara yawo</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Bude app ɗin kuma cika filayen bayanan martaba na Xtream.</string>
+    <string name="enter_the_information">Shigar da bayanin</string>
+    <string name="copy_the_server_url_username_and_password">Kwafi URL ɗin uwar garken, Sunan mai amfani, da kalmar wucewa.</string>
+    <string name="copy_the_account_details">Kwafi bayanan asusun</string>
+    <string name="how_to_add_an_xtream_profile">Yadda ake Ƙara bayanin martaba na Xtream</string>
+    <string name="account_added_successfully">An ƙara lissafi cikin nasara</string>
+    <string name="your_account_is_ready_to_use">Asusunku yana shirye don amfani</string>
+    <string name="view_now">Duba yanzu</string>
+    <string name="later">Daga baya</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Ƙara lissafin waƙa na farko don fara kallo</string>
+    <string name="title_slider_1">Yawa Wasanni Kai Tsaye akan Waya</string>
+    <string name="action_try_now">Gwada yanzu</string>
+    <string name="title_slider_2">Gina Jerin Waƙar Fina-Finan ku</string>
+    <string name="title_slider_3">Ji daɗin duk fasalulluka ba tare da talla ba</string>
+    <string name="tap_to_search">Danna don Bincike</string>
+    <string name="sports_hub">Cibiyar Wasanni</string>
+    <string name="wc_schedule">Tsare</string>
+    <string name="wc_team">Ƙungiyoyi</string>
+    <string name="wc_standing">Matsayi</string>
+    <string name="wc_today">Jiya</string>
+    <string name="wc_upcoming">Masu zuwa</string>
+    <string name="wc_full_time">Cikakken lokaci</string>
+    <string name="wc_live">Live</string>
+    <string name="wc_no_matches">Babu wasanni da aka samu</string>
+    <string name="wc_no_standings">Babu matsayi da suka yi</string>
+    <string name="wc_remind_me">Tunata ni</string>
+    <string name="wc_updating">Yana sabunta…</string>
+    <string name="wc_match_detail">Cikakken Bayani Game</string>
+    <string name="wc_events">Abubuwa</string>
+    <string name="wc_no_events">Babu abubuwa da suka yi</string>
+    <string name="wc_no_events_desc">Wasun bai fara ba. Saita tunawa don kada ka baci wani abubuwa.</string>
+    <string name="wc_switch_team">Canza Ƙungiya</string>
+    <string name="wc_bracket">Tsarin Gaida</string>
+    <string name="wc_round_of_32">Zagaye na 32</string>
+    <string name="wc_starting_soon">Za a fara nan gida</string>
+    <string name="wc_round_of_16">Zagaye na 16</string>
+    <string name="wc_quarter_finals">Karshen Karewa</string>
+    <string name="wc_semi_finals">Rabin Karshen</string>
+    <string name="wc_final">Karshe</string>
+    <string name="wc_no_bracket">Babu bayani na tsarin gaida</string>
+    <string name="wc_no_matches_today">Babu wasan jiya</string>
+    <string name="wc_upcoming_fixtures">Wasanni masu zuwa za a nuna a nan</string>
+    <string name="wc_no_recent">Babu wasanni na kwanan nan</string>
+    <string name="wc_no_upcoming">Babu wasanni masu zuwa</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Kunna Sanarwa</string>
+    <string name="noti_enable_desc">Samu tunawa game, sabunta abubuwa da suka sabon, da mahimman sanarwar watsi.</string>
+    <string name="noti_go_to_setting">Je zuwa saitin</string>
+    <string name="visit_sports_hub">Ziyarci Cibiyar Wasanni</string>
+    <string name="_3rd_place_final">Karshen Waje na 3</string>
+    <string name="_16th_finals">Gida na 16</string>
+    <string name="ranking_of_third_placed_teams">Jerin ƙungiyoyin da suka dauki waje na 3</string>
+    <string name="out">"Waje: "</string>
+    <string name="_in">"A ciki: "</string>
+    <string name="_2nd_half">Rabin na biyu</string>
+    <string name="_1st_half">Rabin Farko</string>
+    <string name="asst">Taimako. %1$s</string>
+    <string name="out_s">Waje: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Wasun ya gama. Bugi app don cikakken sakamakon.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Farawar wasun nan gida cikin mintuna 15. Bugi app don zuwa gida.</string>
+    <string name="live_now">Live now</string>
+    <string name="full_time">Full time</string>
+    <string name="_2nd_group">Rukunin 2 %1$s</string>
+    <string name="_1st_group">Rukunin 1 %1$s</string>
+    <string name="eighth_finals">Rabi na Takwas</string>
+    <string name="quarter_finals">Rabi na Gida</string>
+    <string name="semi_finals">Rabin Gida na Karshe</string>
+    <string name="winner">Mai nasara</string>
+    <string name="loser">Mai asara</string>
+    <string name="round_of_32">Zagaye na 32</string>
+    <string name="round_of_16">Zagaye na 16</string>
+    <string name="_3rd_place">Wuri na 3</string>
+    <string name="_final">Karshe</string>
+    <string name="group_stage">Jerin Rukuni</string>
+    <string name="round">Zagaye %1$d</string>
+    <string name="group">Rukuni </string>
+    <string name="_1st">Na farko</string>
+    <string name="_2nd">Na biyu</string>
+    <string name="_3rd">Na uku</string>
+    <string name="th">%1$dth</string>
+    <string name="remind_set">An saita ajiya</string>
+    <string name="remind_removed">An cire saita</string>
+    <string name="_et1">Lokacin Karin Waje 1st Half</string>
+    <string name="_et2">Lokacin Karin Waje 2nd Half</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Bugi</string>
+    <string name="add_similar_items">Ƙara abubuwan da suke kama</string>
+    <string name="see_more">Gani ƙari</string>
+    <string name="see_less">Gani kaɗan</string>
+    <string name="view_all">Duba duka</string>
+    <string name="home">Gida</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Live Yanzu</string>
+    <string name="recommended_for_you">An Tavsaya Maka</string>
+    <string name="new_series">Sabon Series</string>
+    <string name="live_badge">LIVE</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes yana ba da ainihin IPTV streaming karantin.</string>
+    <string name="live_tv">Live TV</string>
+    <string name="movies">Films</string>
+    <string name="series">Series</string>
+    <string name="add_profile">Ƙara Profayil</string>
+    <string name="choose_your_profile">Zaɓi Profayilka</string>
+    <string name="my_favorite">Na Favorite</string>
+    <string name="live_channel">Live Channel</string>
+    <string name="your_favorite_list_is_empty">Jerin favorite naka babu abin da yake ciki</string>
+    <string name="edit_profile">Gyara Profayil</string>
+    <string name="profile_name">Sunan Profayil</string>
+    <string name="delete_profile">Goge Profayil</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Kuna tabbatacce kuna so a goge wannan profayil?</string>
+    <string name="no_browser_found">Ba a sami wata manhaja da za ta buɗe bincike ba</string>
+    <string name="reminder_noon_title_1">Lokacin sabuntawa 🧠</string>
+    <string name="reminder_noon_body_1">Kashi ɗaya kawai don wartsakar da tunanin ku!</string>
+    <string name="reminder_noon_title_2">Kuna da \'yan mintuna? 🎬</string>
+    <string name="reminder_noon_body_2">Tashoshin ku suna nan a taɓawa ɗaya kawai.</string>
+    <string name="reminder_noon_title_3">Tashoshin ku suna jiran ku 📺</string>
+    <string name="reminder_noon_body_3">Live TV, fina-finai da jerin abubuwa — duk a wuri ɗaya.</string>
+    <string name="reminder_evening_title_1">Lokacin kololuwa ya fara 🔥</string>
+    <string name="reminder_evening_body_1">Tashoshin ku suna kai tsaye a yanzu.</string>
+    <string name="reminder_evening_title_2">Me ke akwai a yau da dare? ⚽</string>
+    <string name="reminder_evening_body_2">Wasannin kai tsaye, sabbin kashi da ƙari.</string>
+    <string name="reminder_evening_title_3">A yau da dare a talabijin 📺</string>
+    <string name="reminder_evening_body_3">Tashoshin kai tsaye, fina-finai da jerin abubuwa — duk a nan.</string>
+    <string name="reminder_no_playlist_title">TV naku yana jiran ku 📺</string>
+    <string name="reminder_no_playlist_body">Ƙara jerin waƙoƙin ku kuma fara kallo.</string>
+    <string name="reminder_playlist_ready_title">Komai a shirye yake! ✅</string>
+    <string name="reminder_playlist_ready_body">Danna don kallon tashar da kuka fi so.</string>
+    <string name="noti_enable_title_ver_2">Ba %1$s izinin aika muku sanarwa</string>
+    <string name="noti_enable_desc_ver_2">Sami tunatarwa na Live TV, sabuntawar fina-finai, da faɗakarwar bugawa masu mahimmanci</string>
+    <string name="deny">Ƙi</string>
+    <string name="allow">Yarda</string>
+    <string name="tut_xtream_1">Nemi “Xtream Code API Account” ta amfani da kowace injin bincike</string>
+    <string name="tut_xtream_2">Nemo sashin “Format” ko “Playlist” sannan ku kwafi bayanan asusun Xtream</string>
+    <string name="tut_xtream_3">Koma zuwa manhaja, danna maɓallin &quot;+&quot;, zaɓi &quot;Import Stream Link&quot;, sannan ku manna hanyar haɗin.</string>
+    <string name="tut_xtream_4">Ji daɗin kallon Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Yadda ake ƙara bayanan martaba na Xtream</u>
+    </string>
+</resources>

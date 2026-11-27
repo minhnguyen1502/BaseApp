@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Asụsụ izizi</string>
+    <string name="setting">Ịtọ ntọala</string>
+    <string name="language">Asụsụ</string>
+    <string name="privacy_policy">Amụma nzuzo</string>
+    <string name="get_started">Malite</string>
+    <string name="welcome">Nnọọ na</string>
+    <string name="next">Osote</string>
+    <string name="title_onb_1">Lelee ihe niile</string>
+    <string name="content_onb_1">Nweta TV dị ndụ, egwuregwu, ihe nkiri na katuun oge ọ bụla, ebe ọ bụla.</string>
+    <string name="title_onb_2">Mepụta ndepụta ọkpụkpọ gị</string>
+    <string name="content_onb_2">Tinye ọwa ị hụrụ n\'anya wee lelee ha oge ọ bụla, ozugbo.</string>
+    <string name="habit_1">Igwe onyonyo dị ndụ</string>
+    <string name="habit_2">Ihe nkiri</string>
+    <string name="habit_3">Egwuregwu</string>
+    <string name="habit_4">Akụkọ</string>
+    <string name="habit_5">Ezinụlọ</string>
+    <string name="habit_6">Ntụrụndụ</string>
+    <string name="feedback">Nzaghachi</string>
+    <string name="rate_now">Dịruru ugbu a</string>
+    <string name="send_feedback">Zipu nzaghachi</string>
+    <string name="cancel">Kagbuo</string>
+    <string name="please_select_your_language">Biko họrọ asụsụ gị</string>
+    <string name="please_choose_at_least_one_option">Biko họrọ opekata mpe otu nhọrọ</string>
+    <string name="try_again">Nwaa ọzọ</string>
+    <string name="got_it">Nwetara ya!</string>
+    <string name="_continue">Gaa n\'ihu</string>
+    <string name="tutorial">Nkuzi</string>
+    <string name="how_to_add_a_playlist">Otu esi etinye ndepụta ọkpụkpọ</string>
+    <string name="tutorial_step_1">Chọọ \" ndepụta ọkpụkpọ IPTV ọha \" site na iji igwe nchọta ọ bụla.</string>
+    <string name="tutorial_step_2">Detuo njikọ ndepụta ọkpụkpọ M3U ma ọ bụ chekwaa faịlụ ndepụta ọkpụkpọ.</string>
+    <string name="tutorial_step_3">Mepee ngwa ahụ ọzọ.\n Pịa bọtịnụ \"+\", họrọ \"Bubata URL ndepụta ọkpụkpọ", ma mado njikọ ahụ.</string>
+    <string name="tutorial_step_4">Nwee anụrị ikiri ọwa IPTV gị!</string>
+    <string name="tab_import_url">Bubata URL</string>
+    <string name="tab_upload_file">Bulite faịlụ</string>
+    <string name="tab_stream">iyi</string>
+    <string name="tut_url_1">Chọọ \" ndepụta ọkpụkpọ IPTV ọha \" site na iji igwe nchọta ọ bụla.</string>
+    <string name="tut_url_2">Detuo njikọ ndepụta ọkpụkpọ M3U ma ọ bụ chekwaa faịlụ ndepụta ọkpụkpọ.</string>
+    <string name="tut_url_3">Mepee ngwa ahụ ọzọ.\n Pịa bọtịnụ \"+\", họrọ \"Bubata URL ndepụta ọkpụkpọ", ma mado njikọ ahụ.</string>
+    <string name="tut_url_4">Nwee anụrị ikiri ọwa IPTV gị!</string>
+    <string name="tut_file_1">Chọọ \"M3U faịlụ\" site na iji ihe nchọta ọ bụla.</string>
+    <string name="tut_file_2">Chekwaa faịlụ .m3u na ngwaọrụ gị.</string>
+    <string name="tut_file_3">Laghachi na ngwa ahụ, pịa bọtịnụ \"+\" wee họrọ "Bulite M3U File", wee họrọ faịlụ ahụ i budata.</string>
+    <string name="tut_file_4">Nwee anụrị ikiri ọwa IPTV gị!</string>
+    <string name="tut_stream_1">Chọọ \" ọhaneze IPTV iyi URL\" site na iji nchọ ọ bụla.</string>
+    <string name="tut_stream_2">Detuo URL iyi zuru ezu na klipbọọdụ gị.</string>
+    <string name="tut_stream_3">Laghachi na ngwa ahụ, pịa bọtịnụ "+", họrọ "Import Stream Link", wee mado njikọ ahụ.</string>
+    <string name="tut_stream_4">Nwee anụrị ikiri ọwa IPTV gị!</string>
+    <string name="unlock_premium">Mepee</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Anyị ga-enwe ekele ma ọ bụrụ na ị nwere ike ịnye anyị nzaghachi zuru ezu (opekata mpe mkpụrụedemede 6)</string>
+    <string name="at_least_6_characters">Opekata mpe mkpụrụedemede 6</string>
+    <string name="loading">Na-ebugo…</string>
+    <string name="install_now">Wụnye ugbu a</string>
+    <string name="channels">%1$d ọwa</string>
+    <string name="this_action_may_contain_ads">Omume a nwere ike ịnwe mgbasa ozi</string>
+    <string name="what_do_you_mainly_use_iptv_for">Kedu ihe ị na-ejikarị IPTV eme ihe?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Chọta ndepụta ọkpụkpọ IPTV (M3U) dị na ntanetị.</string>
+    <string name="title_1">Chọta isi iyi M3U</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Detuo njikọ listi ọkpụkpọ ma ọ bụ budata faịlụ M3U na ngwaọrụ gị.</string>
+    <string name="title_2">Chekwaa ozi ndepụta ọkpụkpọ</string>
+    <string name="title_3">Bulite na ngwa</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Mepee ngwa → họrọ Tinye ndepụta ọkpụkpọ → họrọ Site URL → mado njikọ ahụ.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Nweta listi ọkpụkpọ wee malite ikiri ọwa ọkacha mmasị gị.</string>
+    <string name="title_4">Nwee obi ụtọ ọdịnaya gị</string>
+    <string name="search">Chọọ…</string>
+    <string name="all">Ha niile</string>
+    <string name="recent">Na nso nso a</string>
+    <string name="favorites">ọkacha mmasị</string>
+    <string name="url">URL</string>
+    <string name="file">Faịlụ</string>
+    <string name="no_channels_found">Ọnweghị ọwa ahụrụ</string>
+    <string name="no_recents">Enweghị ihe ọhụrụ</string>
+    <string name="play_something_to_begin">Kpọọ mgbasa ozi ka ịmalite</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Bubata ọwa ọhụrụ site na ịpị bọtịnụ dị n\'okpuru.</string>
+    <string name="a_z_sort">Ụdị A-Z</string>
+    <string name="z_a_sort">Ụdị Z-A</string>
+    <string name="_0_9_sort">0–9 Ụdị</string>
+    <string name="_9_0_sort">9–0 Hazie</string>
+    <string name="refresh">Weghachite ume</string>
+    <string name="accept">Nabata</string>
+    <string name="license_agreement">Nkwekọrịta ikike</string>
+    <string name="i_agree">Ekwenyere m na nkwekọrịta ikike</string>
+    <string name="content_license_agreement">IPTV na-akwado M3U na JSON listi ọkpụkpọ nke ndị ọrụ mepụtara. Anyị anaghị enye ma ọ bụ kwado ọdịnaya ọ bụla.\n\nEbubere ngwa a naanị maka ọdịnaya enwetara n\'iwu. Ọ bụ gị na-ahụ maka ịhụ na listi ọkpụkpọ gị na ọdịnaya gị dabara n\'iwu na ikike dị.\n\nSite na ịga n\'ihu, ị ga-achọpụta na ị ghọtara ma nabata usoro ndị a.\n\nDisclaimer\n\nIPTV anaghị enye ma ọ bụ kwalite ọdịnaya ọ bụla yana ejikọghị ya na ndị na-eweta ndị ọzọ.\n\nNdị ọrụ ga-ebunye ọdịnaya nke ha. A na-akụnye nkwanye ugwu na-akwadoghị ikike nwebiisinka.</string>
+    <string name="content_1">Ị nwere ike iji mkpụrụokwu dị ka "IPTV M3U playlist" chọọ n\'ịntanetị ma ọ bụ lelee ntuziaka enyere site na ọrụ TV/streaming gị.\nNjikọ M3U kwesịrị ekwesị na-emekarị:\n• Na-amalite na http:// ma ọ bụ https://\n• Ga-ejedebe na .m3u ma ọ bụ .m3u8 \n Gbalịa iji isi mmalite ntụkwasị obi na nke iwu kwadoro mgbe ọ bụla enwere ike. Rịba ama na ụfọdụ listi ọkpụkpọ nwere ike kubie ume, chọọ nzere nbanye, ma ọ bụ nwee oke site na mpaghara.</string>
+    <string name="content_2">Iji detuo URL M3U:\n• Na mkpanaka: Kpatụ wee jide njikọ ahụ → họrọ Detuo njikọ\n• Na desktọpụ: Pịa aka nri njikọ → họrọ Detuo adreesị njikọ\nKa ibudata faịlụ listi ọkpụkpọ:\n• Chekwa faịlụ .m3u ma ọ bụ .m3u8 n\'ebe dị mfe ịnweta na ngwaọrụ gị\nỊ nwere ike ibubata faịlụ ahụ ozugbo na ebe nchekwa gị).</string>
+    <string name="content_3">Mwepụta IPTV Smart Player.\nHọrọ Tinye Listi egwu.\n Họrọ otu usoro iji bubata:\n• Site na URL → Tapawa njikọ M3U gị\n• Site na faịlụ → Chọgharịa wee họrọ faịlụ .m3u / .m3u8 echekwara na ngwaọrụ gị\n(Nhọrọ) Tinye aha omenala iji chọpụta listi ọkpụkpọ gị ngwa ngwa ma emechaa\n Pịa Chekwa ka ịmechaa.</string>
+    <string name="content_4">Nye ngwa ahụ obere oge ka ọ na-ebunye ọwa na otu.\nChọgharịa ndepụta ọwa ma ọ bụ jiri njirimara ọchụchọ ka ịchọta ihe ịchọrọ ngwa ngwa.\nỌ bụrụ na enweghị ọdịnaya egosila:\n• Lelee njikọ ịntanetị gị\n• Gbaa mbọ hụ na njikọ M3U ma ọ bụ faịlụ ka dị irè ma na-arụ ọrụ.</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Achọrọ njikọ ịntanetị iji gaa n\'ihu na-eji ngwa ahụ.\nBiko lelee ntọala netwọkụ gị wee jikọọ ọzọ.</string>
+    <string name="retry">Gbalịa ọzọ</string>
+    <string name="thank_you_for_using_iptv">Daalụ maka iji IPTV</string>
+    <string name="playlist_name">Aha ndepụta ọkpụkpọ</string>
+    <string name="playlist">Ndepụta egwu egwu</string>
+    <string name="save">Chekwa</string>
+    <string name="password">Okwuntughe</string>
+    <string name="username">Aha njirimara</string>
+    <string name="no_file_selected">Enweghị faịlụ ahọpụtara</string>
+    <string name="m3u_file">M3U faịlụ</string>
+    <string name="playlist_url">URL ndepụta ọkpụkpọ</string>
+    <string name="choose_icon">Họrọ akara ngosi</string>
+    <string name="choose_color">Họrọ Agba</string>
+    <string name="paste_your_url_here">Tapawa URL gị ebe a</string>
+    <string name="edit">Dezie</string>
+    <string name="delete">Hichapụ</string>
+    <string name="rate_this_app">Họrọ ngwa a</string>
+    <string name="tell_us_about_your_experiences">Gwa anyị gbasara ahụmịhe gị</string>
+    <string name="enter_your_stream_link_here">Tinye njikọ iyi gị ebe a</string>
+    <string name="stream_link">Njikọ iyi</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Usoro nkwado netwọkụ: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Ọwa</string>
+    <string name="import_playlist_url">Bubata URL ndepụta ọkpụkpọ</string>
+    <string name="load_from_device">Ibu Site na Ngwaọrụ</string>
+    <string name="play_single_stream">Gwuo otu iyi</string>
+    <string name="upload_m3u_file">Bulite faịlụ M3U</string>
+    <string name="all_channels">Ọwa niile</string>
+    <string name="playback_error">Njehie ịkpọgharị</string>
+    <string name="no_internet_connection">Enweghị njikọ ịntanetị</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Ọwa a anaghị arụ ọrụ nwa oge ma ọ bụ na ọ dịghị na mpaghara gị. Biko nwaa ọzọ ma emechaa.</string>
+    <string name="lock">Mkpọchi</string>
+    <string name="full_screen">Ihuenyo zuru oke</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Mkpọchi ihuenyo. Pịa ka ịkpọghee</string>
+    <string name="delete_playlist">Hichapụ ndepụta ọkpụkpọ?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Ị ji n\'aka na ịchọrọ ihichapụ ndepụta ọkpụkpọ a? Enweghị ike ịmegharị omume a.</string>
+    <string name="yes_delete">Ee, hichapụ</string>
+    <string name="error_1">Ikwesiri imeju mpaghara achọrọ</string>
+    <string name="error_2">Ụfọdụ ubi abaghị uru</string>
+    <string name="success_1">Bubata nke ọma</string>
+    <string name="success_2">Chekwa nke ọma</string>
+    <string name="content_rate_1">Ọ bụrụ na ị hụrụ oge gị na anyị n\'anya, biko hapụ ọkwa 5-kpakpando!</string>
+    <string name="content_rate_2">Ọ bụrụ na ị hụrụ oge gị na anyị n\'anya, biko hapụ ọkwa 5-kpakpando!</string>
+    <string name="content_rate_3">Ọ bụrụ na ị hụrụ oge gị na anyị n\'anya, biko hapụ ọkwa 5-kpakpando!</string>
+    <string name="content_rate_4">Fọrọ nke nta nke ọma? Anyị ga-agba mbọ maka kpakpando ọzọ ahụ!</string>
+    <string name="content_rate_5">Ị mere ụbọchị anyị kpamkpam! 🌟 Ka anyị mee ka mmụọ dị mma na-agagharị.</string>
+    <string name="no_results_found_for">Ọnweghị nsonaazụ ahụrụ maka</string>
+    <string name="the_device_does_not_support_pip">Ngwaọrụ anaghị akwado PiP.</string>
+    <string name="video_file_not_found">Achọtaghị faịlụ vidiyo</string>
+    <string name="minimize">Wedata windo</string>
+    <string name="refresh_in_progress_please_wait">Weghachite na-aga n\'ihu, biko chere…</string>
+    <string name="no_email_app_found">Ọnweghị ngwa email ahụrụ!</string>
+    <string name="error_5">Ụfọdụ ubi abaghị uru</string>
+    <string name="no_favorite_channel_yet">Ọnweghị ọwa ọkacha mmasị</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Chọta ọwa masịrị gị wee pịa obi ka idobe ya.</string>
+    <string name="refreshed_successfully">emelitere nke ọma</string>
+    <string name="import_xtream_codes_api">API Bubata Koodu Xtream</string>
+    <string name="suggestion">Aro</string>
+    <string name="suggestion_1">Ezinụlọ</string>
+    <string name="suggestion_2">Egwuregwu</string>
+    <string name="suggestion_3">Ihe nkiri</string>
+    <string name="_100_no_ads">100% Enweghị mgbasa ozi</string>
+    <string name="hd_4d_quality">HD &amp; Ogo 4D</string>
+    <string name="premium_channels">Ọwa adịchaghị</string>
+    <string name="most_popular">Kacha ewu ewu</string>
+    <string name="weekly">Kwa izu</string>
+    <string name="monthly">Kwa ọnwa</string>
+    <string name="yearly">Kwa afọ</string>
+    <string name="_3_day_free_trial">Ọnwụnwa efu nke ụbọchị 3</string>
+    <string name="something_went_wrong">Ọ nwere ihe adịghị mma</string>
+    <string name="content_error">Biko soro usoro a wee nwaa ọzọ:\n1. Lelee njikọ netwọk gị\n2. Gbaa mbọ hụ na ị banyere na akaụntụ Google gị\n3. Jide n\'aka na ị nwere ike ịme ngwa Google play</string>
+    <string name="cancel_anytime">Kagbuo oge ọ bụla</string>
+    <string name="term_of_use">
+        <u>Usoro ojiji</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Amụma nzuzo</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Ụdị adịchaghị gị na-arụ ọrụ ugbu a. Nwee obi ụtọ iji ngwa ahụ!</string>
+    <string name="payment_success">Ịga nke Ọma Ịkwụ Ụgwọ</string>
+    <string name="payment_failed">Ịkwụ ụgwọ dara</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Obere okwu kwụsịrị ịkwụ ụgwọ ahụ. Biko nwaa ọzọ</string>
+    <string name="go_premium">Gaa Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Mepee atụmatụ niile ma nwee ọ theụ ngwa na-enweghị mgbasa ozi!</string>
+    <string name="premium_member">Onye otu adịchaghị</string>
+    <string name="active_until">Na-arụ ọrụ ruo %s</string>
+    <string name="sever_url">Nkewa URL</string>
+    <string name="find_an_xtream_account">Chọta akaụntụ Xtream</string>
+    <string name="search_for_xtream_code_api_account_online">Chọọ "Akaụntụ API Xtream Code" n\'ịntanetị.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Pịa Tinye profaịlụ iji chekwaa ma nwee ọ enjoyụ ọdịnaya gị.</string>
+    <string name="start_streaming">Malite nkwanye</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Mepee ngwa ma dejupụta oghere profaịlụ Xtream.</string>
+    <string name="enter_the_information">Tinye ozi ahụ</string>
+    <string name="copy_the_server_url_username_and_password">Detuo URL nkesa, Aha njirimara, na Paswọdu.</string>
+    <string name="copy_the_account_details">Detuo nkọwa akaụntụ ahụ</string>
+    <string name="how_to_add_an_xtream_profile">Otu esi etinye profaịlụ Xtream</string>
+    <string name="account_added_successfully">Agbakwunyere akaụntụ nke ọma</string>
+    <string name="your_account_is_ready_to_use">Akaụntụ gị adịla njikere iji</string>
+    <string name="view_now">Lelee ugbu a</string>
+    <string name="later">Emechaa</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Tinye ndepụta ọkpụkpọ mbụ gị ka ịmalite ikiri</string>
+    <string name="title_slider_1">Stream Egwuregwu Live na ekwentị</string>
+    <string name="action_try_now">Gbalịa ugbu a</string>
+    <string name="title_slider_2">Mepụta ndepụta ọkpụkpọ ihe nkiri gị</string>
+    <string name="title_slider_3">Nwee obi ụtọ atụmatụ niile na-enweghị mgbasa ozi</string>
+    <string name="tap_to_search">Pịa iji chọọ</string>
+    <string name="sports_hub">Ebe Egwuregwu</string>
+    <string name="wc_schedule">Usoro Oge</string>
+    <string name="wc_team">Otu</string>
+    <string name="wc_standing">Ọkwa</string>
+    <string name="wc_today">Taa</string>
+    <string name="wc_upcoming">Na-abịa</string>
+    <string name="wc_full_time">Oge Zuru Ezu</string>
+    <string name="wc_live">Dị ndụ</string>
+    <string name="wc_no_matches">Enweghị asọmpi achọtụtara</string>
+    <string name="wc_no_standings">Enweghị ọkwa dị</string>
+    <string name="wc_remind_me">Ihute m</string>
+    <string name="wc_updating">Na-abaghazi…</string>
+    <string name="wc_match_detail">Nkọwa Asọmpi</string>
+    <string name="wc_events">Ihe omume</string>
+    <string name="wc_no_events">Enweghị ihe omume dị</string>
+    <string name="wc_no_events_desc">Asọmpi a adịbeghị na mbido. Debere ná-ihute ka iwu karị ihe omume ọ bụla.</string>
+    <string name="wc_switch_team">Gbanwee Otu</string>
+    <string name="wc_bracket">Akụkụ Ọrụ</string>
+    <string name="wc_round_of_32">Rounds nke 32</string>
+    <string name="wc_starting_soon">Ọ na-amalite n\'oge na-abịa</string>
+    <string name="wc_round_of_16">Rounds nke 16</string>
+    <string name="wc_quarter_finals">Ụma-ìgwè</string>
+    <string name="wc_semi_finals">Ụma-ọkwa</string>
+    <string name="wc_final">Njedebe</string>
+    <string name="wc_no_bracket">Enweghị data bracket dị</string>
+    <string name="wc_no_matches_today">Enweghị Asọmpi Taa</string>
+    <string name="wc_upcoming_fixtures">Asọmpi na-abịa ga-apụta ebe a</string>
+    <string name="wc_no_recent">Enweghị asọmpi na-adị mma</string>
+    <string name="wc_no_upcoming">Enweghị asọmpi na-abịa</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Ọ ghaghị Ịkwado Ọkwa</string>
+    <string name="noti_enable_desc">Nata ntụnye asọmpi, abaghazi ọdịmma ọhụụ, ná maka ọkwa mgbasa ozi dị mkpa.</string>
+    <string name="noti_go_to_setting">Gaa na ntọ̀</string>
+    <string name="visit_sports_hub">Ylọ Sports Hub</string>
+    <string name="_3rd_place_final">Asọmpi nke 3rd Place</string>
+    <string name="_16th_finals">Egwuregwu Iri na Isii</string>
+    <string name="ranking_of_third_placed_teams">Usoro nke otu nke 3rd Place</string>
+    <string name="out">"Pụọ: "</string>
+    <string name="_in">"Banye: "</string>
+    <string name="_2nd_half">Nke Abụọ</string>
+    <string name="_1st_half">Ọkara Nke Mbụ</string>
+    <string name="asst">Enyemaka %1$s</string>
+    <string name="out_s">Pụọ: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Asọmpi a mechara. Mepụta app ahụ maka nsonaazụ zuru ezu.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Mbido na nkeji 15. Mepụta app ahụ iji soro ya.</string>
+    <string name="live_now">Live now</string>
+    <string name="full_time">Full time</string>
+    <string name="_2nd_group">Ìgwè Nke Abụọ %1$s</string>
+    <string name="_1st_group">Otu Ìgwè %1$s</string>
+    <string name="eighth_finals">Ụma-Nke Asatọ</string>
+    <string name="quarter_finals">Ụma-Ìgwè</string>
+    <string name="semi_finals">Ụma-Ọkwa</string>
+    <string name="winner">Onye meriri</string>
+    <string name="loser">Onye tụfuru</string>
+    <string name="round_of_32">Rounds nke 32</string>
+    <string name="round_of_16">Rounds nke 16</string>
+    <string name="_3rd_place">Ọnwa Nke Atọ</string>
+    <string name="_final">Njedebe</string>
+    <string name="group_stage">Ọkwa Ìgwè</string>
+    <string name="round">Mgbagwoju Anya %1$d</string>
+    <string name="group">Ìgwè </string>
+    <string name="_1st">Nke Mbụ</string>
+    <string name="_2nd">Nke Abụọ</string>
+    <string name="_3rd">Nke Atọ</string>
+    <string name="th">%1$dth</string>
+    <string name="remind_set">Ihe ncheta etinyere</string>
+    <string name="remind_removed">Ihe ncheta ewepụrụ</string>
+    <string name="_et1">Oge Mgbako Nke Mbụ</string>
+    <string name="_et2">Oge Mgbako Nke Abụọ</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Gụọ</string>
+    <string name="add_similar_items">Tinye ihe yịrị ya</string>
+    <string name="see_more">Lee ihe karịa</string>
+    <string name="see_less">Hụ obere</string>
+    <string name="view_all">Hụ ha niile</string>
+    <string name="home">Ụlọ</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Kwa Ugbu a</string>
+    <string name="recommended_for_you">Akwadebe maka Gị</string>
+    <string name="new_series">Usoro Ọhụrụ</string>
+    <string name="live_badge">KWA UGBU A</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes na-enye ihe ọzọ IPTV na-adịgidị mma.</string>
+    <string name="live_tv">Live TV</string>
+    <string name="movies">Ihe nkiri</string>
+    <string name="series">Usoro</string>
+    <string name="add_profile">Tinye Profaịlụ</string>
+    <string name="choose_your_profile">Họrọ Profaịlụ Gị</string>
+    <string name="my_favorite">Ihe M Hụrụ N\'anya</string>
+    <string name="live_channel">Ọwa Kwa Ugbu a</string>
+    <string name="your_favorite_list_is_empty">Listi nke ihe ị hụrụ n\'anya adị ọcha</string>
+    <string name="edit_profile">Dezie Profaịlụ</string>
+    <string name="profile_name">Aha Profaịlụ</string>
+    <string name="delete_profile">Hichapụ Profaịlụ</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Ị nụ nkwa na ị chọrọ ịhichapụ profaịlụ a?</string>
+    <string name="no_browser_found">Ahụghị ngwa a ga-eji mepee nchọgharị</string>
+    <string name="reminder_noon_title_1">Oge ịtọgharị 🧠</string>
+    <string name="reminder_noon_body_1">Naanị otu ihe nkiri iji nyefee uche gị!</string>
+    <string name="reminder_noon_title_2">Ị nwere ntakịrị nkeji? 🎬</string>
+    <string name="reminder_noon_body_2">Ọwa gị dị naanị otu mkpotu.</string>
+    <string name="reminder_noon_title_3">Ọwa gị na-eche 📺</string>
+    <string name="reminder_noon_body_3">TV na-adịgide, ihe nkiri na usoro — ihe niile n\'otu ebe.</string>
+    <string name="reminder_evening_title_1">Prime time amalitela 🔥</string>
+    <string name="reminder_evening_body_1">Ọwa gị na-egosipụta ozugbo ugbu a.</string>
+    <string name="reminder_evening_title_2">Gịnị dị n\'abalị a? ⚽</string>
+    <string name="reminder_evening_body_2">Egwuregwu na-adịgide, ihe nkiri ọhụrụ na ọzọkwuru.</string>
+    <string name="reminder_evening_title_3">N\'abalị a na TV 📺</string>
+    <string name="reminder_evening_body_3">Ọwa na-adịgide, ihe nkiri na usoro — ihe niile ebe a.</string>
+    <string name="reminder_no_playlist_title">TV gị na-eche 📺</string>
+    <string name="reminder_no_playlist_body">Tinye ndepụta ihe ntụrụndụ gị wee malite ikiri.</string>
+    <string name="reminder_playlist_ready_title">Ihe niile adịla njikere! ✅</string>
+    <string name="reminder_playlist_ready_body">Metụ aka iji lee ọwa kacha amasị gị.</string>
+    <string name="noti_enable_title_ver_2">Kwe ka %1$s zitere gị ọkwa</string>
+    <string name="noti_enable_desc_ver_2">Nweta ncheta TV na-adịgide, mmelite fim ọhụrụ, na ịdọ aka na ntị mgbasa nke dị mkpa</string>
+    <string name="deny">Jụ</string>
+    <string name="allow">Kwe</string>
+    <string name="tut_xtream_1">Chọọ “Xtream Code API Account” site na iji nchọgharị ọ bụla</string>
+    <string name="tut_xtream_2">Chọta ngalaba “Format” ma ọ bụ “Playlist” wee dekọọ ozi akaụntụ Xtream</string>
+    <string name="tut_xtream_3">Laghachi na ngwa, metụ bọtịnụ &quot;+&quot; aka, họrọ &quot;Import Stream Link&quot;, wee tinye njikọ ahụ.</string>
+    <string name="tut_xtream_4">Nwee obi ụtọ na-ekiri Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Otu esi agbakwunye Profaịlụ Xtream</u>
+    </string>
+</resources>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Bahasa lalai</string>
+    <string name="setting">Tetapan</string>
+    <string name="language">Bahasa</string>
+    <string name="privacy_policy">Dasar privasi</string>
+    <string name="get_started">Mulakan</string>
+    <string name="welcome">Selamat datang ke</string>
+    <string name="next">Seterusnya</string>
+    <string name="title_onb_1">Tonton Semuanya</string>
+    <string name="content_onb_1">Akses TV langsung, sukan, filem dan kartun pada bila-bila masa, di mana sahaja.</string>
+    <string name="title_onb_2">Bina Senarai Main Anda</string>
+    <string name="content_onb_2">Tambahkan saluran yang anda suka dan tontonnya pada bila-bila masa, serta-merta.</string>
+    <string name="habit_1">TV langsung</string>
+    <string name="habit_2">Filem</string>
+    <string name="habit_3">sukan</string>
+    <string name="habit_4">Berita</string>
+    <string name="habit_5">Keluarga</string>
+    <string name="habit_6">Hiburan</string>
+    <string name="feedback">Maklum balas</string>
+    <string name="rate_now">Nilai Sekarang</string>
+    <string name="send_feedback">Hantar Maklum Balas</string>
+    <string name="cancel">Batal</string>
+    <string name="please_select_your_language">Sila pilih bahasa anda</string>
+    <string name="please_choose_at_least_one_option">Sila pilih sekurang-kurangnya satu pilihan</string>
+    <string name="try_again">Cuba Lagi</string>
+    <string name="got_it">faham!</string>
+    <string name="_continue">teruskan</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="how_to_add_a_playlist">Bagaimana untuk menambah Senarai Main</string>
+    <string name="tutorial_step_1">Cari \"senarai main IPTV awam\" menggunakan mana-mana enjin carian.</string>
+    <string name="tutorial_step_2">Salin pautan senarai main M3U atau simpan fail senarai main.</string>
+    <string name="tutorial_step_3">Buka apl sekali lagi.\nKetik butang \"+\", pilih \"Import URL Senarai Main\", dan tampal pautan.</string>
+    <string name="tutorial_step_4">Selamat menonton saluran IPTV anda!</string>
+    <string name="tab_import_url">Import URL</string>
+    <string name="tab_upload_file">Muat naik fail</string>
+    <string name="tab_stream">Strim</string>
+    <string name="tut_url_1">Cari \"senarai main IPTV awam\" menggunakan mana-mana enjin carian.</string>
+    <string name="tut_url_2">Salin pautan senarai main M3U atau simpan fail senarai main.</string>
+    <string name="tut_url_3">Buka apl sekali lagi.\nKetik butang \"+\", pilih \"Import URL Senarai Main\", dan tampal pautan.</string>
+    <string name="tut_url_4">Selamat menonton saluran IPTV anda!</string>
+    <string name="tut_file_1">Cari \"M3U file\" menggunakan mana-mana enjin carian.</string>
+    <string name="tut_file_2">Simpan fail .m3u ke peranti anda.</string>
+    <string name="tut_file_3">Kembali ke apl, ketik butang \"+\", pilih \"Muat naik Fail M3U\", kemudian pilih fail yang anda muat turun.</string>
+    <string name="tut_file_4">Selamat menonton saluran IPTV anda!</string>
+    <string name="tut_stream_1">Cari \"URL strim IPTV awam\" menggunakan mana-mana enjin carian.</string>
+    <string name="tut_stream_2">Salin URL strim penuh ke papan keratan anda.</string>
+    <string name="tut_stream_3">Kembali ke apl, ketik butang \"+\", pilih \"Import Pautan Strim\", kemudian tampal pautan.</string>
+    <string name="tut_stream_4">Selamat menonton saluran IPTV anda!</string>
+    <string name="unlock_premium">Buka kunci</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Kami amat menghargai jika anda boleh memberi kami maklum balas terperinci (sekurang-kurangnya 6 aksara)</string>
+    <string name="at_least_6_characters">Sekurang-kurangnya 6 aksara</string>
+    <string name="loading">Memuatkan…</string>
+    <string name="install_now">Pasang sekarang</string>
+    <string name="channels">%1$d saluran</string>
+    <string name="this_action_may_contain_ads">Tindakan ini mungkin mengandungi iklan</string>
+    <string name="what_do_you_mainly_use_iptv_for">Apa yang anda gunakan terutamanya untuk IPTV?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Cari senarai main IPTV (M3U) yang tersedia dalam talian.</string>
+    <string name="title_1">Cari Sumber M3U</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Salin pautan senarai main atau muat turun fail M3U ke peranti anda.</string>
+    <string name="title_2">Simpan Maklumat Senarai Main</string>
+    <string name="title_3">Muat naik ke Apl</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Buka apl → pilih Tambah Senarai Main → pilih Daripada URL → tampal pautan.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Akses senarai main dan mula menonton saluran kegemaran anda.</string>
+    <string name="title_4">Nikmati Kandungan Anda</string>
+    <string name="search">Cari…</string>
+    <string name="all">Semua</string>
+    <string name="recent">Baru-baru ini</string>
+    <string name="favorites">Kegemaran</string>
+    <string name="url">URL</string>
+    <string name="file">Fail</string>
+    <string name="no_channels_found">Tiada saluran ditemui</string>
+    <string name="no_recents">Tiada yang terbaru</string>
+    <string name="play_something_to_begin">Mainkan media untuk bermula</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Import saluran baharu dengan mengetik butang di bawah.</string>
+    <string name="a_z_sort">Susun A-Z</string>
+    <string name="z_a_sort">Isih Z-A</string>
+    <string name="_0_9_sort">0–9 Isih</string>
+    <string name="_9_0_sort">9–0 Isih</string>
+    <string name="refresh">Segarkan semula</string>
+    <string name="accept">Terima</string>
+    <string name="license_agreement">Perjanjian Lesen</string>
+    <string name="i_agree">Saya bersetuju dengan Perjanjian Lesen</string>
+    <string name="content_license_agreement">IPTV menyokong senarai main M3U dan JSON yang dibuat oleh pengguna. Kami tidak menyediakan atau mengehoskan sebarang kandungan.\n\nApl ini hanya bertujuan untuk kandungan yang diperoleh secara sah. Anda bertanggungjawab untuk memastikan senarai main dan kandungan anda mematuhi undang-undang dan kebenaran yang dikenakan.\n\nDengan meneruskan, anda mengesahkan bahawa anda memahami dan menerima syarat ini.\n\nPenafian\n\nIPTV tidak menyediakan atau mempromosikan sebarang kandungan dan tidak bergabung dengan penyedia pihak ketiga.\n\nPengguna mesti membekalkan kandungan mereka sendiri. Penstriman bahan berhak cipta tanpa kebenaran adalah sangat tidak digalakkan.</string>
+    <string name="content_1">Anda boleh mencari dalam talian dengan kata kunci seperti "senarai main IPTV M3U" atau semak panduan yang disediakan oleh perkhidmatan TV/penstriman anda.\nPautan M3U yang betul biasanya:\n• Bermula dengan http:// atau https://\n• Diakhiri dengan .m3u atau .m3u8\nCuba gunakan sumber yang dipercayai dan sah apabila boleh. Ambil perhatian bahawa sesetengah senarai main mungkin tamat tempoh, memerlukan bukti kelayakan log masuk atau dihadkan mengikut wilayah.</string>
+    <string name="content_2">Untuk menyalin URL M3U:\n• Pada mudah alih: Ketik dan tahan pautan → pilih Salin pautan\n• Pada desktop: Klik kanan pautan → pilih Salin alamat pautan\nUntuk memuat turun fail senarai main:\n• Simpan fail .m3u atau .m3u8 ke lokasi yang mudah diakses pada peranti anda\nAnda kemudian boleh mengimport fail terus dari storan setempat anda (rujuk Langkah 3).</string>
+    <string name="content_3">Lancarkan IPTV Smart Player.\nPilih Tambah Senarai Main.\nPilih satu kaedah untuk mengimport:\n• Melalui URL → Tampalkan pautan M3U anda\n• Dari Fail → Semak imbas dan pilih fail .m3u / .m3u8 yang disimpan pada peranti anda\n(Pilihan) Masukkan nama tersuai untuk mengenal pasti senarai main anda dengan mudah nanti\nKetik Simpan untuk menyelesaikannya.</string>
+    <string name="content_4">Berikan apl seketika untuk memuatkan saluran dan kategori.\nTerokai senarai saluran atau gunakan ciri Carian untuk mencari perkara yang anda mahukan dengan cepat.\nJika tiada kandungan dipaparkan:\n• Semak sambungan Internet anda\n• Pastikan pautan atau fail M3U masih sah dan berfungsi</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Sambungan Internet diperlukan untuk terus menggunakan apl.\nSila semak tetapan rangkaian anda dan sambung semula.</string>
+    <string name="retry">Cuba semula</string>
+    <string name="thank_you_for_using_iptv">Terima kasih kerana menggunakan IPTV</string>
+    <string name="playlist_name">Nama Senarai Main</string>
+    <string name="playlist">Senarai main</string>
+    <string name="save">Simpan</string>
+    <string name="password">Kata laluan</string>
+    <string name="username">Nama pengguna</string>
+    <string name="no_file_selected">Tiada fail dipilih</string>
+    <string name="m3u_file">Fail M3U</string>
+    <string name="playlist_url">URL senarai main</string>
+    <string name="choose_icon">Pilih Ikon</string>
+    <string name="choose_color">Pilih Warna</string>
+    <string name="paste_your_url_here">Tampal URL anda di sini</string>
+    <string name="edit">Sunting</string>
+    <string name="delete">Padam</string>
+    <string name="rate_this_app">Nilaikan apl ini</string>
+    <string name="tell_us_about_your_experiences">Beritahu kami tentang pengalaman anda</string>
+    <string name="enter_your_stream_link_here">Masukkan pautan strim anda di sini</string>
+    <string name="stream_link">Pautan strim</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Menyokong protokol rangkaian: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Saluran</string>
+    <string name="import_playlist_url">Import URL Senarai Main</string>
+    <string name="load_from_device">Muatkan Dari Peranti</string>
+    <string name="play_single_stream">Main strim tunggal</string>
+    <string name="upload_m3u_file">Muat naik Fail M3U</string>
+    <string name="all_channels">Semua Saluran</string>
+    <string name="playback_error">Ralat Main Semula</string>
+    <string name="no_internet_connection">Tiada Sambungan Internet</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Saluran ini tidak beroperasi buat sementara waktu atau tidak tersedia di rantau anda. Sila cuba lagi kemudian.</string>
+    <string name="lock">Kunci</string>
+    <string name="full_screen">Skrin penuh</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Kunci skrin. Tekan untuk membuka kunci</string>
+    <string name="delete_playlist">Padamkan Senarai Main?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Adakah anda pasti mahu memadamkan senarai main ini? Tindakan ini tidak boleh dibuat asal.</string>
+    <string name="yes_delete">Ya, padamkan</string>
+    <string name="error_1">Anda perlu mengisi medan yang diperlukan</string>
+    <string name="error_2">Sesetengah medan tidak sah</string>
+    <string name="success_1">Import berjaya</string>
+    <string name="success_2">Berjaya simpan</string>
+    <string name="content_rate_1">Jika anda menyukai masa anda bersama kami, sila tinggalkan penarafan 5 bintang!</string>
+    <string name="content_rate_2">Jika anda menyukai masa anda bersama kami, sila tinggalkan penarafan 5 bintang!</string>
+    <string name="content_rate_3">Jika anda menyukai masa anda bersama kami, sila tinggalkan penarafan 5 bintang!</string>
+    <string name="content_rate_4">Hampir sempurna? Kami akan berusaha untuk mendapatkan bintang tambahan itu!</string>
+    <string name="content_rate_5">Anda benar-benar membuat hari kami! 🌟 Mari kekalkan suasana yang baik.</string>
+    <string name="no_results_found_for">Tiada hasil ditemui untuk</string>
+    <string name="the_device_does_not_support_pip">Peranti tidak menyokong PiP.</string>
+    <string name="video_file_not_found">Fail video tidak ditemui</string>
+    <string name="minimize">Minimumkan tetingkap</string>
+    <string name="refresh_in_progress_please_wait">Muat semula sedang berjalan, sila tunggu…</string>
+    <string name="no_email_app_found">Tiada apl e-mel ditemui!</string>
+    <string name="error_5">Sesetengah medan tidak sah</string>
+    <string name="no_favorite_channel_yet">Tiada saluran kegemaran lagi</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Cari saluran yang anda suka dan ketik hati untuk mengekalkannya.</string>
+    <string name="refreshed_successfully">Berjaya dimuat semula</string>
+    <string name="import_xtream_codes_api">Import Xtream Codes API</string>
+    <string name="suggestion">Cadangan</string>
+    <string name="suggestion_1">Keluarga</string>
+    <string name="suggestion_2">Sukan</string>
+    <string name="suggestion_3">Filem</string>
+    <string name="_100_no_ads">100% Tiada Iklan</string>
+    <string name="hd_4d_quality">Kualiti HD &amp; 4D</string>
+    <string name="premium_channels">Saluran Premium</string>
+    <string name="most_popular">Paling popular</string>
+    <string name="weekly">Mingguan</string>
+    <string name="monthly">Bulanan</string>
+    <string name="yearly">setiap tahun</string>
+    <string name="_3_day_free_trial">3 hari percubaan percuma</string>
+    <string name="something_went_wrong">Sesuatu telah berlaku</string>
+    <string name="content_error">Sila ikut langkah ini dan cuba lagi:\n1. Semak sambungan rangkaian anda\n2. Pastikan anda log masuk ke akaun Google anda\n3. Pastikan anda boleh menjalankan aplikasi Google Play</string>
+    <string name="cancel_anytime">Batalkan bila-bila masa</string>
+    <string name="term_of_use">
+        <u>Terma penggunaan</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Dasar privasi</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Versi Premium anda kini aktif. Nikmati menggunakan aplikasi!</string>
+    <string name="payment_success">Kejayaan Pembayaran</string>
+    <string name="payment_failed">Pembayaran gagal</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Isu kecil menghentikan pembayaran. Sila cuba lagi</string>
+    <string name="go_premium">Pergi Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Buka kunci semua ciri dan nikmati apl tanpa iklan!</string>
+    <string name="premium_member">Ahli Premium</string>
+    <string name="active_until">Aktif sehingga %s</string>
+    <string name="sever_url">Server URL</string>
+    <string name="find_an_xtream_account">Cari akaun Xtream</string>
+    <string name="search_for_xtream_code_api_account_online">Cari "Akaun API Kod Xtream" dalam talian.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Ketik Tambah Profil untuk menyimpan dan menikmati kandungan anda.</string>
+    <string name="start_streaming">Mulakan penstriman</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Buka apl dan isikan medan profil Xtream.</string>
+    <string name="enter_the_information">Masukkan maklumat</string>
+    <string name="copy_the_server_url_username_and_password">Salin URL Pelayan, Nama Pengguna dan Kata Laluan.</string>
+    <string name="copy_the_account_details">Salin butiran akaun</string>
+    <string name="how_to_add_an_xtream_profile">Cara Menambah Profil Xtream</string>
+    <string name="account_added_successfully">Akaun berjaya ditambahkan</string>
+    <string name="your_account_is_ready_to_use">Akaun anda sedia untuk digunakan</string>
+    <string name="view_now">Lihat sekarang</string>
+    <string name="later">Nanti</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Tambahkan senarai main pertama anda untuk mula menonton</string>
+    <string name="title_slider_1">Strim Sukan Langsung pada Telefon</string>
+    <string name="action_try_now">Cuba sekarang</string>
+    <string name="title_slider_2">Bina Senarai Main Filem Anda</string>
+    <string name="title_slider_3">Nikmati semua ciri tanpa iklan</string>
+    <string name="tap_to_search">Ketuk untuk Cari</string>
+    <string name="sports_hub">Hub Sukan</string>
+    <string name="wc_schedule">Jadual</string>
+    <string name="wc_team">Pasukan</string>
+    <string name="wc_standing">Jadual Kedudukan</string>
+    <string name="wc_today">Hari ini</string>
+    <string name="wc_upcoming">Akan datang</string>
+    <string name="wc_full_time">Masa penuh</string>
+    <string name="wc_live">Langsung</string>
+    <string name="wc_no_matches">Tiada perlawanan ditemui</string>
+    <string name="wc_no_standings">Tiada jadual kedudukan tersedia</string>
+    <string name="wc_remind_me">Ingatkan saya</string>
+    <string name="wc_updating">Mengemas kini…</string>
+    <string name="wc_match_detail">Perincian Perlawanan</string>
+    <string name="wc_events">Acara</string>
+    <string name="wc_no_events">Tiada acara tersedia</string>
+    <string name="wc_no_events_desc">Perlawanan belum dimulai lagi. Tetapkan peringatan supaya anda tidak ketinggalan sebarang tindakan.</string>
+    <string name="wc_switch_team">Tukar Pasukan</string>
+    <string name="wc_bracket">Kurungan</string>
+    <string name="wc_round_of_32">Pusingan 32 Besar</string>
+    <string name="wc_starting_soon">Bermula tidak lama lagi</string>
+    <string name="wc_round_of_16">Pusingan 16 Besar</string>
+    <string name="wc_quarter_finals">Suku akhir</string>
+    <string name="wc_semi_finals">Separuh akhir</string>
+    <string name="wc_final">Final</string>
+    <string name="wc_no_bracket">Tiada data kurungan tersedia</string>
+    <string name="wc_no_matches_today">Tiada Perlawanan Hari Ini</string>
+    <string name="wc_upcoming_fixtures">Perlawanan yang akan datang akan muncul di sini</string>
+    <string name="wc_no_recent">Tiada perlawanan baru-baru ini</string>
+    <string name="wc_no_upcoming">Tiada perlawanan akan datang</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Dayakan Pemberitahuan</string>
+    <string name="noti_enable_desc">Dapatkan peringatan perlawanan, kemas kini kandungan baharu, dan makluman penstriman penting.</string>
+    <string name="noti_go_to_setting">Pergi ke tetapan</string>
+    <string name="visit_sports_hub">Lawati Hub Sukan</string>
+    <string name="_3rd_place_final">Final Tempat Ketiga</string>
+    <string name="_16th_finals">Perlawanan Akhir 16</string>
+    <string name="ranking_of_third_placed_teams">Kedudukan pasukan tempat ketiga</string>
+    <string name="out">"Keluar: "</string>
+    <string name="_in">"Dalam: "</string>
+    <string name="_2nd_half">Separuh Kedua</string>
+    <string name="_1st_half">Separuh Pertama</string>
+    <string name="asst">Pembantu. %1$s</string>
+    <string name="out_s">Keluar: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Perlawanan telah berakhir. Buka aplikasi untuk hasil lengkap.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Permulaan dalam 15 minit. Buka aplikasi untuk mengikuti perkembangan.</string>
+    <string name="live_now">Langsung sekarang</string>
+    <string name="full_time">Masa penuh</string>
+    <string name="_2nd_group">Kumpulan Ke-2 %1$s</string>
+    <string name="_1st_group">Kumpulan Ke-1 %1$s</string>
+    <string name="eighth_finals">Pusingan Ke-8</string>
+    <string name="quarter_finals">Suku Akhir</string>
+    <string name="semi_finals">Separuh Akhir</string>
+    <string name="winner">Pemenang</string>
+    <string name="loser">Kalah</string>
+    <string name="round_of_32">Pusingan 32 Besar</string>
+    <string name="round_of_16">Pusingan 16 Besar</string>
+    <string name="_3rd_place">Tempat Ke-3</string>
+    <string name="_final">Final</string>
+    <string name="group_stage">Peringkat Kumpulan</string>
+    <string name="round">Pusingan %1$d</string>
+    <string name="group">Kumpulan </string>
+    <string name="_1st">1st</string>
+    <string name="_2nd">2nd</string>
+    <string name="_3rd">3rd</string>
+    <string name="th">%1$dth</string>
+    <string name="remind_set">Pengingat ditetapkan</string>
+    <string name="remind_removed">Pengingat dihapus</string>
+    <string name="_et1">Extra Time 1st Half</string>
+    <string name="_et2">Extra Time 2nd Half</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Main</string>
+    <string name="add_similar_items">Tambah item serupa</string>
+    <string name="see_more">Lihat lebih banyak</string>
+    <string name="see_less">Lihat lebih sedikit</string>
+    <string name="view_all">Lihat semua</string>
+    <string name="home">Utama</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Siaran Langsung Sekarang</string>
+    <string name="recommended_for_you">Disyorkan Untuk Anda</string>
+    <string name="new_series">Siri Baru</string>
+    <string name="live_badge">LANGSUNG</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes menyediakan pengalaman penstriman IPTV yang boleh dipercayai.</string>
+    <string name="live_tv">Live TV</string>
+    <string name="movies">Filem</string>
+    <string name="series">Siri</string>
+    <string name="add_profile">Tambah Profil</string>
+    <string name="choose_your_profile">Pilih Profil Anda</string>
+    <string name="my_favorite">Kegemaran Saya</string>
+    <string name="live_channel">Saluran Langsung</string>
+    <string name="your_favorite_list_is_empty">Senarai kegemaran anda kosong</string>
+    <string name="edit_profile">Edit Profil</string>
+    <string name="profile_name">Nama Profil</string>
+    <string name="delete_profile">Padam Profil</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Adakah anda pasti ingin memadam profil ini?</string>
+    <string name="no_browser_found">Tiada apl ditemui untuk membuka carian</string>
+    <string name="reminder_noon_title_1">Masa untuk reset 🧠</string>
+    <string name="reminder_noon_body_1">Cuma satu episod untuk menyegarkan minda anda!</string>
+    <string name="reminder_noon_title_2">Ada beberapa minit? 🎬</string>
+    <string name="reminder_noon_body_2">Saluran anda hanya satu ketikan sahaja.</string>
+    <string name="reminder_noon_title_3">Saluran anda sedang menunggu 📺</string>
+    <string name="reminder_noon_body_3">TV langsung, filem &amp; siri — semua di satu tempat.</string>
+    <string name="reminder_evening_title_1">Waktu perdana sedang berlangsung 🔥</string>
+    <string name="reminder_evening_body_1">Saluran anda kini disiarkan langsung.</string>
+    <string name="reminder_evening_title_2">Apa yang ada malam ini? ⚽</string>
+    <string name="reminder_evening_body_2">Sukan langsung, episod baharu &amp; banyak lagi.</string>
+    <string name="reminder_evening_title_3">Malam ini di TV 📺</string>
+    <string name="reminder_evening_body_3">Saluran langsung, filem &amp; siri — semua di sini.</string>
+    <string name="reminder_no_playlist_title">TV anda sedang menunggu 📺</string>
+    <string name="reminder_no_playlist_body">Tambah senarai main anda dan mula menonton.</string>
+    <string name="reminder_playlist_ready_title">Semuanya sudah sedia! ✅</string>
+    <string name="reminder_playlist_ready_body">Ketik untuk menonton saluran kegemaran anda.</string>
+    <string name="noti_enable_title_ver_2">Benarkan %1$s menghantar pemberitahuan kepada anda</string>
+    <string name="noti_enable_desc_ver_2">Dapatkan peringatan TV langsung, kemas kini filem baharu, dan amaran penstriman penting</string>
+    <string name="deny">Tolak</string>
+    <string name="allow">Benarkan</string>
+    <string name="tut_xtream_1">Cari “Xtream Code API Account” menggunakan mana-mana enjin carian</string>
+    <string name="tut_xtream_2">Cari bahagian “Format” atau “Playlist” dan salin maklumat akaun Xtream</string>
+    <string name="tut_xtream_3">Kembali ke apl, ketik butang &quot;+&quot;, pilih &quot;Import Stream Link&quot;, kemudian tampal pautan itu.</string>
+    <string name="tut_xtream_4">Nikmati menonton Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Cara menambah Profil Xtream</u>
+    </string>
+</resources>

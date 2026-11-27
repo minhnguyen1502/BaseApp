@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gms.ads.nativead.NativeAdView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/native_ad_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0A0A0A">
+
+    <com.facebook.shimmer.ShimmerFrameLayout
+        android:id="@+id/shimmerFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.google.android.gms.ads.nativead.MediaView
+                android:id="@+id/media_view"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                app:layout_constraintBottom_toTopOf="@id/layout_bottom"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <LinearLayout
+                android:id="@+id/layout_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_ads"
+                android:orientation="vertical"
+                android:padding="16dp"
+                app:layout_constraintBottom_toBottomOf="parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        app:cardBackgroundColor="@android:color/transparent"
+                        app:cardCornerRadius="6dp"
+                        app:cardElevation="0dp">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/iconView"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                    </androidx.cardview.widget.CardView>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="8dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <androidx.cardview.widget.CardView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                app:cardBackgroundColor="#6F61FF"
+                                app:cardCornerRadius="6dp"
+                                app:cardElevation="0dp"
+                                app:layout_constraintStart_toStartOf="parent"
+                                app:layout_constraintTop_toTopOf="parent">
+
+                                <androidx.appcompat.widget.AppCompatTextView
+                                    android:id="@+id/tvAd"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingHorizontal="6dp"
+                                    android:paddingVertical="2dp"
+                                    android:text="@string/label_ad"
+                                    android:textAllCaps="true"
+                                    android:textColor="@color/white"
+                                    android:textSize="12sp"
+                                    android:textStyle="bold"
+                                    app:layout_constraintStart_toStartOf="parent"
+                                    app:layout_constraintTop_toTopOf="parent" />
+
+                            </androidx.cardview.widget.CardView>
+
+                            <androidx.appcompat.widget.AppCompatTextView
+                                android:id="@+id/headline_view"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="4dp"
+                                android:ellipsize="end"
+                                android:lines="1"
+                                android:maxLines="1"
+                                android:textColor="#F9F9FA"
+                                android:textSize="14sp"
+                                android:textStyle="bold"
+                                tools:text="Ad content" />
+
+
+                        </LinearLayout>
+
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:id="@+id/body_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="2dp"
+                            android:ellipsize="end"
+                            android:lines="2"
+                            android:maxLines="2"
+                            android:textColor="#F9F9FA"
+                            android:textSize="12sp"
+                            tools:text="Ad content" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/ad_call_to_action"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="12dp"
+                    android:background="@drawable/bg_corner_100"
+                    android:backgroundTint="#6F61FF"
+                    android:gravity="center"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white"
+                    tools:text="@string/install_now" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.facebook.shimmer.ShimmerFrameLayout>
+</com.google.android.gms.ads.nativead.NativeAdView>

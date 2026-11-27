@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="?colorControlHighlight">
+    <item android:id="@android:id/background">
+        <layer-list>
+            <!-- Layer bottom border (màu border) -->
+            <item>
+                <shape>
+                    <solid android:color="@color/outline_low_em" />
+
+                    <corners android:radius="16dp" />
+                </shape>
+            </item>
+            <item
+                android:bottom="1dp"
+                android:left="1dp"
+                android:right="1dp"
+                android:top="1dp">
+                <shape>
+                    <gradient
+                        android:startColor="#1D184F"
+                        android:endColor="#151515"
+                        android:angle="315"/>
+                    <corners android:radius="16dp" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</ripple>

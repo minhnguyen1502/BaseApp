@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Predvolený jazyk</string>
+    <string name="setting">Nastavenie</string>
+    <string name="language">Jazyk</string>
+    <string name="privacy_policy">Zásady ochrany osobných údajov</string>
+    <string name="get_started">Začíname</string>
+    <string name="welcome">Vitajte na</string>
+    <string name="next">Ďalej</string>
+    <string name="title_onb_1">Sledujte Všetko</string>
+    <string name="content_onb_1">Získajte prístup k živej televízii, športom, filmom a karikatúram kedykoľvek a kdekoľvek.</string>
+    <string name="title_onb_2">Vytvorte si zoznam skladieb</string>
+    <string name="content_onb_2">Pridajte kanály, ktoré máte radi, a sledujte ich kedykoľvek a okamžite.</string>
+    <string name="habit_1">Živá televízia</string>
+    <string name="habit_2">Filmy</string>
+    <string name="habit_3">Šport</string>
+    <string name="habit_4">Správy</string>
+    <string name="habit_5">Rodina</string>
+    <string name="habit_6">Zábava</string>
+    <string name="feedback">Spätná väzba</string>
+    <string name="rate_now">Ohodnotiť</string>
+    <string name="send_feedback">Odoslať spätnú väzbu</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="please_select_your_language">Vyberte jazyk</string>
+    <string name="please_choose_at_least_one_option">Vyberte aspoň jednu možnosť</string>
+    <string name="try_again">Skúste znova</string>
+    <string name="got_it">Dobre!</string>
+    <string name="_continue">Pokračovať</string>
+    <string name="tutorial">Návod</string>
+    <string name="how_to_add_a_playlist">Ako pridať zoznam skladieb</string>
+    <string name="tutorial_step_1">Vyhľadajte \"verejný zoznam skladieb IPTV\" pomocou ľubovoľného vyhľadávacieho nástroja.</string>
+    <string name="tutorial_step_2">Skopírujte odkaz na zoznam skladieb M3U alebo uložte súbory zoznamu skladieb.</string>
+    <string name="tutorial_step_3">Znova otvorte aplikáciu.\nKlepnite na tlačidlo \"+\", vyberte \"Importovať adresu URL zoznamu videí\" a prilepte odkaz.</string>
+    <string name="tutorial_step_4">Užite si sledovanie vašich IPTV kanálov!</string>
+    <string name="tab_import_url">Importovať URL</string>
+    <string name="tab_upload_file">Nahrajte súbor</string>
+    <string name="tab_stream">Prúd</string>
+    <string name="tut_url_1">Vyhľadajte \"verejný zoznam skladieb IPTV\" pomocou ľubovoľného vyhľadávacieho nástroja.</string>
+    <string name="tut_url_2">Skopírujte odkaz na zoznam skladieb M3U alebo uložte súbor zoznamu skladieb.</string>
+    <string name="tut_url_3">Znova otvorte aplikáciu.\nKlepnite na tlačidlo \"+\", vyberte \"Importovať adresu URL zoznamu videí\" a prilepte odkaz.</string>
+    <string name="tut_url_4">Užite si sledovanie vašich IPTV kanálov!</string>
+    <string name="tut_file_1">Vyhľadajte \"súbor M3U\" pomocou ľubovoľného vyhľadávacieho nástroja.</string>
+    <string name="tut_file_2">Uložte súbor .m3u do svojho zariadenia.</string>
+    <string name="tut_file_3">Vráťte sa do aplikácie, klepnite na tlačidlo \"+\", vyberte \"Nahrať súbor M3U\" a potom vyberte súbor, ktorý ste stiahli.</string>
+    <string name="tut_file_4">Užite si sledovanie vašich IPTV kanálov!</string>
+    <string name="tut_stream_1">Vyhľadajte \"verejnú adresu URL streamu IPTV\" pomocou ľubovoľného vyhľadávacieho nástroja.</string>
+    <string name="tut_stream_2">Skopírujte celú webovú adresu streamu do schránky.</string>
+    <string name="tut_stream_3">Vráťte sa do aplikácie, klepnite na tlačidlo \"+\", vyberte \"Importovať odkaz na stream\" a potom prilepte odkaz.</string>
+    <string name="tut_stream_4">Užite si sledovanie vašich IPTV kanálov!</string>
+    <string name="unlock_premium">Odomknúť</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Boli by sme radi, keby ste nám poskytli podrobnú spätnú väzbu (aspoň 6 znakov)</string>
+    <string name="at_least_6_characters">Minimálne 6 znakov</string>
+    <string name="loading">Načítava sa…</string>
+    <string name="install_now">Nainštalujte teraz</string>
+    <string name="channels">%1$d kanálov</string>
+    <string name="this_action_may_contain_ads">Táto akcia môže obsahovať reklamy</string>
+    <string name="what_do_you_mainly_use_iptv_for">Na čo používate IPTV hlavne?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Nájdite zoznam skladieb IPTV (M3U), ktorý je dostupný online.</string>
+    <string name="title_1">Nájdite zdroj M3U</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Skopírujte odkaz na zoznam skladieb alebo si stiahnite súbor M3U do svojho zariadenia.</string>
+    <string name="title_2">Uložte informácie o zozname skladieb</string>
+    <string name="title_3">Nahrajte do aplikácie</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Otvorte aplikáciu → vyberte Pridať zoznam skladieb → vyberte Z adresy URL → prilepte odkaz.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Prejdite do zoznamu skladieb a začnite sledovať svoje obľúbené kanály.</string>
+    <string name="title_4">Užite si svoj obsah</string>
+    <string name="search">Hľadať…</string>
+    <string name="all">Všetky</string>
+    <string name="recent">Nedávne</string>
+    <string name="favorites">Obľúbené</string>
+    <string name="url">URL</string>
+    <string name="file">Súbor</string>
+    <string name="no_channels_found">Nenašli sa žiadne kanály</string>
+    <string name="no_recents">Žiadne novinky</string>
+    <string name="play_something_to_begin">Začnite prehraním médií</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Importujte nové kanály klepnutím na tlačidlo nižšie.</string>
+    <string name="a_z_sort">Triediť od A do Z</string>
+    <string name="z_a_sort">Zoradiť Z-A</string>
+    <string name="_0_9_sort">0–9 Zoradiť</string>
+    <string name="_9_0_sort">9–0 Zoradiť</string>
+    <string name="refresh">Obnoviť</string>
+    <string name="accept">Prijať</string>
+    <string name="license_agreement">Licenčná zmluva</string>
+    <string name="i_agree">Súhlasím s Licenčnou zmluvou</string>
+    <string name="content_license_agreement">IPTV podporuje zoznamy skladieb M3U a JSON vytvorené používateľmi. Neposkytujeme ani nehostíme žiadny obsah.\n\nTáto aplikácia je určená iba pre legálne získaný obsah. Zodpovedáte za to, že vaše zoznamy videí a obsah sú v súlade s príslušnými zákonmi a povoleniami.\n\nPokračovaním potvrdzujete, že rozumiete týmto podmienkam a prijímate ich.\n\nVyhlásenie\n\nIPTV neposkytuje ani nepropaguje žiadny obsah a nie je pridružená k poskytovateľom tretích strán.\n\nPoužívatelia musia dodávať svoj vlastný obsah. Neautorizované streamovanie materiálu chráneného autorskými právami sa dôrazne neodporúča.</string>
+    <string name="content_1">Môžete vyhľadávať online pomocou kľúčových slov, ako je „zoznam skladieb IPTV M3U“ alebo si pozrieť pokyny poskytnuté vašou TV/streamovacou službou.\nSprávny odkaz na M3U zvyčajne:\n• Začína na http:// alebo https://\n• Končí na .m3u alebo .m3u8\nVždy, keď je to možné, skúste použiť dôveryhodné a legálne zdroje. Upozorňujeme, že platnosť niektorých zoznamov skladieb môže uplynúť, môžu vyžadovať prihlasovacie údaje alebo môžu byť obmedzené podľa regiónu.</string>
+    <string name="content_2">Ak chcete skopírovať adresu URL M3U:\n• Na mobile: Klepnite a podržte odkaz → vyberte Kopírovať odkaz\n• Na pracovnej ploche: Kliknite pravým tlačidlom myši na odkaz → vyberte Kopírovať adresu odkazu\nStiahnutie súboru zoznamu skladieb:\n• Uložte súbor .m3u alebo .m3u8 na ľahko prístupné miesto vo svojom zariadení\nSúbor môžete neskôr importovať priamo z miestneho úložiska (pozrite si krok 3).</string>
+    <string name="content_3">Spustite inteligentný prehrávač IPTV.\nVyberte položku Pridať zoznam skladieb.\nVyberte jeden spôsob importu:\n• Cez adresu URL → Prilepte odkaz na M3U\n• Zo súboru → Prehliadať a vyberte uložený súbor .m3u / .m3u8 vo svojom zariadení\n(Voliteľné) Zadajte vlastný názov, aby ste svoj zoznam skladieb neskôr ľahko identifikovali\nDokončite klepnutím na Uložiť.</string>
+    <string name="content_4">Dajte aplikácii chvíľu na načítanie kanálov a kategórií.\nPreskúmajte zoznam kanálov alebo pomocou funkcie Hľadať rýchlo nájdite, čo chcete.\nAk sa nezobrazí žiadny obsah:\n• Skontrolujte svoje internetové pripojenie\n• Uistite sa, že odkaz alebo súbor M3U je stále platný a funkčný.</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Ak chcete pokračovať v používaní aplikácie, vyžaduje sa internetové pripojenie.\nSkontrolujte nastavenia siete a znova sa pripojte.</string>
+    <string name="retry">Skúste to znova</string>
+    <string name="thank_you_for_using_iptv">Ďakujeme, že používate IPTV</string>
+    <string name="playlist_name">Názov zoznamu skladieb</string>
+    <string name="playlist">Zoznam skladieb</string>
+    <string name="save">Uložiť</string>
+    <string name="password">heslo</string>
+    <string name="username">Používateľské meno</string>
+    <string name="no_file_selected">Nie je vybratý žiadny súbor</string>
+    <string name="m3u_file">Súbor M3U</string>
+    <string name="playlist_url">Adresa URL zoznamu videí</string>
+    <string name="choose_icon">Vyberte ikonu</string>
+    <string name="choose_color">Vyberte Farba</string>
+    <string name="paste_your_url_here">Sem prilepte svoju adresu URL</string>
+    <string name="edit">Upraviť</string>
+    <string name="delete">Odstrániť</string>
+    <string name="rate_this_app">Ohodnoťte túto aplikáciu</string>
+    <string name="tell_us_about_your_experiences">Povedzte nám o svojich skúsenostiach</string>
+    <string name="enter_your_stream_link_here">Tu zadajte odkaz na svoj stream</string>
+    <string name="stream_link">Odkaz na stream</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Podpora sieťových protokolov: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Kanály</string>
+    <string name="import_playlist_url">Importovať adresu URL zoznamu videí</string>
+    <string name="load_from_device">Načítať zo zariadenia</string>
+    <string name="play_single_stream">Prehrať jeden stream</string>
+    <string name="upload_m3u_file">Nahrajte súbor M3U</string>
+    <string name="all_channels">Všetky kanály</string>
+    <string name="playback_error">Chyba prehrávania</string>
+    <string name="no_internet_connection">Žiadne internetové pripojenie</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Tento kanál je dočasne mimo prevádzky alebo nie je vo vašom regióne dostupný. Skúste to znova neskôr.</string>
+    <string name="lock">Zámok</string>
+    <string name="full_screen">Celá obrazovka</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Zámok obrazovky. Stlačením odomknete</string>
+    <string name="delete_playlist">Odstrániť zoznam skladieb?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Naozaj chcete odstrániť tento zoznam skladieb? Túto akciu nie je možné vrátiť späť.</string>
+    <string name="yes_delete">Áno, vymazať</string>
+    <string name="error_1">Musíte vyplniť povinné polia</string>
+    <string name="error_2">Niektoré polia sú neplatné</string>
+    <string name="success_1">Import bol úspešný</string>
+    <string name="success_2">Uložiť úspešne</string>
+    <string name="content_rate_1">Ak sa vám páčil čas strávený s nami, zanechajte 5-hviezdičkové hodnotenie!</string>
+    <string name="content_rate_2">Ak sa vám páčil čas strávený s nami, zanechajte 5-hviezdičkové hodnotenie!</string>
+    <string name="content_rate_3">Ak sa vám páčil čas strávený s nami, zanechajte 5-hviezdičkové hodnotenie!</string>
+    <string name="content_rate_4">Takmer dokonalé? Budeme sa snažiť o tú extra hviezdu!</string>
+    <string name="content_rate_5">Úplne si nám spríjemnil deň! 🌟 Udržujme dobrú náladu.</string>
+    <string name="no_results_found_for">Nenašli sa žiadne výsledky pre</string>
+    <string name="the_device_does_not_support_pip">Zariadenie nepodporuje funkciu PiP.</string>
+    <string name="video_file_not_found">Video súbor sa nenašiel</string>
+    <string name="minimize">Minimalizovať okno</string>
+    <string name="refresh_in_progress_please_wait">Prebieha obnova, čakajte...</string>
+    <string name="no_email_app_found">Nenašla sa žiadna e-mailová aplikácia!</string>
+    <string name="error_5">Niektoré polia sú neplatné</string>
+    <string name="no_favorite_channel_yet">Zatiaľ žiadny obľúbený kanál</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Nájdite kanál, ktorý sa vám páči, a klepnutím na srdce ho ponechajte.</string>
+    <string name="refreshed_successfully">Úspešne obnovené</string>
+    <string name="import_xtream_codes_api">Importovať Xtream Codes API</string>
+    <string name="suggestion">Návrh</string>
+    <string name="suggestion_1">Rodina</string>
+    <string name="suggestion_2">Šport</string>
+    <string name="suggestion_3">Filmy</string>
+    <string name="_100_no_ads">100% žiadne reklamy</string>
+    <string name="hd_4d_quality">HD a 4D kvalita</string>
+    <string name="premium_channels">Prémiové kanály</string>
+    <string name="most_popular">Najpopulárnejšie</string>
+    <string name="weekly">Týždenne</string>
+    <string name="monthly">Mesačne</string>
+    <string name="yearly">Ročne</string>
+    <string name="_3_day_free_trial">3-dňová bezplatná skúšobná verzia</string>
+    <string name="something_went_wrong">Niečo sa pokazilo</string>
+    <string name="content_error">Postupujte podľa tohto kroku a skúste to znova:\n1. Skontrolujte pripojenie k sieti\n2. Uistite sa, že ste prihlásení do svojho účtu Google\n3. Uistite sa, že môžete spustiť aplikáciu Google Play</string>
+    <string name="cancel_anytime">Zrušiť kedykoľvek</string>
+    <string name="term_of_use">
+        <u>Doba používania</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Zásady ochrany osobných údajov</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Vaša prémiová verzia je teraz aktívna. Užite si používanie aplikácie!</string>
+    <string name="payment_success">Úspešnosť platby</string>
+    <string name="payment_failed">Platba zlyhala</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Malý problém zastavil platbu. Skúste to znova</string>
+    <string name="go_premium">Prejsť na Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Odomknite všetky funkcie a užite si aplikáciu bez reklám!</string>
+    <string name="premium_member">Prémiový člen</string>
+    <string name="active_until">Aktívne do %s</string>
+    <string name="sever_url">Adresa URL servera</string>
+    <string name="find_an_xtream_account">Nájdite účet Xtream</string>
+    <string name="search_for_xtream_code_api_account_online">Vyhľadajte online účet „Xtream Code API Account“.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Klepnutím na Pridať profil uložte a vychutnajte si svoj obsah.</string>
+    <string name="start_streaming">Začnite streamovať</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Otvorte aplikáciu a vyplňte polia profilu Xtream.</string>
+    <string name="enter_the_information">Zadajte informácie</string>
+    <string name="copy_the_server_url_username_and_password">Skopírujte adresu URL servera, používateľské meno a heslo.</string>
+    <string name="copy_the_account_details">Skopírujte podrobnosti o účte</string>
+    <string name="how_to_add_an_xtream_profile">Ako pridať profil Xtream</string>
+    <string name="account_added_successfully">Účet bol úspešne pridaný</string>
+    <string name="your_account_is_ready_to_use">Váš účet je pripravený na použitie</string>
+    <string name="view_now">Zobraziť teraz</string>
+    <string name="later">Neskôr</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Ak chcete začať pozerať, pridajte svoj prvý zoznam skladieb</string>
+    <string name="title_slider_1">Streamujte šport naživo cez telefón</string>
+    <string name="action_try_now">Skúste teraz</string>
+    <string name="title_slider_2">Vytvorte si zoznam filmov</string>
+    <string name="title_slider_3">Vychutnajte si všetky funkcie bez reklám</string>
+    <string name="tap_to_search">Klepnutím vyhľadáte</string>
+    <string name="sports_hub">Centrum športu</string>
+    <string name="wc_schedule">Harmonogramy</string>
+    <string name="wc_team">Tímy</string>
+    <string name="wc_standing">Tabuľka</string>
+    <string name="wc_today">Dnes</string>
+    <string name="wc_upcoming">Nadchádzajúce</string>
+    <string name="wc_full_time">Po skončení</string>
+    <string name="wc_live">Naživo</string>
+    <string name="wc_no_matches">Žiadne zápasy nenájdené</string>
+    <string name="wc_no_standings">Žiadna tabuľka dostupná</string>
+    <string name="wc_remind_me">Pripomenúť mi</string>
+    <string name="wc_updating">Aktualizácia…</string>
+    <string name="wc_match_detail">Podrobnosti zápasu</string>
+    <string name="wc_events">Udalosti</string>
+    <string name="wc_no_events">Žiadne dostupné udalosti</string>
+    <string name="wc_no_events_desc">Zápas ešte nezačal. Nastavte si pripomienku, aby ste nič neminuli.</string>
+    <string name="wc_switch_team">Zmeniť tím</string>
+    <string name="wc_bracket">Tabuľka</string>
+    <string name="wc_round_of_32">32. kolo</string>
+    <string name="wc_starting_soon">Čoskoro sa začína</string>
+    <string name="wc_round_of_16">16. kolo</string>
+    <string name="wc_quarter_finals">Štvrťfinále</string>
+    <string name="wc_semi_finals">Semifinále</string>
+    <string name="wc_final">Finále</string>
+    <string name="wc_no_bracket">Údaje o tabuľke nie sú dostupné</string>
+    <string name="wc_no_matches_today">Dnes žiadne zápasy</string>
+    <string name="wc_upcoming_fixtures">Nadchádzajúce zápasy sa zobrazia tu</string>
+    <string name="wc_no_recent">Žiadne nedávne zápasy</string>
+    <string name="wc_no_upcoming">Žiadne nadchádzajúce zápasy</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Povoliť notifikácie</string>
+    <string name="noti_enable_desc">Získajte pripomienky na zápasy, aktualizácie nového obsahu a dôležité upozornenia na streamovanie.</string>
+    <string name="noti_go_to_setting">Prejsť na nastavenia</string>
+    <string name="visit_sports_hub">Navštíviť Sports Hub</string>
+    <string name="_3rd_place_final">Finále o 3. miesto</string>
+    <string name="_16th_finals">16. finále</string>
+    <string name="ranking_of_third_placed_teams">Hodnotenie tímov na treťom mieste</string>
+    <string name="out">"Vylúčenie: "</string>
+    <string name="_in">"V čase: "</string>
+    <string name="_2nd_half">2. časť</string>
+    <string name="_1st_half">1. polčas</string>
+    <string name="asst">Asistencia %1$s</string>
+    <string name="out_s">Vylúčenie: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Zápas sa skončil. Otvorte aplikáciu pre úplný výsledok.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Začiatok o 15 minút. Otvorte aplikáciu a sledujte zápas.</string>
+    <string name="live_now">Naživo teraz</string>
+    <string name="full_time">Konečný stav</string>
+    <string name="_2nd_group">2. skupina %1$s</string>
+    <string name="_1st_group">1. skupina %1$s</string>
+    <string name="eighth_finals">16-finále</string>
+    <string name="quarter_finals">Štvrťfinále</string>
+    <string name="semi_finals">Semifinále</string>
+    <string name="winner">Víťaz</string>
+    <string name="loser">Porazený</string>
+    <string name="round_of_32">32-finále</string>
+    <string name="round_of_16">Osemfinále</string>
+    <string name="_3rd_place">3. miesto</string>
+    <string name="_final">Finále</string>
+    <string name="group_stage">Skupinová fáza</string>
+    <string name="round">Kolo %1$d</string>
+    <string name="group">Skupina </string>
+    <string name="_1st">1. miesto</string>
+    <string name="_2nd">2. miesto</string>
+    <string name="_3rd">3. miesto</string>
+    <string name="th">%1$d. miesto</string>
+    <string name="remind_set">Pripomienka nastavená</string>
+    <string name="remind_removed">Pripomienka odstránená</string>
+    <string name="_et1">Predĺženie 1. polčas</string>
+    <string name="_et2">Predĺženie 2. polčas</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Prehrať</string>
+    <string name="add_similar_items">Pridať podobné položky</string>
+    <string name="see_more">Zobraziť viac</string>
+    <string name="see_less">Zobraziť menej</string>
+    <string name="view_all">Zobraziť všetko</string>
+    <string name="home">Domov</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Naživo teraz</string>
+    <string name="recommended_for_you">Odporúčané pre vás</string>
+    <string name="new_series">Nové série</string>
+    <string name="live_badge">NAŽIVO</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes poskytuje spoľahlivý IPTV streaming.</string>
+    <string name="live_tv">Live TV</string>
+    <string name="movies">Filmy</string>
+    <string name="series">Série</string>
+    <string name="add_profile">Pridať profil</string>
+    <string name="choose_your_profile">Vyberte svoj profil</string>
+    <string name="my_favorite">Moje obľúbené</string>
+    <string name="live_channel">Live kanál</string>
+    <string name="your_favorite_list_is_empty">Váš zoznam obľúbených je prázdny</string>
+    <string name="edit_profile">Upraviť profil</string>
+    <string name="profile_name">Meno profilu</string>
+    <string name="delete_profile">Odstrániť profil</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Ste si istí, že chcete odstrániť tento profil?</string>
+    <string name="no_browser_found">Nebola nájdená žiadna aplikácia na otvorenie vyhľadávania</string>
+    <string name="reminder_noon_title_1">Čas na reset 🧠</string>
+    <string name="reminder_noon_body_1">Stačí jeden diel na osvieženie mysle!</string>
+    <string name="reminder_noon_title_2">Máte pár minút? 🎬</string>
+    <string name="reminder_noon_body_2">Vaše kanály sú len jedno klepnutie ďaleko.</string>
+    <string name="reminder_noon_title_3">Vaše kanály čakajú 📺</string>
+    <string name="reminder_noon_body_3">Živé vysielanie, filmy a seriály — všetko na jednom mieste.</string>
+    <string name="reminder_evening_title_1">Prime time práve prebieha 🔥</string>
+    <string name="reminder_evening_body_1">Vaše kanály teraz vysielajú naživo.</string>
+    <string name="reminder_evening_title_2">Čo je dnes večer? ⚽</string>
+    <string name="reminder_evening_body_2">Živý šport, nové diely a ďalšie.</string>
+    <string name="reminder_evening_title_3">Dnes večer v TV 📺</string>
+    <string name="reminder_evening_body_3">Živé kanály, filmy a seriály — všetko tu.</string>
+    <string name="reminder_no_playlist_title">Vaša TV čaká 📺</string>
+    <string name="reminder_no_playlist_body">Pridajte svoj playlist a začnite sledovať.</string>
+    <string name="reminder_playlist_ready_title">Všetko je pripravené! ✅</string>
+    <string name="reminder_playlist_ready_body">Klepnutím sledujte svoj obľúbený kanál.</string>
+    <string name="noti_enable_title_ver_2">Povoliť %1$s odosielať vám oznámenia</string>
+    <string name="noti_enable_desc_ver_2">Získajte pripomienky živého vysielania, aktualizácie nových filmov a dôležité upozornenia na streamovanie</string>
+    <string name="deny">Odmietnuť</string>
+    <string name="allow">Povoliť</string>
+    <string name="tut_xtream_1">Vyhľadajte „Xtream Code API Account“ pomocou akéhokoľvek vyhľadávača</string>
+    <string name="tut_xtream_2">Nájdite sekciu „Format“ alebo „Playlist“ a skopírujte informácie o účte Xtream</string>
+    <string name="tut_xtream_3">Vráťte sa do aplikácie, klepnite na tlačidlo &quot;+&quot;, vyberte &quot;Import Stream Link&quot; a potom vložte odkaz.</string>
+    <string name="tut_xtream_4">Užite si sledovanie Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Ako pridať profil Xtream</u>
+    </string>
+</resources>

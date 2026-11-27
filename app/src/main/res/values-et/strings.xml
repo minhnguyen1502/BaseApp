@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Vaikekeel</string>
+    <string name="setting">Seadistamine</string>
+    <string name="language">Keel</string>
+    <string name="privacy_policy">Privaatsuspoliitika</string>
+    <string name="get_started">Alustage</string>
+    <string name="welcome">Tere tulemast</string>
+    <string name="next">Edasi</string>
+    <string name="title_onb_1">Vaata kõike</string>
+    <string name="content_onb_1">Juurdepääs telesaadetele, spordile, filmidele ja koomiksitele igal ajal ja igal pool.</string>
+    <string name="title_onb_2">Koostage oma esitusloend</string>
+    <string name="content_onb_2">Lisage oma lemmikkanaleid ja vaadake neid igal ajal ja kohe.</string>
+    <string name="habit_1">Otse-TV</string>
+    <string name="habit_2">Filmid</string>
+    <string name="habit_3">Sport</string>
+    <string name="habit_4">Uudised</string>
+    <string name="habit_5">Perekond</string>
+    <string name="habit_6">Meelelahutus</string>
+    <string name="feedback">Tagasiside</string>
+    <string name="rate_now">Hinda kohe</string>
+    <string name="send_feedback">Saada tagasisidet</string>
+    <string name="cancel">Tühista</string>
+    <string name="please_select_your_language">Palun valige oma keel</string>
+    <string name="please_choose_at_least_one_option">Valige vähemalt üks valik</string>
+    <string name="try_again">Proovige uuesti</string>
+    <string name="got_it">Sain aru!</string>
+    <string name="_continue">Jätka</string>
+    <string name="tutorial">Õpetus</string>
+    <string name="how_to_add_a_playlist">Kuidas esitusloendit lisada</string>
+    <string name="tutorial_step_1">Otsige \"avalikku IPTV esitusloendit\" mis tahes otsingumootori abil.</string>
+    <string name="tutorial_step_2">Kopeerige M3U esitusloendi link või salvestage esitusloendi failid.</string>
+    <string name="tutorial_step_3">Avage rakendus uuesti.\nPuudutage nuppu \"+\", valige \"Impordi esitusloendi URL\" ja kleepige link.</string>
+    <string name="tutorial_step_4">Nautige oma IPTV kanalite vaatamist!</string>
+    <string name="tab_import_url">Importige URL</string>
+    <string name="tab_upload_file">Laadi fail üles</string>
+    <string name="tab_stream">Voog</string>
+    <string name="tut_url_1">Otsige \"avalikku IPTV esitusloendit\" mis tahes otsingumootori abil.</string>
+    <string name="tut_url_2">Kopeerige M3U esitusloendi link või salvestage esitusloendi fail.</string>
+    <string name="tut_url_3">Avage rakendus uuesti.\nPuudutage nuppu \"+\", valige \"Impordi esitusloendi URL\" ja kleepige link.</string>
+    <string name="tut_url_4">Nautige oma IPTV kanalite vaatamist!</string>
+    <string name="tut_file_1">Otsige \"M3U-faili\" mis tahes otsingumootori abil.</string>
+    <string name="tut_file_2">Salvestage .m3u-fail oma seadmesse.</string>
+    <string name="tut_file_3">Naaske rakendusse, puudutage nuppu \"+\", valige \"Laadi M3U-fail üles\", seejärel valige allalaaditud fail.</string>
+    <string name="tut_file_4">Nautige oma IPTV kanalite vaatamist!</string>
+    <string name="tut_stream_1">Otsige \"avaliku IPTV voo URL\" mis tahes otsingumootori abil.</string>
+    <string name="tut_stream_2">Kopeerige voo täielik URL lõikelauale.</string>
+    <string name="tut_stream_3">Naaske rakendusse, puudutage nuppu \"+\", valige \"Impordi voo link\", seejärel kleepige link.</string>
+    <string name="tut_stream_4">Nautige oma IPTV kanalite vaatamist!</string>
+    <string name="unlock_premium">Avage lukustus</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Oleksime väga tänulikud, kui annaksite meile üksikasjalikku tagasisidet (vähemalt 6 tähemärki)</string>
+    <string name="at_least_6_characters">Vähemalt 6 tähemärki</string>
+    <string name="loading">Laadimine…</string>
+    <string name="install_now">Installige kohe</string>
+    <string name="channels">%1$d kanalit</string>
+    <string name="this_action_may_contain_ads">See toiming võib sisaldada reklaame</string>
+    <string name="what_do_you_mainly_use_iptv_for">Milleks te peamiselt IPTV-d kasutate?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Leidke Internetis saadaval olev IPTV esitusloend (M3U).</string>
+    <string name="title_1">Leidke M3U allikas</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Kopeerige esitusloendi link või laadige M3U-fail alla oma seadmesse.</string>
+    <string name="title_2">Salvestage esitusloendi teave</string>
+    <string name="title_3">Laadige rakendusse üles</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Avage rakendus → valige Lisa esitusloend → valige URL-ist → kleepige link.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Avage esitusloend ja hakake oma lemmikkanaleid vaatama.</string>
+    <string name="title_4">Nautige oma sisu</string>
+    <string name="search">Otsi…</string>
+    <string name="all">Kõik</string>
+    <string name="recent">Viimased</string>
+    <string name="favorites">Lemmikud</string>
+    <string name="url">URL</string>
+    <string name="file">Fail</string>
+    <string name="no_channels_found">Ühtegi kanalit ei leitud</string>
+    <string name="no_recents">Hiljutisi pole</string>
+    <string name="play_something_to_begin">Alustamiseks esitage meediat</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Importige uusi kanaleid, puudutades allolevat nuppu.</string>
+    <string name="a_z_sort">A-Z Sorteeri</string>
+    <string name="z_a_sort">Z-A sorteerimine</string>
+    <string name="_0_9_sort">0–9 Sorteeri</string>
+    <string name="_9_0_sort">9–0 Sorteeri</string>
+    <string name="refresh">Värskenda</string>
+    <string name="accept">Nõustu</string>
+    <string name="license_agreement">Litsentsileping</string>
+    <string name="i_agree">Nõustun litsentsilepinguga</string>
+    <string name="content_license_agreement">IPTV toetab kasutajate loodud M3U ja JSON esitusloendeid. Me ei paku ega majuta mingit sisu.\n\nSee rakendus on mõeldud ainult seaduslikult hangitud sisu jaoks. Vastutate selle eest, et teie esitusloendid ja sisu vastaksid kohaldatavatele seadustele ja lubadele.\n\nJätkates kinnitate, et mõistate neid tingimusi ja nõustute nendega.\n\nLahtiütlus\n\nIPTV ei paku ega reklaami mingit sisu ega ole seotud kolmandatest osapooltest pakkujatega.\n\nKasutajad peavad oma sisu pakkuma. Autoriõigustega kaitstud materjali volitamata voogesitamine on tungivalt soovitatav.</string>
+    <string name="content_1">Saate veebist otsida selliste märksõnadega nagu „IPTV M3U esitusloend” või vaadata oma teleri/voogedastusteenuse juhiseid.\nÕige M3U link tavaliselt:\n• Algab tähega http:// või https://\n• Lõpeb .m3u või .m3u8\nPüüdke võimalusel kasutada usaldusväärseid ja seaduslikke allikaid. Pange tähele, et mõned esitusloendid võivad aeguda, nõuda sisselogimismandaate või olla piirkonniti piiratud.</string>
+    <string name="content_2">M3U URL-i kopeerimiseks:\n• Mobiilis: puudutage ja hoidke linki → valige Kopeeri link\n• Töölaual: paremklõpsake lingil → valige Kopeeri lingi aadress\nEsitusloendi faili allalaadimiseks:\n• Salvestage .m3u või .m3u8 fail oma seadmes hõlpsasti juurdepääsetavasse kohta\nSaate faili hiljem importida (vt otse oma kohalikust 3. salvestusruumist).</string>
+    <string name="content_3">Käivitage IPTV Smart Player.\nValige Lisa esitusloend.\nValige importimiseks üks meetod:\n• URL-i kaudu → kleepige oma M3U link\n• menüüst Fail → Sirvi ja valige oma seadmesse salvestatud .m3u / .m3u8 fail\n(Valikuline) Sisestage kohandatud nimi, et esitusloend hiljem hõlpsasti tuvastada.\nPuudutage lõpetamiseks nuppu Salvesta.</string>
+    <string name="content_4">Andke rakendusele hetk kanalite ja kategooriate laadimiseks.\nAvastage kanalite loendit või kasutage otsimisfunktsiooni, et kiiresti otsitav leida.\nKui sisu ei kuvata:\n• Kontrollige Interneti-ühendust.\n• Veenduge, et M3U link või fail oleks endiselt kehtiv ja töötaks</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Rakenduse kasutamise jätkamiseks on vaja Interneti-ühendust.\nKontrollige oma võrguseadeid ja ühendage uuesti.</string>
+    <string name="retry">Proovi uuesti</string>
+    <string name="thank_you_for_using_iptv">Täname teid IPTV kasutamise eest</string>
+    <string name="playlist_name">Esitusloendi nimi</string>
+    <string name="playlist">Esitusloend</string>
+    <string name="save">Salvesta</string>
+    <string name="password">Parool</string>
+    <string name="username">Kasutajanimi</string>
+    <string name="no_file_selected">Faili pole valitud</string>
+    <string name="m3u_file">M3U fail</string>
+    <string name="playlist_url">Esitusloendi URL</string>
+    <string name="choose_icon">Valige Ikoon</string>
+    <string name="choose_color">Valige Värv</string>
+    <string name="paste_your_url_here">Kleepige oma URL siia</string>
+    <string name="edit">Muuda</string>
+    <string name="delete">Kustuta</string>
+    <string name="rate_this_app">Hinda seda rakendust</string>
+    <string name="tell_us_about_your_experiences">Rääkige meile oma kogemustest</string>
+    <string name="enter_your_stream_link_here">Sisestage oma voo link siia</string>
+    <string name="stream_link">Voo link</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Toetage võrguprotokolle: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Kanalid</string>
+    <string name="import_playlist_url">Esitusloendi URL importimine</string>
+    <string name="load_from_device">Laadige seadmest</string>
+    <string name="play_single_stream">Esita üht voogu</string>
+    <string name="upload_m3u_file">Laadige üles M3U-fail</string>
+    <string name="all_channels">Kõik kanalid</string>
+    <string name="playback_error">Taasesituse viga</string>
+    <string name="no_internet_connection">Interneti-ühendus puudub</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">See kanal on ajutiselt kasutusest väljas või pole teie piirkonnas saadaval. Proovige hiljem uuesti.</string>
+    <string name="lock">Lukk</string>
+    <string name="full_screen">Täisekraan</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Ekraani lukustus. Avamiseks vajutage</string>
+    <string name="delete_playlist">Kas kustutada esitusloend?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Kas olete kindel, et soovite selle esitusloendi kustutada? Seda toimingut ei saa tagasi võtta.</string>
+    <string name="yes_delete">Jah, kustuta</string>
+    <string name="error_1">Peate täitma kohustuslikud väljad</string>
+    <string name="error_2">Mõned väljad on kehtetud</string>
+    <string name="success_1">Importimine õnnestus</string>
+    <string name="success_2">Salvestamine õnnestus</string>
+    <string name="content_rate_1">Kui teile meeldis meiega koos veedetud aeg, jätke 5-tärnine hinnang!</string>
+    <string name="content_rate_2">Kui teile meeldis meiega koos veedetud aeg, jätke 5-tärnine hinnang!</string>
+    <string name="content_rate_3">Kui teile meeldis meiega koos veedetud aeg, jätke 5-tärnine hinnang!</string>
+    <string name="content_rate_4">Peaaegu täiuslik? Püüdleme selle lisatähe poole!</string>
+    <string name="content_rate_5">Muutsite meie päeva täiega paremaks! 🌟 Jätkame head tuju veeremas.</string>
+    <string name="no_results_found_for">Päringule ei leitud tulemusi</string>
+    <string name="the_device_does_not_support_pip">Seade ei toeta PiP-d.</string>
+    <string name="video_file_not_found">Videofaili ei leitud</string>
+    <string name="minimize">Minimeeri aken</string>
+    <string name="refresh_in_progress_please_wait">Värskendamine on pooleli, palun oodake…</string>
+    <string name="no_email_app_found">Meilirakendust ei leitud!</string>
+    <string name="error_5">Mõned väljad on kehtetud</string>
+    <string name="no_favorite_channel_yet">Lemmikkanalit pole veel</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Leidke kanal, mis teile meeldib, ja puudutage selle säilitamiseks südant.</string>
+    <string name="refreshed_successfully">Värskendamine õnnestus</string>
+    <string name="import_xtream_codes_api">Importige Xtream Codes API</string>
+    <string name="suggestion">Soovitus</string>
+    <string name="suggestion_1">Perekond</string>
+    <string name="suggestion_2">Sport</string>
+    <string name="suggestion_3">Filmid</string>
+    <string name="_100_no_ads">100% reklaame pole</string>
+    <string name="hd_4d_quality">HD ja 4D kvaliteet</string>
+    <string name="premium_channels">Premium kanalid</string>
+    <string name="most_popular">Kõige populaarsem</string>
+    <string name="weekly">Iganädalane</string>
+    <string name="monthly">Igakuine</string>
+    <string name="yearly">Aastane</string>
+    <string name="_3_day_free_trial">3-päevane tasuta prooviperiood</string>
+    <string name="something_went_wrong">Midagi läks valesti</string>
+    <string name="content_error">Järgige seda sammu ja proovige uuesti:\n1. Kontrollige oma võrguühendust\n2. Veenduge, et oleksite oma Google\'i kontole sisse logitud.\n3. Veenduge, et saaksite Google Play rakendust käivitada</string>
+    <string name="cancel_anytime">Tühistage igal ajal</string>
+    <string name="term_of_use">
+        <u>Kasutusaeg</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Privaatsuspoliitika</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Teie Premium versioon on nüüd aktiivne. Nautige rakenduse kasutamist!</string>
+    <string name="payment_success">Makse õnnestumine</string>
+    <string name="payment_failed">Makse ebaõnnestus</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Väike probleem peatas makse. Palun proovi uuesti</string>
+    <string name="go_premium">Minge Premiumile</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Avage kõik funktsioonid ja nautige rakendust ilma reklaamideta!</string>
+    <string name="premium_member">Premium liige</string>
+    <string name="active_until">Aktiivne kuni %s</string>
+    <string name="sever_url">Serveri URL</string>
+    <string name="find_an_xtream_account">Leidke Xtreami konto</string>
+    <string name="search_for_xtream_code_api_account_online">Otsige veebist "Xtream Code API konto".</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Puudutage oma sisu salvestamiseks ja nautimiseks nuppu Lisa profiil.</string>
+    <string name="start_streaming">Alusta voogesitust</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Avage rakendus ja täitke Xtreami profiili väljad.</string>
+    <string name="enter_the_information">Sisestage teave</string>
+    <string name="copy_the_server_url_username_and_password">Kopeerige serveri URL, kasutajanimi ja parool.</string>
+    <string name="copy_the_account_details">Kopeerige konto andmed</string>
+    <string name="how_to_add_an_xtream_profile">Kuidas lisada Xtreami profiili</string>
+    <string name="account_added_successfully">Konto lisamine õnnestus</string>
+    <string name="your_account_is_ready_to_use">Teie konto on kasutamiseks valmis</string>
+    <string name="view_now">Vaata kohe</string>
+    <string name="later">Hiljem</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Vaatamise alustamiseks lisage oma esimene esitusloend</string>
+    <string name="title_slider_1">Voogesitage spordi otseülekannet telefonis</string>
+    <string name="action_try_now">Proovi kohe</string>
+    <string name="title_slider_2">Koostage oma filmi esitusloend</string>
+    <string name="title_slider_3">Nautige kõiki funktsioone ilma reklaamideta</string>
+    <string name="tap_to_search">Otsimiseks puuduta</string>
+    <string name="sports_hub">Sportide keskus</string>
+    <string name="wc_schedule">Ajakavad</string>
+    <string name="wc_team">Meeskonnad</string>
+    <string name="wc_standing">Tabel</string>
+    <string name="wc_today">Täna</string>
+    <string name="wc_upcoming">Tulevased</string>
+    <string name="wc_full_time">Lõpuaeg</string>
+    <string name="wc_live">Reaalajas</string>
+    <string name="wc_no_matches">Matše ei leitud</string>
+    <string name="wc_no_standings">Tabeleid pole saadaval</string>
+    <string name="wc_remind_me">Tuleta mulle meelde</string>
+    <string name="wc_updating">Uuendamine…</string>
+    <string name="wc_match_detail">Matši üksikasjad</string>
+    <string name="wc_events">Üritused</string>
+    <string name="wc_no_events">Üritusi pole saadaval</string>
+    <string name="wc_no_events_desc">Matš pole veel alustanud. Määra meeldetuletaja, et midagi vahele ei jääks.</string>
+    <string name="wc_switch_team">Vaheta meeskonda</string>
+    <string name="wc_bracket">Turniiritabel</string>
+    <string name="wc_round_of_32">32 parima ring</string>
+    <string name="wc_starting_soon">Algab varsti</string>
+    <string name="wc_round_of_16">16 parima ring</string>
+    <string name="wc_quarter_finals">Veerandfinaalid</string>
+    <string name="wc_semi_finals">Poolfinaalid</string>
+    <string name="wc_final">Finaal</string>
+    <string name="wc_no_bracket">Turniiritabeli andmed pole saadaval</string>
+    <string name="wc_no_matches_today">Täna matše pole</string>
+    <string name="wc_upcoming_fixtures">Tulevased kohtumised kuvatakse siin</string>
+    <string name="wc_no_recent">Hiljutisi matše pole</string>
+    <string name="wc_no_upcoming">Tulevasi matše pole</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Luba teatised</string>
+    <string name="noti_enable_desc">Saad matšite meeldetuletusi, uuest sisust teateid ja olulisi striimimishoiatusi.</string>
+    <string name="noti_go_to_setting">Mine seadetesse</string>
+    <string name="visit_sports_hub">Külasta Sports Hubi</string>
+    <string name="_3rd_place_final">3. koha finaal</string>
+    <string name="_16th_finals">16. finaal</string>
+    <string name="ranking_of_third_placed_teams">Kolmandale kohale jäänud meeskondade paremusjärjestus</string>
+    <string name="out">"Väljas: "</string>
+    <string name="_in">"Sees: "</string>
+    <string name="_2nd_half">2. poolaeg</string>
+    <string name="_1st_half">1. poolaeg</string>
+    <string name="asst">Abistaja %1$s</string>
+    <string name="out_s">Väljas: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Matš on lõppenud. Ava rakendus täieliku tulemuse nägemiseks.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Algus 15 minuti pärast. Ava rakendus, et kaasa teha.</string>
+    <string name="live_now">Otseülekanne</string>
+    <string name="full_time">Täisaeg</string>
+    <string name="_2nd_group">2. grupp %1$s</string>
+    <string name="_1st_group">1. grupp %1$s</string>
+    <string name="eighth_finals">Kaheksandikfinaalid</string>
+    <string name="quarter_finals">Veerandfinaalid</string>
+    <string name="semi_finals">Poolfinaalid</string>
+    <string name="winner">Võitja</string>
+    <string name="loser">Kaotaja</string>
+    <string name="round_of_32">32. voor</string>
+    <string name="round_of_16">16. voor</string>
+    <string name="_3rd_place">3. koht</string>
+    <string name="_final">Lõppmäng</string>
+    <string name="group_stage">Grupiturniir</string>
+    <string name="round">Voor %1$d</string>
+    <string name="group">Grupp </string>
+    <string name="_1st">1.</string>
+    <string name="_2nd">2.</string>
+    <string name="_3rd">3.</string>
+    <string name="th">%1$d.</string>
+    <string name="remind_set">Meeldetuletus määratud</string>
+    <string name="remind_removed">Meeldetuletus eemaldatud</string>
+    <string name="_et1">Lisaaeg 1. poolaeg</string>
+    <string name="_et2">Lisaaeg 2. poolaeg</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Esita</string>
+    <string name="add_similar_items">Lisa sarnased üksused</string>
+    <string name="see_more">Näita rohkem</string>
+    <string name="see_less">Näita vähem</string>
+    <string name="view_all">Näita kõiki</string>
+    <string name="home">Avaleht</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Eetris nüüd</string>
+    <string name="recommended_for_you">Sinu jaoks soovitatud</string>
+    <string name="new_series">Uued seriaalid</string>
+    <string name="live_badge">EETRIS</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes pakub usaldusväärseid IPTV-striimimiskogemust.</string>
+    <string name="live_tv">Otseülekanne TV</string>
+    <string name="movies">Filmid</string>
+    <string name="series">Seriaalid</string>
+    <string name="add_profile">Lisa profiil</string>
+    <string name="choose_your_profile">Vali oma profiil</string>
+    <string name="my_favorite">Minu lemmikud</string>
+    <string name="live_channel">Otsekanalid</string>
+    <string name="your_favorite_list_is_empty">Sinu lemmikute loend on tühi</string>
+    <string name="edit_profile">Muuda profiili</string>
+    <string name="profile_name">Profiili nimi</string>
+    <string name="delete_profile">Kustuta profiil</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Kas oled kindel, et soovid selle profiili kustutada?</string>
+    <string name="no_browser_found">Otsingu avamiseks ei leitud rakendust</string>
+    <string name="reminder_noon_title_1">Aeg end laadida 🧠</string>
+    <string name="reminder_noon_body_1">Ainult üks osa, et oma meelt värskendada!</string>
+    <string name="reminder_noon_title_2">Kas sul on mõni minut? 🎬</string>
+    <string name="reminder_noon_body_2">Sinu kanalid on vaid ühe puudutuse kaugusel.</string>
+    <string name="reminder_noon_title_3">Sinu kanalid ootavad 📺</string>
+    <string name="reminder_noon_body_3">Otse-eeter, filmid ja sarjad — kõik ühes kohas.</string>
+    <string name="reminder_evening_title_1">Prime time on käimas 🔥</string>
+    <string name="reminder_evening_body_1">Sinu kanalid on praegu otse-eetris.</string>
+    <string name="reminder_evening_title_2">Mis täna õhtul on? ⚽</string>
+    <string name="reminder_evening_body_2">Otsespordiülekanded, uued osad ja veel palju muud.</string>
+    <string name="reminder_evening_title_3">Täna õhtul teleris 📺</string>
+    <string name="reminder_evening_body_3">Otsekanalid, filmid ja sarjad — kõik siin.</string>
+    <string name="reminder_no_playlist_title">Sinu teler ootab 📺</string>
+    <string name="reminder_no_playlist_body">Lisa oma esitusloend ja hakka vaatama.</string>
+    <string name="reminder_playlist_ready_title">Kõik on valmis! ✅</string>
+    <string name="reminder_playlist_ready_body">Puuduta, et vaadata oma lemmikkanalit.</string>
+    <string name="noti_enable_title_ver_2">Luba %1$s saata sulle teavitusi</string>
+    <string name="noti_enable_desc_ver_2">Saa otse-eetri meeldetuletusi, uute filmide uuendusi ja olulisi voogedastuse hoiatusi</string>
+    <string name="deny">Keeldu</string>
+    <string name="allow">Luba</string>
+    <string name="tut_xtream_1">Otsi „Xtream Code API Account“ mis tahes otsingumootoriga</string>
+    <string name="tut_xtream_2">Leia jaotis „Format“ või „Playlist“ ja kopeeri Xtreami konto andmed</string>
+    <string name="tut_xtream_3">Mine tagasi rakendusse, puuduta nuppu &quot;+&quot;, vali &quot;Import Stream Link&quot; ja kleebi seejärel link.</string>
+    <string name="tut_xtream_4">Naudi Xtreami vaatamist</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Kuidas lisada Xtream profiili</u>
+    </string>
+</resources>

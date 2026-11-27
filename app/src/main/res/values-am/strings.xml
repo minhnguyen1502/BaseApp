@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">ነባሪ ቋንቋ</string>
+    <string name="setting">በማቀናበር ላይ</string>
+    <string name="language">ቋንቋ</string>
+    <string name="privacy_policy">የግላዊነት ፖሊሲ</string>
+    <string name="get_started">እንጀምር</string>
+    <string name="welcome">እንኳን በደህና መጡ</string>
+    <string name="next">ቀጥሎ</string>
+    <string name="title_onb_1">ሁሉንም ነገር ተመልከት</string>
+    <string name="content_onb_1">የቀጥታ ቲቪ፣ ስፖርት፣ ፊልም እና ካርቱን በማንኛውም ጊዜ፣ በማንኛውም ቦታ ይድረሱ።</string>
+    <string name="title_onb_2">አጫዋች ዝርዝርዎን ይገንቡ</string>
+    <string name="content_onb_2">የሚወዷቸውን ቻናሎች ያክሉ እና በማንኛውም ጊዜ፣ በቅጽበት ይመልከቱ።</string>
+    <string name="habit_1">የቀጥታ ቲቪ</string>
+    <string name="habit_2">ፊልሞች</string>
+    <string name="habit_3">ስፖርት</string>
+    <string name="habit_4">ዜና</string>
+    <string name="habit_5">ቤተሰብ</string>
+    <string name="habit_6">መዝናኛ</string>
+    <string name="feedback">ግብረ መልስ</string>
+    <string name="rate_now">አሁን ደረጃ ይስጡ</string>
+    <string name="send_feedback">ግብረ መልስ ላክ</string>
+    <string name="cancel">ሰርዝ</string>
+    <string name="please_select_your_language">እባክህ ቋንቋህን ምረጥ</string>
+    <string name="please_choose_at_least_one_option">እባክዎ ቢያንስ አንድ አማራጭ ይምረጡ</string>
+    <string name="try_again">እንደገና ይሞክሩ</string>
+    <string name="got_it">ገባኝ!</string>
+    <string name="_continue">ቀጥል</string>
+    <string name="tutorial">ስልጠና</string>
+    <string name="how_to_add_a_playlist">አጫዋች ዝርዝር እንዴት እንደሚታከል</string>
+    <string name="tutorial_step_1">ማንኛውንም የፍለጋ ሞተር በመጠቀም \"ይፋዊ IPTV አጫዋች ዝርዝር\" ፈልግ።</string>
+    <string name="tutorial_step_2">የM3U አጫዋች ዝርዝር አገናኙን ይቅዱ ወይም የአጫዋች ዝርዝር ፋይሎችን ያስቀምጡ።</string>
+    <string name="tutorial_step_3">መተግበሪያውን እንደገና ይክፈቱ።\nየ \"+\" ቁልፍን ይንኩ ፣ \"አጫዋች ዝርዝር URLን አስመጣ\" የሚለውን ይምረጡ እና አገናኙን ለጥፍ።</string>
+    <string name="tutorial_step_4">የእርስዎን IPTV ቻናሎች በመመልከት ይደሰቱ!</string>
+    <string name="tab_import_url">URL አስመጣ</string>
+    <string name="tab_upload_file">ፋይል ስቀል</string>
+    <string name="tab_stream">ዥረት</string>
+    <string name="tut_url_1">ማንኛውንም የፍለጋ ሞተር በመጠቀም \"ይፋዊ IPTV አጫዋች ዝርዝር\" ፈልግ።</string>
+    <string name="tut_url_2">የM3U አጫዋች ዝርዝር አገናኙን ይቅዱ ወይም አጫዋች ዝርዝሩን ያስቀምጡ።</string>
+    <string name="tut_url_3">መተግበሪያውን እንደገና ይክፈቱ።\nየ \"+\" ቁልፍን ይንኩ ፣ \"አጫዋች ዝርዝር URLን አስመጣ\" የሚለውን ይምረጡ እና አገናኙን ለጥፍ።</string>
+    <string name="tut_url_4">የእርስዎን IPTV ቻናሎች በመመልከት ይደሰቱ!</string>
+    <string name="tut_file_1">ማንኛውንም የፍለጋ ሞተር በመጠቀም \"M3U ፋይል\" ን ይፈልጉ።</string>
+    <string name="tut_file_2">የ.m3u ፋይልን ወደ መሳሪያዎ ያስቀምጡ።</string>
+    <string name="tut_file_3">ወደ አፕሊኬሽኑ ይመለሱ፣ \"+\" የሚለውን ቁልፍ ይንኩ፣ \"M3U ፋይልን ስቀል" የሚለውን ይምረጡ፣ ከዚያ ያወረዱትን ፋይል ይምረጡ።</string>
+    <string name="tut_file_4">የእርስዎን IPTV ቻናሎች በመመልከት ይደሰቱ!</string>
+    <string name="tut_stream_1">ማንኛውንም የፍለጋ ሞተር በመጠቀም \"የወል IPTV ዥረት URL\"ን ፈልግ።</string>
+    <string name="tut_stream_2">ሙሉውን የዥረት ዩአርኤል ወደ ቅንጥብ ሰሌዳዎ ይቅዱ።</string>
+    <string name="tut_stream_3">ወደ አፕሊኬሽኑ ይመለሱ፣ \"+\" የሚለውን ቁልፍ ይንኩ ፣ \"ዥረት አገናኝን አስመጣ\" የሚለውን ይምረጡ ፣ ከዚያ ሊንኩን ይለጥፉ።</string>
+    <string name="tut_stream_4">የእርስዎን IPTV ቻናሎች በመመልከት ይደሰቱ!</string>
+    <string name="unlock_premium">ክፈት</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">ዝርዝር አስተያየት ከሰጡን (ቢያንስ 6 ቁምፊዎች) በትህትና እናደንቃለን።</string>
+    <string name="at_least_6_characters">ቢያንስ 6 ቁምፊዎች</string>
+    <string name="loading">በመጫን ላይ…</string>
+    <string name="install_now">አሁን ጫን</string>
+    <string name="channels">%1$d ሰርጦች</string>
+    <string name="this_action_may_contain_ads">ይህ እርምጃ ማስታወቂያዎችን ሊይዝ ይችላል።</string>
+    <string name="what_do_you_mainly_use_iptv_for">በዋናነት ለምንድነው IPTV የምትጠቀመው?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">በመስመር ላይ የሚገኝ IPTV አጫዋች ዝርዝር (M3U) ያግኙ።</string>
+    <string name="title_1">የM3U ምንጭ ያግኙ</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">የአጫዋች ዝርዝር ማገናኛን ይቅዱ ወይም የM3U ፋይልን ወደ መሳሪያዎ ያውርዱ።</string>
+    <string name="title_2">የአጫዋች ዝርዝር መረጃን ያስቀምጡ</string>
+    <string name="title_3">ወደ መተግበሪያው ይስቀሉ</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">መተግበሪያውን ይክፈቱ → አጫዋች ዝርዝርን ይምረጡ → ከ URL ይምረጡ → አገናኙን ለጥፍ።</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">አጫዋች ዝርዝሩን ይድረሱ እና የሚወዷቸውን ቻናሎች መመልከት ይጀምሩ።</string>
+    <string name="title_4">በይዘትዎ ይደሰቱ</string>
+    <string name="search">ፈልግ…</string>
+    <string name="all">ሁሉም</string>
+    <string name="recent">የቅርብ ጊዜ</string>
+    <string name="favorites">ተወዳጆች</string>
+    <string name="url">ዩአርኤል</string>
+    <string name="file">ፋይል</string>
+    <string name="no_channels_found">ምንም ሰርጦች አልተገኙም።</string>
+    <string name="no_recents">ምንም የቅርብ ጊዜዎች የሉም</string>
+    <string name="play_something_to_begin">ለመጀመር ሚዲያ አጫውት።</string>
+    <string name="import_new_channels_by_tapping_the_button_below">ከታች ያለውን ቁልፍ በመንካት አዳዲስ ቻናሎችን ያስመጡ።</string>
+    <string name="a_z_sort">A-Z ደርድር</string>
+    <string name="z_a_sort">Z-A ደርድር</string>
+    <string name="_0_9_sort">0–9 ደርድር</string>
+    <string name="_9_0_sort">9–0 ደርድር</string>
+    <string name="refresh">አድስ</string>
+    <string name="accept">ተቀበል</string>
+    <string name="license_agreement">የፍቃድ ስምምነት</string>
+    <string name="i_agree">በፍቃድ ስምምነቱ እስማማለሁ።</string>
+    <string name="content_license_agreement">IPTV በተጠቃሚዎች የተፈጠሩ M3U እና JSON አጫዋች ዝርዝሮችን ይደግፋል። ምንም አይነት ይዘት አናቀርብም ወይም አናስተናግድም።\n\nይህ መተግበሪያ በህጋዊ መንገድ ለተገኘ ይዘት ብቻ የታሰበ ነው። አጫዋች ዝርዝሮችህ እና ይዘቶችህ የሚመለከታቸው ህጎች እና ፈቃዶች የሚያከብሩ መሆናቸውን የማረጋገጥ ሃላፊነት አለብህ።\n\nበመቀጠል እነዚህን ውሎች እንደተረዳህ እና እንደተቀበልክ ታረጋግጣለህ።\n\nየኃላፊነት ማስተባበያ\n\nIPTV ምንም አይነት ይዘት አይሰጥም ወይም አያስተዋውቅም እንዲሁም ከሶስተኛ ወገን አቅራቢዎች ጋር ግንኙነት የለውም።\n\nተጠቃሚዎች የራሳቸውን ይዘት ማቅረብ አለባቸው። ያለፈቃድ የቅጂ መብት ያለው ይዘት መልቀቅ በጥብቅ የተከለከለ ነው።</string>
+    <string name="content_1">በመስመር ላይ እንደ "IPTV M3U playlist" ባሉ ቁልፍ ቃላት መፈለግ ወይም በቲቪ/ዥረት አገልግሎት የሚሰጠውን መመሪያ ማረጋገጥ ትችላለህ።\nትክክለኛው የM3U ማገናኛ በተለምዶ፡\n• የሚጀምረው በ http:// ወይም https://\n• በ.m3u ወይም .m3u8 ያበቃል\nበተቻለ ጊዜ ታማኝ እና ህጋዊ ምንጮችን ለመጠቀም ሞክር። አንዳንድ አጫዋች ዝርዝሮች ጊዜያቸው ያለፈባቸው፣ የመግባት ምስክርነቶችን ሊጠይቁ ወይም በክልል ሊገደቡ እንደሚችሉ ልብ ይበሉ።</string>
+    <string name="content_2">የM3U ዩአርኤልን ለመቅዳት፡\n• በሞባይል ላይ፡ ሊንኩን ነካ አድርገው ይይዙት → ሊንኩን ቅዳ\n• በዴስክቶፕ ላይ፡ ሊንኩን በቀኝ ጠቅ ያድርጉ → ማገናኛ አድራሻን ቅዳ\nየአጫዋች ዝርዝር ፋይሉን ለማውረድ፡\n• የ.m3u ወይም .m3u8 ፋይሉን በመሳሪያዎ ላይ በቀላሉ ወደሚገኝበት ቦታ ያስቀምጡ\nበኋላ ፋይሉን በቀጥታ ከአካባቢዎ ማከማቻ ማስገባት ይችላሉ (3)።</string>
+    <string name="content_3">IPTV ስማርት ማጫወቻን ያስጀምሩ።\nአጫዋች ዝርዝርን ምረጥ።\nለማስመጣት አንድ ዘዴ ምረጥ፡\n• በዩአርኤል በኩል → የM3U ማገናኛህን ለጥፍ\n• ከፋይል → አስስ እና የተቀመጠውን .m3u / .m3u8 ፋይል በመሳሪያህ ላይ ምረጥ\n(ከተፈለገ) አጫዋች ዝርዝሩን በኋላ በቀላሉ ለመለየት ብጁ ስም አስገባ\nለመጨረስ አስቀምጥን ንካ።</string>
+    <string name="content_4">ለመተግበሪያው ቻናሎችን እና ምድቦችን ለመጫን ትንሽ ጊዜ ይስጡት።\nየፈለጋችሁትን በፍጥነት ለማግኘት የሰርጡን ዝርዝሩን ያስሱ ወይም የፍለጋ ባህሪውን ይጠቀሙ።\nምንም ይዘት ካልታየ፡\n• የበይነመረብ ግንኙነትዎን ያረጋግጡ\n• የM3U አገናኝ ወይም ፋይሉ አሁንም የሚሰራ እና እየሰራ መሆኑን ያረጋግጡ።</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">መተግበሪያውን መጠቀም ለመቀጠል የበይነመረብ ግንኙነት ያስፈልጋል።\nእባክዎ የአውታረ መረብ ቅንብሮችዎን ያረጋግጡ እና እንደገና ያገናኙ።</string>
+    <string name="retry">እንደገና ይሞክሩ</string>
+    <string name="thank_you_for_using_iptv">IPTV ስለተጠቀሙ እናመሰግናለን</string>
+    <string name="playlist_name">የአጫዋች ዝርዝር ስም</string>
+    <string name="playlist">አጫዋች ዝርዝር</string>
+    <string name="save">አስቀምጥ</string>
+    <string name="password">የይለፍ ቃል</string>
+    <string name="username">የተጠቃሚ ስም</string>
+    <string name="no_file_selected">ምንም ፋይል አልተመረጠም።</string>
+    <string name="m3u_file">M3U ፋይል</string>
+    <string name="playlist_url">የአጫዋች ዝርዝር URL</string>
+    <string name="choose_icon">አዶ ይምረጡ</string>
+    <string name="choose_color">ቀለም ይምረጡ</string>
+    <string name="paste_your_url_here">ዩአርኤልህን እዚህ ለጥፍ</string>
+    <string name="edit">አርትዕ</string>
+    <string name="delete">ሰርዝ</string>
+    <string name="rate_this_app">ለዚህ መተግበሪያ ደረጃ ይስጡት።</string>
+    <string name="tell_us_about_your_experiences">የእርስዎን ተሞክሮዎች ይንገሩን</string>
+    <string name="enter_your_stream_link_here">የዥረት ማገናኛዎን እዚህ ያስገቡ</string>
+    <string name="stream_link">የዥረት አገናኝ</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">የአውታረ መረብ ፕሮቶኮሎችን ይደግፉ፡ http፣ ftp፣ rtsp፣ rtp፣ udp…</string>
+    <string name="channel">ቻናሎች</string>
+    <string name="import_playlist_url">የአጫዋች ዝርዝር URL አስመጣ</string>
+    <string name="load_from_device">ከመሣሪያ ጫን</string>
+    <string name="play_single_stream">ነጠላ ዥረት ይጫወቱ</string>
+    <string name="upload_m3u_file">M3U ፋይልን ስቀል</string>
+    <string name="all_channels">ሁሉም ቻናሎች</string>
+    <string name="playback_error">የመልሶ ማጫወት ስህተት</string>
+    <string name="no_internet_connection">የበይነመረብ ግንኙነት የለም።</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">ይህ ቻናል ለጊዜው አገልግሎት አልቋል ወይም በክልልዎ አይገኝም። እባክዎ ቆይተው እንደገና ይሞክሩ።</string>
+    <string name="lock">ቆልፍ</string>
+    <string name="full_screen">ሙሉ ማያ</string>
+    <string name="pip">ፒፕ</string>
+    <string name="screen_lock_press_to_unlock">የማያ ገጽ መቆለፊያ። ለመክፈት ይጫኑ</string>
+    <string name="delete_playlist">አጫዋች ዝርዝር ይሰረዝ?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">እርግጠኛ ነዎት ይህን አጫዋች ዝርዝር መሰረዝ ይፈልጋሉ? ይህ እርምጃ ሊቀለበስ አይችልም።</string>
+    <string name="yes_delete">አዎ ሰርዝ</string>
+    <string name="error_1">የሚፈለጉትን መስኮች መሙላት ያስፈልግዎታል</string>
+    <string name="error_2">አንዳንድ መስኮች ልክ ያልሆኑ ናቸው።</string>
+    <string name="success_1">በተሳካ ሁኔታ አስመጣ</string>
+    <string name="success_2">በተሳካ ሁኔታ አስቀምጥ</string>
+    <string name="content_rate_1">ከእኛ ጋር ጊዜዎን ከወደዱ፣ እባክዎን ባለ 5-ኮከብ ደረጃ ይተዉ!</string>
+    <string name="content_rate_2">ከእኛ ጋር ጊዜዎን ከወደዱ፣ እባክዎን ባለ 5-ኮከብ ደረጃ ይተዉ!</string>
+    <string name="content_rate_3">ከእኛ ጋር ጊዜዎን ከወደዱ፣ እባክዎን ባለ 5-ኮከብ ደረጃ ይተዉ!</string>
+    <string name="content_rate_4">ፍፁም ማለት ይቻላል? ለዚያ ተጨማሪ ኮከብ እንተጋለን!</string>
+    <string name="content_rate_5">ሙሉ በሙሉ የእኛን ቀን አደረጉ! 🌟 መልካሙን መንፈስ እንቀጥል።</string>
+    <string name="no_results_found_for">ምንም ውጤቶች አልተገኙም።</string>
+    <string name="the_device_does_not_support_pip">መሣሪያው ፒፒፒን አይደግፍም።</string>
+    <string name="video_file_not_found">የቪዲዮ ፋይል አልተገኘም።</string>
+    <string name="minimize">መስኮት አሳንስ</string>
+    <string name="refresh_in_progress_please_wait">አድስ በሂደት ላይ፣ እባክዎ ይጠብቁ…</string>
+    <string name="no_email_app_found">ምንም የኢሜይል መተግበሪያ አልተገኘም!</string>
+    <string name="error_5">አንዳንድ መስኮች ልክ ያልሆኑ ናቸው።</string>
+    <string name="no_favorite_channel_yet">እስካሁን ተወዳጅ ቻናል የለም።</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">የሚወዱትን ቻናል ይፈልጉ እና ለማቆየት ልብን ይንኩ።</string>
+    <string name="refreshed_successfully">በተሳካ ሁኔታ ታድሷል</string>
+    <string name="import_xtream_codes_api">Xtream Codes API አስመጣ</string>
+    <string name="suggestion">ጥቆማ</string>
+    <string name="suggestion_1">ቤተሰብ</string>
+    <string name="suggestion_2">ስፖርት</string>
+    <string name="suggestion_3">ፊልሞች</string>
+    <string name="_100_no_ads">100% ምንም ማስታወቂያዎች የሉም</string>
+    <string name="hd_4d_quality">HD እና 4D ጥራት</string>
+    <string name="premium_channels">ፕሪሚየም ቻናሎች</string>
+    <string name="most_popular">በጣም ታዋቂ</string>
+    <string name="weekly">በየሳምንቱ</string>
+    <string name="monthly">ወርሃዊ</string>
+    <string name="yearly">በየአመቱ</string>
+    <string name="_3_day_free_trial">የ3-ቀን ነጻ ሙከራ</string>
+    <string name="something_went_wrong">የሆነ ችግር ተፈጥሯል።</string>
+    <string name="content_error">እባክዎ ይህን እርምጃ ይከተሉ እና እንደገና ይሞክሩ፡\n1. የአውታረ መረብ ግንኙነትዎን ያረጋግጡ\n2. ወደ ጎግል መለያህ መግባትህን አረጋግጥ\n3። የጉግል ፕሌይ መተግበሪያን ማሄድ መቻልዎን ያረጋግጡ</string>
+    <string name="cancel_anytime">በማንኛውም ጊዜ ይሰርዙ</string>
+    <string name="term_of_use">
+        <u>የአጠቃቀም ጊዜ</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>የግላዊነት ፖሊሲ</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">የእርስዎ ፕሪሚየም ስሪት አሁን ገባሪ ነው። መተግበሪያውን በመጠቀም ይደሰቱ!</string>
+    <string name="payment_success">የክፍያ ስኬት</string>
+    <string name="payment_failed">ክፍያ አልተሳካም።</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">አንድ ትንሽ ጉዳይ ክፍያውን አቆመ. እባክዎ እንደገና ይሞክሩ</string>
+    <string name="go_premium">ወደ ፕሪሚየም ይሂዱ</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">ሁሉንም ባህሪያት ይክፈቱ እና ያለምንም ማስታወቂያ በመተግበሪያው ይደሰቱ!</string>
+    <string name="premium_member">ፕሪሚየም አባል</string>
+    <string name="active_until">እስከ %s ድረስ ገቢር ነው።</string>
+    <string name="sever_url">ዩአርኤል ይከፋፍሉ</string>
+    <string name="find_an_xtream_account">የXtream መለያ ያግኙ</string>
+    <string name="search_for_xtream_code_api_account_online">በመስመር ላይ "Xtream Code API Account" ይፈልጉ።</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">ይዘትህን ለማስቀመጥ እና ለመደሰት መገለጫ አክል የሚለውን ነካ አድርግ።</string>
+    <string name="start_streaming">መልቀቅ ጀምር</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">መተግበሪያውን ይክፈቱ እና የXtream መገለጫ መስኮችን ይሙሉ።</string>
+    <string name="enter_the_information">መረጃውን ያስገቡ</string>
+    <string name="copy_the_server_url_username_and_password">የአገልጋይ URL፣ የተጠቃሚ ስም እና የይለፍ ቃል ቅዳ።</string>
+    <string name="copy_the_account_details">የመለያ ዝርዝሮችን ይቅዱ</string>
+    <string name="how_to_add_an_xtream_profile">የ Xtream መገለጫ እንዴት እንደሚታከል</string>
+    <string name="account_added_successfully">መለያ በተሳካ ሁኔታ ታክሏል።</string>
+    <string name="your_account_is_ready_to_use">መለያዎ ለመጠቀም ዝግጁ ነው።</string>
+    <string name="view_now">አሁን ይመልከቱ</string>
+    <string name="later">በኋላ</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">መመልከት ለመጀመር የመጀመሪያውን አጫዋች ዝርዝርዎን ያክሉ</string>
+    <string name="title_slider_1">ስፖርት በቀጥታ በስልክ ይልቀቁ</string>
+    <string name="action_try_now">አሁን ይሞክሩ</string>
+    <string name="title_slider_2">የፊልም አጫዋች ዝርዝርዎን ይገንቡ</string>
+    <string name="title_slider_3">ያለማስታወቂያ ሁሉንም ባህሪያት ይደሰቱ</string>
+    <string name="tap_to_search">ለመፈለግ ይንኩ</string>
+    <string name="sports_hub">ስፖርት ሂብ</string>
+    <string name="wc_schedule">መርሐግብሮች</string>
+    <string name="wc_team">球队ድሎች</string>
+    <string name="wc_standing">ደረጃ</string>
+    <string name="wc_today">ዛሬ</string>
+    <string name="wc_upcoming">የሚመጣ</string>
+    <string name="wc_full_time">ሙሉ ጊዜ</string>
+    <string name="wc_live">ቀጥታ</string>
+    <string name="wc_no_matches">ምንም ግጥሞች አልተገኙም</string>
+    <string name="wc_no_standings">ምንም ደረጃ አይገኙም</string>
+    <string name="wc_remind_me">ያስታውሱኝ</string>
+    <string name="wc_updating">እየዘመነ…</string>
+    <string name="wc_match_detail">ግጥም ዝርዝር</string>
+    <string name="wc_events">ክስተቶች</string>
+    <string name="wc_no_events">ምንም ዝግጅቶች አይገኙም</string>
+    <string name="wc_no_events_desc">ግጥሙ ገና አልጀመረም። ማስታወሻ ያዘጋጁ ይህም ምንም እንቅስቃሴ እንዳይረሱ።</string>
+    <string name="wc_switch_team">球队ድል ቀይር</string>
+    <string name="wc_bracket">ቅንፍ</string>
+    <string name="wc_round_of_32">32 ዙር</string>
+    <string name="wc_starting_soon">በቅርቡ ይጀምራል</string>
+    <string name="wc_round_of_16">16 ዙር</string>
+    <string name="wc_quarter_finals">ሩብ ፈጻሚዎች</string>
+    <string name="wc_semi_finals">ከፊል ፈጻሚዎች</string>
+    <string name="wc_final">ፈጻሚ</string>
+    <string name="wc_no_bracket">ምንም ቅንፍ ውሂብ አይገኙም</string>
+    <string name="wc_no_matches_today">ዛሬ ምንም ግጥሞች የሉም</string>
+    <string name="wc_upcoming_fixtures">የሚመጣ ግብዓቶች እዚህ ይታያሉ</string>
+    <string name="wc_no_recent">ምንም ቅርብ ግጥሞች የሉም</string>
+    <string name="wc_no_upcoming">ምንም የሚመጣ ግጥም የሉም</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">ማስታወሻዎችን ያንቁ</string>
+    <string name="noti_enable_desc">ግጥም ማስታወሻ፣ አዲስ ይዘት ዝመናዎች እና አስፈላጊ ስትሪሚንግ ማንቂያዎችን ይቀበሉ።</string>
+    <string name="noti_go_to_setting">ወደ ቅንብር ይሂዱ</string>
+    <string name="visit_sports_hub">ስፖርት ሂብ ይጎብኙ</string>
+    <string name="_3rd_place_final">3ኛ ቦታ ፈጻሚ</string>
+    <string name="_16th_finals">16ኛ ፋይናል</string>
+    <string name="ranking_of_third_placed_teams">የሦስተኛ ቦታ 球队ድሎች ደረጃ</string>
+    <string name="out">"ውፅዓት: "</string>
+    <string name="_in">"ውፅዓት: "</string>
+    <string name="_2nd_half">2ኛ ግማሽ</string>
+    <string name="_1st_half">1ኛ ግማሽ</string>
+    <string name="asst">ረዳት. %1$s</string>
+    <string name="out_s">ውፅዓት: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">ግጥሙ ተጠናቅቋል። ሙሉ ውጤቱን ለማየት ትግበራውን ክፈት።</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">በ15 ደቂቃ ውስጥ ጀምር። ለመከተል ትግበራውን ክፈት።</string>
+    <string name="live_now">አሁን ライ브します</string>
+    <string name="full_time">ሙሉ ጊዜ</string>
+    <string name="_2nd_group">2ኛ ቡድን %1$s</string>
+    <string name="_1st_group">1ኛ ቡድን %1$s</string>
+    <string name="eighth_finals">1/8 ፋይናል</string>
+    <string name="quarter_finals">ሩብ ፋይናል</string>
+    <string name="semi_finals">ከፊል ፋይናል</string>
+    <string name="winner">አሸናፊ</string>
+    <string name="loser">ተሸናፊ</string>
+    <string name="round_of_32">32ኛ ዙር</string>
+    <string name="round_of_16">16ኛ ዙር</string>
+    <string name="_3rd_place">3ኛ ቦታ</string>
+    <string name="_final">ፍinal</string>
+    <string name="group_stage">ቡድን ደረጃ</string>
+    <string name="round">ዙር %1$d</string>
+    <string name="group">ቡድን </string>
+    <string name="_1st">1ኛ</string>
+    <string name="_2nd">2ኛ</string>
+    <string name="_3rd">3ኛ</string>
+    <string name="th">%1$dኛ</string>
+    <string name="remind_set"> reminder ተዘጋጅቷል</string>
+    <string name="remind_removed">reminder ተወግዷል</string>
+    <string name="_et1">ተጨማሪ ጊዜ 1ኛ ግማሽ</string>
+    <string name="_et2">ተጨማሪ ጊዜ 2ኛ ግማሽ</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">ተጫወት</string>
+    <string name="add_similar_items">ተመሳሳይ ነገሮችን ጨምር</string>
+    <string name="see_more">ተጨማሪ ይመልከቱ</string>
+    <string name="see_less">ብዙ ሳይታይ</string>
+    <string name="view_all">ሁሉንም ይመልከቱ</string>
+    <string name="home">መነገር</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">አሁን ライቭ</string>
+    <string name="recommended_for_you">ለእርስዎ ታይሮች</string>
+    <string name="new_series">አዲስ ተከታታይ</string>
+    <string name="live_badge">ライቭ</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes አስተreliable IPTV streaming experience ይሰጣል።</string>
+    <string name="live_tv">ライቭ ቴሌቪዥን</string>
+    <string name="movies">ፊልሞች</string>
+    <string name="series">ተከታታይ</string>
+    <string name="add_profile">መገለጫ ጨምር</string>
+    <string name="choose_your_profile">መገለጫዎን ይምረጡ</string>
+    <string name="my_favorite">የእኔ ተወዳጅ</string>
+    <string name="live_channel">ライቭ ቻናል</string>
+    <string name="your_favorite_list_is_empty">የእርስዎ ተወዳጅ ዝርዝር ባዶ ነው</string>
+    <string name="edit_profile">መገለጫ ተርትር</string>
+    <string name="profile_name">መገለጫ ስም</string>
+    <string name="delete_profile">መገለጫ ሰርዝ</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">ይህን መገለጫ መሰረዝ እርግጠኛ ነዎት?</string>
+    <string name="no_browser_found">ፍለጋውን ለመክፈት ምንም መተግበሪያ አልተገኘም</string>
+    <string name="reminder_noon_title_1">የመዳፈን ጊዜ ነው 🧠</string>
+    <string name="reminder_noon_body_1">አእምሮዎን ለማነቃቃት አንድ ክፍል ብቻ በቂ ነው!</string>
+    <string name="reminder_noon_title_2">ጥቂት ደቂቃዎች አሉዎት? 🎬</string>
+    <string name="reminder_noon_body_2">ቻናሎችዎ በአንድ ንክኪ ርቀት ላይ ናቸው።</string>
+    <string name="reminder_noon_title_3">ቻናሎችዎ እየጠበቁዎት ነው 📺</string>
+    <string name="reminder_noon_body_3">ቀጥታ ስርጭት፣ ፊልሞች እና ተከታታዮች — ሁሉም በአንድ ቦታ።</string>
+    <string name="reminder_evening_title_1">ፕራይም ታይም ተጀምሯል 🔥</string>
+    <string name="reminder_evening_body_1">ቻናሎችዎ አሁን ቀጥታ እየተላለፉ ናቸው።</string>
+    <string name="reminder_evening_title_2">ዛሬ ማታ ምን አለ? ⚽</string>
+    <string name="reminder_evening_body_2">ቀጥታ ስፖርት፣ አዲስ ክፍሎች እና ተጨማሪ።</string>
+    <string name="reminder_evening_title_3">ዛሬ ማታ በቴሌቪዥን 📺</string>
+    <string name="reminder_evening_body_3">ቀጥታ ቻናሎች፣ ፊልሞች እና ተከታታዮች — ሁሉም እዚህ አሉ።</string>
+    <string name="reminder_no_playlist_title">ቴሌቪዥንዎ እየጠበቀ ነው 📺</string>
+    <string name="reminder_no_playlist_body">ማጫወቻ ዝርዝርዎን ይጨምሩ እና መመልከት ይጀምሩ።</string>
+    <string name="reminder_playlist_ready_title">ሁሉም ነገር ዝግጁ ነው! ✅</string>
+    <string name="reminder_playlist_ready_body">ተወዳጅ ቻናልዎን ለመመልከት ይንኩ።</string>
+    <string name="noti_enable_title_ver_2">%1$s ማሳወቂያዎችን እንዲልክልዎት ይፍቀዱ</string>
+    <string name="noti_enable_desc_ver_2">የቀጥታ ቴሌቪዥን ማስታወሻዎችን፣ አዲስ የፊልም ዝማኔዎችን እና አስፈላጊ የዥረት ማንቂያዎችን ያግኙ</string>
+    <string name="deny">አትቀበል</string>
+    <string name="allow">ፍቀድ</string>
+    <string name="tut_xtream_1">ማንኛውንም የፍለጋ ሞተር በመጠቀም “Xtream Code API Account”ን ይፈልጉ</string>
+    <string name="tut_xtream_2">“Format” ወይም “Playlist” ክፍልን ያግኙ እና የ Xtream መለያ መረጃን ይቅዱ</string>
+    <string name="tut_xtream_3">ወደ መተግበሪያው ይመለሱ፣ የ&quot;+&quot; ቁልፍን ይንኩ፣ &quot;Import Stream Link&quot;ን ይምረጡ፣ ከዚያም አገናኙን ይለጥፉ።</string>
+    <string name="tut_xtream_4">Xtream መመልከትን ይደሰቱ</string>
+    <string name="how_to_add_xtream_profile">
+        <u>የXtream መገለጫ እንዴት እንደሚጨመር</u>
+    </string>
+</resources>

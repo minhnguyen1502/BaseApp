@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Default nga pinulongan</string>
+    <string name="setting">Setting</string>
+    <string name="language">Pinulongan</string>
+    <string name="privacy_policy">Polisiya sa pagkapribado</string>
+    <string name="get_started">Pagsugod</string>
+    <string name="welcome">Welcome sa</string>
+    <string name="next">Sunod</string>
+    <string name="title_onb_1">Tan-awa ang Tanan</string>
+    <string name="content_onb_1">Pag-access sa live TV, sports, sine, ug cartoon bisan kanus-a, bisan asa.</string>
+    <string name="title_onb_2">Paghimo sa Imong Playlist</string>
+    <string name="content_onb_2">Pagdugang mga channel nga imong gihigugma ug tan-awa kini bisan kanus-a, dayon.</string>
+    <string name="habit_1">Live nga TV</string>
+    <string name="habit_2">Mga salida</string>
+    <string name="habit_3">isport</string>
+    <string name="habit_4">Balita</string>
+    <string name="habit_5">Pamilya</string>
+    <string name="habit_6">Kalingawan</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_now">Rate Karon</string>
+    <string name="send_feedback">Ipadala ang Feedback</string>
+    <string name="cancel">Pagkanselar</string>
+    <string name="please_select_your_language">Palihug pilia ang imong pinulongan</string>
+    <string name="please_choose_at_least_one_option">Palihug pagpili ug labing menos usa ka kapilian</string>
+    <string name="try_again">Sulayi Pag-usab</string>
+    <string name="got_it">Nakasabot na!</string>
+    <string name="_continue">Padayon</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="how_to_add_a_playlist">Unsaon pagdugang ug Playlist</string>
+    <string name="tutorial_step_1">Pangitaa ang \"public IPTV playlist\" gamit ang bisan unsang search engine.</string>
+    <string name="tutorial_step_2">Kopyaha ang M3U playlist link o i-save ang mga file sa playlist.</string>
+    <string name="tutorial_step_3">Ablihi ang app pag-usab.\nI-tap ang \"+\" nga buton, pilia ang \"Import Playlist URL\", ug idikit ang link.</string>
+    <string name="tutorial_step_4">Malingaw sa pagtan-aw sa imong mga channel sa IPTV!</string>
+    <string name="tab_import_url">I-import ang URL</string>
+    <string name="tab_upload_file">Pag-upload sa file</string>
+    <string name="tab_stream">Stream</string>
+    <string name="tut_url_1">Pangitaa ang \"public IPTV playlist\" gamit ang bisan unsang search engine.</string>
+    <string name="tut_url_2">Kopyaha ang M3U playlist link o i-save ang playlist file.</string>
+    <string name="tut_url_3">Ablihi ang app pag-usab.\nI-tap ang \"+\" nga buton, pilia ang \"Import Playlist URL\", ug idikit ang link.</string>
+    <string name="tut_url_4">Malingaw sa pagtan-aw sa imong mga channel sa IPTV!</string>
+    <string name="tut_file_1">Pangitaa ang \"M3U file\" gamit ang bisan unsang search engine.</string>
+    <string name="tut_file_2">I-save ang .m3u file sa imong device.</string>
+    <string name="tut_file_3">Balik sa app, i-tap ang \"+\" button, pilia ang \"Upload M3U File\", unya pilia ang file nga imong gi-download.</string>
+    <string name="tut_file_4">Malingaw sa pagtan-aw sa imong mga channel sa IPTV!</string>
+    <string name="tut_stream_1">Pangitaa ang \"public IPTV stream URL\" gamit ang bisan unsang search engine.</string>
+    <string name="tut_stream_2">Kopyaha ang tibuok stream URL sa imong clipboard.</string>
+    <string name="tut_stream_3">Balik sa app, i-tap ang \"+\" buton, pilia ang \"Import Stream Link\", unya idikit ang link.</string>
+    <string name="tut_stream_4">Malingaw sa pagtan-aw sa imong mga channel sa IPTV!</string>
+    <string name="unlock_premium">Unlock</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Kami maluloton nga magpasalamat kung makahatag ka kanamo ug detalyado nga feedback (labing menos 6 nga mga karakter)</string>
+    <string name="at_least_6_characters">Labing menos 6 ka karakter</string>
+    <string name="loading">Nagkarga…</string>
+    <string name="install_now">I-install karon</string>
+    <string name="channels">%1$d nga mga channel</string>
+    <string name="this_action_may_contain_ads">Kini nga aksyon mahimong adunay mga ad</string>
+    <string name="what_do_you_mainly_use_iptv_for">Unsa ang imong gigamit sa panguna IPTV?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Pangita og IPTV playlist (M3U) nga anaa online.</string>
+    <string name="title_1">Pangitaa ang M3U Source</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Kopyaha ang link sa playlist o i-download ang M3U file sa imong device.</string>
+    <string name="title_2">I-save ang Impormasyon sa Playlist</string>
+    <string name="title_3">I-upload sa App</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Ablihi ang app → pilia ang Add Playlist → pilia Gikan sa URL → idikit ang link.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Pag-access sa playlist ug pagsugod sa pagtan-aw sa imong paborito nga mga channel.</string>
+    <string name="title_4">Malingaw sa Imong Kontento</string>
+    <string name="search">Pangitaa…</string>
+    <string name="all">Tanan</string>
+    <string name="recent">Bag-o</string>
+    <string name="favorites">Mga paborito</string>
+    <string name="url">URL</string>
+    <string name="file">file</string>
+    <string name="no_channels_found">Walay nakit-an nga mga channel</string>
+    <string name="no_recents">Walay mga bag-o</string>
+    <string name="play_something_to_begin">Pagdula sa media aron magsugod</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Pag-import ug bag-ong mga channel pinaagi sa pag-tap sa buton sa ubos.</string>
+    <string name="a_z_sort">Pagsunud sa A-Z</string>
+    <string name="z_a_sort">Z-A Pagtatabi</string>
+    <string name="_0_9_sort">0–9 Pagsunud-sunod</string>
+    <string name="_9_0_sort">9–0 Paghan-ay</string>
+    <string name="refresh">I-refresh</string>
+    <string name="accept">Dawata</string>
+    <string name="license_agreement">Kasabutan sa Lisensya</string>
+    <string name="i_agree">Miuyon ko sa Kasabutan sa Lisensya</string>
+    <string name="content_license_agreement">Gisuportahan sa IPTV ang mga playlist sa M3U ug JSON nga gihimo sa mga tiggamit. Wala kami naghatag o nag-host sa bisan unsang sulud.\n\nKini nga app gituyo lamang alang sa legal nga nakuha nga sulud. Ikaw ang responsable sa pagsiguro nga ang imong mga playlists ug ang sulod nagsunod sa angay nga mga balaod ug mga permiso.\n\nPinaagi sa pagpadayon, imong gikumpirma nga imong nasabtan ug gidawat kini nga mga termino.\n\nDisclaimer\n\nAng IPTV wala maghatag o nagpasiugda sa bisan unsa nga sulod ug dili kauban sa mga third-party nga providers.\n\nAng mga tiggamit kinahanglan nga maghatag sa ilang kaugalingong sulod. Ang dili awtorisado nga pag-streaming sa copyrighted nga materyal kusganon nga gi-discourage.</string>
+    <string name="content_1">Makapangita ka online gamit ang mga keyword sama sa “IPTV M3U playlist” o susiha ang giya nga gihatag sa imong TV/streaming nga serbisyo.\nUsa ka tukma nga M3U nga link kasagaran:\n• Nagsugod sa http:// o https://\n• Nagtapos sa .m3u o .m3u8\nSulayi paggamit ang kasaligan ug legal nga tinubdan kung mahimo. Timan-i nga ang pipila ka mga playlist mahimong mo-expire, magkinahanglan og mga kredensyal sa pag-login, o limitado sa rehiyon.</string>
+    <string name="content_2">Para kopyahon ang M3U URL:\n• Sa mobile: I-tap ug pugngi ang link → pilia ang Copy link\n• Sa desktop: I-right-click ang link → pilia ang Copy link address\nAron i-download ang playlist file:\n• I-save ang .m3u o .m3u8 file sa usa ka sayon ​​​​nga ma-access nga lokasyon sa imong device\nMahimo nimong i-import ang file direkta gikan sa imong lokal nga storage3 (tan-awa ang Lakang 3).</string>
+    <string name="content_3">Ilunsad ang IPTV Smart Player.\nPilia ang Add Playlist.\nPilia ang usa ka paagi sa pag-import:\n• Pinaagi sa URL → Idikit ang imong M3U link\n• Gikan sa File → I-browse ug pilia ang gitipigan nga .m3u / .m3u8 file sa imong device\n(Opsyonal) Pagsulod ug custom nga ngalan aron dali nga mailhan ang imong playlist unya\nI-tap ang Save para mahuman.</string>
+    <string name="content_4">Hatagi ug kadiyot ang app sa pag-load sa mga channel ug mga kategorya.\nI-explore ang lista sa channel o gamita ang feature sa Search para dali nga makit-an ang imong gusto.\nKung walay makita nga content:\n• Susiha ang imong koneksyon sa internet\n• Siguruha nga ang M3U link o file balido gihapon ug nagtrabaho</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Gikinahanglan ang koneksyon sa internet aron makapadayon sa paggamit sa app.\nPalihug susiha ang imong network settings ug pagkonektar pag-usab.</string>
+    <string name="retry">Sulayi pag-usab</string>
+    <string name="thank_you_for_using_iptv">Salamat sa paggamit sa IPTV</string>
+    <string name="playlist_name">Ngalan sa Playlist</string>
+    <string name="playlist">Playlist</string>
+    <string name="save">Pagtipig</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="no_file_selected">Walay file nga gipili</string>
+    <string name="m3u_file">M3U File</string>
+    <string name="playlist_url">URL sa playlist</string>
+    <string name="choose_icon">Pilia ang Icon</string>
+    <string name="choose_color">Pilia ang Kolor</string>
+    <string name="paste_your_url_here">Idikit ang imong URL dinhi</string>
+    <string name="edit">I-edit</string>
+    <string name="delete">Pagtangtang</string>
+    <string name="rate_this_app">I-rate kini nga app</string>
+    <string name="tell_us_about_your_experiences">Sultihi kami bahin sa imong mga kasinatian</string>
+    <string name="enter_your_stream_link_here">Ibutang ang imong link sa stream dinhi</string>
+    <string name="stream_link">Link sa stream</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Pagsuporta sa mga protocol sa network: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Mga kanal</string>
+    <string name="import_playlist_url">Import nga Playlist URL</string>
+    <string name="load_from_device">Pag-load Gikan sa Device</string>
+    <string name="play_single_stream">Pagdula usa ka sapa</string>
+    <string name="upload_m3u_file">Pag-upload sa M3U File</string>
+    <string name="all_channels">Tanan nga mga Channel</string>
+    <string name="playback_error">Sayop sa Playback</string>
+    <string name="no_internet_connection">Walay Koneksyon sa Internet</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Kini nga channel temporaryo nga wala sa serbisyo o wala magamit sa imong rehiyon. Palihug sulayi pag-usab unya.</string>
+    <string name="lock">I-lock</string>
+    <string name="full_screen">Bug-os nga screen</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Lock sa screen. Pindota aron maablihan</string>
+    <string name="delete_playlist">I-delete ang Playlist?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Sigurado ka ba nga gusto nimong papason kini nga playlist? Kini nga aksyon dili na mabawi.</string>
+    <string name="yes_delete">Oo, delete</string>
+    <string name="error_1">Kinahanglan nimong pun-on ang gikinahanglan nga mga natad</string>
+    <string name="error_2">Ang ubang mga natad dili balido</string>
+    <string name="success_1">Malampuson nga import</string>
+    <string name="success_2">Malampuson nga pagluwas</string>
+    <string name="content_rate_1">Kung gihigugma nimo ang imong oras uban kanamo, palihug ibilin ang usa ka 5-star nga rating!</string>
+    <string name="content_rate_2">Kung gihigugma nimo ang imong oras uban kanamo, palihug ibilin ang usa ka 5-star nga rating!</string>
+    <string name="content_rate_3">Kung gihigugma nimo ang imong oras uban kanamo, palihug ibilin ang usa ka 5-star nga rating!</string>
+    <string name="content_rate_4">Halos perpekto? Maningkamot kami alang sa dugang nga bituon!</string>
+    <string name="content_rate_5">Gibuhat nimo ang among adlaw! 🌟 Ipadayon nato ang good vibes.</string>
+    <string name="no_results_found_for">Walay resulta nga nakit-an para sa</string>
+    <string name="the_device_does_not_support_pip">Ang device wala mosuporta sa PiP.</string>
+    <string name="video_file_not_found">Wala makit-an ang video file</string>
+    <string name="minimize">Pagmenos sa bintana</string>
+    <string name="refresh_in_progress_please_wait">Nagpadayon ang pag-refresh, palihug paghulat…</string>
+    <string name="no_email_app_found">Walay email app nga nakit-an!</string>
+    <string name="error_5">Ang ubang mga natad dili balido</string>
+    <string name="no_favorite_channel_yet">Wala pay paborito nga channel</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Pangita og channel nga imong gusto ug i-tap ang kasingkasing aron matipigan kini.</string>
+    <string name="refreshed_successfully">Malampuson nga na-refresh</string>
+    <string name="import_xtream_codes_api">I-import ang Xtream Codes API</string>
+    <string name="suggestion">Sugyot</string>
+    <string name="suggestion_1">Pamilya</string>
+    <string name="suggestion_2">isport</string>
+    <string name="suggestion_3">Mga salida</string>
+    <string name="_100_no_ads">100% Walay Ads</string>
+    <string name="hd_4d_quality">HD ug 4D nga kalidad</string>
+    <string name="premium_channels">Mga Premium nga Channel</string>
+    <string name="most_popular">Labing popular</string>
+    <string name="weekly">Kada semana</string>
+    <string name="monthly">Kada bulan</string>
+    <string name="yearly">Matag tuig</string>
+    <string name="_3_day_free_trial">3 ka adlaw nga libre nga pagsulay</string>
+    <string name="something_went_wrong">Naay nahitabo</string>
+    <string name="content_error">Palihug sunda kini nga lakang ug sulayi pag-usab:\n1. Susiha ang imong koneksyon sa network\n2. Siguroha nga naka-log in ka sa imong Google account\n3. Siguruha nga mahimo nimong mapadagan ang aplikasyon sa Google play</string>
+    <string name="cancel_anytime">Pagkansela bisan kanus-a</string>
+    <string name="term_of_use">
+        <u>Termino sa paggamit</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Polisiya sa pagkapribado</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Ang imong Premium nga bersyon kay aktibo na. Malingaw sa paggamit sa app!</string>
+    <string name="payment_success">Kalampusan sa Pagbayad</string>
+    <string name="payment_failed">Napakyas ang pagbayad</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Usa ka gamay nga isyu mihunong sa pagbayad. Palihug sulayi pag-usab</string>
+    <string name="go_premium">Lakaw sa Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">I-unlock ang tanan nga mga bahin ug pahimusli ang app nga wala’y mga ad!</string>
+    <string name="premium_member">Premium nga Miyembro</string>
+    <string name="active_until">Aktibo hangtod sa %s</string>
+    <string name="sever_url">Pagputol sa URL</string>
+    <string name="find_an_xtream_account">Pangita ug Xtream account</string>
+    <string name="search_for_xtream_code_api_account_online">Pangitaa ang "Xtream Code API Account" online.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">I-tap ang Add Profile aron ma-save ug malingaw sa imong content.</string>
+    <string name="start_streaming">Pagsugod sa streaming</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Ablihi ang app ug pun-a ang Xtream profile fields.</string>
+    <string name="enter_the_information">Isulod ang impormasyon</string>
+    <string name="copy_the_server_url_username_and_password">Kopyaha ang Server URL, Username, ug Password.</string>
+    <string name="copy_the_account_details">Kopyaha ang mga detalye sa account</string>
+    <string name="how_to_add_an_xtream_profile">Giunsa Pagdugang usa ka Profile sa Xtream</string>
+    <string name="account_added_successfully">Malampuson nga nadugang ang account</string>
+    <string name="your_account_is_ready_to_use">Ang imong account andam nang gamiton</string>
+    <string name="view_now">Tan-awa karon</string>
+    <string name="later">Sa ulahi</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Idugang ang imong unang playlist aron magsugod sa pagtan-aw</string>
+    <string name="title_slider_1">Pag-stream sa Sports Live sa Telepono</string>
+    <string name="action_try_now">Sulayi karon</string>
+    <string name="title_slider_2">Paghimo sa imong Playlist sa Pelikula</string>
+    <string name="title_slider_3">Malingaw sa tanang feature nga walay ads</string>
+    <string name="tap_to_search">I-tap para maghanap</string>
+    <string name="sports_hub">Sentro sa Palakasan</string>
+    <string name="wc_schedule">Mga Iskedyul</string>
+    <string name="wc_team">Mga Team</string>
+    <string name="wc_standing">Mga Standing</string>
+    <string name="wc_today">Ngayong Araw</string>
+    <string name="wc_upcoming">Paparating</string>
+    <string name="wc_full_time">Full time</string>
+    <string name="wc_live">Live</string>
+    <string name="wc_no_matches">Walang mga laban na nahanap</string>
+    <string name="wc_no_standings">Walang standings na available</string>
+    <string name="wc_remind_me">Paalahanin ako</string>
+    <string name="wc_updating">Ina-update…</string>
+    <string name="wc_match_detail">Detalye ng Laban</string>
+    <string name="wc_events">Mga Kaganapan</string>
+    <string name="wc_no_events">Walang mga kaganapan na available</string>
+    <string name="wc_no_events_desc">Ang laban ay hindi pa nagsimula. Magtakda ng reminder upang hindi ka makaligtaan ng anumang aksyon.</string>
+    <string name="wc_switch_team">Magpalit ng Team</string>
+    <string name="wc_bracket">Bracket</string>
+    <string name="wc_round_of_32">Round of 32</string>
+    <string name="wc_starting_soon">Magsisimula na kaagad</string>
+    <string name="wc_round_of_16">Round of 16</string>
+    <string name="wc_quarter_finals">Quarter-finals</string>
+    <string name="wc_semi_finals">Semi-finals</string>
+    <string name="wc_final">Final</string>
+    <string name="wc_no_bracket">Walang bracket data na available</string>
+    <string name="wc_no_matches_today">Walang Mga Laban Ngayong Araw</string>
+    <string name="wc_upcoming_fixtures">Ang mga darating na fixtures ay makikita dito</string>
+    <string name="wc_no_recent">Walang mga kamakailang laban</string>
+    <string name="wc_no_upcoming">Walang darating na mga laban</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Paganahin ang Mga Notification</string>
+    <string name="noti_enable_desc">Makakuha ng mga reminder sa laban, mga update ng bagong content, at mahalagang streaming alerts.</string>
+    <string name="noti_go_to_setting">Pumunta sa setting</string>
+    <string name="visit_sports_hub">Bisitahin ang Sports Hub</string>
+    <string name="_3rd_place_final">Ika-3 nga Pwesto sa Katapusan</string>
+    <string name="_16th_finals">Ika-16 nga Katapusang Panagsangka</string>
+    <string name="ranking_of_third_placed_teams">Ranking ng third-placed teams</string>
+    <string name="out">"Out: "</string>
+    <string name="_in">"In: "</string>
+    <string name="_2nd_half">2nd Half</string>
+    <string name="_1st_half">1st Half</string>
+    <string name="asst">Asst. %1$s</string>
+    <string name="out_s">Out: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Ang laban ay tapos na. Buksan ang app para sa buong resulta.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Kickoff sa loob ng 15 minuto. Buksan ang app upang sumunod.</string>
+    <string name="live_now">Mabuhi karon</string>
+    <string name="full_time">Bug-os nga oras</string>
+    <string name="_2nd_group">2nd Group %1$s</string>
+    <string name="_1st_group">1st Group %1$s</string>
+    <string name="eighth_finals">Eighth-Finals</string>
+    <string name="quarter_finals">Quarter-Finals</string>
+    <string name="semi_finals">Semi-Finals</string>
+    <string name="winner">Nanalo</string>
+    <string name="loser">Nawala</string>
+    <string name="round_of_32">Round sa 32</string>
+    <string name="round_of_16">Round sa 16</string>
+    <string name="_3rd_place">Ika-3 nga Pwesto</string>
+    <string name="_final">Katapusan</string>
+    <string name="group_stage">Group Stage</string>
+    <string name="round">Round %1$d</string>
+    <string name="group">Grupo</string>
+    <string name="_1st">1st</string>
+    <string name="_2nd">2nd</string>
+    <string name="_3rd">3rd</string>
+    <string name="th">%1$dth</string>
+    <string name="remind_set">Natakda ang Reminder</string>
+    <string name="remind_removed">Tinanggal ang Reminder</string>
+    <string name="_et1">Extra Time 1st Half</string>
+    <string name="_et2">Extra Time 2nd Half</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">I-play</string>
+    <string name="add_similar_items">Magdagdag ng katulad na mga item</string>
+    <string name="see_more">Makita ang higit pa</string>
+    <string name="see_less">Makita ang mas kaunti</string>
+    <string name="view_all">Tingnan ang lahat</string>
+    <string name="home">Tahanan</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Live Ngayon</string>
+    <string name="recommended_for_you">Inirerekomenda Para sa Iyo</string>
+    <string name="new_series">Bagong Series</string>
+    <string name="live_badge">LIVE</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Ang Xtream Codes ay nagbibigay ng maaasahang IPTV streaming experience.</string>
+    <string name="live_tv">Live TV</string>
+    <string name="movies">Mga Pelikula</string>
+    <string name="series">Series</string>
+    <string name="add_profile">Magdagdag ng Profile</string>
+    <string name="choose_your_profile">Piliin ang Iyong Profile</string>
+    <string name="my_favorite">Aking Paboritong</string>
+    <string name="live_channel">Live Channel</string>
+    <string name="your_favorite_list_is_empty">Ang iyong paboritong listahan ay walang laman</string>
+    <string name="edit_profile">I-edit ang Profile</string>
+    <string name="profile_name">Pangalan ng Profile</string>
+    <string name="delete_profile">Burahin ang Profile</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Sigurado ka ba na gusto mong burahin ang profile na ito?</string>
+    <string name="no_browser_found">Walay nakit-ang app aron ablihan ang pagpangita</string>
+    <string name="reminder_noon_title_1">Oras na para mag-reset 🧠</string>
+    <string name="reminder_noon_body_1">Usa lang ka episode aron mapreskuhan ang imong hunahuna!</string>
+    <string name="reminder_noon_title_2">Adunay pipila ka minuto? 🎬</string>
+    <string name="reminder_noon_body_2">Ang imong mga channel usa lang ka tap ang layo.</string>
+    <string name="reminder_noon_title_3">Ang imong mga channel nagpaabot 📺</string>
+    <string name="reminder_noon_body_3">Live TV, mga sine &amp; series — tanan sa usa ka dapit.</string>
+    <string name="reminder_evening_title_1">Nagsugod na ang prime time 🔥</string>
+    <string name="reminder_evening_body_1">Ang imong mga channel live na karon.</string>
+    <string name="reminder_evening_title_2">Unsay naa karong gabii? ⚽</string>
+    <string name="reminder_evening_body_2">Live sports, bag-ong episode &amp; uban pa.</string>
+    <string name="reminder_evening_title_3">Karong gabii sa TV 📺</string>
+    <string name="reminder_evening_body_3">Live nga mga channel, sine &amp; series — tanan naa diri.</string>
+    <string name="reminder_no_playlist_title">Ang imong TV nagpaabot 📺</string>
+    <string name="reminder_no_playlist_body">Idugang ang imong playlist ug sugdi ang pagtan-aw.</string>
+    <string name="reminder_playlist_ready_title">Andam na ang tanan! ✅</string>
+    <string name="reminder_playlist_ready_body">I-tap aron matan-aw ang imong paboritong channel.</string>
+    <string name="noti_enable_title_ver_2">Tugoti ang %1$s nga magpadala kanimo og mga notification</string>
+    <string name="noti_enable_desc_ver_2">Pagkuha og live TV nga mga pahinumdom, bag-ong pag-update sa sine, ug importanteng streaming nga mga alerto</string>
+    <string name="deny">Balibaran</string>
+    <string name="allow">Tugoti</string>
+    <string name="tut_xtream_1">Pangitaa ang “Xtream Code API Account” gamit ang bisan unsang search engine</string>
+    <string name="tut_xtream_2">Pangitaa ang “Format” o “Playlist” nga seksyon ug kopyaha ang Xtream account nga impormasyon</string>
+    <string name="tut_xtream_3">Balik sa app, i-tap ang &quot;+&quot; nga buton, pilia ang &quot;Import Stream Link&quot;, dayon i-paste ang link.</string>
+    <string name="tut_xtream_4">Palabihi ang pagtan-aw og Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Giunsa pagdugang ang Xtream Profile</u>
+    </string>
+</resources>

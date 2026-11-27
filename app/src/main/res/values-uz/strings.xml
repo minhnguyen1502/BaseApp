@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Standart til</string>
+    <string name="setting">Sozlama</string>
+    <string name="language">Til</string>
+    <string name="privacy_policy">Maxfiylik siyosati</string>
+    <string name="get_started">Boshlash</string>
+    <string name="welcome">Xush kelibsiz</string>
+    <string name="next">Keyingisi</string>
+    <string name="title_onb_1">Hammasini tomosha qiling</string>
+    <string name="content_onb_1">Istalgan vaqtda, istalgan joyda jonli TV, sport, filmlar va multfilmlarga kiring.</string>
+    <string name="title_onb_2">Pleylistingizni yarating</string>
+    <string name="content_onb_2">O\'zingiz yoqtirgan kanallarni qo\'shing va ularni istalgan vaqtda, darhol tomosha qiling.</string>
+    <string name="habit_1">Jonli TV</string>
+    <string name="habit_2">Filmlar</string>
+    <string name="habit_3">Спорт</string>
+    <string name="habit_4">Yangiliklar</string>
+    <string name="habit_5">Oila</string>
+    <string name="habit_6">O\'yin-kulgi</string>
+    <string name="feedback">Fikr-mulohaza</string>
+    <string name="rate_now">Hozir baho bering</string>
+    <string name="send_feedback">Fikr-mulohaza yuborish</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="please_select_your_language">Tilingizni tanlang</string>
+    <string name="please_choose_at_least_one_option">Kamida bitta variantni tanlang</string>
+    <string name="try_again">Qayta urinib ko\'ring</string>
+    <string name="got_it">Tushundim!</string>
+    <string name="_continue">Davom eting</string>
+    <string name="tutorial">Oʻquv qoʻllanma</string>
+    <string name="how_to_add_a_playlist">Pleylistni qanday qo\'shish kerak</string>
+    <string name="tutorial_step_1">Istalgan qidiruv tizimi yordamida \"ommaviy IPTV pleylist\"ni qidiring.</string>
+    <string name="tutorial_step_2">M3U pleylist havolasidan nusxa oling yoki pleylist fayllarini saqlang.</string>
+    <string name="tutorial_step_3">Ilovani qayta oching.\n\"+\" tugmasini bosing, \"Import pleylist URL\"ni tanlang va havolani joylashtiring.</string>
+    <string name="tutorial_step_4">IPTV kanallaringizni tomosha qilishdan rohatlaning!</string>
+    <string name="tab_import_url">URL ни импорт қилиш</string>
+    <string name="tab_upload_file">Faylni yuklash</string>
+    <string name="tab_stream">Oqim</string>
+    <string name="tut_url_1">Istalgan qidiruv tizimi yordamida \"ommaviy IPTV pleylist\"ni qidiring.</string>
+    <string name="tut_url_2">M3U pleylist havolasidan nusxa oling yoki pleylist faylini saqlang.</string>
+    <string name="tut_url_3">Ilovani qayta oching.\n\"+\" tugmasini bosing, \"Import pleylist URL\"ni tanlang va havolani joylashtiring.</string>
+    <string name="tut_url_4">IPTV kanallaringizni tomosha qilishdan rohatlaning!</string>
+    <string name="tut_file_1">Istalgan qidiruv tizimi yordamida \"M3U fayl\" ni qidiring.</string>
+    <string name="tut_file_2">.m3u faylini qurilmangizga saqlang.</string>
+    <string name="tut_file_3">Ilovaga qayting, \"+\" tugmasini bosing, \"M3U faylini yuklash\"ni tanlang, so\'ngra yuklab olingan faylni tanlang.</string>
+    <string name="tut_file_4">IPTV kanallaringizni tomosha qilishdan rohatlaning!</string>
+    <string name="tut_stream_1">Istalgan qidiruv tizimi yordamida \"ommaviy IPTV oqim URL\" ni qidiring.</string>
+    <string name="tut_stream_2">Toʻliq oqim URL manzilini vaqtinchalik xotirangizga nusxalang.</string>
+    <string name="tut_stream_3">Ilovaga qayting, \"+\" tugmasini bosing, \"Oqim havolasini import qilish\"ni tanlang va havolani joylashtiring.</string>
+    <string name="tut_stream_4">IPTV kanallaringizni tomosha qilishdan rohatlaning!</string>
+    <string name="unlock_premium">Qulfni ochish</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Bizga batafsil fikr bildirsangiz (kamida 6 ta belgi)</string>
+    <string name="at_least_6_characters">Kamida 6 ta belgi</string>
+    <string name="loading">Yuklanmoqda…</string>
+    <string name="install_now">Hozir oʻrnating</string>
+    <string name="channels">%1$d ta kanal</string>
+    <string name="this_action_may_contain_ads">Bu amalda reklamalar boʻlishi mumkin</string>
+    <string name="what_do_you_mainly_use_iptv_for">IPTVdan asosan nima uchun foydalanasiz?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Internetda mavjud bo\'lgan IPTV pleylistini (M3U) toping.</string>
+    <string name="title_1">M3U manbasini toping</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Pleylist havolasidan nusxa oling yoki M3U faylini qurilmangizga yuklab oling.</string>
+    <string name="title_2">Pleylist ma\'lumotlarini saqlang</string>
+    <string name="title_3">Ilovaga yuklash</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Ilovani oching → Pleylist qo‘shish ni tanlang → URL manzilidan tanlang → havolani joylashtiring.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Pleylistga kiring va sevimli kanallaringizni ko\'rishni boshlang.</string>
+    <string name="title_4">Kontentingizdan rohatlaning</string>
+    <string name="search">Qidiruv…</string>
+    <string name="all">Hammasi</string>
+    <string name="recent">Yaqinda</string>
+    <string name="favorites">Sevimlilar</string>
+    <string name="url">URL</string>
+    <string name="file">Fayl</string>
+    <string name="no_channels_found">Hech qanday kanal topilmadi</string>
+    <string name="no_recents">Oxirgilar yo\'q</string>
+    <string name="play_something_to_begin">Boshlash uchun mediani o\'ynang</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Quyidagi tugmani bosish orqali yangi kanallarni import qiling.</string>
+    <string name="a_z_sort">A-Z saralash</string>
+    <string name="z_a_sort">Z-A Saralash</string>
+    <string name="_0_9_sort">0–9 Saralash</string>
+    <string name="_9_0_sort">9–0 Saralash</string>
+    <string name="refresh">Yangilash</string>
+    <string name="accept">Qabul qiling</string>
+    <string name="license_agreement">Litsenziya shartnomasi</string>
+    <string name="i_agree">Men Litsenziya shartnomasiga roziman</string>
+    <string name="content_license_agreement">IPTV foydalanuvchilar tomonidan yaratilgan M3U va JSON pleylistlarini qo\'llab-quvvatlaydi. Biz hech qanday kontentni taqdim etmaymiz yoki joylashtirmaymiz.\n\nUshbu ilova faqat qonuniy ravishda olingan kontent uchun moʻljallangan. Pleylistlaringiz va kontentingiz amaldagi qonunlar va ruxsatlarga muvofiqligini taʼminlash uchun siz javobgarsiz.\n\nDavom etish orqali siz ushbu shartlarni tushunganingizni va qabul qilganingizni tasdiqlaysiz.\n\nOgohlantirish\n\nIPTV hech qanday kontentni taqdim etmaydi yoki targʻib qilmaydi va uchinchi tomon provayderlari bilan bogʻliq emas.\n\nFoydalanuvchilar oʻz kontentlarini taqdim etishlari shart. Mualliflik huquqi bilan himoyalangan materialni ruxsatsiz translyatsiya qilish qat\'iyan tavsiya etilmaydi.</string>
+    <string name="content_1">“IPTV M3U pleylist” kabi kalit soʻzlar bilan onlayn qidirishingiz yoki TV/striming xizmati tomonidan taqdim etilgan yoʻriqnomani tekshirishingiz mumkin.\nToʻgʻri M3U havolasi odatda:\n• http:// yoki https:// bilan boshlanadi\n• .m3u yoki .m3u8 bilan tugaydi\nImkon boʻlsa, ishonchli va qonuniy manbalardan foydalanishga harakat qiling. E\'tibor bering, ba\'zi pleylistlar muddati tugashi, tizimga kirish uchun hisob ma\'lumotlarini talab qilishi yoki mintaqaga qarab cheklanishi mumkin.</string>
+    <string name="content_2">M3U URL manzilini nusxalash uchun:\n• Mobil qurilmada: havolani bosib turing → Havoladan nusxa ko‘chirish-ni tanlang\n• Ish stolida: havolani o‘ng tugmasini bosing → Havola manzilini nusxalash-ni tanlang\nPleylist faylini yuklab olish uchun:\n• .m3u yoki .m3u8 faylini qurilmangizdagi qulay joyga saqlang\nKeyinroq faylni mahalliy xotiradan import qilishingiz mumkin (3-qadam).</string>
+    <string name="content_3">IPTV Smart Player-ni ishga tushiring.\nPleylist qo‘shish-ni tanlang.\nImport qilish uchun bitta usulni tanlang:\n• URL orqali → M3U havolasini joylashtiring\n• Fayldan → Qurilmangizda saqlangan .m3u / .m3u8 faylini ko‘rib chiqing va tanlang\n(Ixtiyoriy) Pleylistingizni keyinroq aniqlash uchun maxsus nom kiriting\nTugatish uchun Saqlash tugmasini bosing.</string>
+    <string name="content_4">Ilovaga kanallar va toifalarni yuklash uchun vaqt bering.\nKanallar roʻyxatini oʻrganing yoki kerakli narsani tezda topish uchun Qidiruv funksiyasidan foydalaning.\nAgar kontent koʻrinmasa:\n• Internetga ulanishingizni tekshiring\n• M3U havolasi yoki fayli hali ham yaroqli va ishlayotganiga ishonch hosil qiling.</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Ilovadan foydalanishni davom ettirish uchun internetga ulanish zarur.\nTarmoq sozlamalarini tekshiring va qayta ulaning.</string>
+    <string name="retry">Qayta urinish</string>
+    <string name="thank_you_for_using_iptv">IPTV dan foydalanganingiz uchun tashakkur</string>
+    <string name="playlist_name">Pleylist nomi</string>
+    <string name="playlist">Pleylist</string>
+    <string name="save">Saqlash</string>
+    <string name="password">Parol</string>
+    <string name="username">Foydalanuvchi nomi</string>
+    <string name="no_file_selected">Hech qanday fayl tanlanmagan</string>
+    <string name="m3u_file">M3U fayl</string>
+    <string name="playlist_url">Pleylist URL</string>
+    <string name="choose_icon">Belgini tanlang</string>
+    <string name="choose_color">Rangni tanlang</string>
+    <string name="paste_your_url_here">URL manzilingizni shu yerga joylashtiring</string>
+    <string name="edit">Tahrirlash</string>
+    <string name="delete">Oʻchirish</string>
+    <string name="rate_this_app">Ushbu ilovani baholang</string>
+    <string name="tell_us_about_your_experiences">Tajribalaringiz haqida bizga xabar bering</string>
+    <string name="enter_your_stream_link_here">Oqim havolasini shu yerga kiriting</string>
+    <string name="stream_link">Oqim havolasi</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Tarmoq protokollarini qo\'llab-quvvatlash: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Kanallar</string>
+    <string name="import_playlist_url">Pleylist URL manzilini import qiling</string>
+    <string name="load_from_device">Qurilmadan yuklash</string>
+    <string name="play_single_stream">Yagona oqimni o\'ynang</string>
+    <string name="upload_m3u_file">M3U faylini yuklang</string>
+    <string name="all_channels">Barcha Kanallar</string>
+    <string name="playback_error">Ijro xatosi</string>
+    <string name="no_internet_connection">Internetga ulanish yo\'q</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Bu kanal vaqtinchalik ishlamayapti yoki mintaqangizda ishlamaydi. Keyinroq qayta urinib ko‘ring.</string>
+    <string name="lock">Qulflash</string>
+    <string name="full_screen">To\'liq ekran</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Ekran qulfi. Qulfni ochish uchun bosing</string>
+    <string name="delete_playlist">Pleylist oʻchirilsinmi?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Haqiqatan ham bu pleylistni oʻchirib tashlamoqchimisiz? Bu amalni ortga qaytarib bo‘lmaydi.</string>
+    <string name="yes_delete">Ha, o\'chirish</string>
+    <string name="error_1">Kerakli maydonlarni to\'ldirishingiz kerak</string>
+    <string name="error_2">Ayrim maydonlar yaroqsiz</string>
+    <string name="success_1">Import muvaffaqiyatli</string>
+    <string name="success_2">Muvaffaqiyatli saqlang</string>
+    <string name="content_rate_1">Agar siz biz bilan vaqt o\'tkazishni yoqtirgan bo\'lsangiz, iltimos, 5 yulduzli reyting qoldiring!</string>
+    <string name="content_rate_2">Agar siz biz bilan vaqt o\'tkazishni yoqtirgan bo\'lsangiz, iltimos, 5 yulduzli reyting qoldiring!</string>
+    <string name="content_rate_3">Agar siz biz bilan vaqt o\'tkazishni yoqtirgan bo\'lsangiz, iltimos, 5 yulduzli reyting qoldiring!</string>
+    <string name="content_rate_4">Deyarli mukammalmi? Biz bu qo\'shimcha yulduz uchun harakat qilamiz!</string>
+    <string name="content_rate_5">Siz bizning kunimizni butunlay qildingiz! 🌟 Keling, yaxshi kayfiyatni saqlab qolaylik.</string>
+    <string name="no_results_found_for">uchun hech qanday natija topilmadi</string>
+    <string name="the_device_does_not_support_pip">Qurilma PiP-ni qo\'llab-quvvatlamaydi.</string>
+    <string name="video_file_not_found">Video fayl topilmadi</string>
+    <string name="minimize">Oynani minimallashtirish</string>
+    <string name="refresh_in_progress_please_wait">Yangilash davom etmoqda, kuting…</string>
+    <string name="no_email_app_found">Hech qanday elektron pochta ilovasi topilmadi!</string>
+    <string name="error_5">Ayrim maydonlar yaroqsiz</string>
+    <string name="no_favorite_channel_yet">Hali sevimli kanal yo\'q</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">O\'zingizga yoqqan kanalni toping va uni saqlab qolish uchun yurak tugmasini bosing.</string>
+    <string name="refreshed_successfully">Muvaffaqiyatli yangilandi</string>
+    <string name="import_xtream_codes_api">Xtream Codes API ни импорт қилиш</string>
+    <string name="suggestion">Taklif</string>
+    <string name="suggestion_1">Oila</string>
+    <string name="suggestion_2">Спорт</string>
+    <string name="suggestion_3">Filmlar</string>
+    <string name="_100_no_ads">100% reklamasiz</string>
+    <string name="hd_4d_quality">HD va 4D sifati</string>
+    <string name="premium_channels">Premium kanallar</string>
+    <string name="most_popular">Eng mashhur</string>
+    <string name="weekly">Haftalik</string>
+    <string name="monthly">Oylik</string>
+    <string name="yearly">Yillik</string>
+    <string name="_3_day_free_trial">3 kunlik bepul sinov</string>
+    <string name="something_went_wrong">Nimadir xato ketdi</string>
+    <string name="content_error">Iltimos, ushbu bosqichni bajaring va qayta urinib ko‘ring:\n1. Tarmoq ulanishingizni tekshiring\n2. Google hisobingizga kirganingizga ishonch hosil qiling\n3. Google Play ilovasini ishga tushirishingiz mumkinligiga ishonch hosil qiling</string>
+    <string name="cancel_anytime">Istalgan vaqtda bekor qiling</string>
+    <string name="term_of_use">
+        <u>Foydalanish muddati</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Maxfiylik siyosati</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Premium versiyangiz faol. Ilovadan zavqlaning!</string>
+    <string name="payment_success">Muvaffaqiyatli to\'lov</string>
+    <string name="payment_failed">Toʻlov amalga oshmadi</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Kichik muammo to\'lovni to\'xtatdi. Iltimos, qayta urinib koʻring</string>
+    <string name="go_premium">Premiumga o\'ting</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Barcha funksiyalarni oching va ilovadan reklamasiz zavqlaning!</string>
+    <string name="premium_member">Premium a\'zo</string>
+    <string name="active_until">%s gacha faol</string>
+    <string name="sever_url">Server URL</string>
+    <string name="find_an_xtream_account">Xtream hisobini toping</string>
+    <string name="search_for_xtream_code_api_account_online">"Xtream Code API hisobi" ni onlayn qidiring.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Kontentni saqlash va undan bahramand bo‘lish uchun Profil qo‘shishga teging.</string>
+    <string name="start_streaming">Strimingni boshlang</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Ilovani oching va Xtream profil maydonlarini to\'ldiring.</string>
+    <string name="enter_the_information">Ma\'lumotni kiriting</string>
+    <string name="copy_the_server_url_username_and_password">Server URL manzilini, foydalanuvchi nomi va parolni nusxalash.</string>
+    <string name="copy_the_account_details">Hisob ma\'lumotlarini nusxalash</string>
+    <string name="how_to_add_an_xtream_profile">Xtream profilini qanday qo\'shish kerak</string>
+    <string name="account_added_successfully">Hisob muvaffaqiyatli qo‘shildi</string>
+    <string name="your_account_is_ready_to_use">Hisobingiz foydalanishga tayyor</string>
+    <string name="view_now">Hozir koʻring</string>
+    <string name="later">Keyinchalik</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Koʻrishni boshlash uchun birinchi pleylistingizni qoʻshing</string>
+    <string name="title_slider_1">Telefonda jonli sport translyatsiyasi</string>
+    <string name="action_try_now">Hozir urinib koʻring</string>
+    <string name="title_slider_2">Film pleylistingizni yarating</string>
+    <string name="title_slider_3">Reklamasiz barcha funksiyalardan rohatlaning</string>
+    <string name="tap_to_search">Qidirish uchun bosing</string>
+    <string name="sports_hub">Спорт Хаби</string>
+    <string name="wc_schedule">Jadvallar</string>
+    <string name="wc_team">Jamolar</string>
+    <string name="wc_standing">Turlar</string>
+    <string name="wc_today">Bugun</string>
+    <string name="wc_upcoming">Kelajakdagi</string>
+    <string name="wc_full_time">To\'liq vaqt</string>
+    <string name="wc_live">Jonli</string>
+    <string name="wc_no_matches">O\'yinlar topilmadi</string>
+    <string name="wc_no_standings">Turlar mavjud emas</string>
+    <string name="wc_remind_me">Meni eslatib qo\'ying</string>
+    <string name="wc_updating">Yangilanmoqda…</string>
+    <string name="wc_match_detail">O\'yin tafsilotlari</string>
+    <string name="wc_events">Tadbir</string>
+    <string name="wc_no_events">Hech qanday tadbir mavjud emas</string>
+    <string name="wc_no_events_desc">O\'yin hali boshlanmagan. Hech qanday hodisani qo\'ldan boy bermaslik uchun eslatma qo\'ying.</string>
+    <string name="wc_switch_team">Jamoani o\'zgartirish</string>
+    <string name="wc_bracket">Jadval</string>
+    <string name="wc_round_of_32">32 tadan bir raundi</string>
+    <string name="wc_starting_soon">Tez orada boshlanadi</string>
+    <string name="wc_round_of_16">16 tadan bir raundi</string>
+    <string name="wc_quarter_finals">Chorak finallar</string>
+    <string name="wc_semi_finals">Yarim finallar</string>
+    <string name="wc_final">Якуний</string>
+    <string name="wc_no_bracket">Jadval ma\'lumotlari mavjud emas</string>
+    <string name="wc_no_matches_today">Bugun o\'yinlar yo\'q</string>
+    <string name="wc_upcoming_fixtures">Kelajakdagi o\'yinlar bu yerda ko\'rinadi</string>
+    <string name="wc_no_recent">Yaqin oraliqda o\'yinlar yo\'q</string>
+    <string name="wc_no_upcoming">Kelajakdagi o\'yinlar yo\'q</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Bildirishnomalarni yoqish</string>
+    <string name="noti_enable_desc">O\'yin eslatmalari, yangi kontent yangilanishlari va muhim streaming bildirishnomalarini oling.</string>
+    <string name="noti_go_to_setting">Sozlamalar bo\'limiga o\'tish</string>
+    <string name="visit_sports_hub">Sports Hub-ni tashrif buyuring</string>
+    <string name="_3rd_place_final">3-o\'rin uchun final</string>
+    <string name="_16th_finals">16-finali</string>
+    <string name="ranking_of_third_placed_teams">Uchinchi o\'rinda turgan jamolarning reytingi</string>
+    <string name="out">"Chiqish: "</string>
+    <string name="_in">"Ichida: "</string>
+    <string name="_2nd_half">2-chi yarim</string>
+    <string name="_1st_half">1-tayma</string>
+    <string name="asst">Ёрдамчи %1$s</string>
+    <string name="out_s">Chiqish: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">O\'yin tugadi. To\'liq natijani ko\'rish uchun ilovani oching.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">15 daqiqada boshlanadi. Kuzatish uchun ilovani oching.</string>
+    <string name="live_now">Hozir jonli</string>
+    <string name="full_time">To\'liq vaqt</string>
+    <string name="_2nd_group">2-chi Guruh %1$s</string>
+    <string name="_1st_group">1-chi Guruh %1$s</string>
+    <string name="eighth_finals">1/8 finallar</string>
+    <string name="quarter_finals">Chorak finallar</string>
+    <string name="semi_finals">Yarim finallar</string>
+    <string name="winner">G\'olib</string>
+    <string name="loser">Mag\'lub</string>
+    <string name="round_of_32">32 talik raund</string>
+    <string name="round_of_16">16 talik raund</string>
+    <string name="_3rd_place">3-chi o\'rin</string>
+    <string name="_final">Якуний</string>
+    <string name="group_stage">Guruh bosqichi</string>
+    <string name="round">Raund %1$d</string>
+    <string name="group">Guruh </string>
+    <string name="_1st">1-chi</string>
+    <string name="_2nd">2-chi</string>
+    <string name="_3rd">3-chi</string>
+    <string name="th">%1$d-chi</string>
+    <string name="remind_set">Eslatma o\'rnatildi</string>
+    <string name="remind_removed">Eslatma o\'chirildi</string>
+    <string name="_et1">Qo\'shimcha vaqt 1-yarima</string>
+    <string name="_et2">Qo\'shimcha vaqt 2-yarima</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Ijro etish</string>
+    <string name="add_similar_items">O\'xshash elementlarni qo\'shish</string>
+    <string name="see_more">Ko\'proq ko\'rsatish</string>
+    <string name="see_less">Kamroq ko\'rsatish</string>
+    <string name="view_all">Hammasini ko\'rish</string>
+    <string name="home">Bosh sahifa</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Hozir Jonli</string>
+    <string name="recommended_for_you">Siz uchun Tavsiya Etilgan</string>
+    <string name="new_series">Yangi Seriyalar</string>
+    <string name="live_badge">JONLI</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes ishonchli IPTV streaming tajribasini taqdim etadi.</string>
+    <string name="live_tv">Jonli TV</string>
+    <string name="movies">Filmlar</string>
+    <string name="series">Seriyalar</string>
+    <string name="add_profile">Profil Qo\'shish</string>
+    <string name="choose_your_profile">Profilingizni Tanlang</string>
+    <string name="my_favorite">Mening Sevimlilarim</string>
+    <string name="live_channel">Jonli Kanal</string>
+    <string name="your_favorite_list_is_empty">Sizning sevimli ro\'yxatingiz bo\'sh</string>
+    <string name="edit_profile">Profilni tahrirlash</string>
+    <string name="profile_name">Profil Nomi</string>
+    <string name="delete_profile">Profilni O\'chirish</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Siz rostanı ham bu profilni o\'chirmoqchimisiz?</string>
+    <string name="no_browser_found">Qidiruvni ochish uchun ilova topilmadi</string>
+    <string name="reminder_noon_title_1">Qayta zaryadlash vaqti 🧠</string>
+    <string name="reminder_noon_body_1">Ongingizni tetiklashtirish uchun faqat bitta epizod!</string>
+    <string name="reminder_noon_title_2">Bir necha daqiqangiz bormi? 🎬</string>
+    <string name="reminder_noon_body_2">Kanallaringiz bir bosish uzoqlikda.</string>
+    <string name="reminder_noon_title_3">Kanallaringiz kutmoqda 📺</string>
+    <string name="reminder_noon_body_3">Jonli TV, filmlar va seriallar — barchasi bir joyda.</string>
+    <string name="reminder_evening_title_1">Prayim-taym boshlandi 🔥</string>
+    <string name="reminder_evening_body_1">Kanallaringiz hozir jonli translatsiyada.</string>
+    <string name="reminder_evening_title_2">Bugun kechqurun nima bor? ⚽</string>
+    <string name="reminder_evening_body_2">Jonli sport, yangi epizodlar va boshqalar.</string>
+    <string name="reminder_evening_title_3">Bugun kechqurun televizorda 📺</string>
+    <string name="reminder_evening_body_3">Jonli kanallar, filmlar va seriallar — barchasi shu yerda.</string>
+    <string name="reminder_no_playlist_title">Televizoringiz kutmoqda 📺</string>
+    <string name="reminder_no_playlist_body">Pleylistingizni qo\'shing va tomosha qilishni boshlang.</string>
+    <string name="reminder_playlist_ready_title">Hammasi tayyor! ✅</string>
+    <string name="reminder_playlist_ready_body">Sevimli kanalingizni tomosha qilish uchun bosing.</string>
+    <string name="noti_enable_title_ver_2">%1$s sizga bildirishnomalar yuborishiga ruxsat bering</string>
+    <string name="noti_enable_desc_ver_2">Jonli TV eslatmalari, yangi film yangilanishlari va muhim striming ogohlantirishlarini oling</string>
+    <string name="deny">Rad etish</string>
+    <string name="allow">Ruxsat berish</string>
+    <string name="tut_xtream_1">Har qanday qidiruv tizimidan foydalanib “Xtream Code API Account” ni qidiring</string>
+    <string name="tut_xtream_2">“Format” yoki “Playlist” bo\'limini toping va Xtream hisob ma\'lumotlarini nusxalang</string>
+    <string name="tut_xtream_3">Ilovaga qaytib, &quot;+&quot; tugmasini bosing, &quot;Import Stream Link&quot; ni tanlang, so\'ngra havolani joylashtiring.</string>
+    <string name="tut_xtream_4">Xtream tomosha qilishdan zavqlaning</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Xtream profilini qanday qo\'shish kerak</u>
+    </string>
+</resources>

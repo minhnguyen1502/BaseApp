@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">기본 언어</string>
+    <string name="setting">환경</string>
+    <string name="language">언어</string>
+    <string name="privacy_policy">개인 정보 보호 정책</string>
+    <string name="get_started">시작하기</string>
+    <string name="welcome">에 오신 것을 환영합니다</string>
+    <string name="next">다음</string>
+    <string name="title_onb_1">모든 것을 시청하세요</string>
+    <string name="content_onb_1">언제 어디서나 라이브 TV, 스포츠, 영화, 만화에 액세스하세요.</string>
+    <string name="title_onb_2">재생 목록 구축</string>
+    <string name="content_onb_2">좋아하는 채널을 추가하고 언제든지 즉시 시청하세요.</string>
+    <string name="habit_1">라이브 TV</string>
+    <string name="habit_2">영화 산업</string>
+    <string name="habit_3">스포츠</string>
+    <string name="habit_4">소식</string>
+    <string name="habit_5">가족</string>
+    <string name="habit_6">오락</string>
+    <string name="feedback">피드백</string>
+    <string name="rate_now">지금 평가해 보세요</string>
+    <string name="send_feedback">피드백 보내기</string>
+    <string name="cancel">취소</string>
+    <string name="please_select_your_language">언어를 선택하세요</string>
+    <string name="please_choose_at_least_one_option">옵션을 하나 이상 선택하세요.</string>
+    <string name="try_again">다시 시도</string>
+    <string name="got_it">알았어요!</string>
+    <string name="_continue">계속하다</string>
+    <string name="tutorial">지도 시간</string>
+    <string name="how_to_add_a_playlist">재생목록을 추가하는 방법</string>
+    <string name="tutorial_step_1">검색 엔진을 사용하여 \"공개 IPTV 재생 목록\"을 검색하세요.</string>
+    <string name="tutorial_step_2">M3U 재생 목록 링크를 복사하거나 재생 목록 파일을 저장하세요.</string>
+    <string name="tutorial_step_3">앱을 다시 엽니다.\n\"+\" 버튼을 탭하고 \"재생 목록 URL 가져오기\"를 선택한 다음 링크를 붙여넣습니다.</string>
+    <string name="tutorial_step_4">IPTV 채널을 즐겨보세요!</string>
+    <string name="tab_import_url">가져오기 URL</string>
+    <string name="tab_upload_file">파일 업로드</string>
+    <string name="tab_stream">개울</string>
+    <string name="tut_url_1">검색 엔진을 사용하여 \"공개 IPTV 재생 목록\"을 검색하세요.</string>
+    <string name="tut_url_2">M3U 재생 목록 링크를 복사하거나 재생 목록 파일을 저장하세요.</string>
+    <string name="tut_url_3">앱을 다시 엽니다.\n\"+\" 버튼을 탭하고 \"재생 목록 URL 가져오기\"를 선택한 다음 링크를 붙여넣습니다.</string>
+    <string name="tut_url_4">IPTV 채널을 즐겨보세요!</string>
+    <string name="tut_file_1">검색 엔진을 사용하여 \"M3U 파일\"을 검색하세요.</string>
+    <string name="tut_file_2">.m3u 파일을 장치에 저장합니다.</string>
+    <string name="tut_file_3">앱으로 돌아가서 \"+\" 버튼을 누르고 \"M3U 파일 업로드\"를 선택한 다음 다운로드한 파일을 선택하세요.</string>
+    <string name="tut_file_4">IPTV 채널을 즐겨보세요!</string>
+    <string name="tut_stream_1">검색 엔진을 사용하여 \"공용 IPTV 스트림 URL\"을 검색하세요.</string>
+    <string name="tut_stream_2">전체 스트림 URL을 클립보드에 복사하세요.</string>
+    <string name="tut_stream_3">앱으로 돌아가서 \"+\" 버튼을 탭하고 \"스트림 링크 가져오기\"를 선택한 다음 링크를 붙여넣으세요.</string>
+    <string name="tut_stream_4">IPTV 채널을 즐겨보세요!</string>
+    <string name="unlock_premium">터놓다</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">자세한 피드백(6자 이상)을 보내주시면 감사하겠습니다.</string>
+    <string name="at_least_6_characters">6자 이상</string>
+    <string name="loading">로드 중…</string>
+    <string name="install_now">지금 설치</string>
+    <string name="channels">%1$d개의 채널</string>
+    <string name="this_action_may_contain_ads">이 작업에는 광고가 포함될 수 있습니다.</string>
+    <string name="what_do_you_mainly_use_iptv_for">IPTV를 주로 어떤 용도로 사용하시나요?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">온라인에서 이용 가능한 IPTV 재생목록(M3U)을 찾아보세요.</string>
+    <string name="title_1">M3U 소스 찾기</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">재생 목록 링크를 복사하거나 M3U 파일을 장치에 다운로드하세요.</string>
+    <string name="title_2">재생 목록 정보 저장</string>
+    <string name="title_3">앱에 업로드</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">앱을 열고 → 재생 목록 추가를 선택하고 → URL에서를 선택하고 → 링크를 붙여넣습니다.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">재생 목록에 액세스하여 좋아하는 채널을 시청해 보세요.</string>
+    <string name="title_4">콘텐츠를 즐기세요</string>
+    <string name="search">찾다…</string>
+    <string name="all">모두</string>
+    <string name="recent">최근의</string>
+    <string name="favorites">즐겨찾기</string>
+    <string name="url">URL</string>
+    <string name="file">파일</string>
+    <string name="no_channels_found">채널을 찾을 수 없습니다</string>
+    <string name="no_recents">최근 항목 없음</string>
+    <string name="play_something_to_begin">시작하려면 미디어를 재생하세요.</string>
+    <string name="import_new_channels_by_tapping_the_button_below">아래 버튼을 탭하여 새 채널을 가져오세요.</string>
+    <string name="a_z_sort">A-Z 정렬</string>
+    <string name="z_a_sort">Z-A 정렬</string>
+    <string name="_0_9_sort">0–9 정렬</string>
+    <string name="_9_0_sort">9–0 정렬</string>
+    <string name="refresh">새로 고치다</string>
+    <string name="accept">수용하다</string>
+    <string name="license_agreement">라이센스 계약</string>
+    <string name="i_agree">라이센스 계약에 동의합니다</string>
+    <string name="content_license_agreement">IPTV는 사용자가 만든 M3U 및 JSON 재생 목록을 지원합니다. 우리는 어떠한 콘텐츠도 제공하거나 호스팅하지 않습니다.\n\n이 앱은 합법적으로 획득한 콘텐츠에만 사용할 수 있습니다. 귀하는 재생목록과 콘텐츠가 해당 법률 및 권한을 준수하도록 할 책임이 있습니다.\n\n계속하면 이러한 약관을 이해하고 수락함을 확인하는 것입니다.\n\n면책조항\n\nIPTV는 콘텐츠를 제공하거나 홍보하지 않으며 제3자 제공업체와 제휴하지 않습니다.\n\n사용자는 자신의 콘텐츠를 직접 제공해야 합니다. 저작권이 있는 자료의 무단 스트리밍은 강력히 권장되지 않습니다.</string>
+    <string name="content_1">\'IPTV M3U 재생 목록\'과 같은 키워드로 온라인을 검색하거나 TV/스트리밍 서비스에서 제공하는 지침을 확인할 수 있습니다.\n일반적으로 적절한 M3U 링크는 다음과 같습니다.\n• http:// 또는 https://로 시작\n• .m3u 또는 .m3u8로 끝남\n가능하면 신뢰할 수 있고 합법적인 소스를 사용하세요. 일부 재생 목록은 만료되거나 로그인 자격 증명이 필요하거나 지역에 따라 제한될 수 있습니다.</string>
+    <string name="content_2">M3U URL을 복사하려면:\n• 모바일: 링크를 길게 탭하고 → 링크 복사를 선택합니다.\n• 데스크톱에서: 링크를 마우스 오른쪽 버튼으로 클릭하고 → 링크 주소 복사를 선택합니다.\n재생 목록 파일을 다운로드하려면:\n• .m3u 또는 .m3u8 파일을 장치의 액세스하기 쉬운 위치에 저장합니다.\n나중에 로컬 저장소에서 파일을 직접 가져올 수 있습니다(3단계 참조).</string>
+    <string name="content_3">IPTV 스마트 플레이어를 실행합니다.\n재생 목록 추가를 선택합니다.\n가져올 방법 중 하나를 선택합니다.\n• URL을 통해 → M3U 링크 붙여넣기\n• 파일에서 → 기기에 저장된 .m3u/.m3u8 파일을 찾아보고 선택합니다.\n(선택 사항) 나중에 재생 목록을 쉽게 식별할 수 있도록 맞춤 이름을 입력합니다.\n저장을 탭하여 완료합니다.</string>
+    <string name="content_4">앱이 채널과 카테고리를 로드할 수 있도록 잠시 기다려 주세요.\n채널 목록을 탐색하거나 검색 기능을 사용하여 원하는 것을 빠르게 찾으세요.\n콘텐츠가 표시되지 않는 경우:\n• 인터넷 연결을 확인하세요\n• M3U 링크나 파일이 여전히 유효하고 작동하는지 확인하세요</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">앱을 계속 사용하려면 인터넷 연결이 필요합니다.\n네트워크 설정을 확인하고 다시 연결하세요.</string>
+    <string name="retry">다시 해 보다</string>
+    <string name="thank_you_for_using_iptv">IPTV를 이용해 주셔서 감사합니다.</string>
+    <string name="playlist_name">재생목록 이름</string>
+    <string name="playlist">재생목록</string>
+    <string name="save">저장</string>
+    <string name="password">비밀번호</string>
+    <string name="username">사용자 이름</string>
+    <string name="no_file_selected">선택한 파일이 없습니다.</string>
+    <string name="m3u_file">M3U 파일</string>
+    <string name="playlist_url">재생목록 URL</string>
+    <string name="choose_icon">아이콘 선택</string>
+    <string name="choose_color">색상 선택</string>
+    <string name="paste_your_url_here">여기에 URL을 붙여넣으세요.</string>
+    <string name="edit">편집하다</string>
+    <string name="delete">삭제</string>
+    <string name="rate_this_app">이 앱을 평가해 주세요</string>
+    <string name="tell_us_about_your_experiences">귀하의 경험에 대해 알려주십시오.</string>
+    <string name="enter_your_stream_link_here">여기에 스트림 링크를 입력하세요</string>
+    <string name="stream_link">스트림 링크</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">지원 네트워크 프로토콜: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">채널</string>
+    <string name="import_playlist_url">재생목록 URL 가져오기</string>
+    <string name="load_from_device">장치에서 로드</string>
+    <string name="play_single_stream">단일 스트림 재생</string>
+    <string name="upload_m3u_file">M3U 파일 업로드</string>
+    <string name="all_channels">모든 채널</string>
+    <string name="playback_error">재생 오류</string>
+    <string name="no_internet_connection">인터넷에 연결되어 있지 않음</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">이 채널은 일시적으로 서비스가 중단되었거나 해당 지역에서 사용할 수 없습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="lock">잠그다</string>
+    <string name="full_screen">전체 화면</string>
+    <string name="pip">씨</string>
+    <string name="screen_lock_press_to_unlock">화면 잠금. 잠금을 해제하려면 누르세요.</string>
+    <string name="delete_playlist">재생목록을 삭제하시겠습니까?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">이 재생목록을 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.</string>
+    <string name="yes_delete">예, 삭제합니다</string>
+    <string name="error_1">필수 입력란을 작성해야 합니다.</string>
+    <string name="error_2">일부 필드가 잘못되었습니다.</string>
+    <string name="success_1">성공적으로 가져오기</string>
+    <string name="success_2">성공적으로 저장되었습니다</string>
+    <string name="content_rate_1">저희와 함께한 시간이 즐거우셨다면 별점 5점을 남겨주세요!</string>
+    <string name="content_rate_2">저희와 함께한 시간이 즐거우셨다면 별점 5점을 남겨주세요!</string>
+    <string name="content_rate_3">저희와 함께한 시간이 즐거우셨다면 별점 5점을 남겨주세요!</string>
+    <string name="content_rate_4">거의 완벽해요? 우리는 그 여분의 별을 위해 노력할 것입니다!</string>
+    <string name="content_rate_5">당신은 정말 좋은 하루를 보냈어요! 🌟 좋은 기운을 계속 이어가세요.</string>
+    <string name="no_results_found_for">에 대한 검색 결과가 없습니다.</string>
+    <string name="the_device_does_not_support_pip">해당 장치는 PiP를 지원하지 않습니다.</string>
+    <string name="video_file_not_found">비디오 파일을 찾을 수 없습니다</string>
+    <string name="minimize">창 최소화</string>
+    <string name="refresh_in_progress_please_wait">새로고침이 진행 중입니다. 잠시 기다려 주세요…</string>
+    <string name="no_email_app_found">이메일 앱을 찾을 수 없습니다!</string>
+    <string name="error_5">일부 필드가 잘못되었습니다.</string>
+    <string name="no_favorite_channel_yet">아직 즐겨찾는 채널이 없습니다.</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">마음에 드는 채널을 찾아 하트를 눌러 보관하세요.</string>
+    <string name="refreshed_successfully">새로고침되었습니다.</string>
+    <string name="import_xtream_codes_api">Xtream 코드 API 가져오기</string>
+    <string name="suggestion">제안</string>
+    <string name="suggestion_1">가족</string>
+    <string name="suggestion_2">스포츠</string>
+    <string name="suggestion_3">영화 산업</string>
+    <string name="_100_no_ads">100% 광고 없음</string>
+    <string name="hd_4d_quality">HD 및 4D 품질</string>
+    <string name="premium_channels">프리미엄 채널</string>
+    <string name="most_popular">가장 인기있는</string>
+    <string name="weekly">주간</string>
+    <string name="monthly">월간 간행물</string>
+    <string name="yearly">매년</string>
+    <string name="_3_day_free_trial">3일 무료 평가판</string>
+    <string name="something_went_wrong">문제가 발생했습니다.</string>
+    <string name="content_error">다음 단계에 따라 다시 시도하십시오.\n1. 네트워크 연결을 확인하세요\n2. Google 계정에 로그인되어 있는지 확인하세요.\n3. Google Play 애플리케이션을 실행할 수 있는지 확인하세요.</string>
+    <string name="cancel_anytime">언제든지 취소</string>
+    <string name="term_of_use">
+        <u>사용기간</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>개인 정보 보호 정책</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">이제 프리미엄 버전이 활성화되었습니다. 앱을 즐겨보세요!</string>
+    <string name="payment_success">결제 성공</string>
+    <string name="payment_failed">결제 실패</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">작은 문제로 인해 결제가 중단되었습니다. 다시 시도해 주세요</string>
+    <string name="go_premium">프리미엄으로 이동</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">모든 기능을 잠금 해제하고 광고 없이 앱을 즐겨보세요!</string>
+    <string name="premium_member">프리미엄 회원</string>
+    <string name="active_until">%s까지 활성</string>
+    <string name="sever_url">서버 URL</string>
+    <string name="find_an_xtream_account">Xtream 계정 찾기</string>
+    <string name="search_for_xtream_code_api_account_online">온라인에서 "Xtream Code API 계정"을 검색하세요.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">프로필 추가를 눌러 콘텐츠를 저장하고 즐기세요.</string>
+    <string name="start_streaming">스트리밍 시작</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">앱을 열고 Xtream 프로필 필드를 입력하세요.</string>
+    <string name="enter_the_information">정보를 입력하세요</string>
+    <string name="copy_the_server_url_username_and_password">서버 URL, 사용자 이름 및 비밀번호를 복사합니다.</string>
+    <string name="copy_the_account_details">계정 세부정보 복사</string>
+    <string name="how_to_add_an_xtream_profile">Xtream 프로필을 추가하는 방법</string>
+    <string name="account_added_successfully">계정이 추가되었습니다.</string>
+    <string name="your_account_is_ready_to_use">귀하의 계정을 사용할 준비가 되었습니다</string>
+    <string name="view_now">지금 보기</string>
+    <string name="later">나중에</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">시청을 시작하려면 첫 번째 재생목록을 추가하세요.</string>
+    <string name="title_slider_1">전화로 스포츠 라이브 스트리밍</string>
+    <string name="action_try_now">지금 사용해 보세요</string>
+    <string name="title_slider_2">영화 재생 목록 만들기</string>
+    <string name="title_slider_3">광고 없이 모든 기능을 즐겨보세요</string>
+    <string name="tap_to_search">검색하려면 탭하세요</string>
+    <string name="sports_hub">스포츠 허브</string>
+    <string name="wc_schedule">일정</string>
+    <string name="wc_team">팀</string>
+    <string name="wc_standing">순위표</string>
+    <string name="wc_today">오늘</string>
+    <string name="wc_upcoming">예정</string>
+    <string name="wc_full_time">경기 종료</string>
+    <string name="wc_live">라이브</string>
+    <string name="wc_no_matches">경기를 찾을 수 없습니다</string>
+    <string name="wc_no_standings">순위표 없음</string>
+    <string name="wc_remind_me">리마인더 설정</string>
+    <string name="wc_updating">업데이트 중…</string>
+    <string name="wc_match_detail">경기 상세 정보</string>
+    <string name="wc_events">이벤트</string>
+    <string name="wc_no_events">사용 가능한 이벤트 없음</string>
+    <string name="wc_no_events_desc">경기가 아직 시작되지 않았습니다. 리마인더를 설정하여 모든 경기를 놓치지 마세요.</string>
+    <string name="wc_switch_team">팀 변경</string>
+    <string name="wc_bracket">토너먼트 대진표</string>
+    <string name="wc_round_of_32">32강</string>
+    <string name="wc_starting_soon">곧 시작됩니다</string>
+    <string name="wc_round_of_16">16강</string>
+    <string name="wc_quarter_finals">8강</string>
+    <string name="wc_semi_finals">준결승</string>
+    <string name="wc_final">결승전</string>
+    <string name="wc_no_bracket">토너먼트 대진표 데이터 없음</string>
+    <string name="wc_no_matches_today">오늘 경기 없음</string>
+    <string name="wc_upcoming_fixtures">예정된 경기가 여기에 표시됩니다</string>
+    <string name="wc_no_recent">최근 경기 없음</string>
+    <string name="wc_no_upcoming">예정된 경기 없음</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">알림 활성화</string>
+    <string name="noti_enable_desc">경기 리마인더, 새로운 콘텐츠 업데이트 및 중요한 스트리밍 알림을 받으세요.</string>
+    <string name="noti_go_to_setting">설정으로 이동</string>
+    <string name="visit_sports_hub">스포츠 허브 방문</string>
+    <string name="_3rd_place_final">3위 결승전</string>
+    <string name="_16th_finals">16강 결승</string>
+    <string name="ranking_of_third_placed_teams">3위 팀 순위</string>
+    <string name="out">"퇴장: "</string>
+    <string name="_in">"입장: "</string>
+    <string name="_2nd_half">2후반</string>
+    <string name="_1st_half">전반전</string>
+    <string name="asst">어시스트 %1$s</string>
+    <string name="out_s">퇴장: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">경기가 종료되었습니다. 앱을 열어 전체 결과를 확인하세요.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">15분 후 경기 시작. 앱을 열어 경기를 팔로우하세요.</string>
+    <string name="live_now">현재 라이브</string>
+    <string name="full_time">풀타임</string>
+    <string name="_2nd_group">2위 그룹 %1$s</string>
+    <string name="_1st_group">1위 그룹 %1$s</string>
+    <string name="eighth_finals">16강</string>
+    <string name="quarter_finals">8강</string>
+    <string name="semi_finals">준결승</string>
+    <string name="winner">우승자</string>
+    <string name="loser">패자</string>
+    <string name="round_of_32">32강</string>
+    <string name="round_of_16">16강</string>
+    <string name="_3rd_place">3위</string>
+    <string name="_final">결승</string>
+    <string name="group_stage">그룹 스테이지</string>
+    <string name="round">라운드 %1$d</string>
+    <string name="group">그룹 </string>
+    <string name="_1st">1위</string>
+    <string name="_2nd">2위</string>
+    <string name="_3rd">3위</string>
+    <string name="th">%1$d번째</string>
+    <string name="remind_set">미리 알림 설정됨</string>
+    <string name="remind_removed">미리 알림 제거됨</string>
+    <string name="_et1">연장전 전반</string>
+    <string name="_et2">연장전 후반</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">재생</string>
+    <string name="add_similar_items">유사 항목 추가</string>
+    <string name="see_more">더 보기</string>
+    <string name="see_less">간단히 보기</string>
+    <string name="view_all">모두 보기</string>
+    <string name="home">홈</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">현재 라이브</string>
+    <string name="recommended_for_you">당신을 위한 추천</string>
+    <string name="new_series">새 시리즈</string>
+    <string name="live_badge">라이브</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes는 안정적인 IPTV 스트리밍 환경을 제공합니다.</string>
+    <string name="live_tv">라이브 TV</string>
+    <string name="movies">영화</string>
+    <string name="series">시리즈</string>
+    <string name="add_profile">프로필 추가</string>
+    <string name="choose_your_profile">프로필 선택</string>
+    <string name="my_favorite">내 즐겨찾기</string>
+    <string name="live_channel">라이브 채널</string>
+    <string name="your_favorite_list_is_empty">즐겨찾기 목록이 비어 있습니다</string>
+    <string name="edit_profile">프로필 편집</string>
+    <string name="profile_name">프로필 이름</string>
+    <string name="delete_profile">프로필 삭제</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">이 프로필을 삭제하시겠습니까?</string>
+    <string name="no_browser_found">검색을 열 앱을 찾을 수 없습니다</string>
+    <string name="reminder_noon_title_1">재충전할 시간이에요 🧠</string>
+    <string name="reminder_noon_body_1">단 한 편으로 머리를 상쾌하게!</string>
+    <string name="reminder_noon_title_2">몇 분 여유 있으세요? 🎬</string>
+    <string name="reminder_noon_body_2">채널이 탭 한 번 거리에 있습니다.</string>
+    <string name="reminder_noon_title_3">채널이 기다리고 있어요 📺</string>
+    <string name="reminder_noon_body_3">라이브 TV, 영화 &amp; 시리즈 — 한곳에 모두.</string>
+    <string name="reminder_evening_title_1">프라임 타임이 시작됐어요 🔥</string>
+    <string name="reminder_evening_body_1">지금 채널이 실시간으로 방송 중입니다.</string>
+    <string name="reminder_evening_title_2">오늘 밤엔 뭘 볼까요? ⚽</string>
+    <string name="reminder_evening_body_2">실시간 스포츠, 새 에피소드 &amp; 더 많은 것들.</string>
+    <string name="reminder_evening_title_3">오늘 밤 TV 📺</string>
+    <string name="reminder_evening_body_3">실시간 채널, 영화 &amp; 시리즈 — 모두 여기에.</string>
+    <string name="reminder_no_playlist_title">TV가 기다리고 있어요 📺</string>
+    <string name="reminder_no_playlist_body">재생목록을 추가하고 시청을 시작하세요.</string>
+    <string name="reminder_playlist_ready_title">모든 준비가 완료됐어요! ✅</string>
+    <string name="reminder_playlist_ready_body">탭해서 좋아하는 채널을 시청하세요.</string>
+    <string name="noti_enable_title_ver_2">%1$s이(가) 알림을 보내도록 허용</string>
+    <string name="noti_enable_desc_ver_2">라이브 TV 알림, 신규 영화 업데이트, 중요한 스트리밍 알림을 받아보세요</string>
+    <string name="deny">거부</string>
+    <string name="allow">허용</string>
+    <string name="tut_xtream_1">검색 엔진에서 “Xtream Code API Account”를 검색하세요</string>
+    <string name="tut_xtream_2">“Format” 또는 “Playlist” 섹션을 찾아 Xtream 계정 정보를 복사하세요</string>
+    <string name="tut_xtream_3">앱으로 돌아가 &quot;+&quot; 버튼을 탭하고 &quot;Import Stream Link&quot;를 선택한 후 링크를 붙여넣으세요.</string>
+    <string name="tut_xtream_4">Xtream 시청을 즐기세요</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Xtream 프로필 추가 방법</u>
+    </string>
+</resources>

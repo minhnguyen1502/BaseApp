@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Standardsprog</string>
+    <string name="setting">Indstilling</string>
+    <string name="language">Sprog</string>
+    <string name="privacy_policy">Privatlivspolitik</string>
+    <string name="get_started">Kom i gang</string>
+    <string name="welcome">Velkommen til</string>
+    <string name="next">Næste</string>
+    <string name="title_onb_1">Se alt</string>
+    <string name="content_onb_1">Få adgang til live-tv, sport, film og tegnefilm når som helst og hvor som helst.</string>
+    <string name="title_onb_2">Byg din afspilningsliste</string>
+    <string name="content_onb_2">Tilføj kanaler, du elsker, og se dem når som helst, med det samme.</string>
+    <string name="habit_1">Live TV</string>
+    <string name="habit_2">Film</string>
+    <string name="habit_3">Sport</string>
+    <string name="habit_4">Nyheder</string>
+    <string name="habit_5">Familie</string>
+    <string name="habit_6">Underholdning</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_now">Bedøm nu</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="cancel">Ophæve</string>
+    <string name="please_select_your_language">Vælg venligst dit sprog</string>
+    <string name="please_choose_at_least_one_option">Vælg venligst mindst én mulighed</string>
+    <string name="try_again">Prøv igen</string>
+    <string name="got_it">Forstår det!</string>
+    <string name="_continue">Fortsætte</string>
+    <string name="tutorial">Vejledning</string>
+    <string name="how_to_add_a_playlist">Sådan tilføjer du en afspilningsliste</string>
+    <string name="tutorial_step_1">Søg efter \"offentlig IPTV-afspilningsliste\" ved hjælp af en hvilken som helst søgemaskine.</string>
+    <string name="tutorial_step_2">Kopier M3U-afspilningslistelinket, eller gem afspilningslistefilerne.</string>
+    <string name="tutorial_step_3">Åbn appen igen.\nTryk på knappen \"+\", vælg \"Importer afspilningsliste-URL\", og indsæt linket.</string>
+    <string name="tutorial_step_4">Nyd at se dine IPTV-kanaler!</string>
+    <string name="tab_import_url">Importer URL</string>
+    <string name="tab_upload_file">Upload fil</string>
+    <string name="tab_stream">Strøm</string>
+    <string name="tut_url_1">Søg efter \"offentlig IPTV-afspilningsliste\" ved hjælp af en hvilken som helst søgemaskine.</string>
+    <string name="tut_url_2">Kopier M3U-afspilningslistelinket, eller gem afspilningslistefilen.</string>
+    <string name="tut_url_3">Åbn appen igen.\nTryk på knappen \"+\", vælg \"Importer afspilningsliste-URL\", og indsæt linket.</string>
+    <string name="tut_url_4">Nyd at se dine IPTV-kanaler!</string>
+    <string name="tut_file_1">Søg efter \"M3U-fil\" ved hjælp af en hvilken som helst søgemaskine.</string>
+    <string name="tut_file_2">Gem .m3u-filen på din enhed.</string>
+    <string name="tut_file_3">Vend tilbage til appen, tryk på knappen \"+\", vælg \"Upload M3U File\", og vælg derefter den fil, du downloadede.</string>
+    <string name="tut_file_4">Nyd at se dine IPTV-kanaler!</string>
+    <string name="tut_stream_1">Søg efter \"offentlig IPTV-stream-URL\" ved hjælp af en hvilken som helst søgemaskine.</string>
+    <string name="tut_stream_2">Kopier den fulde stream-URL til din udklipsholder.</string>
+    <string name="tut_stream_3">Vend tilbage til appen, tryk på knappen \"+\", vælg \"Importer streamlink\", og indsæt derefter linket.</string>
+    <string name="tut_stream_4">Nyd at se dine IPTV-kanaler!</string>
+    <string name="unlock_premium">Lås op</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Vi ville sætte pris på, hvis du ville give os detaljeret feedback (mindst 6 tegn)</string>
+    <string name="at_least_6_characters">Mindst 6 tegn</string>
+    <string name="loading">Indlæser...</string>
+    <string name="install_now">Installer nu</string>
+    <string name="channels">%1$d kanaler</string>
+    <string name="this_action_may_contain_ads">Denne handling kan indeholde annoncer</string>
+    <string name="what_do_you_mainly_use_iptv_for">Hvad bruger du primært IPTV til?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Find en IPTV-afspilningsliste (M3U), der er tilgængelig online.</string>
+    <string name="title_1">Find en M3U-kilde</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Kopiér afspilningslistelinket, eller download M3U-filen til din enhed.</string>
+    <string name="title_2">Gem playlisteoplysningerne</string>
+    <string name="title_3">Upload til appen</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Åbn appen → vælg Tilføj afspilningsliste → vælg Fra URL → indsæt linket.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Få adgang til afspilningslisten, og begynd at se dine yndlingskanaler.</string>
+    <string name="title_4">Nyd dit indhold</string>
+    <string name="search">Søge…</string>
+    <string name="all">Alle</string>
+    <string name="recent">Nylig</string>
+    <string name="favorites">Favoritter</string>
+    <string name="url">URL</string>
+    <string name="file">Fil</string>
+    <string name="no_channels_found">Ingen kanaler fundet</string>
+    <string name="no_recents">Ingen seneste</string>
+    <string name="play_something_to_begin">Afspil medier for at begynde</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Importer nye kanaler ved at trykke på knappen nedenfor.</string>
+    <string name="a_z_sort">A-Z sortering</string>
+    <string name="z_a_sort">Z-A sortering</string>
+    <string name="_0_9_sort">0–9 Sorter</string>
+    <string name="_9_0_sort">9–0 Sortering</string>
+    <string name="refresh">Opfriske</string>
+    <string name="accept">Acceptere</string>
+    <string name="license_agreement">Licensaftale</string>
+    <string name="i_agree">Jeg accepterer licensaftalen</string>
+    <string name="content_license_agreement">IPTV understøtter M3U- og JSON-afspilningslister oprettet af brugere. Vi leverer eller hoster ikke noget indhold.\n\nDenne app er kun beregnet til lovligt opnået indhold. Du er ansvarlig for at sikre, at dine afspilningslister og indhold overholder gældende love og tilladelser.\n\nVed at fortsætte bekræfter du, at du forstår og accepterer disse vilkår.\n\nAnsvarsfraskrivelse\n\nIPTV leverer eller promoverer ikke noget indhold og er ikke tilknyttet tredjepartsudbydere.\n\nBrugere skal levere deres eget indhold. Uautoriseret streaming af ophavsretligt beskyttet materiale frarådes kraftigt.</string>
+    <string name="content_1">Du kan søge online med nøgleord som "IPTV M3U-afspilningsliste" eller tjekke vejledningen fra din tv/streamingtjeneste.\nEt korrekt M3U-link typisk:\n• Begynder med http:// eller https://\n• Slutter med .m3u eller .m3u8\nPrøv at bruge betroede og juridiske kilder, når det er muligt. Bemærk, at nogle afspilningslister kan udløbe, kræve loginoplysninger eller være begrænset af region.</string>
+    <string name="content_2">Sådan kopierer du M3U-URL\'en:\n• På mobilen: Tryk og hold på linket → vælg Kopier link\n• På skrivebordet: Højreklik på linket → vælg Kopier linkadresse\nSådan downloader du afspilningslistefilen:\n• Gem .m3u- eller .m3u8-filen på en let tilgængelig placering på din enhed\nDu kan senere importere filen direkte fra dit lokale lager (referer filen direkte fra dit lokale lager).</string>
+    <string name="content_3">Start IPTV Smart Player.\nVælg Tilføj afspilningsliste.\nVælg én metode til at importere:\n• Via URL → Indsæt dit M3U-link\n• Fra fil → Gennemse, og vælg den gemte .m3u / .m3u8-fil på din enhed\n(Valgfrit) Indtast et brugerdefineret navn for nemt at identificere din afspilningsliste senere\nTryk på Gem for at afslutte.</string>
+    <string name="content_4">Giv appen et øjeblik til at indlæse kanaler og kategorier.\nUdforsk kanallisten, eller brug søgefunktionen til hurtigt at finde det, du leder efter.\nHvis der ikke vises noget indhold:\n• Tjek din internetforbindelse\n• Sørg for, at M3U-linket eller -filen stadig er gyldig og fungerer</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Der kræves en internetforbindelse for at fortsætte med at bruge appen.\nTjek venligst dine netværksindstillinger og genopret forbindelsen.</string>
+    <string name="retry">Prøv igen</string>
+    <string name="thank_you_for_using_iptv">Tak fordi du bruger IPTV</string>
+    <string name="playlist_name">Afspilningslistenavn</string>
+    <string name="playlist">Afspilningsliste</string>
+    <string name="save">Gem</string>
+    <string name="password">Adgangskode</string>
+    <string name="username">Brugernavn</string>
+    <string name="no_file_selected">Ingen fil valgt</string>
+    <string name="m3u_file">M3U fil</string>
+    <string name="playlist_url">Afspilningsliste-URL</string>
+    <string name="choose_icon">Vælg ikon</string>
+    <string name="choose_color">Vælg Farve</string>
+    <string name="paste_your_url_here">Indsæt din URL her</string>
+    <string name="edit">Redigere</string>
+    <string name="delete">Slet</string>
+    <string name="rate_this_app">Bedøm denne app</string>
+    <string name="tell_us_about_your_experiences">Fortæl os om dine oplevelser</string>
+    <string name="enter_your_stream_link_here">Indtast dit streamlink her</string>
+    <string name="stream_link">Stream-link</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Support netværksprotokoller: http, ftp, rtsp, rtp, udp...</string>
+    <string name="channel">Kanaler</string>
+    <string name="import_playlist_url">Importer afspilningsliste-URL</string>
+    <string name="load_from_device">Indlæs fra enhed</string>
+    <string name="play_single_stream">Spil enkelt stream</string>
+    <string name="upload_m3u_file">Upload M3U-fil</string>
+    <string name="all_channels">Alle kanaler</string>
+    <string name="playback_error">Afspilningsfejl</string>
+    <string name="no_internet_connection">Ingen internetforbindelse</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Denne kanal er midlertidigt ude af drift eller ikke tilgængelig i dit område. Prøv venligst igen senere.</string>
+    <string name="lock">Låse</string>
+    <string name="full_screen">Fuld skærm</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Skærmlås. Tryk for at låse op</string>
+    <string name="delete_playlist">Vil du slette afspilningslisten?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Er du sikker på, at du vil slette denne afspilningsliste? Denne handling kan ikke fortrydes.</string>
+    <string name="yes_delete">Ja, slet</string>
+    <string name="error_1">Du skal udfylde de obligatoriske felter</string>
+    <string name="error_2">Nogle felter er ugyldige</string>
+    <string name="success_1">Import med succes</string>
+    <string name="success_2">Gem med succes</string>
+    <string name="content_rate_1">Hvis du elskede din tid hos os, så giv venligst en 5-stjernet vurdering!</string>
+    <string name="content_rate_2">Hvis du elskede din tid hos os, så giv venligst en 5-stjernet vurdering!</string>
+    <string name="content_rate_3">Hvis du elskede din tid hos os, så giv venligst en 5-stjernet vurdering!</string>
+    <string name="content_rate_4">Næsten perfekt? Vi vil stræbe efter den ekstra stjerne!</string>
+    <string name="content_rate_5">Du gjorde vores dag fuldstændig! 🌟 Lad os holde den gode stemning kørende.</string>
+    <string name="no_results_found_for">Ingen resultater fundet for</string>
+    <string name="the_device_does_not_support_pip">Enheden understøtter ikke PiP.</string>
+    <string name="video_file_not_found">Videofil blev ikke fundet</string>
+    <string name="minimize">Minimer vinduet</string>
+    <string name="refresh_in_progress_please_wait">Opdatering i gang, vent venligst...</string>
+    <string name="no_email_app_found">Ingen e-mail-app fundet!</string>
+    <string name="error_5">Nogle felter er ugyldige</string>
+    <string name="no_favorite_channel_yet">Ingen favoritkanal endnu</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Find en kanal, du kan lide, og tryk på hjertet for at beholde den.</string>
+    <string name="refreshed_successfully">Opdateret med succes</string>
+    <string name="import_xtream_codes_api">Importer Xtream Codes API</string>
+    <string name="suggestion">Forslag</string>
+    <string name="suggestion_1">Familie</string>
+    <string name="suggestion_2">Sport</string>
+    <string name="suggestion_3">Film</string>
+    <string name="_100_no_ads">100 % ingen annoncer</string>
+    <string name="hd_4d_quality">HD og 4D kvalitet</string>
+    <string name="premium_channels">Premium-kanaler</string>
+    <string name="most_popular">Mest populære</string>
+    <string name="weekly">Ugentlig</string>
+    <string name="monthly">Månedlig</string>
+    <string name="yearly">Årligt</string>
+    <string name="_3_day_free_trial">3-dages gratis prøveperiode</string>
+    <string name="something_went_wrong">Noget gik galt</string>
+    <string name="content_error">Følg venligst dette trin og prøv igen:\n1. Tjek din netværksforbindelse\n2. Sørg for, at du er logget ind på din Google-konto\n3. Sørg for, at du kan køre Google play-applikationen</string>
+    <string name="cancel_anytime">Annuller når som helst</string>
+    <string name="term_of_use">
+        <u>Brugsperiode</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Privatlivspolitik</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Din Premium-version er nu aktiv. Nyd at bruge appen!</string>
+    <string name="payment_success">Betalingssucces</string>
+    <string name="payment_failed">Betaling mislykkedes</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Et lille problem stoppede betalingen. Prøv venligst igen</string>
+    <string name="go_premium">Gå til Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Lås op for alle funktioner og nyd appen uden annoncer!</string>
+    <string name="premium_member">Premium medlem</string>
+    <string name="active_until">Aktiv indtil %s</string>
+    <string name="sever_url">Server URL</string>
+    <string name="find_an_xtream_account">Find en Xtream-konto</string>
+    <string name="search_for_xtream_code_api_account_online">Søg efter "Xtream Code API Account" online.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Tryk på Tilføj profil for at gemme og nyde dit indhold.</string>
+    <string name="start_streaming">Begynd at streame</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Åbn appen og udfyld Xtream-profilfelterne.</string>
+    <string name="enter_the_information">Indtast oplysningerne</string>
+    <string name="copy_the_server_url_username_and_password">Kopier serverens URL, brugernavn og adgangskode.</string>
+    <string name="copy_the_account_details">Kopiér kontooplysningerne</string>
+    <string name="how_to_add_an_xtream_profile">Sådan tilføjer du en Xtream-profil</string>
+    <string name="account_added_successfully">Konto tilføjet</string>
+    <string name="your_account_is_ready_to_use">Din konto er klar til brug</string>
+    <string name="view_now">Se nu</string>
+    <string name="later">Senere</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Tilføj din første afspilningsliste for at begynde at se</string>
+    <string name="title_slider_1">Stream sport live på telefonen</string>
+    <string name="action_try_now">Prøv nu</string>
+    <string name="title_slider_2">Byg din filmafspilningsliste</string>
+    <string name="title_slider_3">Nyd alle funktioner uden annoncer</string>
+    <string name="tap_to_search">Tryk for at søge</string>
+    <string name="sports_hub">Sportscenter</string>
+    <string name="wc_schedule">Tidsplaner</string>
+    <string name="wc_team">Hold</string>
+    <string name="wc_standing">Stillingtabel</string>
+    <string name="wc_today">I dag</string>
+    <string name="wc_upcoming">Kommende</string>
+    <string name="wc_full_time">Fuld tid</string>
+    <string name="wc_live">Live</string>
+    <string name="wc_no_matches">Ingen kampe fundet</string>
+    <string name="wc_no_standings">Ingen stillingtabel tilgængelig</string>
+    <string name="wc_remind_me">Påmind mig</string>
+    <string name="wc_updating">Opdaterer…</string>
+    <string name="wc_match_detail">Kampdetaljer</string>
+    <string name="wc_events">Arrangementer</string>
+    <string name="wc_no_events">Ingen arrangementer tilgængelige</string>
+    <string name="wc_no_events_desc">Kampen er ikke startet endnu. Indstil en påmindelse, så du ikke går glip af noget.</string>
+    <string name="wc_switch_team">Skift hold</string>
+    <string name="wc_bracket">Turneringsbracket</string>
+    <string name="wc_round_of_32">32\'er-finalen</string>
+    <string name="wc_starting_soon">Starter snart</string>
+    <string name="wc_round_of_16">16\'er-finalen</string>
+    <string name="wc_quarter_finals">Kvarterfinal</string>
+    <string name="wc_semi_finals">Semifinaler</string>
+    <string name="wc_final">Finale</string>
+    <string name="wc_no_bracket">Ingen bracketdata tilgængelige</string>
+    <string name="wc_no_matches_today">Ingen kampe i dag</string>
+    <string name="wc_upcoming_fixtures">Kommende kampe vises her</string>
+    <string name="wc_no_recent">Ingen seneste kampe</string>
+    <string name="wc_no_upcoming">Ingen kommende kampe</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Aktivér notifikationer</string>
+    <string name="noti_enable_desc">Få kamppåmindelser, opdateringer om nyt indhold og vigtige streamingadvarsler.</string>
+    <string name="noti_go_to_setting">Gå til indstillinger</string>
+    <string name="visit_sports_hub">Besøg Sports Hub</string>
+    <string name="_3rd_place_final">Tredjeplads finale</string>
+    <string name="_16th_finals">16-delsfinaler</string>
+    <string name="ranking_of_third_placed_teams">Rangliste over tredjeplacerede hold</string>
+    <string name="out">"Ude: "</string>
+    <string name="_in">"I: "</string>
+    <string name="_2nd_half">2. halvleg</string>
+    <string name="_1st_half">1. halvleg</string>
+    <string name="asst">Assist. %1$s</string>
+    <string name="out_s">Ude: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Kampen er afsluttet. Åbn appen for at se det fulde resultat.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Afspark om 15 minutter. Åbn appen for at følge med.</string>
+    <string name="live_now">Live nu</string>
+    <string name="full_time">Fuld tid</string>
+    <string name="_2nd_group">2. Gruppe %1$s</string>
+    <string name="_1st_group">1. Gruppe %1$s</string>
+    <string name="eighth_finals">Ottendedelfinale</string>
+    <string name="quarter_finals">Kvartfinaler</string>
+    <string name="semi_finals">Semifinaler</string>
+    <string name="winner">Vinder</string>
+    <string name="loser">Taber</string>
+    <string name="round_of_32">32-delsfinale</string>
+    <string name="round_of_16">Ottendedelfinale</string>
+    <string name="_3rd_place">3. plads</string>
+    <string name="_final">Finale</string>
+    <string name="group_stage">Gruppespil</string>
+    <string name="round">Runde %1$d</string>
+    <string name="group">Gruppe </string>
+    <string name="_1st">1.</string>
+    <string name="_2nd">2.</string>
+    <string name="_3rd">3.</string>
+    <string name="th">%1$d.</string>
+    <string name="remind_set">Påmindelse indstillet</string>
+    <string name="remind_removed">Påmindelse fjernet</string>
+    <string name="_et1">Forlænget tid 1. halvleg</string>
+    <string name="_et2">Forlænget tid 2. halvleg</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Afspil</string>
+    <string name="add_similar_items">Tilføj lignende elementer</string>
+    <string name="see_more">Se mere</string>
+    <string name="see_less">Se mindre</string>
+    <string name="view_all">Se alt</string>
+    <string name="home">Hjem</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Direkte nu</string>
+    <string name="recommended_for_you">Anbefalet til dig</string>
+    <string name="new_series">Nye serier</string>
+    <string name="live_badge">DIREKTE</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes giver en pålidelig IPTV-streamingerlebelse.</string>
+    <string name="live_tv">Live TV</string>
+    <string name="movies">Film</string>
+    <string name="series">Serier</string>
+    <string name="add_profile">Tilføj profil</string>
+    <string name="choose_your_profile">Vælg din profil</string>
+    <string name="my_favorite">Mine favoritter</string>
+    <string name="live_channel">Live-kanal</string>
+    <string name="your_favorite_list_is_empty">Din favoritliste er tom</string>
+    <string name="edit_profile">Rediger profil</string>
+    <string name="profile_name">Profilnavn</string>
+    <string name="delete_profile">Slet profil</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Er du sikker på, at du vil slette denne profil?</string>
+    <string name="no_browser_found">Ingen app fundet til at åbne søgningen</string>
+    <string name="reminder_noon_title_1">Tid til at genoplade 🧠</string>
+    <string name="reminder_noon_body_1">Kun én episode for at friske dit sind op!</string>
+    <string name="reminder_noon_title_2">Har du et par minutter? 🎬</string>
+    <string name="reminder_noon_body_2">Dine kanaler er kun et tryk væk.</string>
+    <string name="reminder_noon_title_3">Dine kanaler venter 📺</string>
+    <string name="reminder_noon_body_3">Direkte TV, film &amp; serier — alt på ét sted.</string>
+    <string name="reminder_evening_title_1">Prime time er i gang 🔥</string>
+    <string name="reminder_evening_body_1">Dine kanaler er live lige nu.</string>
+    <string name="reminder_evening_title_2">Hvad sker der i aften? ⚽</string>
+    <string name="reminder_evening_body_2">Direkte sport, nye episoder &amp; mere.</string>
+    <string name="reminder_evening_title_3">I aften på TV 📺</string>
+    <string name="reminder_evening_body_3">Direkte kanaler, film &amp; serier — alt her.</string>
+    <string name="reminder_no_playlist_title">Dit TV venter 📺</string>
+    <string name="reminder_no_playlist_body">Tilføj din playliste og begynd at se.</string>
+    <string name="reminder_playlist_ready_title">Alt er klar! ✅</string>
+    <string name="reminder_playlist_ready_body">Tryk for at se din yndlingskanal.</string>
+    <string name="noti_enable_title_ver_2">Tillad %1$s at sende dig notifikationer</string>
+    <string name="noti_enable_desc_ver_2">Få direkte TV-påmindelser, nye filmopdateringer og vigtige streamingadvarsler</string>
+    <string name="deny">Afvis</string>
+    <string name="allow">Tillad</string>
+    <string name="tut_xtream_1">Søg efter “Xtream Code API Account” med en hvilken som helst søgemaskine</string>
+    <string name="tut_xtream_2">Find sektionen “Format” eller “Playlist” og kopiér Xtream-kontooplysningerne</string>
+    <string name="tut_xtream_3">Gå tilbage til appen, tryk på &quot;+&quot;-knappen, vælg &quot;Import Stream Link&quot;, og indsæt derefter linket.</string>
+    <string name="tut_xtream_4">Nyd at se Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Sådan tilføjer du en Xtream-profil</u>
+    </string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_80">
+
+    <LinearLayout
+        android:id="@+id/linearLayout6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_corner_16"
+        android:backgroundTint="@color/surface_s5"
+        android:elevation="3dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingStart="40dp"
+        android:paddingTop="30dp"
+        android:paddingEnd="40dp"
+        android:paddingBottom="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:layout_width="144dp"
+            android:layout_height="100dp"
+            android:layout_marginHorizontal="32dp"
+            android:layout_marginTop="12dp"
+            android:adjustViewBounds="true"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/animloading" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/textScanVideoImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/quicksand_medium_500"
+            android:gravity="center"
+            android:text="@string/loading"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

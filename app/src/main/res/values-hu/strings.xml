@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Alapértelmezett nyelv</string>
+    <string name="setting">Beállítás</string>
+    <string name="language">Nyelv</string>
+    <string name="privacy_policy">Adatvédelmi szabályzat</string>
+    <string name="get_started">Kezdje el</string>
+    <string name="welcome">Üdvözöljük</string>
+    <string name="next">Következő</string>
+    <string name="title_onb_1">Nézz meg mindent</string>
+    <string name="content_onb_1">Bármikor és bárhonnan hozzáférhet élő tévéműsorokhoz, sporthoz, filmekhez és rajzfilmekhez.</string>
+    <string name="title_onb_2">Készítse el lejátszási listáját</string>
+    <string name="content_onb_2">Adjon hozzá kedvenc csatornáit, és nézze meg őket bármikor, azonnal.</string>
+    <string name="habit_1">Élő TV</string>
+    <string name="habit_2">Filmek</string>
+    <string name="habit_3">Sport</string>
+    <string name="habit_4">Hír</string>
+    <string name="habit_5">Család</string>
+    <string name="habit_6">Szórakozás</string>
+    <string name="feedback">Visszacsatolás</string>
+    <string name="rate_now">Értékelje most</string>
+    <string name="send_feedback">Visszajelzés küldése</string>
+    <string name="cancel">Mégsem</string>
+    <string name="please_select_your_language">Kérjük, válassza ki a nyelvet</string>
+    <string name="please_choose_at_least_one_option">Kérjük, válasszon legalább egy lehetőséget</string>
+    <string name="try_again">Próbáld újra</string>
+    <string name="got_it">Megvan!</string>
+    <string name="_continue">Folytatás</string>
+    <string name="tutorial">oktatóanyag</string>
+    <string name="how_to_add_a_playlist">Lejátszási lista hozzáadása</string>
+    <string name="tutorial_step_1">Keressen rá a \"nyilvános IPTV lejátszási listára\" bármely keresőmotor segítségével.</string>
+    <string name="tutorial_step_2">Másolja ki az M3U lejátszási lista hivatkozását, vagy mentse el a lejátszási lista fájljait.</string>
+    <string name="tutorial_step_3">Nyissa meg újra az alkalmazást.\nKoppintson a \"+\" gombra, válassza ki a \"Lejátszási lista URL-jének importálása\" lehetőséget, és illessze be a hivatkozást.</string>
+    <string name="tutorial_step_4">Élvezze az IPTV csatornák nézését!</string>
+    <string name="tab_import_url">URL importálása</string>
+    <string name="tab_upload_file">Fájl feltöltése</string>
+    <string name="tab_stream">Folyam</string>
+    <string name="tut_url_1">Keressen rá a \"nyilvános IPTV lejátszási listára\" bármely keresőmotor segítségével.</string>
+    <string name="tut_url_2">Másolja ki az M3U lejátszási lista hivatkozását, vagy mentse el a lejátszási lista fájlt.</string>
+    <string name="tut_url_3">Nyissa meg újra az alkalmazást.\nKoppintson a \"+\" gombra, válassza ki a \"Lejátszási lista URL-jének importálása\" lehetőséget, és illessze be a hivatkozást.</string>
+    <string name="tut_url_4">Élvezze az IPTV csatornák nézését!</string>
+    <string name="tut_file_1">Keressen rá az \"M3U fájlra\" bármely keresőmotor segítségével.</string>
+    <string name="tut_file_2">Mentse el az .m3u fájlt a készülékére.</string>
+    <string name="tut_file_3">Térjen vissza az alkalmazáshoz, érintse meg a \"+\" gombot, válassza az \"M3U fájl feltöltése\" lehetőséget, majd válassza ki a letöltött fájlt.</string>
+    <string name="tut_file_4">Élvezze az IPTV csatornák nézését!</string>
+    <string name="tut_stream_1">Keressen rá a \"nyilvános IPTV adatfolyam URL-címére\" bármely keresőmotor segítségével.</string>
+    <string name="tut_stream_2">Másolja a teljes stream URL-t a vágólapra.</string>
+    <string name="tut_stream_3">Térjen vissza az alkalmazáshoz, koppintson a \"+\" gombra, válassza ki a \"Streamhivatkozás importálása\" lehetőséget, majd illessze be a hivatkozást.</string>
+    <string name="tut_stream_4">Élvezze az IPTV csatornák nézését!</string>
+    <string name="unlock_premium">Kinyit</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Nagyra értékelnénk, ha részletes visszajelzést adna nekünk (legalább 6 karakter)</string>
+    <string name="at_least_6_characters">Legalább 6 karakter</string>
+    <string name="loading">Terhelés…</string>
+    <string name="install_now">Telepítse most</string>
+    <string name="channels">%1$d csatorna</string>
+    <string name="this_action_may_contain_ads">Ez a művelet hirdetéseket tartalmazhat</string>
+    <string name="what_do_you_mainly_use_iptv_for">Mire használod főleg az IPTV-t?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Keressen egy IPTV lejátszási listát (M3U), amely elérhető az interneten.</string>
+    <string name="title_1">Keressen egy M3U-forrást</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Másolja ki a lejátszási lista hivatkozását, vagy töltse le az M3U fájlt a készülékére.</string>
+    <string name="title_2">Mentse el a lejátszási lista adatait</string>
+    <string name="title_3">Töltse fel az alkalmazásba</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Nyissa meg az alkalmazást → válassza a Lejátszási lista hozzáadása lehetőséget → válassza az URL-ről → illessze be a hivatkozást.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Nyissa meg a lejátszási listát, és nézze meg kedvenc csatornáit.</string>
+    <string name="title_4">Élvezze a tartalmat</string>
+    <string name="search">Keresés…</string>
+    <string name="all">Minden</string>
+    <string name="recent">Legutóbbi</string>
+    <string name="favorites">Kedvencek</string>
+    <string name="url">URL</string>
+    <string name="file">Fájl</string>
+    <string name="no_channels_found">Nem található csatorna</string>
+    <string name="no_recents">Nincsenek friss hírek</string>
+    <string name="play_something_to_begin">Média lejátszása a kezdéshez</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Új csatornák importálásához érintse meg az alábbi gombot.</string>
+    <string name="a_z_sort">A-Z Rendezés</string>
+    <string name="z_a_sort">Z-A Rendezés</string>
+    <string name="_0_9_sort">0–9 Rendezés</string>
+    <string name="_9_0_sort">9–0 Rendezés</string>
+    <string name="refresh">Frissítés</string>
+    <string name="accept">Elfogadás</string>
+    <string name="license_agreement">Licencszerződés</string>
+    <string name="i_agree">Elfogadom a Licencszerződést</string>
+    <string name="content_license_agreement">Az IPTV támogatja a felhasználók által létrehozott M3U és JSON lejátszási listákat. Nem biztosítunk és nem tárolunk semmilyen tartalmat.\n\nEz az alkalmazás csak legálisan beszerzett tartalomhoz készült. Ön felelős azért, hogy lejátszási listái és tartalmai megfeleljenek a vonatkozó törvényeknek és engedélyeknek.\n\nA folytatással megerősíti, hogy megérti és elfogadja ezeket a feltételeket.\n\nFelelősség kizárása\n\nAz IPTV nem biztosít és nem reklámoz semmilyen tartalmat, és nem áll kapcsolatban harmadik fél szolgáltatókkal.\n\nA felhasználóknak saját tartalmakat kell biztosítaniuk. A szerzői joggal védett anyagok jogosulatlan streamelése erősen nem javasolt.</string>
+    <string name="content_1">Kereshet az interneten olyan kulcsszavakkal, mint például az „IPTV M3U lejátszási lista”, vagy nézze meg a TV/streaming szolgáltatástól kapott útmutatást.\nA megfelelő M3U link általában:\n• http:// vagy https:// előtaggal kezdődik\n• .m3u vagy .m3u8 előtaggal végződik\nPróbáljon megbízható és legális forrásokat használni, amikor csak lehetséges. Ne feledje, hogy egyes lejátszási listák lejárhatnak, bejelentkezési adatokat igényelhetnek, vagy régiónként korlátozottak lehetnek.</string>
+    <string name="content_2">Az M3U URL másolása:\n• Mobilon: érintse meg és tartsa lenyomva a hivatkozást → válassza a Hivatkozás másolása lehetőséget.\n• Asztali számítógépen: Kattintson jobb gombbal a hivatkozásra → válassza a Hivatkozás címének másolása lehetőséget.\nA lejátszási listafájl letöltése:\n• Mentse el az .m3u vagy .m3u8 fájlt egy könnyen elérhető helyre az eszközén\nKésőbb importálhatja a fájlt közvetlenül a 3. lépés helyi tárhelyére.</string>
+    <string name="content_3">Indítsa el az IPTV Smart Player alkalmazást.\nVálassza ki a Lejátszási lista hozzáadása lehetőséget.\nVálasszon egy importálási módot:\n• URL-en keresztül → Illessze be az M3U hivatkozást\n• A Fájl → Tallózás menüből válassza ki a mentett .m3u / .m3u8 fájlt az eszközén.\n(Opcionális) Adjon meg egy egyéni nevet a lejátszási lista későbbi azonosításához.\nA befejezéshez koppintson a Mentés gombra.</string>
+    <string name="content_4">Adjon egy pillanatot az alkalmazásnak a csatornák és kategóriák betöltésére.\nFedezze fel a csatornalistát, vagy használja a Keresés funkciót, hogy gyorsan megtalálja, amit keres.\nHa nem jelenik meg tartalom:\n• Ellenőrizze az internetkapcsolatot.\n• Győződjön meg arról, hogy az M3U hivatkozás vagy fájl továbbra is érvényes és működik</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Az alkalmazás használatának folytatásához internetkapcsolat szükséges.\nEllenőrizze hálózati beállításait, és csatlakozzon újra.</string>
+    <string name="retry">Próbálja újra</string>
+    <string name="thank_you_for_using_iptv">Köszönjük, hogy IPTV-t használ</string>
+    <string name="playlist_name">Lejátszási lista neve</string>
+    <string name="playlist">Lejátszási lista elemre</string>
+    <string name="save">Mentés</string>
+    <string name="password">Jelszó</string>
+    <string name="username">Felhasználónév</string>
+    <string name="no_file_selected">Nincs kiválasztva fájl</string>
+    <string name="m3u_file">M3U fájl</string>
+    <string name="playlist_url">Lejátszási lista URL-je</string>
+    <string name="choose_icon">Válassza az Ikont</string>
+    <string name="choose_color">Válassza a Szín lehetőséget</string>
+    <string name="paste_your_url_here">Illessze be az URL-t ide</string>
+    <string name="edit">Szerkesztés</string>
+    <string name="delete">Töröl</string>
+    <string name="rate_this_app">Értékelje ezt az alkalmazást</string>
+    <string name="tell_us_about_your_experiences">Mesélj nekünk a tapasztalataidról</string>
+    <string name="enter_your_stream_link_here">Ide írd be a stream linkjét</string>
+    <string name="stream_link">Streamelési hivatkozás</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Támogatja a hálózati protokollokat: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Csatornák</string>
+    <string name="import_playlist_url">Lejátszási lista URL-jének importálása</string>
+    <string name="load_from_device">Betöltés az eszközről</string>
+    <string name="play_single_stream">Egyetlen adatfolyam lejátszása</string>
+    <string name="upload_m3u_file">Töltse fel az M3U fájlt</string>
+    <string name="all_channels">Minden csatorna</string>
+    <string name="playback_error">Lejátszási hiba</string>
+    <string name="no_internet_connection">Nincs internetkapcsolat</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Ez a csatorna átmenetileg nem elérhető, vagy nem érhető el az Ön régiójában. Kérjük, próbálja újra később.</string>
+    <string name="lock">Zár</string>
+    <string name="full_screen">Teljes képernyő</string>
+    <string name="pip">Csipog</string>
+    <string name="screen_lock_press_to_unlock">Képernyőzár. Nyomja meg a feloldáshoz</string>
+    <string name="delete_playlist">Törli a lejátszási listát?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Biztosan törlöd ezt a lejátszási listát? Ez a művelet nem vonható vissza.</string>
+    <string name="yes_delete">Igen, törölni</string>
+    <string name="error_1">A kötelező mezőket ki kell töltenie</string>
+    <string name="error_2">Egyes mezők érvénytelenek</string>
+    <string name="success_1">Sikeres importálás</string>
+    <string name="success_2">Sikeres mentés</string>
+    <string name="content_rate_1">Ha tetszett a velünk töltött idő, kérjük, hagyjon 5 csillagos értékelést!</string>
+    <string name="content_rate_2">Ha tetszett a velünk töltött idő, kérjük, hagyjon 5 csillagos értékelést!</string>
+    <string name="content_rate_3">Ha tetszett a velünk töltött idő, kérjük, hagyjon 5 csillagos értékelést!</string>
+    <string name="content_rate_4">Majdnem tökéletes? Törekedni fogunk erre az extra csillagra!</string>
+    <string name="content_rate_5">Teljesen feldobtad a napunkat! 🌟 Maradjunk a jó hangulatban.</string>
+    <string name="no_results_found_for">Nincs találat a következőre:</string>
+    <string name="the_device_does_not_support_pip">Az eszköz nem támogatja a PiP-t.</string>
+    <string name="video_file_not_found">A videofájl nem található</string>
+    <string name="minimize">Az ablak kicsinyítése</string>
+    <string name="refresh_in_progress_please_wait">Frissítés folyamatban, kérjük, várjon…</string>
+    <string name="no_email_app_found">Nem található e-mail alkalmazás!</string>
+    <string name="error_5">Egyes mezők érvénytelenek</string>
+    <string name="no_favorite_channel_yet">Még nincs kedvenc csatorna</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Keressen egy csatornát, amely tetszik, és koppintson a szívre, hogy megtartsa.</string>
+    <string name="refreshed_successfully">Sikeresen frissítve</string>
+    <string name="import_xtream_codes_api">Xtream Codes API importálása</string>
+    <string name="suggestion">Javaslat</string>
+    <string name="suggestion_1">Család</string>
+    <string name="suggestion_2">Sport</string>
+    <string name="suggestion_3">Filmek</string>
+    <string name="_100_no_ads">100% Nincsenek hirdetések</string>
+    <string name="hd_4d_quality">HD és 4D minőség</string>
+    <string name="premium_channels">Prémium csatornák</string>
+    <string name="most_popular">A legnépszerűbb</string>
+    <string name="weekly">Heti</string>
+    <string name="monthly">Havi</string>
+    <string name="yearly">Évi</string>
+    <string name="_3_day_free_trial">3 napos ingyenes próbaverzió</string>
+    <string name="something_went_wrong">Valami elromlott</string>
+    <string name="content_error">Kövesse ezt a lépést, és próbálja újra:\n1. Ellenőrizze a hálózati kapcsolatot.\n2. Győződjön meg arról, hogy be van jelentkezve Google-fiókjába\n3. Győződjön meg arról, hogy tudja futtatni a Google Play alkalmazást</string>
+    <string name="cancel_anytime">Bármikor lemondhatja</string>
+    <string name="term_of_use">
+        <u>Felhasználási idő</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Adatvédelmi szabályzat</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Prémium verziója most aktív. Élvezze az alkalmazás használatát!</string>
+    <string name="payment_success">Sikeres fizetés</string>
+    <string name="payment_failed">A fizetés sikertelen</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Egy kis probléma leállította a fizetést. Kérjük, próbálja újra</string>
+    <string name="go_premium">Menj a Premiumra</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Oldja fel az összes funkciót, és élvezze az alkalmazást hirdetések nélkül!</string>
+    <string name="premium_member">Prémium tag</string>
+    <string name="active_until">Aktív eddig: %s</string>
+    <string name="sever_url">Szerver URL</string>
+    <string name="find_an_xtream_account">Keressen egy Xtream fiókot</string>
+    <string name="search_for_xtream_code_api_account_online">Keressen rá az "Xtream Code API-fiókra" online.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Koppintson a Profil hozzáadása elemre a tartalom mentéséhez és élvezetéhez.</string>
+    <string name="start_streaming">Indítsa el a streamelést</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Nyissa meg az alkalmazást, és töltse ki az Xtream profil mezőit.</string>
+    <string name="enter_the_information">Írja be az információkat</string>
+    <string name="copy_the_server_url_username_and_password">Másolja ki a szerver URL-címét, felhasználónevét és jelszavát.</string>
+    <string name="copy_the_account_details">Másolja ki a fiók adatait</string>
+    <string name="how_to_add_an_xtream_profile">Xtream profil hozzáadása</string>
+    <string name="account_added_successfully">A fiók sikeresen hozzáadva</string>
+    <string name="your_account_is_ready_to_use">Fiókja használatra kész</string>
+    <string name="view_now">Megtekintés most</string>
+    <string name="later">Később</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">A megtekintés megkezdéséhez add hozzá az első lejátszási listádat</string>
+    <string name="title_slider_1">Élő sportközvetítés telefonon</string>
+    <string name="action_try_now">Próbáld ki most</string>
+    <string name="title_slider_2">Építsd meg filmlejátszási listádat</string>
+    <string name="title_slider_3">Élvezze az összes funkciót hirdetések nélkül</string>
+    <string name="tap_to_search">Érintse meg a kereséshez</string>
+    <string name="sports_hub">Sportközpont</string>
+    <string name="wc_schedule">Ütemezések</string>
+    <string name="wc_team">Csapatok</string>
+    <string name="wc_standing">Tabellák</string>
+    <string name="wc_today">Ma</string>
+    <string name="wc_upcoming">Közelgő</string>
+    <string name="wc_full_time">Teljes játékidő</string>
+    <string name="wc_live">Élő</string>
+    <string name="wc_no_matches">Nincsenek meccsek</string>
+    <string name="wc_no_standings">Nincsenek elérhető tabellák</string>
+    <string name="wc_remind_me">Emlékeztetni engem</string>
+    <string name="wc_updating">Frissítés…</string>
+    <string name="wc_match_detail">Meccs részletei</string>
+    <string name="wc_events">Események</string>
+    <string name="wc_no_events">Nincsenek elérhető események</string>
+    <string name="wc_no_events_desc">A meccs még nem kezdődött meg. Állítson be emlékeztetőt, hogy ne maradjon le semmiről.</string>
+    <string name="wc_switch_team">Csapat váltása</string>
+    <string name="wc_bracket">Tábla</string>
+    <string name="wc_round_of_32">32 közé jutottak</string>
+    <string name="wc_starting_soon">Hamarosan kezdődik</string>
+    <string name="wc_round_of_16">Nyolcaddöntő</string>
+    <string name="wc_quarter_finals">Negyeddöntők</string>
+    <string name="wc_semi_finals">Elődöntők</string>
+    <string name="wc_final">Döntő</string>
+    <string name="wc_no_bracket">Nincsenek elérhető tábla adatok</string>
+    <string name="wc_no_matches_today">Ma nincsenek meccsek</string>
+    <string name="wc_upcoming_fixtures">A közelgő mérkőzések itt jelennek meg</string>
+    <string name="wc_no_recent">Nincsenek nemrégiben játszott meccsek</string>
+    <string name="wc_no_upcoming">Nincsenek közelgő meccsek</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Értesítések engedélyezése</string>
+    <string name="noti_enable_desc">Kapjon meccs emlékeztetőket, új tartalom frissítéseket és fontos streaming riasztásokat.</string>
+    <string name="noti_go_to_setting">Ugrás a beállításokhoz</string>
+    <string name="visit_sports_hub">Sportközpont meglátogatása</string>
+    <string name="_3rd_place_final">3. hely döntő</string>
+    <string name="_16th_finals">16. döntő</string>
+    <string name="ranking_of_third_placed_teams">A harmadik helyezést elért csapatok rangsorja</string>
+    <string name="out">"Kívül: "</string>
+    <string name="_in">"Életben: "</string>
+    <string name="_2nd_half">2. félidő</string>
+    <string name="_1st_half">1. félidő</string>
+    <string name="asst">Gólpassz. %1$s</string>
+    <string name="out_s">Kívül: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">A meccs véget ért. Nyissa meg az alkalmazást a teljes eredményért.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Kickoff 15 perc múlva. Nyissa meg az alkalmazást az követéshez.</string>
+    <string name="live_now">Élő most</string>
+    <string name="full_time">Végeredmény</string>
+    <string name="_2nd_group">2. Csoport %1$s</string>
+    <string name="_1st_group">1. Csoport %1$s</string>
+    <string name="eighth_finals">Nyolcaddöntő</string>
+    <string name="quarter_finals">Negyeddöntő</string>
+    <string name="semi_finals">Elődöntő</string>
+    <string name="winner">Nyertes</string>
+    <string name="loser">Vesztes</string>
+    <string name="round_of_32">32 közül</string>
+    <string name="round_of_16">16 közül</string>
+    <string name="_3rd_place">3. Hely</string>
+    <string name="_final">Döntő</string>
+    <string name="group_stage">Csoportkör</string>
+    <string name="round">%1$d. forduló</string>
+    <string name="group">Csoport </string>
+    <string name="_1st">1.</string>
+    <string name="_2nd">2.</string>
+    <string name="_3rd">3.</string>
+    <string name="th">%1$d.</string>
+    <string name="remind_set">Emlékeztetõ beállítva</string>
+    <string name="remind_removed">Emlékeztetõ eltávolítva</string>
+    <string name="_et1">Hosszabbítás 1. félidő</string>
+    <string name="_et2">Hosszabbítás 2. félidő</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Lejátszás</string>
+    <string name="add_similar_items">Hasonló elemek hozzáadása</string>
+    <string name="see_more">Többet mutat</string>
+    <string name="see_less">Kevesebbet mutat</string>
+    <string name="view_all">Összes megtekintése</string>
+    <string name="home">Kezdőlap</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Most élő</string>
+    <string name="recommended_for_you">Ajánlott az Ön számára</string>
+    <string name="new_series">Új sorozatok</string>
+    <string name="live_badge">ÉLŐ</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Az Xtream Codes megbízható IPTV streaming élményt biztosít.</string>
+    <string name="live_tv">Élő TV</string>
+    <string name="movies">Filmek</string>
+    <string name="series">Sorozatok</string>
+    <string name="add_profile">Profil hozzáadása</string>
+    <string name="choose_your_profile">Válassza ki profilját</string>
+    <string name="my_favorite">Saját kedvencek</string>
+    <string name="live_channel">Élő csatorna</string>
+    <string name="your_favorite_list_is_empty">A kedvencek listája üres</string>
+    <string name="edit_profile">Profil szerkesztése</string>
+    <string name="profile_name">Profil neve</string>
+    <string name="delete_profile">Profil törlése</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Biztosan törölni szeretné ezt a profilt?</string>
+    <string name="no_browser_found">Nem található alkalmazás a keresés megnyitásához</string>
+    <string name="reminder_noon_title_1">Ideje feltöltődni 🧠</string>
+    <string name="reminder_noon_body_1">Csak egy epizód, hogy felfrissítsd az elméd!</string>
+    <string name="reminder_noon_title_2">Van pár perced? 🎬</string>
+    <string name="reminder_noon_body_2">A csatornáid egyetlen érintésre vannak.</string>
+    <string name="reminder_noon_title_3">A csatornáid várnak 📺</string>
+    <string name="reminder_noon_body_3">Élő TV, filmek és sorozatok — mind egy helyen.</string>
+    <string name="reminder_evening_title_1">A prime time elkezdődött 🔥</string>
+    <string name="reminder_evening_body_1">A csatornáid most élőben mennek.</string>
+    <string name="reminder_evening_title_2">Mi megy ma este? ⚽</string>
+    <string name="reminder_evening_body_2">Élő sport, új epizódok és még sok más.</string>
+    <string name="reminder_evening_title_3">Ma este a TV-ben 📺</string>
+    <string name="reminder_evening_body_3">Élő csatornák, filmek és sorozatok — minden itt.</string>
+    <string name="reminder_no_playlist_title">A TV-d vár 📺</string>
+    <string name="reminder_no_playlist_body">Add hozzá a lejátszási listádat, és kezdj el nézni.</string>
+    <string name="reminder_playlist_ready_title">Minden készen áll! ✅</string>
+    <string name="reminder_playlist_ready_body">Érintsd meg a kedvenc csatornád megtekintéséhez.</string>
+    <string name="noti_enable_title_ver_2">Engedélyezze, hogy a(z) %1$s értesítéseket küldjön Önnek</string>
+    <string name="noti_enable_desc_ver_2">Kapjon élő TV emlékeztetőket, új filmfrissítéseket és fontos streamelési riasztásokat</string>
+    <string name="deny">Elutasítás</string>
+    <string name="allow">Engedélyezés</string>
+    <string name="tut_xtream_1">Keresse a „Xtream Code API Account” kifejezést bármely keresőmotorral</string>
+    <string name="tut_xtream_2">Keresse meg a „Format” vagy „Playlist” szakaszt, és másolja ki az Xtream fiók adatait</string>
+    <string name="tut_xtream_3">Térjen vissza az alkalmazásba, koppintson a &quot;+&quot; gombra, válassza az &quot;Import Stream Link&quot; lehetőséget, majd illessze be a linket.</string>
+    <string name="tut_xtream_4">Élvezze az Xtream nézését</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Hogyan adjon hozzá Xtream profilt</u>
+    </string>
+</resources>

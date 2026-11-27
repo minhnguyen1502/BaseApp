@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">ede aiyipada</string>
+    <string name="setting">Eto</string>
+    <string name="language">Ede</string>
+    <string name="privacy_policy">Ilana asiri</string>
+    <string name="get_started">Bẹrẹ</string>
+    <string name="welcome">Kaabo si</string>
+    <string name="next">Itele</string>
+    <string name="title_onb_1">Wo Ohun gbogbo</string>
+    <string name="content_onb_1">Wọle si TV laaye, awọn ere idaraya, awọn fiimu, ati awọn aworan efe nigbakugba, nibikibi.</string>
+    <string name="title_onb_2">Kọ Akojọ orin rẹ</string>
+    <string name="content_onb_2">Ṣafikun awọn ikanni ti o nifẹ ki o wo wọn nigbakugba, lesekese.</string>
+    <string name="habit_1">TV Live</string>
+    <string name="habit_2">Sinima</string>
+    <string name="habit_3">Idaraya</string>
+    <string name="habit_4">Iroyin</string>
+    <string name="habit_5">Idile</string>
+    <string name="habit_6">Idanilaraya</string>
+    <string name="feedback">Esi</string>
+    <string name="rate_now">Oṣuwọn Bayi</string>
+    <string name="send_feedback">Fi esi ranṣẹ</string>
+    <string name="cancel">Fagilee</string>
+    <string name="please_select_your_language">Jọwọ yan ede rẹ</string>
+    <string name="please_choose_at_least_one_option">Jọwọ yan o kere ju aṣayan kan</string>
+    <string name="try_again">Gbiyanju Lẹẹkansi</string>
+    <string name="got_it">Ṣe o ri!</string>
+    <string name="_continue">Tesiwaju</string>
+    <string name="tutorial">Ikẹkọ</string>
+    <string name="how_to_add_a_playlist">Bii o ṣe le ṣafikun akojọ orin kan</string>
+    <string name="tutorial_step_1">Wa \"akojọ orin IPTV ti gbogbo eniyan" ni lilo ẹrọ wiwa eyikeyi.</string>
+    <string name="tutorial_step_2">Daakọ ọna asopọ akojọ orin M3U tabi fi awọn faili akojọ orin pamọ.</string>
+    <string name="tutorial_step_3">Ṣí ìṣàfilọ́lẹ̀ náà lẹ́ẹ̀kan sí i.\n Fọwọ́ba bọ́tìnì \"+\", yan \" URL Àtòjọ orin kó wọlé", kí o sì lẹ̀ mọ́ ìsopọ̀ náà.</string>
+    <string name="tutorial_step_4">Gbadun wiwo awọn ikanni IPTV rẹ!</string>
+    <string name="tab_import_url">Gbe URL wọle</string>
+    <string name="tab_upload_file">Ṣe igbasilẹ faili</string>
+    <string name="tab_stream">ṣiṣanwọle</string>
+    <string name="tut_url_1">Wa \"akojọ orin IPTV ti gbogbo eniyan" ni lilo ẹrọ wiwa eyikeyi.</string>
+    <string name="tut_url_2">Daakọ ọna asopọ akojọ orin M3U tabi fi faili akojọ orin pamọ.</string>
+    <string name="tut_url_3">Ṣí ìṣàfilọ́lẹ̀ náà lẹ́ẹ̀kan sí i.\n Fọwọ́ba bọ́tìnì \"+\", yan \" URL Àtòjọ orin kó wọlé", kí o sì lẹ̀ mọ́ ìsopọ̀ náà.</string>
+    <string name="tut_url_4">Gbadun wiwo awọn ikanni IPTV rẹ!</string>
+    <string name="tut_file_1">Wa \"M3U faili\" ni lilo ẹrọ wiwa eyikeyi.</string>
+    <string name="tut_file_2">Fi faili .m3u pamọ sori ẹrọ rẹ.</string>
+    <string name="tut_file_3">Pada si app naa, tẹ bọtini \"+\" ni kia kia, yan \"Fi faili M3U gbejade\", lẹhinna yan faili ti o ṣe igbasilẹ.</string>
+    <string name="tut_file_4">Gbadun wiwo awọn ikanni IPTV rẹ!</string>
+    <string name="tut_stream_1">Wa \" URL ṣiṣan IPTV ti gbogbo eniyan \" ni lilo ẹrọ wiwa eyikeyi.</string>
+    <string name="tut_stream_2">Daakọ URL ṣiṣan ni kikun si agekuru agekuru rẹ.</string>
+    <string name="tut_stream_3">Pada si ìṣàfilọlẹ naa, tẹ bọtini \"+\" ni kia kia, yan \" Iṣagbewọle Stream Link", lẹhinna lẹẹmọ ọna asopọ naa.</string>
+    <string name="tut_stream_4">Gbadun wiwo awọn ikanni IPTV rẹ!</string>
+    <string name="unlock_premium">Ṣii silẹ</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">A yoo dupẹ lọwọ ti o ba le fun wa ni esi alaye (o kere ju awọn ohun kikọ 6)</string>
+    <string name="at_least_6_characters">O kere ju awọn ohun kikọ 6</string>
+    <string name="loading">Nkojọpọ…</string>
+    <string name="install_now">Fi sori ẹrọ ni bayi</string>
+    <string name="channels">%1$d awọn ikanni</string>
+    <string name="this_action_may_contain_ads">Iṣe yii le ni awọn ipolowo ninu</string>
+    <string name="what_do_you_mainly_use_iptv_for">Kini o lo IPTV fun?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Wa akojọ orin IPTV kan (M3U) ti o wa lori ayelujara.</string>
+    <string name="title_1">Wa Orisun M3U kan</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Daakọ ọna asopọ akojọ orin tabi ṣe igbasilẹ faili M3U si ẹrọ rẹ.</string>
+    <string name="title_2">Fi Alaye Akojọ orin pamọ</string>
+    <string name="title_3">Po si App</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Ṣii app → yan Fi Akojọ orin kun → yan Lati URL → lẹẹmọ ọna asopọ naa.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Wọle si akojọ orin ki o bẹrẹ wiwo awọn ikanni ayanfẹ rẹ.</string>
+    <string name="title_4">Gbadun Akoonu Rẹ</string>
+    <string name="search">Ṣewadii…</string>
+    <string name="all">Gbogbo</string>
+    <string name="recent">Laipe</string>
+    <string name="favorites">Awọn ayanfẹ</string>
+    <string name="url">URL</string>
+    <string name="file">Faili</string>
+    <string name="no_channels_found">Ko si awọn ikanni ti a rii</string>
+    <string name="no_recents">Ko si awọn aipẹ</string>
+    <string name="play_something_to_begin">Mu media ṣiṣẹ lati bẹrẹ</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Ṣe agbewọle awọn ikanni tuntun nipa titẹ bọtini ni isalẹ.</string>
+    <string name="a_z_sort">A-Z lẹsẹsẹ</string>
+    <string name="z_a_sort">Z-A lẹsẹsẹ</string>
+    <string name="_0_9_sort">0–9 Too</string>
+    <string name="_9_0_sort">9–0 Too</string>
+    <string name="refresh">Tuntun</string>
+    <string name="accept">Gba</string>
+    <string name="license_agreement">Adehun iwe-aṣẹ</string>
+    <string name="i_agree">Mo gba si Adehun Iwe-aṣẹ</string>
+    <string name="content_license_agreement">IPTV ṣe atilẹyin awọn akojọ orin M3U ati JSON ti a ṣẹda nipasẹ awọn olumulo. A ko pese tabi gbalejo akoonu kankan.\n\n Ohun elo yii jẹ ipinnu fun akoonu ti o gba ni ofin nikan. O ni iduro fun idaniloju pe awọn akojọ orin rẹ ati akoonu rẹ ni ibamu pẹlu awọn ofin ati awọn igbanilaaye to wulo.\n\nNipa tẹsiwaju, o jẹrisi pe o loye ati gba awọn ofin wọnyi. Ṣiṣanwọle laigba aṣẹ ti ohun elo aladakọ jẹ irẹwẹsi gidigidi.</string>
+    <string name="content_1">O le ṣewadii lori ayelujara pẹlu awọn koko-ọrọ bii “akojọ orin IPTV M3U” tabi ṣayẹwo itọsọna ti a pese nipasẹ iṣẹ TV/sisanwọle rẹ.\n Ọna asopọ M3U to dara ni igbagbogbo:\n• Bẹrẹ pẹlu http:// tabi https://\n• Pari pẹlu .m3u tabi .m3u8\nGbiyanju lati lo awọn orisun igbẹkẹle ati ofin nigbakugba ti o ṣee ṣe. Ṣe akiyesi pe diẹ ninu awọn akojọ orin le pari, nilo awọn ẹri wiwọle tabi ni opin nipasẹ agbegbe.</string>
+    <string name="content_2">Lati da M3U URL naa:\n• Lori alagbeka: Fọwọ ba ọna asopọ naa → yan Daakọ ọna asopọ\n• Lori tabili tabili: Tẹ-ọtun ọna asopọ → yan Daakọ adirẹsi ọna asopọ\nLati ṣe igbasilẹ faili akojọ orin:\n• Fi faili .m3u tabi .m3u8 pamọ si ipo ti o rọrun lati wọle si lori ẹrọ rẹ\nO le gbe faili naa wọle taara lati ibi ipamọ agbegbe rẹ.</string>
+    <string name="content_3">Lọlẹ IPTV Smart Player.\nYan Fi Akojọ orin kun.\n Yan ọna kan lati gbe wọle:\n• Nipasẹ URL → Lẹẹmọ ọna asopọ M3U rẹ\n• Lati Faili → Ṣawakiri ki o yan faili .m3u / .m3u8 ti o fipamọ sori ẹrọ rẹ\n(Iyan) Tẹ orukọ aṣa sii lati ṣe idanimọ akojọ orin rẹ ni irọrun nigbamii\nFọwọ ba Fipamọ lati pari.</string>
+    <string name="content_4">Fun ohun elo naa ni iṣẹju diẹ lati kojọpọ awọn ikanni ati awọn ẹka.\nṢawari atokọ ikanni naa tabi lo ẹya wiwa lati wa ohun ti o fẹ ni kiakia.\nTi ko ba si akoonu han:\n• Ṣayẹwo asopọ intanẹẹti rẹ\n• Rii daju pe ọna asopọ tabi faili M3U tun wulo ati ṣiṣẹ</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Asopọ intanẹẹti kan nilo lati tẹsiwaju ni lilo ohun elo naa.\n Jọwọ ṣayẹwo awọn eto nẹtiwọọki rẹ ki o tun sopọ.</string>
+    <string name="retry">Tun gbiyanju</string>
+    <string name="thank_you_for_using_iptv">O ṣeun fun lilo IPTV</string>
+    <string name="playlist_name">Akojọ orin Oruko</string>
+    <string name="playlist">Akojọ orin kikọ</string>
+    <string name="save">Fipamọ</string>
+    <string name="password">Ọrọigbaniwọle</string>
+    <string name="username">Orukọ olumulo</string>
+    <string name="no_file_selected">Ko si faili ti o yan</string>
+    <string name="m3u_file">M3U faili</string>
+    <string name="playlist_url">URL akojọ orin</string>
+    <string name="choose_icon">Yan Aami</string>
+    <string name="choose_color">Yan Awọ</string>
+    <string name="paste_your_url_here">Lẹẹmọ URL rẹ nibi</string>
+    <string name="edit">Ṣatunkọ</string>
+    <string name="delete">Paarẹ</string>
+    <string name="rate_this_app">Oṣuwọn ohun elo yii</string>
+    <string name="tell_us_about_your_experiences">Sọ fun wa nipa awọn iriri rẹ</string>
+    <string name="enter_your_stream_link_here">Tẹ ọna asopọ ṣiṣan rẹ sii nibi</string>
+    <string name="stream_link">Ọna asopọ ṣiṣan</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Ṣe atilẹyin awọn ilana nẹtiwọọki: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Awọn ikanni</string>
+    <string name="import_playlist_url">URL akojọ orin gbe wọle</string>
+    <string name="load_from_device">Fifuye Lati Ẹrọ</string>
+    <string name="play_single_stream">Play nikan san</string>
+    <string name="upload_m3u_file">Ṣe igbasilẹ faili M3U</string>
+    <string name="all_channels">Gbogbo Awọn ikanni</string>
+    <string name="playback_error">Aṣiṣe ṣiṣiṣẹsẹhin</string>
+    <string name="no_internet_connection">Ko si Asopọ Ayelujara</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Ikanni yii ko ni iṣẹ fun igba diẹ tabi ko si ni agbegbe rẹ. Jọwọ gbiyanju lẹẹkansi nigbamii.</string>
+    <string name="lock">Titiipa</string>
+    <string name="full_screen">Gbogbo sikirini</string>
+    <string name="pip">Pipa</string>
+    <string name="screen_lock_press_to_unlock">Titiipa iboju. Tẹ lati ṣii</string>
+    <string name="delete_playlist">Pa akojọ orin rẹ rẹ bi?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Ṣe o da ọ loju pe o fẹ pa akojọ orin yii rẹ bi? Iṣe yii ko le ṣe atunṣe.</string>
+    <string name="yes_delete">Bẹẹni, paarẹ</string>
+    <string name="error_1">O nilo lati kun awọn aaye ti a beere</string>
+    <string name="error_2">Diẹ ninu awọn aaye ko wulo</string>
+    <string name="success_1">Gbe wọle ni aṣeyọri</string>
+    <string name="success_2">Fipamọ ni aṣeyọri</string>
+    <string name="content_rate_1">Ti o ba nifẹ akoko rẹ pẹlu wa, jọwọ fi iwọn-irawọ 5 silẹ!</string>
+    <string name="content_rate_2">Ti o ba nifẹ akoko rẹ pẹlu wa, jọwọ fi iwọn-irawọ 5 silẹ!</string>
+    <string name="content_rate_3">Ti o ba nifẹ akoko rẹ pẹlu wa, jọwọ fi iwọn-irawọ 5 silẹ!</string>
+    <string name="content_rate_4">Fere pipe? A yoo gbiyanju fun afikun irawọ yẹn!</string>
+    <string name="content_rate_5">O ṣe ọjọ wa patapata! 🌟 Jẹ ki a jẹ ki awọn gbigbọn ti o dara yiyi.</string>
+    <string name="no_results_found_for">Ko si esi ri fun</string>
+    <string name="the_device_does_not_support_pip">Ẹrọ naa ko ṣe atilẹyin PiP.</string>
+    <string name="video_file_not_found">Faili fidio ko ri</string>
+    <string name="minimize">Gbe ferese</string>
+    <string name="refresh_in_progress_please_wait">Sọ ni ilọsiwaju, jọwọ duro…</string>
+    <string name="no_email_app_found">Ko si ohun elo imeeli ti a rii!</string>
+    <string name="error_5">Diẹ ninu awọn aaye ko wulo</string>
+    <string name="no_favorite_channel_yet">Ko si ikanni ayanfẹ sibẹsibẹ</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Wa ikanni ti o nifẹ ki o tẹ ọkan ni kia kia lati tọju rẹ.</string>
+    <string name="refreshed_successfully">Itura ni aṣeyọri</string>
+    <string name="import_xtream_codes_api">Awọn koodu Xtream gbe wọle API</string>
+    <string name="suggestion">Imọran</string>
+    <string name="suggestion_1">Idile</string>
+    <string name="suggestion_2">Idaraya</string>
+    <string name="suggestion_3">Sinima</string>
+    <string name="_100_no_ads">100% Ko si Awọn ipolowo</string>
+    <string name="hd_4d_quality">HD &amp; Didara 4D</string>
+    <string name="premium_channels">Awọn ikanni Ere</string>
+    <string name="most_popular">Gbajumo julọ</string>
+    <string name="weekly">Osẹ-ọsẹ</string>
+    <string name="monthly">Oṣooṣu</string>
+    <string name="yearly">Odoodun</string>
+    <string name="_3_day_free_trial">Idanwo ọfẹ 3-ọjọ</string>
+    <string name="something_went_wrong">Nkankan ti ko tọ</string>
+    <string name="content_error">Please follow this step and try again:\n1. Check your network connection\n2. Rii daju pe o wọle si akọọlẹ Google rẹ\n3. Rii daju pe o le ṣiṣe ohun elo Google play</string>
+    <string name="cancel_anytime">Fagilee nigbakugba</string>
+    <string name="term_of_use">
+        <u>Igba ti lilo</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Ilana asiri</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Ẹya Ere rẹ ti ṣiṣẹ ni bayi. Enjoy using the app!</string>
+    <string name="payment_success">Aseyori owo sisan</string>
+    <string name="payment_failed">Isanwo kuna</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Ọrọ kekere kan duro sisan. Jọwọ gbiyanju lẹẹkansi</string>
+    <string name="go_premium">Lọ Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Ṣii gbogbo awọn ẹya ara ẹrọ ki o gbadun app laisi ipolowo!</string>
+    <string name="premium_member">Ere omo egbe</string>
+    <string name="active_until">Nṣiṣẹ titi %s</string>
+    <string name="sever_url">URL olupin</string>
+    <string name="find_an_xtream_account">Wa akọọlẹ Xtream kan</string>
+    <string name="search_for_xtream_code_api_account_online">Wa "Xtream Code API Account" lori ayelujara.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Fọwọ ba Fi Profaili kun lati fipamọ ati gbadun akoonu rẹ.</string>
+    <string name="start_streaming">Bẹrẹ ṣiṣanwọle</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Ṣii app naa ki o kun awọn aaye profaili Xtream.</string>
+    <string name="enter_the_information">Tẹ alaye sii</string>
+    <string name="copy_the_server_url_username_and_password">Daakọ URL olupin, Orukọ olumulo, ati Ọrọigbaniwọle.</string>
+    <string name="copy_the_account_details">Da awọn alaye iroyin</string>
+    <string name="how_to_add_an_xtream_profile">Bii o ṣe le ṣafikun Profaili Xtream kan</string>
+    <string name="account_added_successfully">Ti ṣafikun akọọlẹ ni aṣeyọri</string>
+    <string name="your_account_is_ready_to_use">Àkọọlẹ rẹ ti šetan lati lo</string>
+    <string name="view_now">Wo ni bayi</string>
+    <string name="later">Nigbamii</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Ṣafikun akojọ orin akọkọ rẹ lati bẹrẹ wiwo</string>
+    <string name="title_slider_1">Gbe idaraya Live lori foonu</string>
+    <string name="action_try_now">Gbiyanju bayi</string>
+    <string name="title_slider_2">Kọ Akojọ orin Fiimu Rẹ</string>
+    <string name="title_slider_3">Gbadun gbogbo awọn ẹya laisi ipolowo</string>
+    <string name="tap_to_search">Tẹ lati Wa</string>
+    <string name="sports_hub">Ile Ere Asa</string>
+    <string name="wc_schedule">Àkójọ Ọrẹ̀</string>
+    <string name="wc_team">Àwọn Ẹgbẹ́</string>
+    <string name="wc_standing">Ìṣàlẹ̀ Àwọn Ẹgbẹ́</string>
+    <string name="wc_today">Òní</string>
+    <string name="wc_upcoming">Tí ó ń bọ̀</string>
+    <string name="wc_full_time">Akọ́kọ́ Gbogbo</string>
+    <string name="wc_live">Bẹ̀rẹ̀</string>
+    <string name="wc_no_matches">Àìní Ọrẹ̀ Tí a rí</string>
+    <string name="wc_no_standings">Àìní Ìṣàlẹ̀ Àwọn Ẹgbẹ́</string>
+    <string name="wc_remind_me">Kì í padánù fún mi</string>
+    <string name="wc_updating">A n ẹ̀ko…</string>
+    <string name="wc_match_detail">Àpapo Ọrẹ̀</string>
+    <string name="wc_events">Ẹ̀kọ́</string>
+    <string name="wc_no_events">Ẹ̀kỌ́ àìsí</string>
+    <string name="wc_no_events_desc">Ọrẹ̀ náà kò tì bẹ̀rẹ̀. Ṣètò ìkìlọ̀ bẹ́ẹ̀ kí o má ba padánù ohun kan.</string>
+    <string name="wc_switch_team">Yi Ẹgbẹ́ Padà</string>
+    <string name="wc_bracket">Ẹ̀kọ́ Ìdajì</string>
+    <string name="wc_round_of_32">Ìgbésẹ̀ 32</string>
+    <string name="wc_starting_soon">A bẹ̀rẹ̀ láìpẹ́</string>
+    <string name="wc_round_of_16">Ìgbésẹ̀ 16</string>
+    <string name="wc_quarter_finals">Ìpínni Àkọ́kọ́ Mẹ̀rin</string>
+    <string name="wc_semi_finals">Ìpínni Àkọ́kọ́ Ẹ̀jọ́</string>
+    <string name="wc_final">Ìpínni</string>
+    <string name="wc_no_bracket">Àìní àpejúwe Ẹ̀kọ́ Ìdajì</string>
+    <string name="wc_no_matches_today">Àìní Ọrẹ̀ Nì Òní</string>
+    <string name="wc_upcoming_fixtures">Ọrẹ̀ tí ó ń bọ̀ yoo sẹ́ níbi ibi</string>
+    <string name="wc_no_recent">Àìní Ọrẹ̀ Tí ó tẹ́ kọjá</string>
+    <string name="wc_no_upcoming">Àìní Ọrẹ̀ Tí ó ń bọ̀</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Mú Ìkìlọ̀ Sí</string>
+    <string name="noti_enable_desc">Gba ìkìlọ̀ ọrẹ̀, ìfipada akoonu tuntun, ati ìkìlọ̀ tó kin jẹ́ nìpà ẹ̀kọ́.</string>
+    <string name="noti_go_to_setting">Lọ sí Ìsìtúnú</string>
+    <string name="visit_sports_hub">Ṣabẹ̀wò Sports Hub</string>
+    <string name="_3rd_place_final">Ìpínni Àkọ́kọ́ Kẹta</string>
+    <string name="_16th_finals">Ìdárayá Ẹkó 16</string>
+    <string name="ranking_of_third_placed_teams">Àsìkò Àwọn Ẹgbẹ́ Àkọ́kọ́ Kẹta</string>
+    <string name="out">"Ní ìta: "</string>
+    <string name="_in">"Nínú: "</string>
+    <string name="_2nd_half">Ẹkó Kejì</string>
+    <string name="_1st_half">Ìdajì Akọ́kọ́</string>
+    <string name="asst">Ìranlọ́wọ́. %1$s</string>
+    <string name="out_s">Ní ìta: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Ọrẹ̀ náà ti páàrọ̀. Ṣí àpò nàá fún èsì gbogbo.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Ìbẹ̀rẹ̀ nínú ìṣẹ́jú 15. Ṣí àpò nàá lati tẹ̀ lẹ́.</string>
+    <string name="live_now">Ní Ìbámu Báyìí</string>
+    <string name="full_time">Akókò Òpó</string>
+    <string name="_2nd_group">Ẹgbẹ́ Kejì %1$s</string>
+    <string name="_1st_group">Ẹgbẹ́ Àkọ́kọ́ %1$s</string>
+    <string name="eighth_finals">Àpẹrẹ Ìdì Mẹ́jọ</string>
+    <string name="quarter_finals">Àpẹrẹ Ìdì</string>
+    <string name="semi_finals">Àpẹrẹ Ìpari</string>
+    <string name="winner">Aláre</string>
+    <string name="loser">Ẹni tó Ṣubú</string>
+    <string name="round_of_32">Ìdì mẹ́tàléjọ</string>
+    <string name="round_of_16">Ìdì mẹ́rìndínlógún</string>
+    <string name="_3rd_place">Àgbà Kẹta</string>
+    <string name="_final">Ìpari</string>
+    <string name="group_stage">Ìdèlé Ẹgbẹ́</string>
+    <string name="round">Ìdì %1$d</string>
+    <string name="group">Ẹgbẹ́ </string>
+    <string name="_1st">Àkọ́kọ́</string>
+    <string name="_2nd">Kejì</string>
+    <string name="_3rd">Kẹta</string>
+    <string name="th">%1$dth</string>
+    <string name="remind_set">Ìpilẹ̀ àkọsílẹ̀</string>
+    <string name="remind_removed">Àkọsílẹ̀ yọkúrò</string>
+    <string name="_et1">Àkókò Àfikún Ìparí Àkọ́kọ́</string>
+    <string name="_et2">Àkókò Àfikún Ìparí Kejì</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Ṣe Ìjáde</string>
+    <string name="add_similar_items">Fi awọn ohun ìṣẹ̀ ní irú àpò</string>
+    <string name="see_more">Wo o ìlọ̀</string>
+    <string name="see_less">Wo o kere</string>
+    <string name="view_all">Wo gbogbo</string>
+    <string name="home">Ìlé</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Ìfipade Nísinsin yìí</string>
+    <string name="recommended_for_you">A Ṣe Àkójọ fún Ọ</string>
+    <string name="new_series">Seríìs Tuntun</string>
+    <string name="live_badge">ÌFIPADE</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes ńpèsè iriri IPTV tó ńìyẹ̀.</string>
+    <string name="live_tv">TV Ìfipade</string>
+    <string name="movies">Awọn Fílìmù</string>
+    <string name="series">Seríìs</string>
+    <string name="add_profile">Fi Profaili Kun</string>
+    <string name="choose_your_profile">Yàn Profaili Rẹ</string>
+    <string name="my_favorite">Awa Fẹ́ràn</string>
+    <string name="live_channel">Ìkọ̀kọ̀ Ìfipade</string>
+    <string name="your_favorite_list_is_empty">Àkójọ awa ìfẹ́ràn rẹ jẹ òfo</string>
+    <string name="edit_profile">Ṣe atunwo Profaili</string>
+    <string name="profile_name">Orúkọ Profaili</string>
+    <string name="delete_profile">Pa Profaili Run</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Ṣé o dá gbọ́ pé o fẹ́ pa profaili yìí run?</string>
+    <string name="no_browser_found">Ko sí ohun èlò tí a rí láti ṣí àwárí</string>
+    <string name="reminder_noon_title_1">Àkókò láti tún bẹ̀rẹ̀ 🧠</string>
+    <string name="reminder_noon_body_1">Apá kan ṣoṣo láti sọ ọpọlọ rẹ di tuntun!</string>
+    <string name="reminder_noon_title_2">Ǒ ní ìṣẹ́jú diẹ? 🎬</string>
+    <string name="reminder_noon_body_2">Àwọn ìkànnì rẹ wà ní ìfọwọ́kàn kan péré.</string>
+    <string name="reminder_noon_title_3">Àwọn ìkànnì rẹ ń dúró dè ọ́ 📺</string>
+    <string name="reminder_noon_body_3">TV taara, fíìmù &amp; àwọn eré-onítòhún — gbogbo rẹ̀ ní ibì kan.</string>
+    <string name="reminder_evening_title_1">Àkókò gíga ti bẹ̀rẹ̀ 🔥</string>
+    <string name="reminder_evening_body_1">Àwọn ìkànnì rẹ ń ṣiṣẹ́ taara báyìí.</string>
+    <string name="reminder_evening_title_2">Kín ni ó wà lálẹ́ òní? ⚽</string>
+    <string name="reminder_evening_body_2">Eré-ìdárayá taara, àwọn apá tuntun &amp; síwájú sí i.</string>
+    <string name="reminder_evening_title_3">Lálẹ́ òní lórí TV 📺</string>
+    <string name="reminder_evening_body_3">Àwọn ìkànnì taara, fíìmù &amp; àwọn eré-onítòhún — gbogbo rẹ̀ níbí.</string>
+    <string name="reminder_no_playlist_title">TV rẹ ń dúró dè ọ́ 📺</string>
+    <string name="reminder_no_playlist_body">Fi àtòjọ orin rẹ kún un kí o sì bẹ̀rẹ̀ wíwo.</string>
+    <string name="reminder_playlist_ready_title">Gbogbo rẹ̀ ti ṣetán! ✅</string>
+    <string name="reminder_playlist_ready_body">Tẹ̀ láti wo ìkànnì tí o fẹ́ràn jùlọ.</string>
+    <string name="noti_enable_title_ver_2">Yọ̀nda fún %1$s láti fi àwọn ìfitónilétí ránṣẹ́ sí ọ</string>
+    <string name="noti_enable_desc_ver_2">Gba àwọn ìránnilétí TV taara, àwọn ìsọdọ̀tun fíìmù tuntun, àti àwọn ìkìlọ̀ streaming pàtàkì</string>
+    <string name="deny">Kọ̀</string>
+    <string name="allow">Yọ̀nda</string>
+    <string name="tut_xtream_1">Wá “Xtream Code API Account” ní lílo ẹ̀rọ àwárí èyíkéyìí</string>
+    <string name="tut_xtream_2">Wá abala “Format” tàbí “Playlist” kí o sì dá àlàyé àkáǹtì Xtream kọ</string>
+    <string name="tut_xtream_3">Padà sí ohun èlò náà, tẹ bọtìnì &quot;+&quot;, yan &quot;Import Stream Link&quot;, lẹ́yìn náà fi ìjápọ̀ náà lẹ̀.</string>
+    <string name="tut_xtream_4">Gbádùn wíwo Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Bí a ṣe le fi Profaili Xtream kún un</u>
+    </string>
+</resources>

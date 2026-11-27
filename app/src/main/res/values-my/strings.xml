@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">မူရင်းဘာသာစကား</string>
+    <string name="setting">ဆက်တင်</string>
+    <string name="language">ဘာသာစကား</string>
+    <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်မူဝါဒ</string>
+    <string name="get_started">စတင်လိုက်ပါ။</string>
+    <string name="welcome">မှကြိုဆိုပါတယ်။</string>
+    <string name="next">နောက်တစ်ခု</string>
+    <string name="title_onb_1">အရာအားလုံးကို စောင့်ကြည့်ပါ။</string>
+    <string name="content_onb_1">တိုက်ရိုက် TV၊ အားကစား၊ ရုပ်ရှင်များနှင့် ကာတွန်းများကို အချိန်မရွေး နေရာမရွေး ဝင်ရောက်ကြည့်ရှုပါ။</string>
+    <string name="title_onb_2">သင်၏ Playlist ကိုတည်ဆောက်ပါ။</string>
+    <string name="content_onb_2">သင်နှစ်သက်သော ချန်နယ်များကို ပေါင်းထည့်ကာ ၎င်းတို့ကို အချိန်မရွေး၊ ချက်ချင်းကြည့်ရှုပါ။</string>
+    <string name="habit_1">တိုက်ရိုက်တီဗီ</string>
+    <string name="habit_2">ရုပ်ရှင်များ</string>
+    <string name="habit_3">အားကစား</string>
+    <string name="habit_4">သတင်း</string>
+    <string name="habit_5">မိသားစု</string>
+    <string name="habit_6">ဖျော်ဖြေရေး</string>
+    <string name="feedback">တုံ့ပြန်ချက်</string>
+    <string name="rate_now">ယခု အဆင့်သတ်မှတ်ပါ။</string>
+    <string name="send_feedback">တုံ့ပြန်ချက်ပေးပို့ပါ။</string>
+    <string name="cancel">မလုပ်တော့</string>
+    <string name="please_select_your_language">သင့်ဘာသာစကားကို ရွေးချယ်ပါ။</string>
+    <string name="please_choose_at_least_one_option">ကျေးဇူးပြု၍ အနည်းဆုံး ရွေးချယ်မှုတစ်ခုကို ရွေးချယ်ပါ။</string>
+    <string name="try_again">ထပ်စမ်းကြည့်ပါ။</string>
+    <string name="got_it">နားလည်ပြီ!</string>
+    <string name="_continue">ဆက်ရန်</string>
+    <string name="tutorial">ကျူတိုရီရယ်</string>
+    <string name="how_to_add_a_playlist">Playlist ထည့်နည်း</string>
+    <string name="tutorial_step_1">ရှာဖွေရေးအင်ဂျင်ကို အသုံးပြု၍ \"အများပြည်သူ IPTV အစီအစဉ်\" ကို ရှာဖွေပါ။</string>
+    <string name="tutorial_step_2">M3U အစီအစဉ်လင့်ခ်ကို ကူးယူပါ သို့မဟုတ် အစီအစဉ်ဖိုင်များကို သိမ်းဆည်းပါ။</string>
+    <string name="tutorial_step_3">အက်ပ်ကို ထပ်မံဖွင့်ပါ။\n \"+\" ခလုတ်ကိုနှိပ်ပါ၊ \"Playlist URL\" ကိုရွေးချယ်ပြီး လင့်ခ်ကို ကူးထည့်ပါ။</string>
+    <string name="tutorial_step_4">သင်၏ IPTV ချန်နယ်များကို ကြည့်ရှုခံစားပါ။</string>
+    <string name="tab_import_url">URL တင်သွင်းပါ။</string>
+    <string name="tab_upload_file">ဖိုင်ကို တင်ပါ။</string>
+    <string name="tab_stream">စမ်းချောင်း</string>
+    <string name="tut_url_1">ရှာဖွေရေးအင်ဂျင်ကို အသုံးပြု၍ \"အများပြည်သူ IPTV အစီအစဉ်\" ကို ရှာဖွေပါ။</string>
+    <string name="tut_url_2">M3U အစီအစဉ်လင့်ခ်ကို ကူးယူပါ သို့မဟုတ် အစီအစဉ်ဖိုင်ကို သိမ်းဆည်းပါ။</string>
+    <string name="tut_url_3">အက်ပ်ကို ထပ်မံဖွင့်ပါ။\n \"+\" ခလုတ်ကိုနှိပ်ပါ၊ \"Playlist URL\" ကိုရွေးချယ်ပြီး လင့်ခ်ကို ကူးထည့်ပါ။</string>
+    <string name="tut_url_4">သင်၏ IPTV ချန်နယ်များကို ကြည့်ရှုခံစားပါ။</string>
+    <string name="tut_file_1">မည်သည့်ရှာဖွေရေးအင်ဂျင်ကိုမဆို အသုံးပြု၍ \"M3U ဖိုင်\" ကို ရှာဖွေပါ။</string>
+    <string name="tut_file_2">.m3u ဖိုင်ကို သင့်စက်တွင် သိမ်းဆည်းပါ။</string>
+    <string name="tut_file_3">အက်ပ်သို့ပြန်သွားပြီး \"+\" ခလုတ်ကိုနှိပ်ပါ၊ \"M3U ဖိုင်ကို အပ်လုဒ်လုပ်ပါ\" ကိုရွေးချယ်ပြီးနောက် သင်ဒေါင်းလုဒ်လုပ်ထားသည့်ဖိုင်ကို ရွေးချယ်ပါ။</string>
+    <string name="tut_file_4">သင်၏ IPTV ချန်နယ်များကို ကြည့်ရှုခံစားပါ။</string>
+    <string name="tut_stream_1">ရှာဖွေရေးအင်ဂျင်ကို အသုံးပြု၍ \"အများပြည်သူ IPTV ထုတ်လွှင့်မှု URL\" ကို ရှာဖွေပါ။</string>
+    <string name="tut_stream_2">တိုက်ရိုက်လွှင့် URL အပြည့်အစုံကို သင့်ကလစ်ဘုတ်သို့ ကူးယူပါ။</string>
+    <string name="tut_stream_3">အက်ပ်သို့ ပြန်သွားကာ \"+\" ခလုတ်ကိုနှိပ်ပါ၊ \"တိုက်ရိုက်လွှင့်လင့်ခ်ကို တင်သွင်းပါ\" ကို ရွေးပါ၊ ထို့နောက် လင့်ခ်ကို ကူးထည့်ပါ။</string>
+    <string name="tut_stream_4">သင်၏ IPTV ချန်နယ်များကို ကြည့်ရှုခံစားပါ။</string>
+    <string name="unlock_premium">သော့ဖွင့်ပါ။</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">အသေးစိတ် အကြံပြုချက် (အနည်းဆုံး စာလုံး 6 လုံး) ပေးနိုင်ပါက ကျွန်ုပ်တို့အား ကျေးဇူးတင်ပါသည်။</string>
+    <string name="at_least_6_characters">အနည်းဆုံး စာလုံး 6 လုံး</string>
+    <string name="loading">ဖွင့်နေသည်…</string>
+    <string name="install_now">ယခုထည့်သွင်းပါ။</string>
+    <string name="channels">%1$d ချန်နယ်များ</string>
+    <string name="this_action_may_contain_ads">ဤလုပ်ဆောင်ချက်တွင် ကြော်ငြာများ ပါဝင်နိုင်သည်။</string>
+    <string name="what_do_you_mainly_use_iptv_for">IPTV ကို ဘာအတွက် အဓိကသုံးတာလဲ။</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">အွန်လိုင်းတွင်ရရှိနိုင်သည့် IPTV အစီအစဉ် (M3U) ကိုရှာပါ။</string>
+    <string name="title_1">M3U အရင်းအမြစ်ကိုရှာပါ။</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">ပြသစာရင်းလင့်ခ်ကို ကူးယူပါ သို့မဟုတ် M3U ဖိုင်ကို သင့်စက်ပစ္စည်းသို့ ဒေါင်းလုဒ်လုပ်ပါ။</string>
+    <string name="title_2">Playlist အချက်အလက်ကို သိမ်းဆည်းပါ။</string>
+    <string name="title_3">အက်ပ်သို့ အပ်လုဒ်လုပ်ပါ။</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">အက်ပ်ကိုဖွင့်ပါ → Playlist ကိုရွေးချယ်ပါ → URL မှရွေးချယ်ပါ → လင့်ခ်ကို ကူးထည့်ပါ။</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">အစီအစဉ်ကို ဝင်ရောက်ကြည့်ရှုပြီး သင့်စိတ်ကြိုက်ချန်နယ်များကို စတင်ကြည့်ရှုပါ။</string>
+    <string name="title_4">သင်၏အကြောင်းအရာကိုခံစားပါ။</string>
+    <string name="search">ရှာရန်...</string>
+    <string name="all">အားလုံး</string>
+    <string name="recent">မကြာမှီ</string>
+    <string name="favorites">အကြိုက်ဆုံးများ</string>
+    <string name="url">URL</string>
+    <string name="file">ဖို</string>
+    <string name="no_channels_found">ချန်နယ်များ မတွေ့ပါ။</string>
+    <string name="no_recents">လတ်တလောသတင်းများမရှိပါ။</string>
+    <string name="play_something_to_begin">စတင်ရန် မီဒီယာကို ဖွင့်ပါ။</string>
+    <string name="import_new_channels_by_tapping_the_button_below">အောက်ပါခလုတ်ကိုနှိပ်ခြင်းဖြင့် ချန်နယ်အသစ်များကို တင်သွင်းပါ။</string>
+    <string name="a_z_sort">A-Z အမျိုးအစား</string>
+    <string name="z_a_sort">Z-A အမျိုးအစား</string>
+    <string name="_0_9_sort">0–9 အမျိုးအစား</string>
+    <string name="_9_0_sort">9–0 အမျိုးအစား</string>
+    <string name="refresh">ပြန်လည်စတင်ပါ။</string>
+    <string name="accept">လက်ခံပါတယ်။</string>
+    <string name="license_agreement">လိုင်စင်သဘောတူညီချက်</string>
+    <string name="i_agree">လိုင်စင်သဘောတူညီချက်ကို သဘောတူပါတယ်။</string>
+    <string name="content_license_agreement">IPTV သည် အသုံးပြုသူများ ဖန်တီးထားသော M3U နှင့် JSON အစီအစဉ်များကို ပံ့ပိုးပေးသည်။ ကျွန်ုပ်တို့သည် မည်သည့်အကြောင်းအရာကိုမျှ ပံ့ပိုးပေးခြင်း သို့မဟုတ် လက်ခံဆောင်ရွက်ခြင်းမပြုပါ။\n\nဤအက်ပ်သည် တရားဝင်ရရှိထားသော အကြောင်းအရာအတွက်သာ ရည်ရွယ်ပါသည်။ သင့်အစီအစဉ်များနှင့် အကြောင်းအရာများသည် သက်ဆိုင်ရာဥပဒေများနှင့် ခွင့်ပြုချက်များကို လိုက်နာကြောင်း သေချာစေရန်အတွက် သင်သည် တာဝန်ရှိပါသည်။\n\nရှေ့ဆက်ခြင်းဖြင့်၊ သင်သည် ဤစည်းကမ်းချက်များကို နားလည်ပြီး လက်ခံကြောင်း အတည်ပြုပါသည်။\n\nငြင်းဆိုချက်\n\nIPTV သည် မည်သည့်အကြောင်းအရာကိုမျှ ပံ့ပိုးပေးခြင်း သို့မဟုတ် ကြော်ငြာခြင်းမပြုဘဲ ပြင်ပကုမ္ပဏီဝန်ဆောင်မှုပေးသူများနှင့် မသက်ဆိုင်ပါ။\n\nအသုံးပြုသူများသည် ၎င်းတို့၏ကိုယ်ပိုင်အကြောင်းအရာကို ပံ့ပိုးပေးရပါမည်။ မူပိုင်ခွင့်ရထားသော အကြောင်းအရာများကို တရားဝင်ခွင့်ပြုချက်မရှိဘဲ တိုက်ရိုက်လွှင့်ခြင်းကို ပြင်းပြင်းထန်ထန် တားမြစ်ထားသည်။</string>
+    <string name="content_1">“IPTV M3U အစီအစဉ်” ကဲ့သို့သော အဓိကစကားလုံးများဖြင့် အွန်လိုင်းတွင် ရှာဖွေနိုင်သည် သို့မဟုတ် သင့် TV/တိုက်ရိုက်ထုတ်လွှင့်ခြင်းဝန်ဆောင်မှုမှ ပေးဆောင်သော လမ်းညွှန်ချက်ကို စစ်ဆေးနိုင်ပါသည်။\nပုံမှန်အားဖြင့် သင့်လျော်သော M3U လင့်ခ်သည်-\n• http:// သို့မဟုတ် https://\n• .m3u သို့မဟုတ် .m3u8 ဖြင့်အဆုံးသတ်သည်\nယုံကြည်စိတ်ချရသော တရားဝင်အရင်းအမြစ်များကို ဖြစ်နိုင်သမျှအချိန်မရွေး အသုံးပြုကြည့်ပါ။ အချို့သောပြသစာရင်းများသည် သက်တမ်းကုန်နိုင်ပြီး၊ အကောင့်ဝင်ရန်အထောက်အထားများ လိုအပ်သည် သို့မဟုတ် ဒေသအလိုက် ကန့်သတ်ထားရမည်ကို သတိပြုပါ။</string>
+    <string name="content_2">M3U URL ကို ကူးယူရန်-\n• မိုဘိုင်းတွင်- လင့်ခ် → လင့်ခ်ကို ကူးယူပါ ကိုရွေးချယ်ပါ\n• ဒက်စ်တော့တွင်- လင့်ခ်ကို ညာကလစ်နှိပ်ပါ → လင့်ခ်လိပ်စာကို ကူးယူပါ\nပြသစာရင်းဖိုင်ကို ဒေါင်းလုဒ်လုပ်ရန်-\n• .m3u သို့မဟုတ် .m3u8 ဖိုင်ကို သင့်စက်ပေါ်ရှိ အလွယ်တကူဝင်ရောက်နိုင်သော တည်နေရာတစ်ခုတွင် သိမ်းဆည်းပါ\nနောက်မှ ဖိုင်ကို သင့်ဒေသတွင်း သိုလှောင်မှုသို့ တိုက်ရိုက်တင်သွင်းနိုင်သည်) အဆင့် 3 (ကိုးကားသူ)။</string>
+    <string name="content_3">IPTV Smart Player ကိုဖွင့်ပါ။\nထည့်သွင်းရန်စာရင်းကို ရွေးပါ။\nတင်သွင်းရန် နည်းလမ်းတစ်ခုကို ရွေးပါ-\n• URL မှတဆင့် → သင့် M3U လင့်ခ်ကို ကူးထည့်ပါ\n• ဖိုင် → ရှာဖွေကြည့်ရှုပြီး သင့်စက်ပစ္စည်းပေါ်ရှိ သိမ်းဆည်းထားသော .m3u / .m3u8 ဖိုင်ကို ရွေးချယ်ပါ\n(ချန်လှပ်ထားနိုင်သည်) သင်၏ပြသစာရင်းကို အလွယ်တကူသိရှိနိုင်စေရန် နောက်ပိုင်းတွင် စိတ်ကြိုက်အမည်တစ်ခုထည့်ပါ\nပြီးအောင်ပြုလုပ်ရန် သိမ်းမည်ကိုနှိပ်ပါ။</string>
+    <string name="content_4">အက်ပ်အား ချန်နယ်များနှင့် အမျိုးအစားများကို ဖွင့်ရန် အချိန်ပေးပါ။\nချန်နယ်စာရင်းကို စူးစမ်းလေ့လာပါ သို့မဟုတ် သင်လိုချင်သောအရာကို အမြန်ရှာဖွေရန် Search အင်္ဂါရပ်ကို အသုံးပြုပါ။\nအကြောင်းအရာများ မပေါ်ပါက-\n• သင့်အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးပါ\n• M3U လင့်ခ် သို့မဟုတ် ဖိုင်သည် ဆက်လက်၍ တရားဝင်ပြီး အလုပ်လုပ်ကြောင်း သေချာပါစေ။</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">အက်ပ်ကို ဆက်လက်အသုံးပြုရန်အတွက် အင်တာနက်ချိတ်ဆက်မှုတစ်ခု လိုအပ်ပါသည်။\nကျေးဇူးပြု၍ သင့်ကွန်ရက်ဆက်တင်များကို စစ်ဆေးပြီး ပြန်လည်ချိတ်ဆက်ပါ။</string>
+    <string name="retry">ပြန်ကြိုးစားပါ။</string>
+    <string name="thank_you_for_using_iptv">IPTV အသုံးပြုသည့်အတွက် ကျေးဇူးတင်ပါသည်။</string>
+    <string name="playlist_name">အစီအစဉ်အမည်</string>
+    <string name="playlist">အစီအစဉ်</string>
+    <string name="save">သိမ်းဆည်းပါ</string>
+    <string name="password">စကားဝှက်</string>
+    <string name="username">အသုံးပြုသူအမည်</string>
+    <string name="no_file_selected">ဖိုင်ကို ရွေးထားခြင်းမရှိပါ။</string>
+    <string name="m3u_file">M3U ဖိုင်</string>
+    <string name="playlist_url">အစီအစဉ် URL</string>
+    <string name="choose_icon">Icon ကို ရွေးပါ။</string>
+    <string name="choose_color">အရောင်ရွေးပါ။</string>
+    <string name="paste_your_url_here">သင့် URL ကို ဤနေရာတွင် ကူးထည့်ပါ။</string>
+    <string name="edit">တည်းဖြတ်ပါ။</string>
+    <string name="delete">ဖျက်ပါ။</string>
+    <string name="rate_this_app">ဤအက်ပ်ကို အဆင့်သတ်မှတ်ပါ။</string>
+    <string name="tell_us_about_your_experiences">သင့်အတွေ့အကြုံများကို ပြောပြပါ။</string>
+    <string name="enter_your_stream_link_here">သင်၏ တိုက်ရိုက်လွှင့်လင့်ခ်ကို ဤနေရာတွင် ထည့်သွင်းပါ။</string>
+    <string name="stream_link">တိုက်ရိုက်လွှင့်လင့်ခ်</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">ကွန်ရက်ပရိုတိုကောများကို ပံ့ပိုးပေးသည်- http၊ ftp၊ rtsp၊ rtp၊ udp…</string>
+    <string name="channel">ချန်နယ်များ</string>
+    <string name="import_playlist_url">အစီအစဉ် URL ကို တင်သွင်းပါ။</string>
+    <string name="load_from_device">Device မှ တင်ပါ။</string>
+    <string name="play_single_stream">တစ်ခုတည်းသောစီးကြောင်းကိုဖွင့်ပါ။</string>
+    <string name="upload_m3u_file">M3U ဖိုင်ကို တင်ပါ။</string>
+    <string name="all_channels">ချန်နယ်များအားလုံး</string>
+    <string name="playback_error">ပြန်ဖွင့်ခြင်း အမှား</string>
+    <string name="no_internet_connection">အင်တာနက်ချိတ်ဆက်မှု မရှိပါ။</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">ဤချန်နယ်သည် ယာယီပြတ်တောက်နေသည် သို့မဟုတ် သင့်ဒေသတွင် မရရှိနိုင်ပါ။ နောက်မှ ထပ်စမ်းကြည့်ပါ။</string>
+    <string name="lock">သော့ခတ်</string>
+    <string name="full_screen">မျက်နှာပြင်အပြည့်</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">မျက်နှာပြင်လော့ခ်။ လော့ခ်ဖွင့်ရန် နှိပ်ပါ။</string>
+    <string name="delete_playlist">အစီအစဉ်ကို ဖျက်မလား။</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">ဤအစီအစဉ်ကို ဖျက်လိုသည်မှာ သေချာပါသလား။ ဤလုပ်ဆောင်ချက်ကို ပြန်ပြင်၍မရပါ။</string>
+    <string name="yes_delete">ဟုတ်ကဲ့၊ ဖျက်ပါ။</string>
+    <string name="error_1">လိုအပ်သော ကွက်လပ်များကို ဖြည့်စွက်ရန် လိုအပ်ပါသည်။</string>
+    <string name="error_2">အချို့အကွက်များသည် မမှန်ကန်ပါ။</string>
+    <string name="success_1">အောင်မြင်စွာ တင်သွင်းပါ။</string>
+    <string name="success_2">အောင်မြင်စွာ သိမ်းဆည်းပါ။</string>
+    <string name="content_rate_1">ကျွန်ုပ်တို့နှင့် သင့်အချိန်များကို နှစ်သက်ပါက ကြယ် 5 ပွင့် အဆင့်သတ်မှတ်ထားခဲ့ပါ။</string>
+    <string name="content_rate_2">ကျွန်ုပ်တို့နှင့် သင့်အချိန်များကို နှစ်သက်ပါက ကြယ် 5 ပွင့် အဆင့်သတ်မှတ်ထားခဲ့ပါ။</string>
+    <string name="content_rate_3">ကျွန်ုပ်တို့နှင့် သင့်အချိန်များကို နှစ်သက်ပါက ကြယ် 5 ပွင့် အဆင့်သတ်မှတ်ထားခဲ့ပါ။</string>
+    <string name="content_rate_4">ပြီးလုနီးပါး? ထိုအပိုကြယ်တစ်ပွင့်အတွက် ကျွန်ုပ်တို့ကြိုးစားပါမည်။</string>
+    <string name="content_rate_5">မင်းက ငါတို့ရဲ့နေ့ကို လုံးလုံးဖန်တီးခဲ့တာ။ 🌟 ကောင်းမွန်တဲ့ ခံစားချက်တွေကို ထိန်းထားလိုက်ကြရအောင်။</string>
+    <string name="no_results_found_for">အတွက် ရလဒ်များ မတွေ့ပါ။</string>
+    <string name="the_device_does_not_support_pip">စက်သည် PiP ကို ​​မပံ့ပိုးပါ။</string>
+    <string name="video_file_not_found">ဗီဒီယိုဖိုင်ကို ရှာမတွေ့ပါ။</string>
+    <string name="minimize">ဝင်းဒိုးကို လျှော့ပါ။</string>
+    <string name="refresh_in_progress_please_wait">ပြန်လည်စတင်ရန် လုပ်ဆောင်နေသည်၊ ကျေးဇူးပြု၍ စောင့်ပါ...</string>
+    <string name="no_email_app_found">အီးမေးလ်အက်ပ်ကို ရှာမတွေ့ပါ။</string>
+    <string name="error_5">အချို့အကွက်များသည် မမှန်ကန်ပါ။</string>
+    <string name="no_favorite_channel_yet">အကြိုက်ဆုံးချန်နယ်မရှိသေးပါ။</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">သင်နှစ်သက်သောချန်နယ်ကို ရှာပြီး ၎င်းကိုသိမ်းထားရန် နှလုံးသားကိုနှိပ်ပါ။</string>
+    <string name="refreshed_successfully">ပြန်လည်ဆန်းသစ်ပြီးပါပြီ။</string>
+    <string name="import_xtream_codes_api">Xtream Codes API ကို တင်သွင်းပါ။</string>
+    <string name="suggestion">အကြံပြုချက်</string>
+    <string name="suggestion_1">မိသားစု</string>
+    <string name="suggestion_2">အားကစား</string>
+    <string name="suggestion_3">ရုပ်ရှင်များ</string>
+    <string name="_100_no_ads">100% ကြော်ငြာမရှိပါ။</string>
+    <string name="hd_4d_quality">HD နှင့် 4D အရည်အသွေး</string>
+    <string name="premium_channels">ပရီမီယံချန်နယ်များ</string>
+    <string name="most_popular">လူကြိုက်အများဆုံး</string>
+    <string name="weekly">အပတ်စဉ်</string>
+    <string name="monthly">လစဉ်</string>
+    <string name="yearly">နှစ်အလိုက်</string>
+    <string name="_3_day_free_trial">၃ ရက် အခမဲ့ အစမ်းသုံးပါ။</string>
+    <string name="something_went_wrong">တစ်ခုခုမှားသွားသည်။</string>
+    <string name="content_error">ဤအဆင့်ကို လိုက်နာပြီး ထပ်စမ်းကြည့်ပါ-\n1။ သင့်ကွန်ရက်ချိတ်ဆက်မှုကို စစ်ဆေးပါ\n၂။ သင့် Google အကောင့်သို့ အကောင့်ဝင်ထားကြောင်း သေချာပါစေ။\n3။ Google play အပလီကေးရှင်းကို သင်သုံးနိုင်သည်ကို သေချာပါစေ။</string>
+    <string name="cancel_anytime">အချိန်မရွေး ပယ်ဖျက်ပါ။</string>
+    <string name="term_of_use">
+        <u>အသုံးအနှုန်း</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>ကိုယ်ရေးအချက်အလက်မူဝါဒ</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">သင်၏ ပရီမီယံဗားရှင်းသည် ယခု အသက်ဝင်နေပါပြီ။ အက်ပ်ကို အသုံးပြု၍ ပျော်ရွှင်ပါ။</string>
+    <string name="payment_success">ငွေပေးချေမှု အောင်မြင်သည်။</string>
+    <string name="payment_failed">ငွေပေးချေမှု မအောင်မြင်ပါ။</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">သေးငယ်သော ပြဿနာတစ်ခုက ငွေပေးချေမှုကို ရပ်တန့်သွားသည်။ ထပ်စမ်းကြည့်ပါ။</string>
+    <string name="go_premium">Premium ကိုသွားပါ။</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">ဝန်ဆောင်မှုအားလုံးကို လော့ခ်ဖွင့်ပြီး ကြော်ငြာမပါဘဲ အက်ပ်ကို နှစ်သက်ပါ။</string>
+    <string name="premium_member">ပရီမီယံအဖွဲ့ဝင်</string>
+    <string name="active_until">%s အထိ အသက်ဝင်ပါသည်။</string>
+    <string name="sever_url">URL ကိုဖြတ်ပါ။</string>
+    <string name="find_an_xtream_account">Xtream အကောင့်ကိုရှာပါ။</string>
+    <string name="search_for_xtream_code_api_account_online">အွန်လိုင်းတွင် "Xtream Code API အကောင့်" ကို ရှာပါ။</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">သင့်အကြောင်းအရာကို သိမ်းဆည်းပြီး ခံစားနိုင်ရန် Add Profile ကိုနှိပ်ပါ။</string>
+    <string name="start_streaming">စတင်ကြည့်ရှုပါ။</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">အက်ပ်ကိုဖွင့်ပြီး Xtream ပရိုဖိုင်အကွက်များကို ဖြည့်ပါ။</string>
+    <string name="enter_the_information">အချက်အလက်ကို ထည့်ပါ။</string>
+    <string name="copy_the_server_url_username_and_password">ဆာဗာ URL၊ အသုံးပြုသူအမည်နှင့် စကားဝှက်ကို ကူးယူပါ။</string>
+    <string name="copy_the_account_details">အကောင့်အသေးစိတ်အချက်အလက်များကို ကူးယူပါ။</string>
+    <string name="how_to_add_an_xtream_profile">Xtream ပရိုဖိုင်ကို ဘယ်လိုထည့်မလဲ။</string>
+    <string name="account_added_successfully">အကောင့်ကို အောင်မြင်စွာ ထည့်သွင်းခဲ့သည်။</string>
+    <string name="your_account_is_ready_to_use">သင့်အကောင့်ကို အသုံးပြုရန် အသင့်ဖြစ်ပါပြီ။</string>
+    <string name="view_now">ယခုကြည့်ရှုပါ။</string>
+    <string name="later">နောက်တော့</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">စတင်ကြည့်ရှုရန် သင်၏ ပထမဆုံး အစီအစဉ်ကို ထည့်ပါ။</string>
+    <string name="title_slider_1">ဖုန်းပေါ်တွင် အားကစား တိုက်ရိုက်ကြည့်ရှုပါ။</string>
+    <string name="action_try_now">ယခုစမ်းကြည့်ပါ။</string>
+    <string name="title_slider_2">သင့်ရုပ်ရှင်အစီအစဉ်ကို တည်ဆောက်ပါ။</string>
+    <string name="title_slider_3">ကြော်ငြာမပါဘဲ ဝန်ဆောင်မှုအားလုံးကို ခံစားလိုက်ပါ။</string>
+    <string name="tap_to_search">ရှာဖွေရန် တို့ပါ</string>
+    <string name="sports_hub">အスポーツ ဟబ်</string>
+    <string name="wc_schedule">အချိန်ဇယား</string>
+    <string name="wc_team">အသင်းများ</string>
+    <string name="wc_standing">အဆင့်သတ်မှတ်ချက်များ</string>
+    <string name="wc_today">ယနေ့</string>
+    <string name="wc_upcoming">နောက်လာမည်</string>
+    <string name="wc_full_time">အပြည့်အစုံ အချိန်</string>
+    <string name="wc_live">ライ브ライブ</string>
+    <string name="wc_no_matches">ကခေါက်များ မတွေ့ရှိ</string>
+    <string name="wc_no_standings">အဆင့်သတ်မှတ်ချက် မရှိ</string>
+    <string name="wc_remind_me">ကျွန်ုပ်ကို သတိပေးပါ</string>
+    <string name="wc_updating">အဆင့်မြှင့်တင်နေသည်…</string>
+    <string name="wc_match_detail">ကခေါက်အသေးစိတ်</string>
+    <string name="wc_events">ઇવેન્ટ્સ</string>
+    <string name="wc_no_events">ઇવેન્ટ્સ ઉપલબ્ધ નથી</string>
+    <string name="wc_no_events_desc">ကခေါက်မစတင်သေးပါ။ မည်သည့်လုပ်ဆောင်ချက်ကိုမျှ놓치ရန် reminder သတ်မှတ်ပါ။</string>
+    <string name="wc_switch_team">Team ပြောင်းလဲပါ</string>
+    <string name="wc_bracket">ကွင်းကြီး</string>
+    <string name="wc_round_of_32">32 ၏ ပတ်</string>
+    <string name="wc_starting_soon">စတင်လာမည်</string>
+    <string name="wc_round_of_16">16 ၏ ပတ်</string>
+    <string name="wc_quarter_finals">လေးပုံတစ်ပုံ final များ</string>
+    <string name="wc_semi_finals">နယ်ခွဲ final များ</string>
+    <string name="wc_final">နောက်ဆုံး</string>
+    <string name="wc_no_bracket">Bracket အချက်အလက်များ မရှိ</string>
+    <string name="wc_no_matches_today">ယနေ့ က경ိုင်း မရှိ</string>
+    <string name="wc_upcoming_fixtures">နောက်လာမည့် fixture များ ဤတွင် ပေါ်လာမည်</string>
+    <string name="wc_no_recent">မကြдавно ကခေါက်များ မရှိ</string>
+    <string name="wc_no_upcoming">နောက်လာမည့် ကခေါက်များ မရှိ</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">အnotice များ ဖွင့်ခွင့်ပြုပါ</string>
+    <string name="noti_enable_desc">ကခေါက် reminder များ၊ မကြေးမုံ အဆင့်မြှင့်တင်မှုများ និង အရေးကြီးသော streaming သတိပေးချက်များ ရယူပါ။</string>
+    <string name="noti_go_to_setting">ဆက်တင်သို့ သွားပါ</string>
+    <string name="visit_sports_hub">Sports Hub ကို သည်သွားပါ</string>
+    <string name="_3rd_place_final">3য় સ্থান চূড়ান্ত</string>
+    <string name="_16th_finals">16 ကြိမ်မြောက် အဆုံးပိုင်း</string>
+    <string name="ranking_of_third_placed_teams">3য် စ్ थান teams များ၏ အဆင့်သတ်မှတ်ချက်</string>
+    <string name="out">"ထွက်ခွာ: "</string>
+    <string name="_in">"အတွင်း: "</string>
+    <string name="_2nd_half">ဒုတိယ ကျမ်း</string>
+    <string name="_1st_half">ပထမ ဝက်</string>
+    <string name="asst">အကူအညီ %1$s</string>
+    <string name="out_s">ထွက်ခွာ: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">ကခေါက်သည် အဆုံးသတ်ပြီးပြီ။ အပြည့်အစုံ ရလဒ်များအတွက် app ကိုဖွင့်ပါ။</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">15 မိနစ်အတွင်း စတင်မည်။ လိုက်နာရန် app ကိုဖွင့်ပါ။</string>
+    <string name="live_now">လောလောဆယ်တည်းက လျှောက်လွင်နေ</string>
+    <string name="full_time">အချိန်ပြည့်</string>
+    <string name="_2nd_group">2nd အုပ်စု %1$s</string>
+    <string name="_1st_group">1st အုပ်စု %1$s</string>
+    <string name="eighth_finals">အeighth-Finals</string>
+    <string name="quarter_finals">သုံးပုံတစ်ပုံပိုင်းဆိုင်</string>
+    <string name="semi_finals">ခွဲလျှင်ပိုင်းဆိုင်</string>
+    <string name="winner">အ승者</string>
+    <string name="loser">ရှုံးခဲ့သူ</string>
+    <string name="round_of_32">32 အဆင့်</string>
+    <string name="round_of_16">16 အဆင့်</string>
+    <string name="_3rd_place">3rd နေရာ</string>
+    <string name="_final">နောက်ဆုံး</string>
+    <string name="group_stage">အုပ်စုအဆင့်</string>
+    <string name="round">ပွဲ %1$d</string>
+    <string name="group">အုပ်စု </string>
+    <string name="_1st">၁審</string>
+    <string name="_2nd">၂ನೆ</string>
+    <string name="_3rd">၃ನೆ</string>
+    <string name="th">%1$dನೆ</string>
+    <string name="remind_set">သတိပေးချက် သတ်မှတ်ပြီး</string>
+    <string name="remind_removed">သတိပေးချက် ဖယ်ရှားပြီး</string>
+    <string name="_et1">အပိုချိန် ပထမအခြမ်း</string>
+    <string name="_et2">အပိုချိန် ဒုတိယအခြမ်း</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">ပ្លេ</string>
+    <string name="add_similar_items">အလားတူ လုပ်ဆောင်ချက်များ ထည့်သွင်းပါ</string>
+    <string name="see_more">နည်းများ ကြည့်ရှုပါ</string>
+    <string name="see_less">နည်းတစ်ခု ကြည့်ရှုပါ</string>
+    <string name="view_all">အားလုံး ကြည့်ရှုပါ</string>
+    <string name="home">Home</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Live Now</string>
+    <string name="recommended_for_you">သင့်အတွက် အကြံပြုထားသည်</string>
+    <string name="new_series">နည်းသစ်များ</string>
+    <string name="live_badge">LIVE</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes သည် reliable IPTV streaming အတွေ့အကျင့်ပေးသည်။</string>
+    <string name="live_tv">ライုတီဗီ</string>
+    <string name="movies">චිත්‍රපටවල්</string>
+    <string name="series">Series</string>
+    <string name="add_profile">ပရိုဖાઈલ် ထည့်သွင်းပါ</string>
+    <string name="choose_your_profile">သင်၏ပရိုဖāઈလ်ကို ရွေးချယ်ပါ</string>
+    <string name="my_favorite">ကျွန်ုပ်၏ အနှစ်သက်ဖွယ်</string>
+    <string name="live_channel">Live Channel</string>
+    <string name="your_favorite_list_is_empty">သင်၏ အနှစ်သက်ဖွယ် စာရင်းသည် လည်ပင်း ဖြစ်သည်။</string>
+    <string name="edit_profile">ပရိုဖাઈલ် ပြင်ဆင်ပါ</string>
+    <string name="profile_name">ပရိုဖાઈલ် အမည်</string>
+    <string name="delete_profile">ပရိုဖાઈလ် ဖျက်ပါ</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">ဤပရိုဖાઈလ်ကို ဖျက်လိုသည်မ확認ပါသလား။</string>
+    <string name="no_browser_found">ရှာဖွေမှုကို ဖွင့်ရန် အက်ပ်မတွေ့ပါ</string>
+    <string name="reminder_noon_title_1">ပြန်လည် အားသွင်းရန် အချိန်ရောက်ပါပြီ 🧠</string>
+    <string name="reminder_noon_body_1">သင့်စိတ်ကို လန်းဆန်းစေရန် တစ်ပုဒ်တည်းသာ လိုအပ်ပါသည်!</string>
+    <string name="reminder_noon_title_2">မိနစ်အနည်းငယ် ရှိပါသလား? 🎬</string>
+    <string name="reminder_noon_body_2">သင့်ချန်နယ်များသည် တို့ရုံသာ ဝေးပါသည်။</string>
+    <string name="reminder_noon_title_3">သင့်ချန်နယ်များ စောင့်နေပါသည် 📺</string>
+    <string name="reminder_noon_body_3">တိုက်ရိုက်ထုတ်လွှင့်မှု၊ ရုပ်ရှင်များနှင့် စီးရီးများ — အားလုံးကို တစ်နေရာတည်း တွင်။</string>
+    <string name="reminder_evening_title_1">ပရိုင်မ်တိုင်း စတင်နေပါပြီ 🔥</string>
+    <string name="reminder_evening_body_1">သင့်ချန်နယ်များသည် ယခု တိုက်ရိုက် ထုတ်လွှင့်နေပါသည်။</string>
+    <string name="reminder_evening_title_2">ယနေ့ညက ဘာရှိလဲ? ⚽</string>
+    <string name="reminder_evening_body_2">တိုက်ရိုက် အားကစား၊ ဇာတ်ကြောင်းအသစ်များနှင့် နောက်ထပ်များ။</string>
+    <string name="reminder_evening_title_3">ယနေ့ည တီဗီတွင် 📺</string>
+    <string name="reminder_evening_body_3">တိုက်ရိုက်ချန်နယ်များ၊ ရုပ်ရှင်များနှင့် စီးရီးများ — အားလုံး ဤနေရာတွင်။</string>
+    <string name="reminder_no_playlist_title">သင့်တီဗီ စောင့်နေပါသည် 📺</string>
+    <string name="reminder_no_playlist_body">သင့်ပလေးလစ်စ်ကို ထည့်၍ ကြည့်ရှုခြင်း စတင်ပါ။</string>
+    <string name="reminder_playlist_ready_title">အားလုံး အဆင်သင့်ဖြစ်ပါပြီ! ✅</string>
+    <string name="reminder_playlist_ready_body">သင်နှစ်သက်ရာ ချန်နယ်ကို ကြည့်ရှုရန် တို့ပါ။</string>
+    <string name="noti_enable_title_ver_2">%1$s မှ သင့်ထံ အကြောင်းကြားချက်များ ပို့ခွင့်ပြုပါ</string>
+    <string name="noti_enable_desc_ver_2">တိုက်ရိုက် တီဗီ သတိပေးချက်များ၊ ရုပ်ရှင်အသစ် အပ်ဒိတ်များနှင့် အရေးကြီးသော စတရင်မင်း သတိပေးချက်များ ရယူပါ</string>
+    <string name="deny">ငြင်းပယ်ပါ</string>
+    <string name="allow">ခွင့်ပြုပါ</string>
+    <string name="tut_xtream_1">မည်သည့် ရှာဖွေရေးအင်ဂျင်ကိုမဆို အသုံးပြု၍ “Xtream Code API Account” ကို ရှာဖွေပါ</string>
+    <string name="tut_xtream_2">“Format” သို့မဟုတ် “Playlist” အပိုင်းကို ရှာပြီး Xtream အကောင့်အချက်အလက်ကို ကူးယူပါ</string>
+    <string name="tut_xtream_3">အက်ပ်ထဲသို့ ပြန်သွားပြီး &quot;+&quot; ခလုတ်ကို တို့ပါ၊ &quot;Import Stream Link&quot; ကို ရွေးချယ်ပါ၊ ထို့နောက် လင့်ခ်ကို ကူးထည့်ပါ။</string>
+    <string name="tut_xtream_4">Xtream ကြည့်ရှုခြင်းကို ပျော်ရွှင်ပါစေ</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Xtream ပရိုဖိုင်ကို မည်သို့ ထည့်ရမည်</u>
+    </string>
+</resources>

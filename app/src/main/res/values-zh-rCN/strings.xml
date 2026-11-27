@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">默认语言</string>
+    <string name="setting">环境</string>
+    <string name="language">语言</string>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="get_started">开始使用</string>
+    <string name="welcome">欢迎来到</string>
+    <string name="next">下一个</string>
+    <string name="title_onb_1">观看一切</string>
+    <string name="content_onb_1">随时随地观看直播电视、体育、电影和卡通。</string>
+    <string name="title_onb_2">建立您的播放列表</string>
+    <string name="content_onb_2">添加您喜欢的频道并随时观看。</string>
+    <string name="habit_1">电视直播</string>
+    <string name="habit_2">电影</string>
+    <string name="habit_3">运动</string>
+    <string name="habit_4">消息</string>
+    <string name="habit_5">家庭</string>
+    <string name="habit_6">娱乐</string>
+    <string name="feedback">反馈</string>
+    <string name="rate_now">立即评分</string>
+    <string name="send_feedback">发送反馈</string>
+    <string name="cancel">取消</string>
+    <string name="please_select_your_language">请选择您的语言</string>
+    <string name="please_choose_at_least_one_option">请至少选择一个选项</string>
+    <string name="try_again">再试一次</string>
+    <string name="got_it">知道了！</string>
+    <string name="_continue">继续</string>
+    <string name="tutorial">教程</string>
+    <string name="how_to_add_a_playlist">如何添加播放列表</string>
+    <string name="tutorial_step_1">使用任何搜索引擎搜索“公共 IPTV 播放列表”。</string>
+    <string name="tutorial_step_2">复制 M3U 播放列表链接或保存播放列表文件。</string>
+    <string name="tutorial_step_3">再次打开应用。\n点击“+”按钮，选择“导入播放列表 URL”，然后粘贴链接。</string>
+    <string name="tutorial_step_4">享受观看 IPTV 频道的乐趣！</string>
+    <string name="tab_import_url">导入网址</string>
+    <string name="tab_upload_file">上传文件</string>
+    <string name="tab_stream">溪流</string>
+    <string name="tut_url_1">使用任何搜索引擎搜索“公共 IPTV 播放列表”。</string>
+    <string name="tut_url_2">复制 M3U 播放列表链接或保存播放列表文件。</string>
+    <string name="tut_url_3">再次打开应用。\n点击“+”按钮，选择“导入播放列表 URL”，然后粘贴链接。</string>
+    <string name="tut_url_4">享受观看 IPTV 频道的乐趣！</string>
+    <string name="tut_file_1">使用任何搜索引擎搜索“M3U 文件”。</string>
+    <string name="tut_file_2">将 .m3u 文件保存到您的设备。</string>
+    <string name="tut_file_3">返回应用程序，点击“+”按钮，选择“上传 M3U 文件”，然后选择您下载的文件。</string>
+    <string name="tut_file_4">享受观看 IPTV 频道的乐趣！</string>
+    <string name="tut_stream_1">使用任何搜索引擎搜索“公共 IPTV 流 URL”。</string>
+    <string name="tut_stream_2">将完整的流 URL 复制到剪贴板。</string>
+    <string name="tut_stream_3">返回应用程序，点击“+”按钮，选择“导入流链接”，然后粘贴链接。</string>
+    <string name="tut_stream_4">享受观看 IPTV 频道的乐趣！</string>
+    <string name="unlock_premium">开锁</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">如果您能给我们提供详细的反馈（至少 6 个字符），我们将不胜感激</string>
+    <string name="at_least_6_characters">至少 6 个字符</string>
+    <string name="loading">加载中…</string>
+    <string name="install_now">立即安装</string>
+    <string name="channels">%1$d 个频道</string>
+    <string name="this_action_may_contain_ads">此操作可能包含广告</string>
+    <string name="what_do_you_mainly_use_iptv_for">您主要使用 IPTV 做什么？</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">查找在线可用的 IPTV 播放列表 (M3U)。</string>
+    <string name="title_1">找到 M3U 源</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">复制播放列表链接或将 M3U 文件下载到您的设备。</string>
+    <string name="title_2">保存播放列表信息</string>
+    <string name="title_3">上传至应用程序</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">打开应用程序 → 选择添加播放列表 → 选择来自 URL → 粘贴链接。</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">访问播放列表并开始观看您喜爱的频道。</string>
+    <string name="title_4">享受您的内容</string>
+    <string name="search">搜索…</string>
+    <string name="all">全部</string>
+    <string name="recent">最近的</string>
+    <string name="favorites">收藏夹</string>
+    <string name="url">网址</string>
+    <string name="file">文件</string>
+    <string name="no_channels_found">没有找到频道</string>
+    <string name="no_recents">没有最近的记录</string>
+    <string name="play_something_to_begin">开始播放媒体</string>
+    <string name="import_new_channels_by_tapping_the_button_below">点击下面的按钮导入新频道。</string>
+    <string name="a_z_sort">A-Z 排序</string>
+    <string name="z_a_sort">Z-A排序</string>
+    <string name="_0_9_sort">0–9 排序</string>
+    <string name="_9_0_sort">9–0 排序</string>
+    <string name="refresh">刷新</string>
+    <string name="accept">接受</string>
+    <string name="license_agreement">许可协议</string>
+    <string name="i_agree">我同意许可协议</string>
+    <string name="content_license_agreement">IPTV支持用户创建的M3U和JSON播放列表。我们不提供或托管任何内容。\n\n此应用程序仅适用于合法获得的内容。您有责任确保您的播放列表和内容符合适用的法律和权限。\n\n继续操作即表示您确认您理解并接受这些条款。\n\n免责声明\n\nIPTV 不提供或推广任何内容，并且不隶属于第三方提供商。\n\n用户必须提供自己的内容。强烈反对未经授权传输受版权保护的材料。</string>
+    <string name="content_1">您可以使用“IPTV M3U 播放列表”等关键字在线搜索，或查看电视/流媒体服务提供的指南。\n正确的 M3U 链接通常为：\n• 以 http:// 或 https:// 开头\n• 以 .m3u 或 .m3u8 结尾\n尽可能使用可信且合法的来源。请注意，某些播放列表可能会过期、需要登录凭据或受区域限制。</string>
+    <string name="content_2">要复制 M3U URL：\n• 在移动设备上：点击并按住链接 → 选择复制链接\n• 在桌面上：右键单击链接 → 选择复制链接地址\n要下载播放列表文件：\n• 将 .m3u 或 .m3u8 文件保存到设备上易于访问的位置\n稍后您可以直接从本地存储导入该文件（请参阅步骤 3）。</string>
+    <string name="content_3">启动 IPTV Smart Player。\n选择“添加播放列表”。\n选择一种导入方法：\n• 通过 URL → 粘贴 M3U 链接\n• 从文件 → 浏览并选择设备上保存的 .m3u / .m3u8 文件\n（可选）输入自定义名称以便稍后轻松识别您的播放列表\n点击“保存”完成。</string>
+    <string name="content_4">请给应用一些时间来加载频道和类别。\n浏览频道列表或使用搜索功能快速找到您想要的内容。\n如果没有显示任何内容：\n• 检查您的互联网连接\n• 确保 M3U 链接或文件仍然有效且工作</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">需要互联网连接才能继续使用该应用。\n请检查你的网络设置并重新连接。</string>
+    <string name="retry">重试</string>
+    <string name="thank_you_for_using_iptv">感谢您使用 IPTV</string>
+    <string name="playlist_name">播放列表名称</string>
+    <string name="playlist">播放列表</string>
+    <string name="save">保存</string>
+    <string name="password">密码</string>
+    <string name="username">用户名</string>
+    <string name="no_file_selected">未选择文件</string>
+    <string name="m3u_file">M3U 文件</string>
+    <string name="playlist_url">播放列表网址</string>
+    <string name="choose_icon">选择图标</string>
+    <string name="choose_color">选择颜色</string>
+    <string name="paste_your_url_here">将您的网址粘贴到此处</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="rate_this_app">评价这个应用程序</string>
+    <string name="tell_us_about_your_experiences">告诉我们您的经历</string>
+    <string name="enter_your_stream_link_here">在此输入您的直播链接</string>
+    <string name="stream_link">串流链接</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">支持网络协议：http、ftp、rtsp、rtp、udp…</string>
+    <string name="channel">渠道</string>
+    <string name="import_playlist_url">导入播放列表 URL</string>
+    <string name="load_from_device">从设备加载</string>
+    <string name="play_single_stream">播放单流</string>
+    <string name="upload_m3u_file">上传M3U文件</string>
+    <string name="all_channels">所有频道</string>
+    <string name="playback_error">播放错误</string>
+    <string name="no_internet_connection">无互联网连接</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">此频道暂时停止服务或在您所在的地区不可用。请稍后重试。</string>
+    <string name="lock">锁</string>
+    <string name="full_screen">全屏</string>
+    <string name="pip">点</string>
+    <string name="screen_lock_press_to_unlock">屏幕锁定。按解锁</string>
+    <string name="delete_playlist">删除播放列表？</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">您确定要删除此播放列表吗？此操作无法撤消。</string>
+    <string name="yes_delete">是的，删除</string>
+    <string name="error_1">您需要填写必填字段</string>
+    <string name="error_2">部分字段无效</string>
+    <string name="success_1">导入成功</string>
+    <string name="success_2">保存成功</string>
+    <string name="content_rate_1">如果您喜欢与我们一起度过的时光，请留下 5 星级评价！</string>
+    <string name="content_rate_2">如果您喜欢与我们一起度过的时光，请留下 5 星级评价！</string>
+    <string name="content_rate_3">如果您喜欢与我们一起度过的时光，请留下 5 星级评价！</string>
+    <string name="content_rate_4">几近完美？我们将争取那颗额外的星星！</string>
+    <string name="content_rate_5">你让我们度过了愉快的一天！ 🌟让我们保持良好的氛围。</string>
+    <string name="no_results_found_for">没有找到结果</string>
+    <string name="the_device_does_not_support_pip">该设备不支持画中画。</string>
+    <string name="video_file_not_found">找不到视频文件</string>
+    <string name="minimize">最小化窗口</string>
+    <string name="refresh_in_progress_please_wait">正在刷新，请稍候...</string>
+    <string name="no_email_app_found">找不到电子邮件应用程序！</string>
+    <string name="error_5">部分字段无效</string>
+    <string name="no_favorite_channel_yet">还没有最喜欢的频道</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">找到您喜欢的频道并点击心形以保留它。</string>
+    <string name="refreshed_successfully">刷新成功</string>
+    <string name="import_xtream_codes_api">导入 Xtream 代码 API</string>
+    <string name="suggestion">建议</string>
+    <string name="suggestion_1">家庭</string>
+    <string name="suggestion_2">运动</string>
+    <string name="suggestion_3">电影</string>
+    <string name="_100_no_ads">100% 无广告</string>
+    <string name="hd_4d_quality">高清和 4D 画质</string>
+    <string name="premium_channels">优质频道</string>
+    <string name="most_popular">最受欢迎</string>
+    <string name="weekly">每周</string>
+    <string name="monthly">每月</string>
+    <string name="yearly">每年</string>
+    <string name="_3_day_free_trial">3 天免费试用</string>
+    <string name="something_went_wrong">出了点问题</string>
+    <string name="content_error">请按照此步骤重试：\n1.检查您的网络连接\n2.确保您已登录 Google 帐户\n3.确保您可以运行 Google play 应用程序</string>
+    <string name="cancel_anytime">随时取消</string>
+    <string name="term_of_use">
+        <u>使用条款</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>隐私政策</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">您的高级版本现已激活。享受使用该应用程序的乐趣！</string>
+    <string name="payment_success">支付成功</string>
+    <string name="payment_failed">付款失败</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">一个小问题停止了付款。请重试</string>
+    <string name="go_premium">升级至高级版</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">解锁所有功能并享受没有广告的应用程序！</string>
+    <string name="premium_member">高级会员</string>
+    <string name="active_until">活动直至 %s</string>
+    <string name="sever_url">服务器网址</string>
+    <string name="find_an_xtream_account">查找 Xtream 帐户</string>
+    <string name="search_for_xtream_code_api_account_online">在线搜索“Xtream Code API 帐户”。</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">点击添加个人资料以保存并欣赏您的内容。</string>
+    <string name="start_streaming">开始串流</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">打开应用程序并填写 Xtream 配置文件字段。</string>
+    <string name="enter_the_information">输入信息</string>
+    <string name="copy_the_server_url_username_and_password">复制服务器 URL、用户名和密码。</string>
+    <string name="copy_the_account_details">复制帐户详细信息</string>
+    <string name="how_to_add_an_xtream_profile">如何添加 Xtream 配置文件</string>
+    <string name="account_added_successfully">账户添加成功</string>
+    <string name="your_account_is_ready_to_use">您的帐户已可以使用</string>
+    <string name="view_now">立即查看</string>
+    <string name="later">之后</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">添加您的第一个播放列表以开始观看</string>
+    <string name="title_slider_1">通过电话直播体育赛事</string>
+    <string name="action_try_now">立即尝试</string>
+    <string name="title_slider_2">建立您的电影播放列表</string>
+    <string name="title_slider_3">享受所有功能，无广告</string>
+    <string name="tap_to_search">点击搜索</string>
+    <string name="sports_hub">体育中心</string>
+    <string name="wc_schedule">赛程</string>
+    <string name="wc_team">球队</string>
+    <string name="wc_standing">排名</string>
+    <string name="wc_today">今天</string>
+    <string name="wc_upcoming">即将进行</string>
+    <string name="wc_full_time">全场</string>
+    <string name="wc_live">直播</string>
+    <string name="wc_no_matches">未找到比赛</string>
+    <string name="wc_no_standings">没有可用的排名</string>
+    <string name="wc_remind_me">提醒我</string>
+    <string name="wc_updating">更新中…</string>
+    <string name="wc_match_detail">比赛详情</string>
+    <string name="wc_events">赛事</string>
+    <string name="wc_no_events">没有可用的赛事</string>
+    <string name="wc_no_events_desc">比赛还未开始。设置提醒，这样您就不会错过任何精彩内容。</string>
+    <string name="wc_switch_team">切换球队</string>
+    <string name="wc_bracket">赛程表</string>
+    <string name="wc_round_of_32">32强赛</string>
+    <string name="wc_starting_soon">即将开始</string>
+    <string name="wc_round_of_16">16强赛</string>
+    <string name="wc_quarter_finals">四分之一决赛</string>
+    <string name="wc_semi_finals">半决赛</string>
+    <string name="wc_final">决赛</string>
+    <string name="wc_no_bracket">没有可用的赛程数据</string>
+    <string name="wc_no_matches_today">今天没有比赛</string>
+    <string name="wc_upcoming_fixtures">即将举行的比赛将显示在这里</string>
+    <string name="wc_no_recent">没有近期比赛</string>
+    <string name="wc_no_upcoming">没有即将进行的比赛</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">启用通知</string>
+    <string name="noti_enable_desc">获取比赛提醒、新内容更新和重要的流媒体提醒。</string>
+    <string name="noti_go_to_setting">前往设置</string>
+    <string name="visit_sports_hub">访问体育中心</string>
+    <string name="_3rd_place_final">季军决赛</string>
+    <string name="_16th_finals">16强决赛</string>
+    <string name="ranking_of_third_placed_teams">第三名球队排名</string>
+    <string name="out">"已结束: "</string>
+    <string name="_in">"进行中: "</string>
+    <string name="_2nd_half">下半场</string>
+    <string name="_1st_half">上半场</string>
+    <string name="asst">助攻 %1$s</string>
+    <string name="out_s">已结束: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">比赛已结束。打开应用查看完整结果。</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">15分钟后开赛。打开应用进行跟踪。</string>
+    <string name="live_now">直播中</string>
+    <string name="full_time">全场</string>
+    <string name="_2nd_group">第2组 %1$s</string>
+    <string name="_1st_group">第1组 %1$s</string>
+    <string name="eighth_finals">八分之一决赛</string>
+    <string name="quarter_finals">四分之一决赛</string>
+    <string name="semi_finals">半决赛</string>
+    <string name="winner">获胜者</string>
+    <string name="loser">失败者</string>
+    <string name="round_of_32">32强</string>
+    <string name="round_of_16">16强</string>
+    <string name="_3rd_place">第3名</string>
+    <string name="_final">决赛</string>
+    <string name="group_stage">小组赛</string>
+    <string name="round">第 %1$d 轮</string>
+    <string name="group">小组 </string>
+    <string name="_1st">第1名</string>
+    <string name="_2nd">第2名</string>
+    <string name="_3rd">第3名</string>
+    <string name="th">%1$d</string>
+    <string name="remind_set">已设置提醒</string>
+    <string name="remind_removed">已移除提醒</string>
+    <string name="_et1">加时赛上半场</string>
+    <string name="_et2">加时赛下半场</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">播放</string>
+    <string name="add_similar_items">添加类似项目</string>
+    <string name="see_more">显示更多</string>
+    <string name="see_less">显示更少</string>
+    <string name="view_all">查看全部</string>
+    <string name="home">首页</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">正在直播</string>
+    <string name="recommended_for_you">为你推荐</string>
+    <string name="new_series">新剧集</string>
+    <string name="live_badge">直播</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes 提供可靠的 IPTV 流媒体体验。</string>
+    <string name="live_tv">直播电视</string>
+    <string name="movies">电影</string>
+    <string name="series">剧集</string>
+    <string name="add_profile">添加资料</string>
+    <string name="choose_your_profile">选择你的资料</string>
+    <string name="my_favorite">我的收藏</string>
+    <string name="live_channel">直播频道</string>
+    <string name="your_favorite_list_is_empty">你的收藏列表为空</string>
+    <string name="edit_profile">编辑资料</string>
+    <string name="profile_name">资料名称</string>
+    <string name="delete_profile">删除资料</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">你确定要删除此资料吗？</string>
+    <string name="no_browser_found">未找到可打开搜索的应用</string>
+    <string name="reminder_noon_title_1">该重启一下了 🧠</string>
+    <string name="reminder_noon_body_1">只需一集，让你的大脑焕然一新！</string>
+    <string name="reminder_noon_title_2">有几分钟空闲吗？🎬</string>
+    <string name="reminder_noon_body_2">您的频道触手可及。</string>
+    <string name="reminder_noon_title_3">您的频道在等您 📺</string>
+    <string name="reminder_noon_body_3">直播电视、电影 &amp; 剧集 — 一站式呈现。</string>
+    <string name="reminder_evening_title_1">黄金时段开始了 🔥</string>
+    <string name="reminder_evening_body_1">您的频道正在直播中。</string>
+    <string name="reminder_evening_title_2">今晚看什么？⚽</string>
+    <string name="reminder_evening_body_2">体育直播、新剧集 &amp; 更多内容。</string>
+    <string name="reminder_evening_title_3">今晚电视精彩内容 📺</string>
+    <string name="reminder_evening_body_3">直播频道、电影 &amp; 剧集 — 应有尽有。</string>
+    <string name="reminder_no_playlist_title">您的电视在等您 📺</string>
+    <string name="reminder_no_playlist_body">添加您的播放列表，开始观看。</string>
+    <string name="reminder_playlist_ready_title">一切就绪！✅</string>
+    <string name="reminder_playlist_ready_body">点击观看您喜欢的频道。</string>
+    <string name="noti_enable_title_ver_2">允许 %1$s 向您发送通知</string>
+    <string name="noti_enable_desc_ver_2">获取直播电视提醒、新电影更新和重要的流媒体提示</string>
+    <string name="deny">拒绝</string>
+    <string name="allow">允许</string>
+    <string name="tut_xtream_1">使用任意搜索引擎搜索“Xtream Code API Account”</string>
+    <string name="tut_xtream_2">找到“Format”或“Playlist”部分并复制Xtream账户信息</string>
+    <string name="tut_xtream_3">返回应用，点击&quot;+&quot;按钮，选择&quot;Import Stream Link&quot;，然后粘贴链接。</string>
+    <string name="tut_xtream_4">尽情观看Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>如何添加Xtream个人资料</u>
+    </string>
+</resources>

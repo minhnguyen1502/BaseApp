@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Idioma per defecte</string>
+    <string name="setting">Configuració</string>
+    <string name="language">Llengua</string>
+    <string name="privacy_policy">Política de privadesa</string>
+    <string name="get_started">Comença</string>
+    <string name="welcome">Benvingut a</string>
+    <string name="next">A continuació</string>
+    <string name="title_onb_1">Mira-ho tot</string>
+    <string name="content_onb_1">Accediu a la televisió en directe, els esports, les pel·lícules i els dibuixos animats en qualsevol moment i en qualsevol lloc.</string>
+    <string name="title_onb_2">Crea la teva llista de reproducció</string>
+    <string name="content_onb_2">Afegeix els canals que t\'agraden i mira\'ls en qualsevol moment i a l\'instant.</string>
+    <string name="habit_1">TV en directe</string>
+    <string name="habit_2">Pel·lícules</string>
+    <string name="habit_3">Esport</string>
+    <string name="habit_4">Notícies</string>
+    <string name="habit_5">Família</string>
+    <string name="habit_6">Entreteniment</string>
+    <string name="feedback">Comentaris</string>
+    <string name="rate_now">Valoreu ara</string>
+    <string name="send_feedback">Enviar comentaris</string>
+    <string name="cancel">Cancel·la</string>
+    <string name="please_select_your_language">Seleccioneu el vostre idioma</string>
+    <string name="please_choose_at_least_one_option">Si us plau, trieu almenys una opció</string>
+    <string name="try_again">Torna-ho a provar</string>
+    <string name="got_it">Ho entenc!</string>
+    <string name="_continue">Continua</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="how_to_add_a_playlist">Com afegir una llista de reproducció</string>
+    <string name="tutorial_step_1">Cerqueu \"llista de reproducció pública IPTV\" mitjançant qualsevol motor de cerca.</string>
+    <string name="tutorial_step_2">Copieu l\'enllaç de la llista de reproducció M3U o deseu els fitxers de la llista de reproducció.</string>
+    <string name="tutorial_step_3">Torneu a obrir l\'aplicació.\nToqueu el botó \"+\", seleccioneu \"Importa l\'URL de la llista de reproducció\" i enganxeu l\'enllaç.</string>
+    <string name="tutorial_step_4">Gaudeix mirant els teus canals IPTV!</string>
+    <string name="tab_import_url">Importa l\'URL</string>
+    <string name="tab_upload_file">Carrega el fitxer</string>
+    <string name="tab_stream">Corrent</string>
+    <string name="tut_url_1">Cerqueu \"llista de reproducció pública IPTV\" mitjançant qualsevol motor de cerca.</string>
+    <string name="tut_url_2">Copieu l\'enllaç de la llista de reproducció M3U o deseu el fitxer de la llista de reproducció.</string>
+    <string name="tut_url_3">Torneu a obrir l\'aplicació.\nToqueu el botó \"+\", seleccioneu \"Importa l\'URL de la llista de reproducció\" i enganxeu l\'enllaç.</string>
+    <string name="tut_url_4">Gaudeix mirant els teus canals IPTV!</string>
+    <string name="tut_file_1">Cerqueu \"Fitxer M3U\" amb qualsevol motor de cerca.</string>
+    <string name="tut_file_2">Deseu el fitxer .m3u al vostre dispositiu.</string>
+    <string name="tut_file_3">Torneu a l\'aplicació, toqueu el botó \"+\", seleccioneu \"Carga fitxer M3U\" i, a continuació, trieu el fitxer que heu baixat.</string>
+    <string name="tut_file_4">Gaudeix mirant els teus canals IPTV!</string>
+    <string name="tut_stream_1">Cerqueu \"URL públic de flux IPTV\" mitjançant qualsevol motor de cerca.</string>
+    <string name="tut_stream_2">Copieu l\'URL del flux complet al porta-retalls.</string>
+    <string name="tut_stream_3">Torneu a l\'aplicació, toqueu el botó \"+\", seleccioneu \"Importa l\'enllaç de reproducció\" i, a continuació, enganxeu l\'enllaç.</string>
+    <string name="tut_stream_4">Gaudeix mirant els teus canals IPTV!</string>
+    <string name="unlock_premium">Desbloqueja</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Us agrairem que ens feu arribar comentaris detallats (almenys 6 caràcters)</string>
+    <string name="at_least_6_characters">Com a mínim 6 caràcters</string>
+    <string name="loading">S\'està carregant…</string>
+    <string name="install_now">Instal·leu ara</string>
+    <string name="channels">%1$d canals</string>
+    <string name="this_action_may_contain_ads">Aquesta acció pot contenir anuncis</string>
+    <string name="what_do_you_mainly_use_iptv_for">Per a què utilitzeu principalment IPTV?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Trobeu una llista de reproducció IPTV (M3U) disponible en línia.</string>
+    <string name="title_1">Localitzeu una font M3U</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Copieu l\'enllaç de la llista de reproducció o descarregueu el fitxer M3U al vostre dispositiu.</string>
+    <string name="title_2">Desa la informació de la llista de reproducció</string>
+    <string name="title_3">Puja a l\'aplicació</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Obriu l\'aplicació → seleccioneu Afegeix una llista de reproducció → trieu Des de l\'URL → enganxeu l\'enllaç.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Accedeix a la llista de reproducció i comença a veure els teus canals preferits.</string>
+    <string name="title_4">Gaudeix del teu contingut</string>
+    <string name="search">Cerca...</string>
+    <string name="all">Tots</string>
+    <string name="recent">Recent</string>
+    <string name="favorites">Preferits</string>
+    <string name="url">URL</string>
+    <string name="file">Fitxer</string>
+    <string name="no_channels_found">No s\'han trobat canals</string>
+    <string name="no_recents">Sense recents</string>
+    <string name="play_something_to_begin">Reprodueix contingut multimèdia per començar</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Importa canals nous tocant el botó següent.</string>
+    <string name="a_z_sort">Classificació A-Z</string>
+    <string name="z_a_sort">Classificació Z-A</string>
+    <string name="_0_9_sort">0–9 Ordena</string>
+    <string name="_9_0_sort">9–0 Ordenar</string>
+    <string name="refresh">Actualitza</string>
+    <string name="accept">Acceptar</string>
+    <string name="license_agreement">Acord de llicència</string>
+    <string name="i_agree">Estic d\'acord amb l\'Acord de llicència</string>
+    <string name="content_license_agreement">IPTV admet llistes de reproducció M3U i JSON creades pels usuaris. No proporcionem ni allotgem cap contingut.\n\nAquesta aplicació només està pensada per a contingut obtingut legalment. Sou responsable d\'assegurar-vos que les vostres llistes de reproducció i contingut compleixin les lleis i els permisos aplicables.\n\nEn continuar, confirmeu que enteneu i accepteu aquestes condicions.\n\nAvís de responsabilitat\n\nIPTV no proporciona ni promociona cap contingut i no està afiliat a proveïdors externs.\n\nEls usuaris han de proporcionar el seu propi contingut. Es desaconsella totalment la reproducció no autoritzada de material amb drets d\'autor.</string>
+    <string name="content_1">Pots cercar en línia amb paraules clau com ara "Llista de reproducció IPTV M3U" o consultar les instruccions proporcionades pel teu servei de televisió/transmissió en temps real.\nUn enllaç M3U adequat normalment:\n• Comença per http:// o https://\n• Acaba amb .m3u o .m3u8\nProva d\'utilitzar fonts legals i de confiança sempre que sigui possible. Tingueu en compte que algunes llistes de reproducció poden caducar, requerir credencials d\'inici de sessió o estar limitades per regió.</string>
+    <string name="content_2">Per copiar l\'URL M3U:\n• Al mòbil: toqueu i manteniu premut l\'enllaç → seleccioneu Copia l\'enllaç\n• A l\'escriptori: feu clic amb el botó dret a l\'enllaç → trieu Copia l\'adreça de l\'enllaç\nPer baixar el fitxer de la llista de reproducció:\n• Deseu el fitxer .m3u o .m3u8 en una ubicació de fàcil accés al vostre dispositiu\nMés endavant podeu importar el fitxer directament des de l\'emmagatzematge local del pas 3 (consulteu-lo).</string>
+    <string name="content_3">Inicieu IPTV Smart Player.\nSeleccioneu Afegeix una llista de reproducció.\nTrieu un mètode per importar:\n• Mitjançant URL → Enganxeu el vostre enllaç M3U\n• Des de Fitxer → Navega i tria el fitxer .m3u / .m3u8 desat al dispositiu\n(Opcional) Introduïu un nom personalitzat per identificar fàcilment la vostra llista de reproducció més tard\nToqueu Desa per acabar.</string>
+    <string name="content_4">Doneu un moment a l\'aplicació perquè carregui canals i categories.\nExploreu la llista de canals o utilitzeu la funció de cerca per trobar ràpidament el que voleu.\nSi no apareix cap contingut:\n• Comproveu la vostra connexió a Internet\n• Assegureu-vos que l\'enllaç o fitxer M3U encara sigui vàlid i funcioni.</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Cal una connexió a Internet per continuar utilitzant l\'aplicació.\nComproveu la configuració de la xarxa i torneu a connectar-vos.</string>
+    <string name="retry">Torna-ho a provar</string>
+    <string name="thank_you_for_using_iptv">Gràcies per utilitzar IPTV</string>
+    <string name="playlist_name">Nom de la llista de reproducció</string>
+    <string name="playlist">Llista de reproducció</string>
+    <string name="save">Desa</string>
+    <string name="password">Contrasenya</string>
+    <string name="username">Nom d\'usuari</string>
+    <string name="no_file_selected">No s\'ha seleccionat cap fitxer</string>
+    <string name="m3u_file">Fitxer M3U</string>
+    <string name="playlist_url">URL de la llista de reproducció</string>
+    <string name="choose_icon">Trieu la icona</string>
+    <string name="choose_color">Trieu Color</string>
+    <string name="paste_your_url_here">Enganxeu el vostre URL aquí</string>
+    <string name="edit">Edita</string>
+    <string name="delete">Suprimeix</string>
+    <string name="rate_this_app">Valora aquesta aplicació</string>
+    <string name="tell_us_about_your_experiences">Explica\'ns les teves experiències</string>
+    <string name="enter_your_stream_link_here">Introduïu el vostre enllaç de reproducció aquí</string>
+    <string name="stream_link">Enllaç de flux</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Admet protocols de xarxa: http, ftp, rtsp, rtp, udp...</string>
+    <string name="channel">Canals</string>
+    <string name="import_playlist_url">Importa l\'URL de la llista de reproducció</string>
+    <string name="load_from_device">Carrega des del dispositiu</string>
+    <string name="play_single_stream">Reprodueix un sol flux</string>
+    <string name="upload_m3u_file">Carregueu el fitxer M3U</string>
+    <string name="all_channels">Tots els canals</string>
+    <string name="playback_error">Error de reproducció</string>
+    <string name="no_internet_connection">Sense connexió a Internet</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Aquest canal està temporalment fora de servei o no està disponible a la teva regió. Si us plau, torna-ho a provar més tard.</string>
+    <string name="lock">Bloqueig</string>
+    <string name="full_screen">Pantalla completa</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Bloqueig de pantalla. Premeu per desbloquejar</string>
+    <string name="delete_playlist">Vols suprimir la llista de reproducció?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Confirmes que vols suprimir aquesta llista de reproducció? Aquesta acció no es pot desfer.</string>
+    <string name="yes_delete">Sí, esborra</string>
+    <string name="error_1">Heu d\'omplir els camps obligatoris</string>
+    <string name="error_2">Alguns camps no són vàlids</string>
+    <string name="success_1">Importa correctament</string>
+    <string name="success_2">Desa correctament</string>
+    <string name="content_rate_1">Si t\'ha agradat el teu temps amb nosaltres, deixa una puntuació de 5 estrelles!</string>
+    <string name="content_rate_2">Si t\'ha agradat el teu temps amb nosaltres, deixa una puntuació de 5 estrelles!</string>
+    <string name="content_rate_3">Si t\'ha agradat el teu temps amb nosaltres, deixa una puntuació de 5 estrelles!</string>
+    <string name="content_rate_4">Gairebé perfecte? Ens esforçarem per aconseguir aquesta estrella addicional!</string>
+    <string name="content_rate_5">Ens vas fer el dia totalment! 🌟 Mantenim el bon rotllo.</string>
+    <string name="no_results_found_for">No s\'han trobat resultats per a</string>
+    <string name="the_device_does_not_support_pip">El dispositiu no és compatible amb PiP.</string>
+    <string name="video_file_not_found">No s\'ha trobat el fitxer de vídeo</string>
+    <string name="minimize">Minimitzar la finestra</string>
+    <string name="refresh_in_progress_please_wait">Actualització en curs, espereu...</string>
+    <string name="no_email_app_found">No s\'ha trobat cap aplicació de correu electrònic!</string>
+    <string name="error_5">Alguns camps no són vàlids</string>
+    <string name="no_favorite_channel_yet">Encara no hi ha cap canal preferit</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Busca un canal que t\'agradi i toca el cor per mantenir-lo.</string>
+    <string name="refreshed_successfully">S\'ha actualitzat correctament</string>
+    <string name="import_xtream_codes_api">Importa l\'API de codis Xtream</string>
+    <string name="suggestion">Suggeriment</string>
+    <string name="suggestion_1">Família</string>
+    <string name="suggestion_2">Esport</string>
+    <string name="suggestion_3">Pel·lícules</string>
+    <string name="_100_no_ads">100%sense anuncis</string>
+    <string name="hd_4d_quality">Qualitat HD i 4D</string>
+    <string name="premium_channels">Canals Premium</string>
+    <string name="most_popular">El més popular</string>
+    <string name="weekly">Setmanalment</string>
+    <string name="monthly">Mensualment</string>
+    <string name="yearly">Anualment</string>
+    <string name="_3_day_free_trial">Prova gratuïta de 3 dies</string>
+    <string name="something_went_wrong">Alguna cosa va fallar</string>
+    <string name="content_error">Si us plau, seguiu aquest pas i torneu-ho a provar:\n1. Comprova la teva connexió de xarxa\n2. Assegureu-vos que hàgiu iniciat la sessió al vostre compte de Google\n3. Assegureu-vos que podeu executar l\'aplicació Google Play</string>
+    <string name="cancel_anytime">Cancel·la en qualsevol moment</string>
+    <string name="term_of_use">
+        <u>Termini d\'ús</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Política de privadesa</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">La teva versió Premium ja està activa. Gaudeix utilitzant l\'aplicació!</string>
+    <string name="payment_success">Pagament correcte</string>
+    <string name="payment_failed">El pagament ha fallat</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Un petit problema va aturar el pagament. Si us plau, torna-ho a provar</string>
+    <string name="go_premium">Passeu a Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Desbloqueja totes les funcions i gaudeix de l\'aplicació sense anuncis!</string>
+    <string name="premium_member">Membre Premium</string>
+    <string name="active_until">Actiu fins a %s</string>
+    <string name="sever_url">URL del servidor</string>
+    <string name="find_an_xtream_account">Trobeu un compte Xtream</string>
+    <string name="search_for_xtream_code_api_account_online">Cerqueu "Compte de l\'API Xtream Code" en línia.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Toqueu Afegeix un perfil per desar i gaudir del vostre contingut.</string>
+    <string name="start_streaming">Comença la transmissió</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Obriu l\'aplicació i ompliu els camps del perfil Xtream.</string>
+    <string name="enter_the_information">Introduïu la informació</string>
+    <string name="copy_the_server_url_username_and_password">Copieu l\'URL del servidor, el nom d\'usuari i la contrasenya.</string>
+    <string name="copy_the_account_details">Copieu els detalls del compte</string>
+    <string name="how_to_add_an_xtream_profile">Com afegir un perfil Xtream</string>
+    <string name="account_added_successfully">El compte s\'ha afegit correctament</string>
+    <string name="your_account_is_ready_to_use">El vostre compte està llest per utilitzar-lo</string>
+    <string name="view_now">Veure ara</string>
+    <string name="later">Més tard</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Afegeix la teva primera llista de reproducció per començar a mirar-la</string>
+    <string name="title_slider_1">Transmet esports en directe al telèfon</string>
+    <string name="action_try_now">Prova-ho ara</string>
+    <string name="title_slider_2">Crea la teva llista de reproducció de pel·lícules</string>
+    <string name="title_slider_3">Gaudeix de totes les funcions sense anuncis</string>
+    <string name="tap_to_search">Toca per cercar</string>
+    <string name="sports_hub">Hub d\'esports</string>
+    <string name="wc_schedule">Calendaris</string>
+    <string name="wc_team">Equips</string>
+    <string name="wc_standing">Classificacions</string>
+    <string name="wc_today">Avui</string>
+    <string name="wc_upcoming">Pròxims</string>
+    <string name="wc_full_time">Temps complet</string>
+    <string name="wc_live">En directe</string>
+    <string name="wc_no_matches">Cap partit trobat</string>
+    <string name="wc_no_standings">No hi ha classificacions disponibles</string>
+    <string name="wc_remind_me">Recorda\'m</string>
+    <string name="wc_updating">Actualitzant…</string>
+    <string name="wc_match_detail">Detalls del partit</string>
+    <string name="wc_events">Esdeveniments</string>
+    <string name="wc_no_events">No hi ha esdeveniments disponibles</string>
+    <string name="wc_no_events_desc">El partit encara no ha començat. Estableix un recordatori per no perdre cap acció.</string>
+    <string name="wc_switch_team">Canviar equip</string>
+    <string name="wc_bracket">Brackets</string>
+    <string name="wc_round_of_32">Ronda de 32</string>
+    <string name="wc_starting_soon">Comença aviat</string>
+    <string name="wc_round_of_16">Ronda de 16</string>
+    <string name="wc_quarter_finals">Quarts de final</string>
+    <string name="wc_semi_finals">Semifinals</string>
+    <string name="wc_final">Final</string>
+    <string name="wc_no_bracket">No hi ha dades de brackets disponibles</string>
+    <string name="wc_no_matches_today">Cap partit avui</string>
+    <string name="wc_upcoming_fixtures">Els partits pròxims apareixeran aquí</string>
+    <string name="wc_no_recent">Cap partit recent</string>
+    <string name="wc_no_upcoming">Cap partit pròxim</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Activa les notificacions</string>
+    <string name="noti_enable_desc">Obté recordatoris de partits, actualitzacions de contingut nou i alertes d\'streaming importants.</string>
+    <string name="noti_go_to_setting">Anar a configuració</string>
+    <string name="visit_sports_hub">Visita l\'hub d\'esports</string>
+    <string name="_3rd_place_final">Final del tercer lloc</string>
+    <string name="_16th_finals">16è Finals</string>
+    <string name="ranking_of_third_placed_teams">Classificació dels equips del tercer lloc</string>
+    <string name="out">"Fora: "</string>
+    <string name="_in">"En: "</string>
+    <string name="_2nd_half">2a Part</string>
+    <string name="_1st_half">Primera part</string>
+    <string name="asst">Asst. %1$s</string>
+    <string name="out_s">Fora: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">El partit ha acabat. Obri l\'aplicació per veure el resultat complet.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Comença en 15 minuts. Obri l\'aplicació per seguir la partida.</string>
+    <string name="live_now">En directe ara</string>
+    <string name="full_time">Temps complet</string>
+    <string name="_2nd_group">2n Grup %1$s</string>
+    <string name="_1st_group">1r Grup %1$s</string>
+    <string name="eighth_finals">Vuitavofinals</string>
+    <string name="quarter_finals">Quarterfinals</string>
+    <string name="semi_finals">Semifinals</string>
+    <string name="winner">Guanyador</string>
+    <string name="loser">Perdedor</string>
+    <string name="round_of_32">Ronda dels 32</string>
+    <string name="round_of_16">Ronda dels 16</string>
+    <string name="_3rd_place">3r Lloc</string>
+    <string name="_final">Final</string>
+    <string name="group_stage">Fase de Grups</string>
+    <string name="round">Ronda %1$d</string>
+    <string name="group">Grup </string>
+    <string name="_1st">1r</string>
+    <string name="_2nd">2n</string>
+    <string name="_3rd">3r</string>
+    <string name="th">%1$dè</string>
+    <string name="remind_set">Recordatori establert</string>
+    <string name="remind_removed">Recordatori eliminat</string>
+    <string name="_et1">Pròrroga 1a Part</string>
+    <string name="_et2">Pròrroga 2a Part</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Reproduir</string>
+    <string name="add_similar_items">Afegir elements similars</string>
+    <string name="see_more">Veure més</string>
+    <string name="see_less">Veure menys</string>
+    <string name="view_all">Veure tots</string>
+    <string name="home">Inici</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">En Directe Ara</string>
+    <string name="recommended_for_you">Recomanat per a Tu</string>
+    <string name="new_series">Noves Sèries</string>
+    <string name="live_badge">DIRECTE</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes proporciona una experiència fiable de streaming IPTV.</string>
+    <string name="live_tv">TV en Directe</string>
+    <string name="movies">Pel·lícules</string>
+    <string name="series">Sèries</string>
+    <string name="add_profile">Afegir Perfil</string>
+    <string name="choose_your_profile">Tria el Teu Perfil</string>
+    <string name="my_favorite">Els Meus Preferits</string>
+    <string name="live_channel">Canal en Directe</string>
+    <string name="your_favorite_list_is_empty">La teva llista de preferits està buida</string>
+    <string name="edit_profile">Editar Perfil</string>
+    <string name="profile_name">Nom del Perfil</string>
+    <string name="delete_profile">Suprimir Perfil</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Estàs segur que vols suprimir aquest perfil?</string>
+    <string name="no_browser_found">No s\'ha trobat cap aplicació per obrir la cerca</string>
+    <string name="reminder_noon_title_1">Hora de reiniciar 🧠</string>
+    <string name="reminder_noon_body_1">Només un episodi per refrescar la teva ment!</string>
+    <string name="reminder_noon_title_2">Tens uns minuts? 🎬</string>
+    <string name="reminder_noon_body_2">Els teus canals estan a un toc de distància.</string>
+    <string name="reminder_noon_title_3">Els teus canals t\'esperen 📺</string>
+    <string name="reminder_noon_body_3">TV en directe, pel·lícules i sèries — tot en un sol lloc.</string>
+    <string name="reminder_evening_title_1">L\'hora de màxima audiència ha començat 🔥</string>
+    <string name="reminder_evening_body_1">Els teus canals estan en directe ara mateix.</string>
+    <string name="reminder_evening_title_2">Què fas aquesta nit? ⚽</string>
+    <string name="reminder_evening_body_2">Esports en directe, nous episodis i molt més.</string>
+    <string name="reminder_evening_title_3">Aquesta nit a la TV 📺</string>
+    <string name="reminder_evening_body_3">Canals en directe, pel·lícules i sèries — tot aquí.</string>
+    <string name="reminder_no_playlist_title">La teva TV t\'espera 📺</string>
+    <string name="reminder_no_playlist_body">Afegeix la teva llista de reproducció i comença a mirar.</string>
+    <string name="reminder_playlist_ready_title">Tot a punt! ✅</string>
+    <string name="reminder_playlist_ready_body">Toca per veure el teu canal preferit.</string>
+    <string name="noti_enable_title_ver_2">Permet que %1$s t\'enviï notificacions</string>
+    <string name="noti_enable_desc_ver_2">Rep recordatoris de TV en directe, actualitzacions de pel·lícules noves i alertes de streaming importants</string>
+    <string name="deny">Denega</string>
+    <string name="allow">Permet</string>
+    <string name="tut_xtream_1">Cerca “Xtream Code API Account” amb qualsevol cercador</string>
+    <string name="tut_xtream_2">Troba la secció “Format” o “Playlist” i copia la informació del compte Xtream</string>
+    <string name="tut_xtream_3">Torna a l\'aplicació, toca el botó &quot;+&quot;, selecciona &quot;Import Stream Link&quot; i després enganxa l\'enllaç.</string>
+    <string name="tut_xtream_4">Gaudeix mirant Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Com afegir un perfil Xtream</u>
+    </string>
+</resources>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Varsayılan dil</string>
+    <string name="setting">Ayar</string>
+    <string name="language">Dil</string>
+    <string name="privacy_policy">Gizlilik politikası</string>
+    <string name="get_started">Başlayın</string>
+    <string name="welcome">Hoş geldiniz</string>
+    <string name="next">Sonraki</string>
+    <string name="title_onb_1">Herşeyi İzle</string>
+    <string name="content_onb_1">Canlı TV\'ye, spor programlarına, filmlere ve çizgi filmlere istediğiniz zaman, istediğiniz yerden erişin.</string>
+    <string name="title_onb_2">Çalma Listenizi Oluşturun</string>
+    <string name="content_onb_2">Sevdiğiniz kanalları ekleyin ve istediğiniz zaman, anında izleyin.</string>
+    <string name="habit_1">Canlı TV</string>
+    <string name="habit_2">Filmler</string>
+    <string name="habit_3">Spor</string>
+    <string name="habit_4">Haberler</string>
+    <string name="habit_5">Aile</string>
+    <string name="habit_6">Eğlence</string>
+    <string name="feedback">Geri bildirim</string>
+    <string name="rate_now">Şimdi Değerlendirin</string>
+    <string name="send_feedback">Geri Bildirim Gönder</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="please_select_your_language">Lütfen dilinizi seçin</string>
+    <string name="please_choose_at_least_one_option">Lütfen en az bir seçenek seçin</string>
+    <string name="try_again">Tekrar deneyin</string>
+    <string name="got_it">Anladım!</string>
+    <string name="_continue">Devam etmek</string>
+    <string name="tutorial">öğretici</string>
+    <string name="how_to_add_a_playlist">Oynatma Listesi nasıl eklenir</string>
+    <string name="tutorial_step_1">Herhangi bir arama motorunu kullanarak \"genel IPTV çalma listesi\" ifadesini arayın.</string>
+    <string name="tutorial_step_2">M3U çalma listesi bağlantısını kopyalayın veya çalma listesi dosyalarını kaydedin.</string>
+    <string name="tutorial_step_3">Uygulamayı tekrar açın.\n\"+\" düğmesine dokunun, \"Oynatma Listesi URL\'sini İçe Aktar\" seçeneğini seçin ve bağlantıyı yapıştırın.</string>
+    <string name="tutorial_step_4">IPTV kanallarınızı izlemenin tadını çıkarın!</string>
+    <string name="tab_import_url">URL\'yi içe aktar</string>
+    <string name="tab_upload_file">Dosya yükle</string>
+    <string name="tab_stream">Aktarım</string>
+    <string name="tut_url_1">Herhangi bir arama motorunu kullanarak \"genel IPTV çalma listesi\" ifadesini arayın.</string>
+    <string name="tut_url_2">M3U çalma listesi bağlantısını kopyalayın veya çalma listesi dosyasını kaydedin.</string>
+    <string name="tut_url_3">Uygulamayı tekrar açın.\n\"+\" düğmesine dokunun, \"Oynatma Listesi URL\'sini İçe Aktar\" seçeneğini seçin ve bağlantıyı yapıştırın.</string>
+    <string name="tut_url_4">IPTV kanallarınızı izlemenin tadını çıkarın!</string>
+    <string name="tut_file_1">Herhangi bir arama motorunu kullanarak \"M3U dosyası\" ifadesini arayın.</string>
+    <string name="tut_file_2">.m3u dosyasını cihazınıza kaydedin.</string>
+    <string name="tut_file_3">Uygulamaya dönün, \"+\" düğmesine dokunun, \"M3U Dosyasını Yükle\"yi seçin, ardından indirdiğiniz dosyayı seçin.</string>
+    <string name="tut_file_4">IPTV kanallarınızı izlemenin tadını çıkarın!</string>
+    <string name="tut_stream_1">Herhangi bir arama motorunu kullanarak \"genel IPTV akış URL\'sini\" arayın.</string>
+    <string name="tut_stream_2">Tam akış URL\'sini panonuza kopyalayın.</string>
+    <string name="tut_stream_3">Uygulamaya dönün, \"+\" düğmesine dokunun, \"Yayın Bağlantısını İçe Aktar\" seçeneğini seçin ve ardından bağlantıyı yapıştırın.</string>
+    <string name="tut_stream_4">IPTV kanallarınızı izlemenin tadını çıkarın!</string>
+    <string name="unlock_premium">Kilidi aç</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Bize ayrıntılı geri bildirimde bulunursanız seviniriz (en az 6 karakter)</string>
+    <string name="at_least_6_characters">En az 6 karakter</string>
+    <string name="loading">Yükleniyor…</string>
+    <string name="install_now">Şimdi yükle</string>
+    <string name="channels">%1$d kanal</string>
+    <string name="this_action_may_contain_ads">Bu işlem reklam içerebilir</string>
+    <string name="what_do_you_mainly_use_iptv_for">IPTV\'yi esas olarak ne için kullanıyorsunuz?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Çevrimiçi olarak kullanılabilen bir IPTV oynatma listesi (M3U) bulun.</string>
+    <string name="title_1">Bir M3U Kaynağı Bulun</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Çalma listesi bağlantısını kopyalayın veya M3U dosyasını cihazınıza indirin.</string>
+    <string name="title_2">Çalma Listesi Bilgilerini Kaydet</string>
+    <string name="title_3">Uygulamaya Yükle</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Uygulamayı açın → Çalma Listesi Ekle\'yi seçin → URL\'den\'i seçin → bağlantıyı yapıştırın.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Çalma listesine erişin ve favori kanallarınızı izlemeye başlayın.</string>
+    <string name="title_4">İçeriğinizin Keyfini Çıkarın</string>
+    <string name="search">Aramak…</string>
+    <string name="all">Tüm</string>
+    <string name="recent">Son</string>
+    <string name="favorites">Favoriler</string>
+    <string name="url">URL</string>
+    <string name="file">Dosya</string>
+    <string name="no_channels_found">Hiçbir kanal bulunamadı</string>
+    <string name="no_recents">Son güncelleme yok</string>
+    <string name="play_something_to_begin">Başlamak için medyayı oynatın</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Aşağıdaki düğmeye dokunarak yeni kanalları içe aktarın.</string>
+    <string name="a_z_sort">A\'dan Z\'ye Sırala</string>
+    <string name="z_a_sort">Z-A Sıralaması</string>
+    <string name="_0_9_sort">0–9 Sırala</string>
+    <string name="_9_0_sort">9–0 Sırala</string>
+    <string name="refresh">Yenile</string>
+    <string name="accept">Kabul etmek</string>
+    <string name="license_agreement">Lisans Sözleşmesi</string>
+    <string name="i_agree">Lisans Sözleşmesini kabul ediyorum</string>
+    <string name="content_license_agreement">IPTV, kullanıcılar tarafından oluşturulan M3U ve JSON oynatma listelerini destekler. Herhangi bir içerik sağlamıyoruz veya barındırmıyoruz.\n\nBu uygulama yalnızca yasal olarak elde edilen içerik için tasarlanmıştır. Oynatma listelerinizin ve içeriğinizin geçerli yasa ve izinlere uygun olmasını sağlamak sizin sorumluluğunuzdadır.\n\nDevam ederek bu şartları anladığınızı ve kabul ettiğinizi onaylamış olursunuz.\n\nSorumluluk reddi beyanı\n\nIPTV herhangi bir içerik sağlamaz veya tanıtmaz ve üçüncü taraf sağlayıcılarla bağlantılı değildir.\n\nKullanıcılar kendi içeriklerini sağlamalıdır. Telif hakkıyla korunan materyalin izinsiz yayınlanması kesinlikle önerilmez.</string>
+    <string name="content_1">"IPTV M3U oynatma listesi" gibi anahtar kelimelerle çevrimiçi arama yapabilir veya TV/yayın hizmetiniz tarafından sağlanan yönergelere göz atabilirsiniz.\nUygun bir M3U bağlantısı genellikle:\n• http:// veya https:// ile başlar\n• .m3u veya .m3u8 ile biter\nMümkün olduğunda güvenilir ve yasal kaynakları kullanmaya çalışın. Bazı çalma listelerinin süresinin dolabileceğini, oturum açma bilgileri gerektirebileceğini veya bölgeye göre sınırlandırılabileceğini unutmayın.</string>
+    <string name="content_2">M3U URL\'sini kopyalamak için:\n• Mobil cihazda: Bağlantıya dokunup basılı tutun → Bağlantıyı kopyala\'yı seçin\n• Masaüstünde: Bağlantıyı sağ tıklayın → Bağlantı adresini kopyala\'yı seçin\nÇalma listesi dosyasını indirmek için:\n• .m3u veya .m3u8 dosyasını cihazınızda erişimi kolay bir konuma kaydedin\nDaha sonra dosyayı doğrudan yerel depolama alanınızdan içe aktarabilirsiniz (3. Adım\'a bakın).</string>
+    <string name="content_3">IPTV Smart Player\'ı başlatın.\nOynatma Listesi Ekle\'yi seçin.\nİçe aktarmak için bir yöntem seçin:\n• URL aracılığıyla → M3U bağlantınızı yapıştırın\n• Dosya\'dan → Göz atın ve cihazınızda kayıtlı .m3u / .m3u8 dosyasını seçin\n(İsteğe bağlı) Çalma listenizi daha sonra kolayca tanımlamak için özel bir ad girin\nSonlandırmak için Kaydet\'e dokunun.</string>
+    <string name="content_4">Uygulamaya kanalları ve kategorileri yüklemesi için biraz zaman tanıyın.\nİstediğiniz şeyi hızlı bir şekilde bulmak için kanal listesini keşfedin veya Arama özelliğini kullanın.\nHiçbir içerik görünmüyorsa:\n• İnternet bağlantınızı kontrol edin\n• M3U bağlantısının veya dosyasının hâlâ geçerli ve çalışır durumda olduğundan emin olun</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Uygulamayı kullanmaya devam etmek için internet bağlantısı gereklidir.\nLütfen ağ ayarlarınızı kontrol edin ve yeniden bağlanın.</string>
+    <string name="retry">Yeniden dene</string>
+    <string name="thank_you_for_using_iptv">IPTV\'yi kullandığınız için teşekkür ederiz</string>
+    <string name="playlist_name">Çalma Listesi Adı</string>
+    <string name="playlist">Çalma listesi</string>
+    <string name="save">Kaydet</string>
+    <string name="password">Şifre</string>
+    <string name="username">Kullanıcı adı</string>
+    <string name="no_file_selected">Hiçbir dosya seçilmedi</string>
+    <string name="m3u_file">M3U Dosyası</string>
+    <string name="playlist_url">Oynatma listesi URL\'si</string>
+    <string name="choose_icon">Simge Seç</string>
+    <string name="choose_color">Renk Seç</string>
+    <string name="paste_your_url_here">URL\'nizi buraya yapıştırın</string>
+    <string name="edit">Düzenlemek</string>
+    <string name="delete">Silmek</string>
+    <string name="rate_this_app">Bu uygulamaya puan verin</string>
+    <string name="tell_us_about_your_experiences">Bize deneyimlerinizi anlatın</string>
+    <string name="enter_your_stream_link_here">Yayın bağlantınızı buraya girin</string>
+    <string name="stream_link">Akış bağlantısı</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Destek ağ protokolleri: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Kanallar</string>
+    <string name="import_playlist_url">Oynatma Listesi URL\'sini İçe Aktar</string>
+    <string name="load_from_device">Cihazdan Yükle</string>
+    <string name="play_single_stream">Tek akışı oynat</string>
+    <string name="upload_m3u_file">M3U Dosyasını Yükle</string>
+    <string name="all_channels">Tüm Kanallar</string>
+    <string name="playback_error">Oynatma Hatası</string>
+    <string name="no_internet_connection">İnternet Bağlantısı Yok</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Bu kanal geçici olarak hizmet dışı veya bölgenizde kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="lock">Kilit</string>
+    <string name="full_screen">Tam ekran</string>
+    <string name="pip">pip</string>
+    <string name="screen_lock_press_to_unlock">Ekran kilidi. Kilidi açmak için basın</string>
+    <string name="delete_playlist">Oynatma Listesi silinsin mi?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Bu oynatma listesini silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.</string>
+    <string name="yes_delete">Evet sil</string>
+    <string name="error_1">Gerekli alanları doldurmanız gerekiyor</string>
+    <string name="error_2">Bazı alanlar geçersiz</string>
+    <string name="success_1">Başarıyla içe aktar</string>
+    <string name="success_2">Başarıyla kaydet</string>
+    <string name="content_rate_1">Bizimle geçirdiğiniz zamanı sevdiyseniz lütfen 5 yıldız verin!</string>
+    <string name="content_rate_2">Bizimle geçirdiğiniz zamanı sevdiyseniz lütfen 5 yıldız verin!</string>
+    <string name="content_rate_3">Bizimle geçirdiğiniz zamanı sevdiyseniz lütfen 5 yıldız verin!</string>
+    <string name="content_rate_4">Neredeyse mükemmel mi? Bu ekstra yıldız için çaba göstereceğiz!</string>
+    <string name="content_rate_5">Tamamen günümüzü güzelleştirdin! 🌟Güzel hislerin devam etmesine izin verelim.</string>
+    <string name="no_results_found_for">için sonuç bulunamadı</string>
+    <string name="the_device_does_not_support_pip">Cihaz PiP\'yi desteklemiyor.</string>
+    <string name="video_file_not_found">Video dosyası bulunamadı</string>
+    <string name="minimize">Pencereyi simge durumuna küçült</string>
+    <string name="refresh_in_progress_please_wait">Yenileme devam ediyor, lütfen bekleyin…</string>
+    <string name="no_email_app_found">E-posta uygulaması bulunamadı!</string>
+    <string name="error_5">Bazı alanlar geçersiz</string>
+    <string name="no_favorite_channel_yet">Henüz favori kanal yok</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Beğendiğiniz bir kanalı bulun ve onu korumak için kalbe dokunun.</string>
+    <string name="refreshed_successfully">Başarıyla yenilendi</string>
+    <string name="import_xtream_codes_api">Xtream Kodlarını İçe Aktarma API\'si</string>
+    <string name="suggestion">Telkin</string>
+    <string name="suggestion_1">Aile</string>
+    <string name="suggestion_2">Spor</string>
+    <string name="suggestion_3">Filmler</string>
+    <string name="_100_no_ads">%100 Reklam Yok</string>
+    <string name="hd_4d_quality">HD ve 4D Kalitesi</string>
+    <string name="premium_channels">Premium Kanallar</string>
+    <string name="most_popular">En popüler</string>
+    <string name="weekly">Haftalık</string>
+    <string name="monthly">Aylık</string>
+    <string name="yearly">Yıllık</string>
+    <string name="_3_day_free_trial">3 günlük ücretsiz deneme</string>
+    <string name="something_went_wrong">Bir şeyler ters gitti</string>
+    <string name="content_error">Lütfen şu adımı uygulayın ve tekrar deneyin:\n1. Ağ bağlantınızı kontrol edin\n2. Google hesabınızda oturum açtığınızdan emin olun\n3. Google play uygulamasını çalıştırabildiğinizden emin olun</string>
+    <string name="cancel_anytime">İstediğiniz zaman iptal edin</string>
+    <string name="term_of_use">
+        <u>Kullanım süresi</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Gizlilik politikası</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Premium sürümünüz artık aktif. Uygulamayı kullanmanın tadını çıkarın!</string>
+    <string name="payment_success">Ödeme Başarılı</string>
+    <string name="payment_failed">Ödeme başarısız oldu</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Küçük bir sorun ödemeyi durdurdu. Lütfen tekrar deneyin</string>
+    <string name="go_premium">Premium\'a Geçin</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Tüm özelliklerin kilidini açın ve reklamsız uygulamanın keyfini çıkarın!</string>
+    <string name="premium_member">Premium Üye</string>
+    <string name="active_until">%s tarihine kadar aktif</string>
+    <string name="sever_url">Sunucu URL\'si</string>
+    <string name="find_an_xtream_account">Bir Xtream hesabı bulun</string>
+    <string name="search_for_xtream_code_api_account_online">Çevrimiçi olarak "Xtream Code API Hesabı"nı arayın.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">İçeriğinizi kaydedip keyfini çıkarmak için Profil Ekle\'ye dokunun.</string>
+    <string name="start_streaming">Yayını başlat</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Uygulamayı açın ve Xtream profil alanlarını doldurun.</string>
+    <string name="enter_the_information">Bilgileri girin</string>
+    <string name="copy_the_server_url_username_and_password">Sunucu URL\'sini, Kullanıcı Adını ve Parolayı kopyalayın.</string>
+    <string name="copy_the_account_details">Hesap ayrıntılarını kopyalayın</string>
+    <string name="how_to_add_an_xtream_profile">Xtream Profili Nasıl Eklenir?</string>
+    <string name="account_added_successfully">Hesap başarıyla eklendi</string>
+    <string name="your_account_is_ready_to_use">Hesabınız kullanıma hazır</string>
+    <string name="view_now">Şimdi görüntüle</string>
+    <string name="later">Daha sonra</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">İzlemeye başlamak için ilk oynatma listenizi ekleyin</string>
+    <string name="title_slider_1">Telefonda Canlı Spor Yayını</string>
+    <string name="action_try_now">Şimdi dene</string>
+    <string name="title_slider_2">Film Oynatma Listenizi Oluşturun</string>
+    <string name="title_slider_3">Reklamsız tüm özelliklerin keyfini çıkarın</string>
+    <string name="tap_to_search">Aramak için dokunun</string>
+    <string name="sports_hub">Spor Merkezi</string>
+    <string name="wc_schedule">Planlamalar</string>
+    <string name="wc_team">Takımlar</string>
+    <string name="wc_standing">Puan Tablosu</string>
+    <string name="wc_today">Bugün</string>
+    <string name="wc_upcoming">Yaklaşan</string>
+    <string name="wc_full_time">Tam Süreli</string>
+    <string name="wc_live">Canlı</string>
+    <string name="wc_no_matches">Maç bulunamadı</string>
+    <string name="wc_no_standings">Puan tablosu yok</string>
+    <string name="wc_remind_me">Beni Hatırlat</string>
+    <string name="wc_updating">Güncelleniyor…</string>
+    <string name="wc_match_detail">Maç Detayı</string>
+    <string name="wc_events">Etkinlikler</string>
+    <string name="wc_no_events">Etkinlik yok</string>
+    <string name="wc_no_events_desc">Maç henüz başlamadı. Hiçbir aksiyon kaçırmamanız için bir anımsatıcı ayarlayın.</string>
+    <string name="wc_switch_team">Takımı Değiştir</string>
+    <string name="wc_bracket">Parantez</string>
+    <string name="wc_round_of_32">32\'ler Turnu</string>
+    <string name="wc_starting_soon">Yakında başlayacak</string>
+    <string name="wc_round_of_16">16\'lar Turnu</string>
+    <string name="wc_quarter_finals">Çeyrek Finaller</string>
+    <string name="wc_semi_finals">Yarı Finaller</string>
+    <string name="wc_final">Son</string>
+    <string name="wc_no_bracket">Parantez verisi yok</string>
+    <string name="wc_no_matches_today">Bugün Maç Yok</string>
+    <string name="wc_upcoming_fixtures">Yaklaşan maçlar burada görünecektir</string>
+    <string name="wc_no_recent">Son maç yok</string>
+    <string name="wc_no_upcoming">Yaklaşan maç yok</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Bildirimleri Etkinleştir</string>
+    <string name="noti_enable_desc">Maç anımsatıcıları, yeni içerik güncellemeleri ve önemli yayın uyarıları alın.</string>
+    <string name="noti_go_to_setting">Ayarlara git</string>
+    <string name="visit_sports_hub">Sports Hub\'ı Ziyaret Et</string>
+    <string name="_3rd_place_final">3. Yer Finali</string>
+    <string name="_16th_finals">16. Finalı</string>
+    <string name="ranking_of_third_placed_teams">3. sırada yer alan takımların sıralaması</string>
+    <string name="out">"Dışında: "</string>
+    <string name="_in">"İçinde: "</string>
+    <string name="_2nd_half">2. Yarı</string>
+    <string name="_1st_half">1. Yarı</string>
+    <string name="asst">Yardımcı %1$s</string>
+    <string name="out_s">Dışında: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Maç sona erdi. Tam sonuç için uygulamayı açın.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">15 dakika içinde başlayacak. İzlemek için uygulamayı açın.</string>
+    <string name="live_now">Şu Anda Canlı</string>
+    <string name="full_time">Maç Sonu</string>
+    <string name="_2nd_group">2. Grup %1$s</string>
+    <string name="_1st_group">1. Grup %1$s</string>
+    <string name="eighth_finals">Sekizde Kalan</string>
+    <string name="quarter_finals">Çeyrek Finaller</string>
+    <string name="semi_finals">Yarı Finaller</string>
+    <string name="winner">Kazanan</string>
+    <string name="loser">Kaybeden</string>
+    <string name="round_of_32">32\'de Kalan</string>
+    <string name="round_of_16">16\'da Kalan</string>
+    <string name="_3rd_place">3. Yer</string>
+    <string name="_final">Son</string>
+    <string name="group_stage">Grup Aşaması</string>
+    <string name="round">Tur %1$d</string>
+    <string name="group">Grup </string>
+    <string name="_1st">1.</string>
+    <string name="_2nd">2.</string>
+    <string name="_3rd">3.</string>
+    <string name="th">%1$d. </string>
+    <string name="remind_set">Hatırlatıcı ayarlandı</string>
+    <string name="remind_removed">Hatırlatıcı kaldırıldı</string>
+    <string name="_et1">Uzatma 1. Yarı</string>
+    <string name="_et2">Uzatma 2. Yarı</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Oynat</string>
+    <string name="add_similar_items">Benzer öğeler ekle</string>
+    <string name="see_more">Daha fazla göster</string>
+    <string name="see_less">Daha az göster</string>
+    <string name="view_all">Tümünü görüntüle</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Şu Anda Canlı</string>
+    <string name="recommended_for_you">Sizin İçin Önerilen</string>
+    <string name="new_series">Yeni Diziler</string>
+    <string name="live_badge">CANLI</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes güvenilir bir IPTV akış deneyimi sağlar.</string>
+    <string name="live_tv">Canlı TV</string>
+    <string name="movies">Filmler</string>
+    <string name="series">Diziler</string>
+    <string name="add_profile">Profil Ekle</string>
+    <string name="choose_your_profile">Profilinizi Seçin</string>
+    <string name="my_favorite">Favorilerim</string>
+    <string name="live_channel">Canlı Kanal</string>
+    <string name="your_favorite_list_is_empty">Favori listeniz boş</string>
+    <string name="edit_profile">Profili Düzenle</string>
+    <string name="profile_name">Profil Adı</string>
+    <string name="delete_profile">Profili Sil</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Bu profili silmek istediğinizden emin misiniz?</string>
+    <string name="no_browser_found">Aramayı açacak uygulama bulunamadı</string>
+    <string name="reminder_noon_title_1">Yenilenme zamanı 🧠</string>
+    <string name="reminder_noon_body_1">Zihnini tazelemek için sadece bir bölüm!</string>
+    <string name="reminder_noon_title_2">Birkaç dakikan var mı? 🎬</string>
+    <string name="reminder_noon_body_2">Kanalların bir dokunuş uzağında.</string>
+    <string name="reminder_noon_title_3">Kanalların seni bekliyor 📺</string>
+    <string name="reminder_noon_body_3">Canlı TV, filmler &amp; diziler — hepsi bir arada.</string>
+    <string name="reminder_evening_title_1">Prime time başladı 🔥</string>
+    <string name="reminder_evening_body_1">Kanalların şu anda canlı yayında.</string>
+    <string name="reminder_evening_title_2">Bu akşam ne var? ⚽</string>
+    <string name="reminder_evening_body_2">Canlı spor, yeni bölümler &amp; daha fazlası.</string>
+    <string name="reminder_evening_title_3">Bu akşam TV\'de 📺</string>
+    <string name="reminder_evening_body_3">Canlı kanallar, filmler &amp; diziler — hepsi burada.</string>
+    <string name="reminder_no_playlist_title">TV\'n seni bekliyor 📺</string>
+    <string name="reminder_no_playlist_body">Çalma listeni ekle ve izlemeye başla.</string>
+    <string name="reminder_playlist_ready_title">Her şey hazır! ✅</string>
+    <string name="reminder_playlist_ready_body">Favori kanalını izlemek için dokun.</string>
+    <string name="noti_enable_title_ver_2">%1$s\'in size bildirim göndermesine izin verin</string>
+    <string name="noti_enable_desc_ver_2">Canlı TV hatırlatıcıları, yeni film güncellemeleri ve önemli yayın uyarıları alın</string>
+    <string name="deny">Reddet</string>
+    <string name="allow">İzin ver</string>
+    <string name="tut_xtream_1">Herhangi bir arama motorunu kullanarak “Xtream Code API Account” arayın</string>
+    <string name="tut_xtream_2">“Format” veya “Playlist” bölümünü bulun ve Xtream hesap bilgilerini kopyalayın</string>
+    <string name="tut_xtream_3">Uygulamaya dönün, &quot;+&quot; düğmesine dokunun, &quot;Import Stream Link&quot;i seçin, ardından bağlantıyı yapıştırın.</string>
+    <string name="tut_xtream_4">Xtream izlemenin keyfini çıkarın</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Xtream Profili nasıl eklenir</u>
+    </string>
+</resources>

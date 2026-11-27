@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Мова па змаўчанні</string>
+    <string name="setting">Налада</string>
+    <string name="language">мова</string>
+    <string name="privacy_policy">Палітыка прыватнасці</string>
+    <string name="get_started">Пачніце</string>
+    <string name="welcome">Сардэчна запрашаем у</string>
+    <string name="next">Далей</string>
+    <string name="title_onb_1">Глядзець усё</string>
+    <string name="content_onb_1">Доступ да тэлебачання ў прамым эфіры, спорту, фільмаў і мультфільмаў у любы час і ў любым месцы.</string>
+    <string name="title_onb_2">Стварыце свой спіс прайгравання</string>
+    <string name="content_onb_2">Дадавайце любімыя каналы і глядзіце іх у любы час і імгненна.</string>
+    <string name="habit_1">Жывое тэлебачанне</string>
+    <string name="habit_2">Фільмы</string>
+    <string name="habit_3">Спорт</string>
+    <string name="habit_4">Навіны</string>
+    <string name="habit_5">Сям\'я</string>
+    <string name="habit_6">забавы</string>
+    <string name="feedback">Зваротная сувязь</string>
+    <string name="rate_now">Ацаніце зараз</string>
+    <string name="send_feedback">Адправіць водгук</string>
+    <string name="cancel">Адмяніць</string>
+    <string name="please_select_your_language">Выберыце мову</string>
+    <string name="please_choose_at_least_one_option">Выберыце хаця б адзін варыянт</string>
+    <string name="try_again">Паспрабуйце яшчэ раз</string>
+    <string name="got_it">Зразумеў!</string>
+    <string name="_continue">Працягнуць</string>
+    <string name="tutorial">Падручнік</string>
+    <string name="how_to_add_a_playlist">Як дадаць плэйліст</string>
+    <string name="tutorial_step_1">Шукайце \"публічны спіс прайгравання IPTV\" з дапамогай любой пошукавай сістэмы.</string>
+    <string name="tutorial_step_2">Скапіруйце спасылку на спіс прайгравання M3U або захавайце файлы спісу прайгравання.</string>
+    <string name="tutorial_step_3">Адкрыйце праграму яшчэ раз.\nНацісніце кнопку \"+\", выберыце \"Імпартаваць URL-адрас спісу прайгравання\" і ўстаўце спасылку.</string>
+    <string name="tutorial_step_4">Прыемнага прагляду каналаў IPTV!</string>
+    <string name="tab_import_url">Імпарт URL</string>
+    <string name="tab_upload_file">Загрузіць файл</string>
+    <string name="tab_stream">Паток</string>
+    <string name="tut_url_1">Шукайце \"публічны спіс прайгравання IPTV\" з дапамогай любой пошукавай сістэмы.</string>
+    <string name="tut_url_2">Скапіруйце спасылку на спіс прайгравання M3U або захавайце файл спісу прайгравання.</string>
+    <string name="tut_url_3">Адкрыйце праграму яшчэ раз.\nНацісніце кнопку \"+\", выберыце \"Імпартаваць URL-адрас спісу прайгравання\" і ўстаўце спасылку.</string>
+    <string name="tut_url_4">Прыемнага прагляду каналаў IPTV!</string>
+    <string name="tut_file_1">Шукайце \"файл M3U\" з дапамогай любой пошукавай сістэмы.</string>
+    <string name="tut_file_2">Захавайце файл .m3u на прыладзе.</string>
+    <string name="tut_file_3">Вярніцеся ў праграму, націсніце кнопку \"+\", выберыце \"Загрузіць файл M3U\", затым выберыце файл, які вы спампавалі.</string>
+    <string name="tut_file_4">Прыемнага прагляду каналаў IPTV!</string>
+    <string name="tut_stream_1">Шукайце \"публічны URL патоку IPTV\" з дапамогай любой пошукавай сістэмы.</string>
+    <string name="tut_stream_2">Скапіруйце поўны URL патоку ў буфер абмену.</string>
+    <string name="tut_stream_3">Вярніцеся ў праграму, дакраніцеся да кнопкі \"+\", выберыце \"Імпартаваць спасылку на паток\", затым устаўце спасылку.</string>
+    <string name="tut_stream_4">Прыемнага прагляду каналаў IPTV!</string>
+    <string name="unlock_premium">Разблакіраваць</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Мы былі б удзячныя, калі б вы далі нам падрабязны водгук (не менш за 6 сімвалаў)</string>
+    <string name="at_least_6_characters">Мінімум 6 сімвалаў</string>
+    <string name="loading">Загрузка…</string>
+    <string name="install_now">Усталяваць зараз</string>
+    <string name="channels">%1$d каналы</string>
+    <string name="this_action_may_contain_ads">Гэта дзеянне можа ўтрымліваць рэкламу</string>
+    <string name="what_do_you_mainly_use_iptv_for">Для чаго вы ў асноўным выкарыстоўваеце IPTV?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Знайдзіце спіс прайгравання IPTV (M3U), даступны ў Інтэрнэце.</string>
+    <string name="title_1">Знайдзіце крыніцу M3U</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Скапіруйце спасылку на спіс прайгравання або загрузіце файл M3U на сваю прыладу.</string>
+    <string name="title_2">Захаваць інфармацыю пра спіс прайгравання</string>
+    <string name="title_3">Загрузіць у дадатак</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Адкрыйце праграму → выберыце Дадаць спіс прайгравання → абярыце З URL → устаўце спасылку.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Атрымайце доступ да спісу прайгравання і пачніце глядзець любімыя каналы.</string>
+    <string name="title_4">Атрымлівайце асалоду ад сваім кантэнтам</string>
+    <string name="search">Пошук…</string>
+    <string name="all">Усе</string>
+    <string name="recent">Апошнія</string>
+    <string name="favorites">Выбранае</string>
+    <string name="url">URL-адрас</string>
+    <string name="file">Файл</string>
+    <string name="no_channels_found">Каналы не знойдзены</string>
+    <string name="no_recents">Нядаўніх няма</string>
+    <string name="play_something_to_begin">Каб пачаць, прайграйце мультымедыя</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Імпартуйце новыя каналы, націснуўшы кнопку ніжэй.</string>
+    <string name="a_z_sort">Сартаванне ад А да Я</string>
+    <string name="z_a_sort">Я-А Сартаванне</string>
+    <string name="_0_9_sort">0–9 Сартаванне</string>
+    <string name="_9_0_sort">9–0 Сартаванне</string>
+    <string name="refresh">Абнавіць</string>
+    <string name="accept">Прыняць</string>
+    <string name="license_agreement">Ліцэнзійнае пагадненне</string>
+    <string name="i_agree">Я згодны з Ліцэнзійным пагадненнем</string>
+    <string name="content_license_agreement">IPTV падтрымлівае спісы прайгравання M3U і JSON, створаныя карыстальнікамі. Мы не прадастаўляем і не размяшчаем ніякага кантэнту.\n\nГэта дадатак прызначана толькі для законна атрыманага кантэнту. Вы несяце адказнасць за тое, каб вашы спісы прайгравання і кантэнт адпавядалі дзеючым законам і дазволам.\n\nПрацягваючы, вы пацвярджаеце, што разумееце і прымаеце гэтыя ўмовы.\n\nАдмова\n\nIPTV не прадастаўляе і не прасоўвае ніякага кантэнту і не з\'яўляецца афіляваным асобай са староннімі пастаўшчыкамі.\n\nКарыстальнікі павінны прадастаўляць свой уласны кантэнт. Несанкцыянаваная трансляцыя матэрыялаў, абароненых аўтарскім правам, настойліва не рэкамендуецца.</string>
+    <string name="content_1">Вы можаце шукаць у інтэрнэце з такімі ключавымі словамі, як «спіс прайгравання IPTV M3U», або правяраць інструкцыі ад вашага тэлебачання/сэрвісу струменевай перадачы.\nПравільная спасылка M3U звычайна:\n• Пачынаецца з http:// або https://\n• Заканчваецца на .m3u або .m3u8\nПа магчымасці старайцеся выкарыстоўваць надзейныя і законныя крыніцы. Звярніце ўвагу, што некаторыя спісы прайгравання могуць скончыцца, патрабаваць уліковых дадзеных для ўваходу або быць абмежаванымі рэгіёнам.</string>
+    <string name="content_2">Каб скапіяваць URL-адрас M3U:\n• На мабільным тэлефоне: націсніце і ўтрымлівайце спасылку → выберыце «Капіяваць спасылку».\n• На працоўным стале: пстрыкніце спасылку правай кнопкай мышы → выберыце «Капіяваць адрас спасылкі».\nКаб спампаваць файл са спісам прайгравання:\n• Захавайце файл .m3u або .m3u8 у лёгкадаступным месцы на вашай прыладзе\nПазней вы можаце імпартаваць файл непасрэдна з лакальнага сховішча (гл. Крок 3).</string>
+    <string name="content_3">Запусціце IPTV Smart Player.\nВыберыце «Дадаць спіс прайгравання».\nВыберыце адзін спосаб для імпарту:\n• Праз URL → Устаўце спасылку M3U\n• З «Файла» → Агляд і абярыце захаваны файл .m3u / .m3u8 на вашай прыладзе\n(Неабавязкова) Увядзіце карыстальніцкае імя, каб пазней лёгка вызначыць ваш спіс прайгравання\nНацісніце «Захаваць», каб скончыць.</string>
+    <string name="content_4">Дайце праграме час загрузіць каналы і катэгорыі.\nВывучыце спіс каналаў або выкарыстоўвайце функцыю пошуку, каб хутка знайсці тое, што вы хочаце.\nКалі змесціва не адлюстроўваецца:\n• Праверце падключэнне да інтэрнэту\n• Пераканайцеся, што спасылка або файл M3U па-ранейшаму сапраўдныя і працуюць</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Для далейшага выкарыстання праграмы патрабуецца падключэнне да Інтэрнэту.\nПраверце налады сеткі і паўторна падключыцеся.</string>
+    <string name="retry">Паўтарыць</string>
+    <string name="thank_you_for_using_iptv">Дзякуй за выкарыстанне IPTV</string>
+    <string name="playlist_name">Назва плэйліста</string>
+    <string name="playlist">Плэйліст</string>
+    <string name="save">Захаваць</string>
+    <string name="password">Пароль</string>
+    <string name="username">Імя карыстальніка</string>
+    <string name="no_file_selected">Файл не выбраны</string>
+    <string name="m3u_file">Файл m3u</string>
+    <string name="playlist_url">URL-адрас спісу прайгравання</string>
+    <string name="choose_icon">Выберыце значок</string>
+    <string name="choose_color">Выберыце колер</string>
+    <string name="paste_your_url_here">Устаўце сюды свой URL</string>
+    <string name="edit">Рэдагаваць</string>
+    <string name="delete">Выдаліць</string>
+    <string name="rate_this_app">Ацаніце гэта дадатак</string>
+    <string name="tell_us_about_your_experiences">Раскажыце пра свой вопыт</string>
+    <string name="enter_your_stream_link_here">Увядзіце спасылку на свой паток тут</string>
+    <string name="stream_link">Спасылка на трансляцыю</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Падтрымка сеткавых пратаколаў: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Каналы</string>
+    <string name="import_playlist_url">Імпартаваць URL плэйліста</string>
+    <string name="load_from_device">Загрузіць з прылады</string>
+    <string name="play_single_stream">Прайграванне аднаго патоку</string>
+    <string name="upload_m3u_file">Загрузіць файл M3U</string>
+    <string name="all_channels">Усе каналы</string>
+    <string name="playback_error">Памылка прайгравання</string>
+    <string name="no_internet_connection">Няма падключэння да Інтэрнэту</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Гэты канал часова не працуе або недаступны ў вашым рэгіёне. Паўтарыце спробу пазней.</string>
+    <string name="lock">Замак</string>
+    <string name="full_screen">Поўны экран</string>
+    <string name="pip">Піп</string>
+    <string name="screen_lock_press_to_unlock">Блакаванне экрана. Націсніце, каб разблакіраваць</string>
+    <string name="delete_playlist">Выдаліць спіс прайгравання?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Вы ўпэўнены, што хочаце выдаліць гэты спіс прайгравання? Гэта дзеянне нельга адрабіць.</string>
+    <string name="yes_delete">Так, выдаліць</string>
+    <string name="error_1">Вам трэба запоўніць абавязковыя палі</string>
+    <string name="error_2">Некаторыя палі несапраўдныя</string>
+    <string name="success_1">Паспяховы імпарт</string>
+    <string name="success_2">Паспяхова захавана</string>
+    <string name="content_rate_1">Калі вам спадабаўся час з намі, пакіньце 5-зоркавы рэйтынг!</string>
+    <string name="content_rate_2">Калі вам спадабаўся час з намі, пакіньце 5-зоркавы рэйтынг!</string>
+    <string name="content_rate_3">Калі вам спадабаўся час з намі, пакіньце 5-зоркавы рэйтынг!</string>
+    <string name="content_rate_4">Амаль ідэальна? Мы будзем імкнуцца да гэтай дадатковай зоркі!</string>
+    <string name="content_rate_5">Вы цалкам палепшылі наш дзень! 🌟 Давайце працягваць добры настрой.</string>
+    <string name="no_results_found_for">Няма вынікаў для</string>
+    <string name="the_device_does_not_support_pip">Прылада не падтрымлівае PiP.</string>
+    <string name="video_file_not_found">Відэафайл не знойдзены</string>
+    <string name="minimize">Згарнуць акно</string>
+    <string name="refresh_in_progress_please_wait">Ідзе абнаўленне, пачакайце...</string>
+    <string name="no_email_app_found">Праграма электроннай пошты не знойдзена!</string>
+    <string name="error_5">Некаторыя палі несапраўдныя</string>
+    <string name="no_favorite_channel_yet">Пакуль няма любімага канала</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Знайдзіце канал, які вам падабаецца, і націсніце на сэрца, каб захаваць яго.</string>
+    <string name="refreshed_successfully">Паспяхова абноўлена</string>
+    <string name="import_xtream_codes_api">Імпарт кодаў Xtream API</string>
+    <string name="suggestion">Прапанова</string>
+    <string name="suggestion_1">Сям\'я</string>
+    <string name="suggestion_2">Спорт</string>
+    <string name="suggestion_3">Фільмы</string>
+    <string name="_100_no_ads">100% без рэкламы</string>
+    <string name="hd_4d_quality">Якасць HD і 4D</string>
+    <string name="premium_channels">Прэміум каналы</string>
+    <string name="most_popular">Самая папулярная</string>
+    <string name="weekly">Штотыдзень</string>
+    <string name="monthly">Штомесяц</string>
+    <string name="yearly">Штогод</string>
+    <string name="_3_day_free_trial">3-дзённая бясплатная пробная версія</string>
+    <string name="something_went_wrong">Нешта пайшло не так</string>
+    <string name="content_error">Калі ласка, выканайце гэты крок і паўтарыце спробу:\n1. Праверце падключэнне да сеткі\n2. Пераканайцеся, што вы ўвайшлі ў свой уліковы запіс Google\n3. Пераканайцеся, што вы можаце запусціць прыкладанне Google play</string>
+    <string name="cancel_anytime">Адмяніць у любы час</string>
+    <string name="term_of_use">
+        <u>Тэрмін выкарыстання</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Палітыка прыватнасці</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Ваша прэміум-версія цяпер актыўная. Прыемнага выкарыстання прыкладання!</string>
+    <string name="payment_success">Паспяховая аплата</string>
+    <string name="payment_failed">Аплата не атрымалася</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Невялікая праблема спыніла аплату. Калі ласка, паспрабуйце яшчэ раз</string>
+    <string name="go_premium">Перайсці на прэміум</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Разблакіруйце ўсе функцыі і карыстайцеся дадаткам без рэкламы!</string>
+    <string name="premium_member">Прэміум-член</string>
+    <string name="active_until">Актыўны да %s</string>
+    <string name="sever_url">Раз\'яднаць URL</string>
+    <string name="find_an_xtream_account">Знайдзіце ўліковы запіс Xtream</string>
+    <string name="search_for_xtream_code_api_account_online">Знайдзіце ў інтэрнэце «ўліковы запіс Xtream Code API».</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Націсніце «Дадаць профіль», каб захаваць і атрымліваць асалоду ад змесціва.</string>
+    <string name="start_streaming">Пачаць трансляцыю</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Адкрыйце праграму і запоўніце палі профілю Xtream.</string>
+    <string name="enter_the_information">Увядзіце інфармацыю</string>
+    <string name="copy_the_server_url_username_and_password">Скапіруйце URL сервера, імя карыстальніка і пароль.</string>
+    <string name="copy_the_account_details">Скапіруйце дадзеныя акаўнта</string>
+    <string name="how_to_add_an_xtream_profile">Як дадаць профіль Xtream</string>
+    <string name="account_added_successfully">Уліковы запіс паспяхова дададзены</string>
+    <string name="your_account_is_ready_to_use">Ваш уліковы запіс гатовы да выкарыстання</string>
+    <string name="view_now">Праглядзіце зараз</string>
+    <string name="later">Пазней</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Каб пачаць прагляд, дадайце свой першы спіс прайгравання</string>
+    <string name="title_slider_1">Прамая трансляцыя спорту на тэлефон</string>
+    <string name="action_try_now">Паспрабуйце зараз</string>
+    <string name="title_slider_2">Стварыце свой спіс прайгравання фільмаў</string>
+    <string name="title_slider_3">Карыстайцеся ўсімі функцыямі без рэкламы</string>
+    <string name="tap_to_search">Націсніце для пошуку</string>
+    <string name="sports_hub">Спортыўны хаб</string>
+    <string name="wc_schedule">Разпісанне</string>
+    <string name="wc_team">Каманды</string>
+    <string name="wc_standing">Табліцы</string>
+    <string name="wc_today">Сёння</string>
+    <string name="wc_upcoming">Прадстаящыя</string>
+    <string name="wc_full_time">По свіставе</string>
+    <string name="wc_live">Жыва</string>
+    <string name="wc_no_matches">Матчаў не знойдзена</string>
+    <string name="wc_no_standings">Няма доступных табліц</string>
+    <string name="wc_remind_me">Напомніце мне</string>
+    <string name="wc_updating">Абнаўленне…</string>
+    <string name="wc_match_detail">Дэталі матча</string>
+    <string name="wc_events">Падзеі</string>
+    <string name="wc_no_events">Няма даступных падзей</string>
+    <string name="wc_no_events_desc">Матч яшчэ не пачаўся. Усталюйце напамін, каб не прапусціць ніякага дзеяння.</string>
+    <string name="wc_switch_team">Пераключыць каманду</string>
+    <string name="wc_bracket">Сетка</string>
+    <string name="wc_round_of_32">1/32 финала</string>
+    <string name="wc_starting_soon">Пачынаецца скора</string>
+    <string name="wc_round_of_16">1/16 финала</string>
+    <string name="wc_quarter_finals">Чацвёрцьфіналы</string>
+    <string name="wc_semi_finals">Полуфіналы</string>
+    <string name="wc_final">Финал</string>
+    <string name="wc_no_bracket">Няма даных сеткі</string>
+    <string name="wc_no_matches_today">Сёння матчаў няма</string>
+    <string name="wc_upcoming_fixtures">Прадстаящыя матчы з\'явяцца тут</string>
+    <string name="wc_no_recent">Няма нядаўніх матчаў</string>
+    <string name="wc_no_upcoming">Няма прадстаящых матчаў</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Ўключыць апавяшчэнні</string>
+    <string name="noti_enable_desc">Атрымлівайце напамін пра матчы, абнаўленні новага змісту і важныя абвесткі пра трансляцію.</string>
+    <string name="noti_go_to_setting">Перайсці да параметраў</string>
+    <string name="visit_sports_hub">Наведаць Sports Hub</string>
+    <string name="_3rd_place_final">Финал за 3-е месца</string>
+    <string name="_16th_finals">16-ыя фіналы</string>
+    <string name="ranking_of_third_placed_teams">Рэйтынг каманд, займшых 3-е месца</string>
+    <string name="out">"Вых: "</string>
+    <string name="_in">"У: "</string>
+    <string name="_2nd_half">2-я палова</string>
+    <string name="_1st_half">1-я палова</string>
+    <string name="asst">Пас. %1$s</string>
+    <string name="out_s">Вых: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Матч завяршыўся. Адкрыйце прыкладанне, каб убачыць поўны вынік.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Пачало за 15 хвілін. Адкрыйце прыкладанне, каб сачыць за ходам.</string>
+    <string name="live_now">Трансляцыя цяпер</string>
+    <string name="full_time">Поўны час</string>
+    <string name="_2nd_group">2-ая Група %1$s</string>
+    <string name="_1st_group">1-ая Група %1$s</string>
+    <string name="eighth_finals">Восьмыфіналы</string>
+    <string name="quarter_finals">Чацвёрцьфіналы</string>
+    <string name="semi_finals">Паўфіналы</string>
+    <string name="winner">Пераможца</string>
+    <string name="loser">Пралівальнік</string>
+    <string name="round_of_32">Раўнд 32</string>
+    <string name="round_of_16">Раўнд 16</string>
+    <string name="_3rd_place">3-е месца</string>
+    <string name="_final">Фінал</string>
+    <string name="group_stage">Груповы этап</string>
+    <string name="round">Раўнд %1$d</string>
+    <string name="group">Група </string>
+    <string name="_1st">1-ы</string>
+    <string name="_2nd">2-ы</string>
+    <string name="_3rd">3-ы</string>
+    <string name="th">%1$d-ы</string>
+    <string name="remind_set">Напамін усталяваны</string>
+    <string name="remind_removed">Напамін выдалены</string>
+    <string name="_et1">Дадатковы час 1-я палова</string>
+    <string name="_et2">Дадатковы час 2-я палова</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Прайграць</string>
+    <string name="add_similar_items">Дадаць падобныя элементы</string>
+    <string name="see_more">Паказаць больш</string>
+    <string name="see_less">Паказаць менш</string>
+    <string name="view_all">Паказаць усё</string>
+    <string name="home">Хата</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Жыва зараз</string>
+    <string name="recommended_for_you">Рекамендавана для вас</string>
+    <string name="new_series">Новыя серыялы</string>
+    <string name="live_badge">ЖЫВА</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes забяспечвае надзейны IPTV стрымінг.</string>
+    <string name="live_tv">Жывое ТБ</string>
+    <string name="movies">Фільмы</string>
+    <string name="series">Серыялы</string>
+    <string name="add_profile">Дадаць профіль</string>
+    <string name="choose_your_profile">Выберыце свой профіль</string>
+    <string name="my_favorite">Мае любімыя</string>
+    <string name="live_channel">Жывы канал</string>
+    <string name="your_favorite_list_is_empty">Ваш спіс любімых пусты</string>
+    <string name="edit_profile">Рэдагаваць профіль</string>
+    <string name="profile_name">Імя профіля</string>
+    <string name="delete_profile">Выдаліць профіль</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Вы ўпэўнены, што хочаце выдаліць гэты профіль?</string>
+    <string name="no_browser_found">Не знойдзена праграма для адкрыцця пошуку</string>
+    <string name="reminder_noon_title_1">Час перазагрузіцца 🧠</string>
+    <string name="reminder_noon_body_1">Усяго адна серыя, каб асвяжыць розум!</string>
+    <string name="reminder_noon_title_2">Ёсць пару хвілін? 🎬</string>
+    <string name="reminder_noon_body_2">Вашы каналы за адным дотыкам.</string>
+    <string name="reminder_noon_title_3">Вашы каналы чакаюць 📺</string>
+    <string name="reminder_noon_body_3">Прамая трансляцыя, фільмы і серыялы — усё ў адным месцы.</string>
+    <string name="reminder_evening_title_1">Прайм-тайм пачаўся 🔥</string>
+    <string name="reminder_evening_body_1">Вашы каналы зараз у прамым эфіры.</string>
+    <string name="reminder_evening_title_2">Што сёння ўвечары? ⚽</string>
+    <string name="reminder_evening_body_2">Прамыя спартыўныя трансляцыі, новыя серыі і больш.</string>
+    <string name="reminder_evening_title_3">Сёння ўвечары па ТБ 📺</string>
+    <string name="reminder_evening_body_3">Прамыя каналы, фільмы і серыялы — усё тут.</string>
+    <string name="reminder_no_playlist_title">Ваш тэлевізар чакае 📺</string>
+    <string name="reminder_no_playlist_body">Дадайце свой плэйліст і пачніце прагляд.</string>
+    <string name="reminder_playlist_ready_title">Усё гатова! ✅</string>
+    <string name="reminder_playlist_ready_body">Націсніце, каб глядзець любімы канал.</string>
+    <string name="noti_enable_title_ver_2">Дазволіць %1$s адпраўляць вам апавяшчэнні</string>
+    <string name="noti_enable_desc_ver_2">Атрымлівайце напаміны аб прамых трансляцыях, абнаўленні аб новых фільмах і важныя абвесткі стрымінгу</string>
+    <string name="deny">Адхіліць</string>
+    <string name="allow">Дазволіць</string>
+    <string name="tut_xtream_1">Знайдзіце «Xtream Code API Account» з дапамогай любой пошукавай сістэмы</string>
+    <string name="tut_xtream_2">Знайдзіце раздзел «Format» або «Playlist» і скапіруйце інфармацыю аб уліковым запісе Xtream</string>
+    <string name="tut_xtream_3">Вярніцеся ў праграму, націсніце кнопку &quot;+&quot;, абярыце &quot;Import Stream Link&quot;, а потым устаўце спасылку.</string>
+    <string name="tut_xtream_4">Атрымлівайце асалоду ад прагляду Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Як дадаць профіль Xtream</u>
+    </string>
+</resources>

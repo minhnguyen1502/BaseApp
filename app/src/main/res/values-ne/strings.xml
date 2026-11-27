@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">पूर्वनिर्धारित भाषा</string>
+    <string name="setting">सेटिङ</string>
+    <string name="language">भाषा</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="get_started">सुरु गर्नुहोस्</string>
+    <string name="welcome">स्वागत छ</string>
+    <string name="next">अर्को</string>
+    <string name="title_onb_1">सबै हेर्नुहोस्</string>
+    <string name="content_onb_1">लाइभ टिभी, खेलकुद, चलचित्र, र कार्टुनहरू जुनसुकै बेला, कहिँ पनि पहुँच गर्नुहोस्।</string>
+    <string name="title_onb_2">आफ्नो प्लेलिस्ट बनाउनुहोस्</string>
+    <string name="content_onb_2">आफूलाई मन पर्ने च्यानलहरू थप्नुहोस् र तिनीहरूलाई कुनै पनि समय, तुरुन्तै हेर्नुहोस्।</string>
+    <string name="habit_1">लाइभ टिभी</string>
+    <string name="habit_2">चलचित्रहरू</string>
+    <string name="habit_3">खेलकुद</string>
+    <string name="habit_4">समाचार</string>
+    <string name="habit_5">परिवार</string>
+    <string name="habit_6">मनोरञ्जन</string>
+    <string name="feedback">प्रतिक्रिया</string>
+    <string name="rate_now">अहिले मूल्याङ्कन गर्नुहोस्</string>
+    <string name="send_feedback">प्रतिक्रिया पठाउनुहोस्</string>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+    <string name="please_select_your_language">कृपया आफ्नो भाषा चयन गर्नुहोस्</string>
+    <string name="please_choose_at_least_one_option">कृपया कम्तिमा एउटा विकल्प रोज्नुहोस्</string>
+    <string name="try_again">फेरि प्रयास गर्नुहोस्</string>
+    <string name="got_it">बुझ्यो!</string>
+    <string name="_continue">जारी राख्नुहोस्</string>
+    <string name="tutorial">ट्यूटोरियल</string>
+    <string name="how_to_add_a_playlist">प्लेलिस्ट कसरी थप्ने</string>
+    <string name="tutorial_step_1">कुनै पनि खोज इन्जिन प्रयोग गरेर \"सार्वजनिक IPTV प्लेलिस्ट\" खोज्नुहोस्।</string>
+    <string name="tutorial_step_2">M3U प्लेलिस्ट लिङ्क प्रतिलिपि गर्नुहोस् वा प्लेलिस्ट फाइलहरू बचत गर्नुहोस्।</string>
+    <string name="tutorial_step_3">फेरि एप खोल्नुहोस्।\n\"+\" बटनमा ट्याप गर्नुहोस्, \"प्लेलिस्ट URL आयात गर्नुहोस्\" चयन गर्नुहोस्, र लिङ्क टाँस्नुहोस्।</string>
+    <string name="tutorial_step_4">तपाईंको IPTV च्यानलहरू हेरेर आनन्द लिनुहोस्!</string>
+    <string name="tab_import_url">URL आयात गर्नुहोस्</string>
+    <string name="tab_upload_file">फाइल अपलोड गर्नुहोस्</string>
+    <string name="tab_stream">स्ट्रिम</string>
+    <string name="tut_url_1">कुनै पनि खोज इन्जिन प्रयोग गरेर \"सार्वजनिक IPTV प्लेलिस्ट\" खोज्नुहोस्।</string>
+    <string name="tut_url_2">M3U प्लेलिस्ट लिङ्क प्रतिलिपि गर्नुहोस् वा प्लेलिस्ट फाइल बचत गर्नुहोस्।</string>
+    <string name="tut_url_3">फेरि एप खोल्नुहोस्।\n\"+\" बटनमा ट्याप गर्नुहोस्, \"प्लेलिस्ट URL आयात गर्नुहोस्\" चयन गर्नुहोस्, र लिङ्क टाँस्नुहोस्।</string>
+    <string name="tut_url_4">तपाईंको IPTV च्यानलहरू हेरेर आनन्द लिनुहोस्!</string>
+    <string name="tut_file_1">कुनै पनि खोज इन्जिन प्रयोग गरेर \"M3U फाइल\" खोज्नुहोस्।</string>
+    <string name="tut_file_2">आफ्नो यन्त्रमा .m3u फाइल बचत गर्नुहोस्।</string>
+    <string name="tut_file_3">एपमा फर्कनुहोस्, \"+\" बटन ट्याप गर्नुहोस्, \"M3U फाइल अपलोड गर्नुहोस्\" चयन गर्नुहोस्, त्यसपछि तपाईंले डाउनलोड गर्नुभएको फाइल छान्नुहोस्।</string>
+    <string name="tut_file_4">तपाईंको IPTV च्यानलहरू हेरेर आनन्द लिनुहोस्!</string>
+    <string name="tut_stream_1">कुनै पनि खोज इन्जिन प्रयोग गरेर \"सार्वजनिक IPTV स्ट्रिम URL\" खोज्नुहोस्।</string>
+    <string name="tut_stream_2">तपाईंको क्लिपबोर्डमा पूर्ण स्ट्रिम URL प्रतिलिपि गर्नुहोस्।</string>
+    <string name="tut_stream_3">एपमा फर्कनुहोस्, \"+\" बटन ट्याप गर्नुहोस्, \"स्ट्रीम लिङ्क आयात गर्नुहोस्\" चयन गर्नुहोस्, त्यसपछि लिङ्क टाँस्नुहोस्।</string>
+    <string name="tut_stream_4">तपाईंको IPTV च्यानलहरू हेरेर आनन्द लिनुहोस्!</string>
+    <string name="unlock_premium">अनलक गर्नुहोस्</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">यदि तपाईंले हामीलाई विस्तृत प्रतिक्रिया दिन सक्नुहुन्छ भने हामी आभारी हुनेछौं (कम्तीमा 6 वर्णहरू)</string>
+    <string name="at_least_6_characters">कम्तिमा ६ वर्ण</string>
+    <string name="loading">लोड हुँदै...</string>
+    <string name="install_now">अहिले स्थापना गर्नुहोस्</string>
+    <string name="channels">%1$d च्यानलहरू</string>
+    <string name="this_action_may_contain_ads">यो कार्यले विज्ञापनहरू समावेश गर्न सक्छ</string>
+    <string name="what_do_you_mainly_use_iptv_for">तपाइँ मुख्यतया IPTV के को लागी प्रयोग गर्नुहुन्छ?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">अनलाइन उपलब्ध IPTV प्लेलिस्ट (M3U) फेला पार्नुहोस्।</string>
+    <string name="title_1">M3U स्रोत पत्ता लगाउनुहोस्</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">प्लेलिस्ट लिङ्क प्रतिलिपि गर्नुहोस् वा आफ्नो उपकरणमा M3U फाइल डाउनलोड गर्नुहोस्।</string>
+    <string name="title_2">प्लेलिस्ट जानकारी बचत गर्नुहोस्</string>
+    <string name="title_3">एपमा अपलोड गर्नुहोस्</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">एप खोल्नुहोस् → प्लेलिस्ट थप्नुहोस् चयन गर्नुहोस् → URL बाट छनौट गर्नुहोस् → लिङ्क टाँस्नुहोस्।</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">प्लेलिस्ट पहुँच गर्नुहोस् र आफ्नो मनपर्ने च्यानलहरू हेर्न सुरु गर्नुहोस्।</string>
+    <string name="title_4">तपाईंको सामग्रीको आनन्द लिनुहोस्</string>
+    <string name="search">खोज…</string>
+    <string name="all">सबै</string>
+    <string name="recent">हालको</string>
+    <string name="favorites">मनपर्नेहरू</string>
+    <string name="url">URL</string>
+    <string name="file">फाइल</string>
+    <string name="no_channels_found">कुनै च्यानल भेटिएन</string>
+    <string name="no_recents">कुनै हालको छैन</string>
+    <string name="play_something_to_begin">सुरु गर्न मिडिया प्ले गर्नुहोस्</string>
+    <string name="import_new_channels_by_tapping_the_button_below">तलको बटन ट्याप गरेर नयाँ च्यानलहरू आयात गर्नुहोस्।</string>
+    <string name="a_z_sort">A-Z क्रमबद्ध</string>
+    <string name="z_a_sort">Z-A क्रमबद्ध</string>
+    <string name="_0_9_sort">०-९ क्रमबद्ध</string>
+    <string name="_9_0_sort">9-0 क्रमबद्ध</string>
+    <string name="refresh">रिफ्रेस गर्नुहोस्</string>
+    <string name="accept">स्वीकार गर्नुहोस्</string>
+    <string name="license_agreement">लाइसेन्स सम्झौता</string>
+    <string name="i_agree">म इजाजतपत्र सम्झौतामा सहमत छु</string>
+    <string name="content_license_agreement">IPTV ले प्रयोगकर्ताहरूद्वारा सिर्जना गरिएको M3U र JSON प्लेलिस्टहरूलाई समर्थन गर्दछ। हामी कुनै पनि सामग्री प्रदान वा होस्ट गर्दैनौं।\n\nयो एप कानुनी रूपमा प्राप्त सामग्रीको लागि मात्र हो। तपाईंका प्लेलिस्टहरू र सामग्रीहरू लागू हुने कानुन र अनुमतिहरू अनुरूप छन् भनी सुनिश्चित गर्न तपाईं जिम्मेवार हुनुहुन्छ।\n\nजारी राखेर, तपाईंले यी सर्तहरू बुझ्नुभएको र स्वीकार गर्नुहुन्छ भनी पुष्टि गर्नुहुन्छ।\n\nअस्वीकरण\n\nIPTV ले कुनै पनि सामग्री प्रदान वा प्रवर्द्धन गर्दैन र तेस्रो-पक्ष प्रदायकहरूसँग आबद्ध छैन।\n\nप्रयोगकर्ताहरूले आफ्नै सामग्री आपूर्ति गर्नुपर्छ। प्रतिलिपि अधिकार सामग्रीको अनाधिकृत स्ट्रिमिङलाई दृढतापूर्वक निरुत्साहित गरिएको छ।</string>
+    <string name="content_1">तपाईंले "IPTV M3U प्लेलिस्ट" जस्ता किवर्डहरू प्रयोग गरेर अनलाइन खोज्न सक्नुहुन्छ वा तपाईंको TV/स्ट्रिमिङ सेवाद्वारा प्रदान गरिएको निर्देशन जाँच गर्न सक्नुहुन्छ।\nसामान्यतया उपयुक्त M3U लिङ्क:\n• http:// वा https:// बाट सुरु हुन्छ\n• .m3u वा .m3u8 सँग समाप्त हुन्छ\nसम्भव हुँदा विश्वसनीय र कानुनी स्रोतहरू प्रयोग गर्ने प्रयास गर्नुहोस्। ध्यान दिनुहोस् कि केहि प्लेलिस्टहरूको म्याद समाप्त हुन सक्छ, लगइन प्रमाणहरू आवश्यक पर्दछ, वा क्षेत्रद्वारा सीमित हुन सक्छ।</string>
+    <string name="content_2">M3U URL प्रतिलिपि गर्न:\n• मोबाइलमा: लिङ्क ट्याप गर्नुहोस् र होल्ड गर्नुहोस् → प्रतिलिपि लिंक चयन गर्नुहोस्\n• डेस्कटपमा: लिङ्कमा दायाँ क्लिक गर्नुहोस् → लिंक ठेगाना प्रतिलिपि गर्नुहोस् चयन गर्नुहोस्\nप्लेलिस्ट फाइल डाउनलोड गर्न:\n• .m3u वा .m3u8 फाइललाई तपाईंको यन्त्रमा पहुँच गर्न सजिलो स्थानमा बचत गर्नुहोस्\nतपाईंले पछि स्थानीय फाइलबाट Ste3 फाइल आयात गर्न सक्नुहुन्छ।</string>
+    <string name="content_3">IPTV स्मार्ट प्लेयर लन्च गर्नुहोस्।\nप्लेलिस्ट थप्नुहोस् चयन गर्नुहोस्।\nआयात गर्न एउटा विधि छान्नुहोस्:\n• URL मार्फत → आफ्नो M3U लिङ्क टाँस्नुहोस्\n• फाइलबाट → ब्राउज गर्नुहोस् र आफ्नो यन्त्रमा सुरक्षित गरिएको .m3u / .m3u8 फाइल छनोट गर्नुहोस्\n(वैकल्पिक) तपाईंको प्लेलिस्ट सजिलैसँग पहिचान गर्नको लागि आफू अनुकूल नाम प्रविष्ट गर्नुहोस्\nT पछि पूरा गर्नुहोस्।</string>
+    <string name="content_4">च्यानलहरू र कोटीहरू लोड गर्न एपलाई एक क्षण दिनुहोस्।\nच्यानल सूची अन्वेषण गर्नुहोस् वा आफूले चाहेको कुरा द्रुत रूपमा फेला पार्न खोजी सुविधा प्रयोग गर्नुहोस्।\nयदि कुनै सामग्री देखा पर्दैन भने:\n• आफ्नो इन्टरनेट जडान जाँच गर्नुहोस्\n• M3U लिङ्क वा फाइल अझै मान्य र काम गरिरहेको सुनिश्चित गर्नुहोस्।</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">एप प्रयोग गर्न जारी राख्न इन्टरनेट जडान आवश्यक छ।\nकृपया आफ्नो नेटवर्क सेटिङ जाँच गर्नुहोस् र पुन: जडान गर्नुहोस्।</string>
+    <string name="retry">पुन: प्रयास गर्नुहोस्</string>
+    <string name="thank_you_for_using_iptv">IPTV प्रयोग गर्नुभएकोमा धन्यवाद</string>
+    <string name="playlist_name">प्लेलिस्ट नाम</string>
+    <string name="playlist">प्लेलिस्ट</string>
+    <string name="save">बचत गर्नुहोस्</string>
+    <string name="password">पासवर्ड</string>
+    <string name="username">प्रयोगकर्ता नाम</string>
+    <string name="no_file_selected">कुनै फाइल चयन गरिएको छैन</string>
+    <string name="m3u_file">M3U फाइल</string>
+    <string name="playlist_url">प्लेलिस्ट URL</string>
+    <string name="choose_icon">प्रतिमा छान्नुहोस्</string>
+    <string name="choose_color">रङ छान्नुहोस्</string>
+    <string name="paste_your_url_here">यहाँ आफ्नो URL टाँस्नुहोस्</string>
+    <string name="edit">सम्पादन गर्नुहोस्</string>
+    <string name="delete">मेट्नुहोस्</string>
+    <string name="rate_this_app">यो एप मूल्याङ्कन गर्नुहोस्</string>
+    <string name="tell_us_about_your_experiences">हामीलाई आफ्नो अनुभव बारे बताउनुहोस्</string>
+    <string name="enter_your_stream_link_here">यहाँ आफ्नो स्ट्रिम लिङ्क प्रविष्ट गर्नुहोस्</string>
+    <string name="stream_link">स्ट्रिम लिङ्क</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">समर्थन नेटवर्क प्रोटोकलहरू: http, ftp, rtsp, rtp, udp...</string>
+    <string name="channel">च्यानलहरू</string>
+    <string name="import_playlist_url">प्लेलिस्ट URL आयात गर्नुहोस्</string>
+    <string name="load_from_device">यन्त्रबाट लोड गर्नुहोस्</string>
+    <string name="play_single_stream">एकल स्ट्रिम प्ले गर्नुहोस्</string>
+    <string name="upload_m3u_file">M3U फाइल अपलोड गर्नुहोस्</string>
+    <string name="all_channels">सबै च्यानलहरू</string>
+    <string name="playback_error">प्लेब्याक त्रुटि</string>
+    <string name="no_internet_connection">इन्टरनेट जडान छैन</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">यो च्यानल अस्थायी रूपमा सेवा बाहिर छ वा तपाईंको क्षेत्रमा उपलब्ध छैन। कृपया पछि पुन: प्रयास गर्नुहोस्।</string>
+    <string name="lock">ताला</string>
+    <string name="full_screen">पूर्ण स्क्रिन</string>
+    <string name="pip">पिप</string>
+    <string name="screen_lock_press_to_unlock">स्क्रिन लक। अनलक गर्न थिच्नुहोस्</string>
+    <string name="delete_playlist">प्लेलिस्ट मेट्ने हो?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">के तपाइँ यो प्लेलिस्ट मेटाउन निश्चित हुनुहुन्छ? यो कार्य अन्डू गर्न सकिँदैन।</string>
+    <string name="yes_delete">हो, मेटाउनुहोस्</string>
+    <string name="error_1">तपाईंले आवश्यक क्षेत्रहरू भर्न आवश्यक छ</string>
+    <string name="error_2">केही क्षेत्रहरू अमान्य छन्</string>
+    <string name="success_1">सफलतापूर्वक आयात गर्नुहोस्</string>
+    <string name="success_2">सफलतापूर्वक बचत गर्नुहोस्</string>
+    <string name="content_rate_1">यदि तपाईंले हामीसँग आफ्नो समय मन पराउनुभयो भने, कृपया 5-तारे मूल्याङ्कन छोड्नुहोस्!</string>
+    <string name="content_rate_2">यदि तपाईंले हामीसँग आफ्नो समय मन पराउनुभयो भने, कृपया 5-तारे मूल्याङ्कन छोड्नुहोस्!</string>
+    <string name="content_rate_3">यदि तपाईंले हामीसँग आफ्नो समय मन पराउनुभयो भने, कृपया 5-तारे मूल्याङ्कन छोड्नुहोस्!</string>
+    <string name="content_rate_4">लगभग सिद्ध? हामी त्यो अतिरिक्त ताराको लागि प्रयास गर्नेछौं!</string>
+    <string name="content_rate_5">तपाईंले हाम्रो दिन पूर्ण रूपमा बनाउनुभयो! 🌟 राम्रो भाइब्स रोलिङ राखौं।</string>
+    <string name="no_results_found_for">को लागि कुनै परिणाम फेला परेन</string>
+    <string name="the_device_does_not_support_pip">यन्त्रले PiP लाई समर्थन गर्दैन।</string>
+    <string name="video_file_not_found">भिडियो फाइल फेला परेन</string>
+    <string name="minimize">विन्डोलाई न्यूनतम गर्नुहोस्</string>
+    <string name="refresh_in_progress_please_wait">रिफ्रेस प्रक्रियामा छ, कृपया पर्खनुहोस्...</string>
+    <string name="no_email_app_found">कुनै इमेल एप फेला परेन!</string>
+    <string name="error_5">केही क्षेत्रहरू अमान्य छन्</string>
+    <string name="no_favorite_channel_yet">अझै मनपर्ने च्यानल छैन</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">आफूलाई मन पर्ने च्यानल फेला पार्नुहोस् र यसलाई राख्नको लागि हृदयमा ट्याप गर्नुहोस्।</string>
+    <string name="refreshed_successfully">सफलतापूर्वक रिफ्रेस गरियो</string>
+    <string name="import_xtream_codes_api">Xtream Codes API आयात गर्नुहोस्</string>
+    <string name="suggestion">सुझाव</string>
+    <string name="suggestion_1">परिवार</string>
+    <string name="suggestion_2">खेलकुद</string>
+    <string name="suggestion_3">चलचित्रहरू</string>
+    <string name="_100_no_ads">100% कुनै विज्ञापन छैन</string>
+    <string name="hd_4d_quality">HD र 4D गुणस्तर</string>
+    <string name="premium_channels">प्रिमियम च्यानलहरू</string>
+    <string name="most_popular">सबैभन्दा लोकप्रिय</string>
+    <string name="weekly">साप्ताहिक</string>
+    <string name="monthly">मासिक</string>
+    <string name="yearly">वार्षिक</string>
+    <string name="_3_day_free_trial">3-दिन नि: शुल्क परीक्षण</string>
+    <string name="something_went_wrong">केही गडबड भयो</string>
+    <string name="content_error">कृपया यो चरण पछ्याउनुहोस् र फेरि प्रयास गर्नुहोस्:\n१. आफ्नो नेटवर्क जडान जाँच गर्नुहोस्\n२. तपाईं आफ्नो Google खातामा लग इन हुनुहुन्छ भनी सुनिश्चित गर्नुहोस्\n३. सुनिश्चित गर्नुहोस् कि तपाइँ गुगल प्ले अनुप्रयोग चलाउन सक्नुहुन्छ</string>
+    <string name="cancel_anytime">जुनसुकै बेला रद्द गर्नुहोस्</string>
+    <string name="term_of_use">
+        <u>प्रयोगको सर्त</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>गोपनीयता नीति</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">तपाईंको प्रिमियम संस्करण अब सक्रिय छ। एप प्रयोग गरेर आनन्द लिनुहोस्!</string>
+    <string name="payment_success">भुक्तानी सफलता</string>
+    <string name="payment_failed">भुक्तानी असफल भयो</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">एउटा सानो समस्याले भुक्तानी रोकियो। कृपया पुन: प्रयास गर्नुहोस्</string>
+    <string name="go_premium">Premium जानुहोस्</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">सबै सुविधाहरू अनलक गर्नुहोस् र कुनै विज्ञापन बिना एपको आनन्द लिनुहोस्!</string>
+    <string name="premium_member">प्रिमियम सदस्य</string>
+    <string name="active_until">%s सम्म सक्रिय</string>
+    <string name="sever_url">URL तोड्नुहोस्</string>
+    <string name="find_an_xtream_account">Xtream खाता खोज्नुहोस्</string>
+    <string name="search_for_xtream_code_api_account_online">"Xtream Code API खाता" अनलाइन खोज्नुहोस्।</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">आफ्नो सामग्री बचत गर्न र मजा लिन प्रोफाइल थप्नुहोस् ट्याप गर्नुहोस्।</string>
+    <string name="start_streaming">स्ट्रिमिङ सुरु गर्नुहोस्</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">एप खोल्नुहोस् र Xtream प्रोफाइल फिल्डहरू भर्नुहोस्।</string>
+    <string name="enter_the_information">जानकारी प्रविष्ट गर्नुहोस्</string>
+    <string name="copy_the_server_url_username_and_password">सर्भर URL, प्रयोगकर्ता नाम, र पासवर्ड प्रतिलिपि गर्नुहोस्।</string>
+    <string name="copy_the_account_details">खाता विवरणहरू प्रतिलिपि गर्नुहोस्</string>
+    <string name="how_to_add_an_xtream_profile">Xtream प्रोफाइल कसरी थप्ने</string>
+    <string name="account_added_successfully">खाता सफलतापूर्वक थपियो</string>
+    <string name="your_account_is_ready_to_use">तपाईंको खाता प्रयोग गर्न तयार छ</string>
+    <string name="view_now">अहिले हेर्नुहोस्</string>
+    <string name="later">पछि</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">हेर्न सुरु गर्न आफ्नो पहिलो प्लेलिस्ट थप्नुहोस्</string>
+    <string name="title_slider_1">फोनमा खेलकुद लाइभ स्ट्रिम गर्नुहोस्</string>
+    <string name="action_try_now">अहिले प्रयास गर्नुहोस्</string>
+    <string name="title_slider_2">तपाईंको चलचित्र प्लेलिस्ट बनाउनुहोस्</string>
+    <string name="title_slider_3">विज्ञापन बिना सबै सुविधाहरूको आनन्द लिनुहोस्</string>
+    <string name="tap_to_search">खोज्न ट्याप गर्नुहोस्</string>
+    <string name="sports_hub">खेल केन्द्र</string>
+    <string name="wc_schedule">समय तालिका</string>
+    <string name="wc_team">टोलीहरू</string>
+    <string name="wc_standing">स्ट्यान्डिङ</string>
+    <string name="wc_today">आज</string>
+    <string name="wc_upcoming">आगामी</string>
+    <string name="wc_full_time">पूर्ण समय</string>
+    <string name="wc_live">लाइभ</string>
+    <string name="wc_no_matches">कोई खेल नहीं मिले</string>
+    <string name="wc_no_standings">कोई स्ट्यान्डिङ उपलब्ध नहीं</string>
+    <string name="wc_remind_me">मलाई याद गराउनुहोस्</string>
+    <string name="wc_updating">अद्यावधिक गरिंदै…</string>
+    <string name="wc_match_detail">खेल विवरण</string>
+    <string name="wc_events">घटनाहरू</string>
+    <string name="wc_no_events">कोई घटना उपलब्ध नहीं</string>
+    <string name="wc_no_events_desc">खेल अझै सुरु हुन सकेको छैन। कुनै पनि कार्य गुमाउन नदिन रिमाइन्डर सेट गर्नुहोस्।</string>
+    <string name="wc_switch_team">टोली स्विच गर्नुहोस्</string>
+    <string name="wc_bracket">ब्र्याकेट</string>
+    <string name="wc_round_of_32">३२ को राउन्ड</string>
+    <string name="wc_starting_soon">शीघ्र ही शुरु हुने</string>
+    <string name="wc_round_of_16">१६ को राउन्ड</string>
+    <string name="wc_quarter_finals">क्वार्टर-फाइनल</string>
+    <string name="wc_semi_finals">अर्ध-फाइनल</string>
+    <string name="wc_final">फाइनल</string>
+    <string name="wc_no_bracket">कोई ब्र्याकेट डेटा उपलब्ध नहीं</string>
+    <string name="wc_no_matches_today">आज कोई खेल नहीं</string>
+    <string name="wc_upcoming_fixtures">आगामी निर्धारणहरू यहाँ देखा पर्नेछन्</string>
+    <string name="wc_no_recent">कोई हालको खेल नहीं</string>
+    <string name="wc_no_upcoming">आगामी खेल नहीं</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">सूचनाहरू सक्षम गर्नुहोस्</string>
+    <string name="noti_enable_desc">खेल रिमाइन्डरहरू, नयाँ सामग्री अद्यावधिनहरू, र महत्त्वपूर्ण स्ट्रिमिङ सतर्कताहरू पाउनुहोस्।</string>
+    <string name="noti_go_to_setting">सेटिङमा जानुहोस्</string>
+    <string name="visit_sports_hub">खेल केन्द्र भ्रमण गर्नुहोस्</string>
+    <string name="_3rd_place_final">३ औं स्थान फाइनल</string>
+    <string name="_16th_finals">१६ औं फाइनल</string>
+    <string name="ranking_of_third_placed_teams">तेस्रो स्थानको टोलीहरूको श्रेणी</string>
+    <string name="out">"बाहिर: "</string>
+    <string name="_in">"भित्र: "</string>
+    <string name="_2nd_half">दोस्रो आधा</string>
+    <string name="_1st_half">पहिलो हाफ</string>
+    <string name="asst">सहायक %1$s</string>
+    <string name="out_s">बाहिर: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">खेल समाप्त भएको छ। पूर्ण परिणामको लागि एप खोल्नुहोस्।</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">१५ मिनेटमा किकअफ। अनुसरण गर्नको लागि एप खोल्नुहोस्।</string>
+    <string name="live_now">अहिले लाइभ</string>
+    <string name="full_time">पूर्ण समय</string>
+    <string name="_2nd_group">दोस्रो समूह %1$s</string>
+    <string name="_1st_group">पहिलो समूह %1$s</string>
+    <string name="eighth_finals">आठौं फाइनल</string>
+    <string name="quarter_finals">क्वार्टरफाइनल</string>
+    <string name="semi_finals">अर्धफाइनल</string>
+    <string name="winner">विजेता</string>
+    <string name="loser">हराउने</string>
+    <string name="round_of_32">३२ को राउन्ड</string>
+    <string name="round_of_16">१६ को राउन्ड</string>
+    <string name="_3rd_place">तेस्रो स्थान</string>
+    <string name="_final">फाइनल</string>
+    <string name="group_stage">समूह चरण</string>
+    <string name="round">राउन्ड %1$d</string>
+    <string name="group">समूह </string>
+    <string name="_1st">पहिलो</string>
+    <string name="_2nd">दोस्रो</string>
+    <string name="_3rd">तेस्रो</string>
+    <string name="th">%1$dऔं</string>
+    <string name="remind_set">रिमाइन्डर सेट गरिएको छ</string>
+    <string name="remind_removed">रिमाइन्डर हटाइएको छ</string>
+    <string name="_et1">अतिरिक्त समय १ौ हाफ</string>
+    <string name="_et2">अतिरिक्त समय २औ हाफ</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">चलाउनुहोस्</string>
+    <string name="add_similar_items">समान आइटमहरू थप्नुहोस्</string>
+    <string name="see_more">थप देखाउनुहोस्</string>
+    <string name="see_less">कम देखाउनुहोस्</string>
+    <string name="view_all">सबै हेर्नुहोस्</string>
+    <string name="home">गृह</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">अहिले लाइभ</string>
+    <string name="recommended_for_you">तपाईको लागि सुझाइएको</string>
+    <string name="new_series">नयाँ सिरिज</string>
+    <string name="live_badge">LIVE</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes ले विश्वसनीय IPTV स्ट्रिमिङ अनुभव प्रदान गर्दछ।</string>
+    <string name="live_tv">लाइभ टिभी</string>
+    <string name="movies">चलचित्रहरू</string>
+    <string name="series">सिरिज</string>
+    <string name="add_profile">प्रोफाइल थप्नुहोस्</string>
+    <string name="choose_your_profile">आफ्नो प्रोफाइल छनोट गर्नुहोस्</string>
+    <string name="my_favorite">मेरो मनपर्ने</string>
+    <string name="live_channel">लाइभ च्यानल</string>
+    <string name="your_favorite_list_is_empty">तपाईको मनपर्ने सूची खाली छ</string>
+    <string name="edit_profile">प्रोफाइल सम्पादन गर्नुहोस्</string>
+    <string name="profile_name">प्रोफाइल नाम</string>
+    <string name="delete_profile">प्रोफाइल मेटाउनुहोस्</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">के तपाई यो प्रोफाइल मेटाउन निश्चित हुनुहुन्छ?</string>
+    <string name="no_browser_found">खोज खोल्नको लागि कुनै एप फेला परेन</string>
+    <string name="reminder_noon_title_1">रिसेट गर्ने समय 🧠</string>
+    <string name="reminder_noon_body_1">तपाईंको दिमाग ताजा गर्न एउटा मात्र एपिसोड!</string>
+    <string name="reminder_noon_title_2">केही मिनेट छ? 🎬</string>
+    <string name="reminder_noon_body_2">तपाईंका च्यानलहरू एक ट्याप टाढा छन्।</string>
+    <string name="reminder_noon_title_3">तपाईंका च्यानलहरू पर्खिरहेका छन् 📺</string>
+    <string name="reminder_noon_body_3">लाइभ टिभी, चलचित्र र सिरिज — सबै एउटै ठाउँमा।</string>
+    <string name="reminder_evening_title_1">प्राइम टाइम सुरु भएको छ 🔥</string>
+    <string name="reminder_evening_body_1">तपाईंका च्यानलहरू अहिले लाइभ छन्।</string>
+    <string name="reminder_evening_title_2">आज राति के छ? ⚽</string>
+    <string name="reminder_evening_body_2">लाइभ खेलकुद, नयाँ एपिसोडहरू र थप।</string>
+    <string name="reminder_evening_title_3">आज राति टिभीमा 📺</string>
+    <string name="reminder_evening_body_3">लाइभ च्यानलहरू, चलचित्र र सिरिज — सबै यहाँ।</string>
+    <string name="reminder_no_playlist_title">तपाईंको टिभी पर्खिरहेको छ 📺</string>
+    <string name="reminder_no_playlist_body">तपाईंको प्लेलिस्ट थप्नुहोस् र हेर्न सुरु गर्नुहोस्।</string>
+    <string name="reminder_playlist_ready_title">सबै तयार छ! ✅</string>
+    <string name="reminder_playlist_ready_body">तपाईंको मनपर्ने च्यानल हेर्न ट्याप गर्नुहोस्।</string>
+    <string name="noti_enable_title_ver_2">%1$s लाई तपाईंलाई सूचनाहरू पठाउन अनुमति दिनुहोस्</string>
+    <string name="noti_enable_desc_ver_2">लाइभ टिभी रिमाइन्डरहरू, नयाँ चलचित्र अपडेटहरू, र महत्त्वपूर्ण स्ट्रिमिङ अलर्टहरू प्राप्त गर्नुहोस्</string>
+    <string name="deny">अस्वीकार गर्नुहोस्</string>
+    <string name="allow">अनुमति दिनुहोस्</string>
+    <string name="tut_xtream_1">कुनै पनि सर्च इन्जिन प्रयोग गरेर “Xtream Code API Account” खोज्नुहोस्</string>
+    <string name="tut_xtream_2">“Format” वा “Playlist” खण्ड फेला पार्नुहोस् र Xtream खाता जानकारी प्रतिलिपि गर्नुहोस्</string>
+    <string name="tut_xtream_3">एपमा फर्किनुहोस्, &quot;+&quot; बटन ट्याप गर्नुहोस्, &quot;Import Stream Link&quot; चयन गर्नुहोस्, त्यसपछि लिङ्क टाँस्नुहोस्।</string>
+    <string name="tut_xtream_4">Xtream हेर्ने आनन्द लिनुहोस्</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Xtream प्रोफाइल कसरी थप्ने</u>
+    </string>
+</resources>

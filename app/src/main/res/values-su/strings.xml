@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Basa standar</string>
+    <string name="setting">Setélan</string>
+    <string name="language">Basa</string>
+    <string name="privacy_policy">Kabijakan privasi</string>
+    <string name="get_started">Mimitian</string>
+    <string name="welcome">Wilujeng sumping di</string>
+    <string name="next">Teras</string>
+    <string name="title_onb_1">Lalajo Sadayana</string>
+    <string name="content_onb_1">Akses TV langsung, olahraga, pilem, sareng kartun iraha waé, dimana waé.</string>
+    <string name="title_onb_2">Bangun Daptar Puter Anjeun</string>
+    <string name="content_onb_2">Tambihkeun saluran anu anjeun pikahoyong sareng nonton aranjeunna iraha waé, langsung.</string>
+    <string name="habit_1">Live TV</string>
+    <string name="habit_2">Pilem</string>
+    <string name="habit_3">Olahraga</string>
+    <string name="habit_4">Warta</string>
+    <string name="habit_5">Kulawarga</string>
+    <string name="habit_6">Hiburan</string>
+    <string name="feedback">Eupan balik</string>
+    <string name="rate_now">Meunteun Ayeuna</string>
+    <string name="send_feedback">Kirim Eupan Balik</string>
+    <string name="cancel">Ngabolaykeun</string>
+    <string name="please_select_your_language">Mangga pilih basa anjeun</string>
+    <string name="please_choose_at_least_one_option">Mangga pilih sahanteuna hiji pilihan</string>
+    <string name="try_again">Cobian deui</string>
+    <string name="got_it">Beunang!</string>
+    <string name="_continue">Teraskeun</string>
+    <string name="tutorial">Tutoryal</string>
+    <string name="how_to_add_a_playlist">Kumaha carana nambahkeun Daptar puter</string>
+    <string name="tutorial_step_1">Milarian \"public IPTV playlist\" nganggo mesin pencari naon waé.</string>
+    <string name="tutorial_step_2">Salin tautan daptar puter M3U atanapi simpen file daptar puter.</string>
+    <string name="tutorial_step_3">Buka aplikasi deui.\nKetok tombol \"+\", pilih \"Impor Playlist URL\", teras tempelkeun tautanna.</string>
+    <string name="tutorial_step_4">Ngarasakeun nonton saluran IPTV anjeun!</string>
+    <string name="tab_import_url">URL impor</string>
+    <string name="tab_upload_file">Unggah file</string>
+    <string name="tab_stream">Aliran</string>
+    <string name="tut_url_1">Milarian \"public IPTV playlist\" nganggo mesin pencari naon waé.</string>
+    <string name="tut_url_2">Salin tautan daptar puter M3U atanapi simpen file daptar puter.</string>
+    <string name="tut_url_3">Buka aplikasi deui.\nKetok tombol \"+\", pilih \"Impor Playlist URL\", teras tempelkeun tautanna.</string>
+    <string name="tut_url_4">Ngarasakeun nonton saluran IPTV anjeun!</string>
+    <string name="tut_file_1">Milarian \"M3U file\" nganggo mesin pencari naon waé.</string>
+    <string name="tut_file_2">Simpen file .m3u ka alat anjeun.</string>
+    <string name="tut_file_3">Balik deui ka aplikasi, ketok tombol \"+\", pilih \"Unggah File M3U\", teras pilih file anu anjeun unduh.</string>
+    <string name="tut_file_4">Ngarasakeun nonton saluran IPTV anjeun!</string>
+    <string name="tut_stream_1">Milarian \"URL aliran IPTV publik\" nganggo mesin pencari naon waé.</string>
+    <string name="tut_stream_2">Salin URL aliran lengkep ka clipboard anjeun.</string>
+    <string name="tut_stream_3">Balik deui ka aplikasi, ketok tombol \"+\", pilih \"Impor Stream Link\", teras tempelkeun tautan.</string>
+    <string name="tut_stream_4">Ngarasakeun nonton saluran IPTV anjeun!</string>
+    <string name="unlock_premium">Muka konci</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Kami bageur pisan upami anjeun tiasa masihan kami tanggapan anu lengkep (sahenteuna 6 karakter)</string>
+    <string name="at_least_6_characters">Sahenteuna 6 karakter</string>
+    <string name="loading">Ngamuat…</string>
+    <string name="install_now">Pasang ayeuna</string>
+    <string name="channels">%1$d saluran</string>
+    <string name="this_action_may_contain_ads">Peta ieu tiasa ngandung iklan</string>
+    <string name="what_do_you_mainly_use_iptv_for">Naon anu anjeun biasana nganggo IPTV?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Milarian daptar puter IPTV (M3U) anu sayogi online.</string>
+    <string name="title_1">Teangan hiji Sumber M3U</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Salin tautan daptar puter atanapi unduh file M3U ka alat anjeun.</string>
+    <string name="title_2">Simpen Inpormasi Daptar Puter</string>
+    <string name="title_3">Unggah ka App</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Buka aplikasi → pilih Tambihkeun Daptar Puter → pilih Tina URL → tempelkeun tautan.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Aksés daptar puter sareng mimitian nonton saluran karesep anjeun.</string>
+    <string name="title_4">Ngarasakeun eusi Anjeun</string>
+    <string name="search">Pilarian…</string>
+    <string name="all">Sadayana</string>
+    <string name="recent">panganyarna</string>
+    <string name="favorites">Paporit</string>
+    <string name="url">URL</string>
+    <string name="file">Berkas</string>
+    <string name="no_channels_found">Taya saluran kapanggih</string>
+    <string name="no_recents">Taya panganyarna</string>
+    <string name="play_something_to_begin">Puter média pikeun ngamimitian</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Impor saluran anyar ku cara ngetok tombol di handap.</string>
+    <string name="a_z_sort">A-Z Urut</string>
+    <string name="z_a_sort">Z-A diurutkeun</string>
+    <string name="_0_9_sort">0–9 Susun</string>
+    <string name="_9_0_sort">9–0 Urut</string>
+    <string name="refresh">Nyegerkeun</string>
+    <string name="accept">Narima</string>
+    <string name="license_agreement">Pasatujuan Lisensi</string>
+    <string name="i_agree">Kuring satuju kana Pasatujuan Lisensi</string>
+    <string name="content_license_agreement">IPTV ngadukung daptar puter M3U sareng JSON anu diciptakeun ku pangguna. Kami henteu nyayogikeun atanapi nyayogikeun eusi naon waé.\n\nAplikasi ieu ngan ukur kanggo eusi anu diala sacara sah. Anjeun tanggel waler pikeun mastikeun daptar puter sareng eusi anjeun saluyu sareng hukum sareng idin anu berlaku.\n\nKu neraskeun, anjeun mastikeun yén anjeun ngartos sareng nampi syarat-syarat ieu.\n\nBantahan\n\nIPTV henteu nyayogikeun atanapi ngamajukeun eusi naon waé sareng henteu aya hubunganana sareng panyadia pihak katilu.\n\nPamaké kedah nyayogikeun eusina sorangan. Streaming bahan anu gaduh hak cipta anu teu diidinan pisan henteu disarankeun.</string>
+    <string name="content_1">Anjeun tiasa milarian online nganggo kecap konci sapertos "Playlist IPTV M3U" atanapi pariksa pituduh anu disayogikeun ku layanan TV/streaming anjeun.\nTumbu M3U anu leres biasana:\n• Dimimitian ku http:// atanapi https://\n• Ditungtungan ku .m3u atanapi .m3u8\nCoba nganggo sumber anu dipercaya sareng sah sabisana. Catet yén sababaraha putereun bisa kadaluwarsa, merlukeun kredensial login, atawa diwatesan ku wewengkon.</string>
+    <string name="content_2">Pikeun nyalin URL M3U:\n• Dina sélulér: Ketok jeung tahan link → pilih Salin link\n• Dina desktop: Klik-katuhu link → pilih Salin alamat link\nPikeun ngundeur file playlist:\n• Simpen .m3u atawa .m3u8 file ka lokasi nu gampang-aksés dina alat Anjeun\nAnjeun engké bisa ngimpor payil langsung ti panyimpenan lokal Anjeun3 (rujuk kana Lengkah 3).</string>
+    <string name="content_3">Jalankeun IPTV Smart Player.\nPilih Tambah Daptar Puter.\nPilih hiji cara pikeun ngimpor:\n• Ngaliwatan URL → Tempelkeun tautan M3U anjeun\n• Tina File → Kotektak teras pilih file .m3u / .m3u8 anu disimpen dina alat anjeun\n(Opsional) Lebetkeun nami khusus pikeun gampang ngidentipikasi daptar puter anjeun engké\nKetok Simpen kanggo réngsé.</string>
+    <string name="content_4">Pasihan waktos ka aplikasi pikeun ngamuat saluran sareng kategori.\nJelajah daptar saluran atanapi nganggo fitur Pilarian pikeun gancang milarian naon anu anjeun pikahoyong.\nUpami teu aya eusi anu muncul:\n• Pariksa sambungan internét anjeun\n• Pastikeun tautan atanapi file M3U masih valid sareng jalan.</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Sambungan internét diperlukeun pikeun neruskeun migunakeun aplikasi.\nMangga parios setélan jaringan anjeun sarta sambungkeun deui.</string>
+    <string name="retry">Coba deui</string>
+    <string name="thank_you_for_using_iptv">Hatur nuhun pikeun ngagunakeun IPTV</string>
+    <string name="playlist_name">Ngaran Daptar puter</string>
+    <string name="playlist">Daptar puter</string>
+    <string name="save">Simpen</string>
+    <string name="password">Sandi</string>
+    <string name="username">Ngaran pamaké</string>
+    <string name="no_file_selected">Taya file dipilih</string>
+    <string name="m3u_file">File M3U</string>
+    <string name="playlist_url">URL daptar puter</string>
+    <string name="choose_icon">Pilih Ikon</string>
+    <string name="choose_color">Pilih Warna</string>
+    <string name="paste_your_url_here">Tempelkeun URL anjeun di dieu</string>
+    <string name="edit">Édit</string>
+    <string name="delete">Hapus</string>
+    <string name="rate_this_app">Peunteun aplikasi ieu</string>
+    <string name="tell_us_about_your_experiences">Nyaritakeun pangalaman anjeun</string>
+    <string name="enter_your_stream_link_here">Lebetkeun tautan aliran anjeun di dieu</string>
+    <string name="stream_link">Link stream</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Rojongan protokol jaringan: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Saluran</string>
+    <string name="import_playlist_url">Impor URL Daptar puter</string>
+    <string name="load_from_device">Beban Ti Alat</string>
+    <string name="play_single_stream">Maén aliran tunggal</string>
+    <string name="upload_m3u_file">Unggah File M3U</string>
+    <string name="all_channels">Sadaya Saluran</string>
+    <string name="playback_error">Kasalahan Playback</string>
+    <string name="no_internet_connection">Taya Konéksi Internét</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Saluran ieu samentawis teu tiasa dianggo atanapi henteu sayogi di daérah anjeun. Mangga cobian deui engké.</string>
+    <string name="lock">Konci</string>
+    <string name="full_screen">Layar pinuh</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Konci layar. Pencét pikeun muka konci</string>
+    <string name="delete_playlist">Pupus Daptar puter?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Naha anjeun yakin hoyong mupus daptar puter ieu? Peta ieu teu tiasa dibolaykeun.</string>
+    <string name="yes_delete">Enya, mupus</string>
+    <string name="error_1">Anjeun kedah ngeusian widang anu diperyogikeun</string>
+    <string name="error_2">Sababaraha widang teu valid</string>
+    <string name="success_1">Impor suksés</string>
+    <string name="success_2">Simpen junun</string>
+    <string name="content_rate_1">Upami anjeun resep waktos sareng kami, punten tinggalkeun rating bintang 5!</string>
+    <string name="content_rate_2">Upami anjeun resep waktos sareng kami, punten tinggalkeun rating bintang 5!</string>
+    <string name="content_rate_3">Upami anjeun resep waktos sareng kami, punten tinggalkeun rating bintang 5!</string>
+    <string name="content_rate_4">Ampir sampurna? Urang bakal narékahan pikeun béntang tambahan éta!</string>
+    <string name="content_rate_5">Anjeun leres-leres ngajantenkeun dinten kami! 🌟 Hayu urang jaga vibes anu saé.</string>
+    <string name="no_results_found_for">Taya hasil kapanggih pikeun</string>
+    <string name="the_device_does_not_support_pip">Alatna henteu ngadukung PiP.</string>
+    <string name="video_file_not_found">file video teu kapanggih</string>
+    <string name="minimize">Ngaleutikan jandela</string>
+    <string name="refresh_in_progress_please_wait">Refresh nuju lumangsung, mangga antosan…</string>
+    <string name="no_email_app_found">Teu aya aplikasi email anu kapendak!</string>
+    <string name="error_5">Sababaraha widang teu valid</string>
+    <string name="no_favorite_channel_yet">Henteu aya saluran paporit</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Milarian saluran anu anjeun pikahoyong teras ketok manah pikeun ngajaga éta.</string>
+    <string name="refreshed_successfully">Refreshing junun</string>
+    <string name="import_xtream_codes_api">Impor Xtream Codes API</string>
+    <string name="suggestion">bongbolongan</string>
+    <string name="suggestion_1">Kulawarga</string>
+    <string name="suggestion_2">Olahraga</string>
+    <string name="suggestion_3">Pilem</string>
+    <string name="_100_no_ads">100% Taya Iklan</string>
+    <string name="hd_4d_quality">Kualitas HD &amp; 4D</string>
+    <string name="premium_channels">Saluran Premium</string>
+    <string name="most_popular">Pang populerna</string>
+    <string name="weekly">Mingguan</string>
+    <string name="monthly">Bulanan</string>
+    <string name="yearly">taunan</string>
+    <string name="_3_day_free_trial">3 poé sidang bébas</string>
+    <string name="something_went_wrong">Aya nu lepat</string>
+    <string name="content_error">Mangga tuturkeun léngkah ieu sareng cobian deui:\n1. Pariksa sambungan jaringan anjeun\n2. Pastikeun anjeun asup kana akun Google anjeun\n3. Pastikeun anjeun tiasa ngajalankeun aplikasi Google Play</string>
+    <string name="cancel_anytime">Batal iraha waé</string>
+    <string name="term_of_use">
+        <u>Istilah pamakéan</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Kabijakan privasi</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Versi Premium anjeun ayeuna aktip. Ngarasakeun ngagunakeun aplikasi!</string>
+    <string name="payment_success">Kasuksésan pamayaran</string>
+    <string name="payment_failed">Pamayaran gagal</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Masalah leutik ngeureunkeun pamayaran. Mangga cobian deui</string>
+    <string name="go_premium">Laksakeun Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Buka konci sadaya fitur sareng nikmati aplikasi tanpa iklan!</string>
+    <string name="premium_member">Anggota Premium</string>
+    <string name="active_until">Aktif nepi ka %s</string>
+    <string name="sever_url">Server URL</string>
+    <string name="find_an_xtream_account">Teangan hiji akun Xtream</string>
+    <string name="search_for_xtream_code_api_account_online">Milarian "Akun API Kode Xtream" online.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Ketok Tambihkeun Profil pikeun nyimpen sareng ngaraosan eusi anjeun.</string>
+    <string name="start_streaming">Mimitian streaming</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Buka aplikasi sareng eusian widang profil Xtream.</string>
+    <string name="enter_the_information">Lebetkeun inpormasi</string>
+    <string name="copy_the_server_url_username_and_password">Nyalin URL Server, Ngaran pamaké, sarta Sandi.</string>
+    <string name="copy_the_account_details">Salin wincik akun</string>
+    <string name="how_to_add_an_xtream_profile">Kumaha Nambahkeun Propil Xtream</string>
+    <string name="account_added_successfully">Rekening ditambahkeun suksés</string>
+    <string name="your_account_is_ready_to_use">Akun anjeun siap dianggo</string>
+    <string name="view_now">Témbongkeun ayeuna</string>
+    <string name="later">engke</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Tambahkeun daptar puter munggaran anjeun pikeun ngamimitian nonton</string>
+    <string name="title_slider_1">Stream Olahraga Live on Telepon</string>
+    <string name="action_try_now">Coba ayeuna</string>
+    <string name="title_slider_2">Bangun Daptar Puter Pilem Anjeun</string>
+    <string name="title_slider_3">Ngarasakeun sagala fitur tanpa iklan</string>
+    <string name="tap_to_search">Ketok pikeun Milarian</string>
+    <string name="sports_hub">Pusat Olahraga</string>
+    <string name="wc_schedule">Jadwal</string>
+    <string name="wc_team">Tim</string>
+    <string name="wc_standing">Klasémen</string>
+    <string name="wc_today">Dinten Ieu</string>
+    <string name="wc_upcoming">Bakal Datang</string>
+    <string name="wc_full_time">Finish</string>
+    <string name="wc_live">Langsung</string>
+    <string name="wc_no_matches">Teu kapanggih patandingan</string>
+    <string name="wc_no_standings">Teu aya klasémen anu sadia</string>
+    <string name="wc_remind_me">Ingetan kuring</string>
+    <string name="wc_updating">Diropéa…</string>
+    <string name="wc_match_detail">Détail Patandingan</string>
+    <string name="wc_events">Acara</string>
+    <string name="wc_no_events">Teu aya acara anu sadia</string>
+    <string name="wc_no_events_desc">Patandingan henteu acan dimulai. Setel pangingetan supaya anjeun henteu hilap naon waé.</string>
+    <string name="wc_switch_team">Ganti Tim</string>
+    <string name="wc_bracket">Braket</string>
+    <string name="wc_round_of_32">Babak 32 Besar</string>
+    <string name="wc_starting_soon">Bakal mimulai sagera</string>
+    <string name="wc_round_of_16">Babak 16 Besar</string>
+    <string name="wc_quarter_finals">Babak Siga-final</string>
+    <string name="wc_semi_finals">Semi-final</string>
+    <string name="wc_final">Final</string>
+    <string name="wc_no_bracket">Teu aya data braket anu sadia</string>
+    <string name="wc_no_matches_today">Teu Aya Patandingan Dinten Ieu</string>
+    <string name="wc_upcoming_fixtures">Patandingan anu bakal datang bakal muncul di dieu</string>
+    <string name="wc_no_recent">Teu aya patandingan panganyarna</string>
+    <string name="wc_no_upcoming">Teu aya patandingan anu bakal datang</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Aktipkeun Notipikasi</string>
+    <string name="noti_enable_desc">Meunang pangingetan patandingan, update kontén anyar, sareng palèrta streaming pentingna.</string>
+    <string name="noti_go_to_setting">Mana ka setélan</string>
+    <string name="visit_sports_hub">Kunjungan Sports Hub</string>
+    <string name="_3rd_place_final">Final Tempat Katilu</string>
+    <string name="_16th_finals">Final ka-16</string>
+    <string name="ranking_of_third_placed_teams">Papeunteran tim anu tempat katilu</string>
+    <string name="out">"Kaluar: "</string>
+    <string name="_in">"Di: "</string>
+    <string name="_2nd_half">Satengah Kadua</string>
+    <string name="_1st_half">Babak Kahiji</string>
+    <string name="asst">Asst. %1$s</string>
+    <string name="out_s">Kaluar: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Patandingan parantos réngsé. Buka aplikasi pikeun hasil lengkap.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Kick-off dina 15 menit. Buka aplikasi pikeun nuturkeun.</string>
+    <string name="live_now">Siaran Langsung Ayeuna</string>
+    <string name="full_time">Waktu Penuh</string>
+    <string name="_2nd_group">Grup Kadua %1$s</string>
+    <string name="_1st_group">Grup Kahiji %1$s</string>
+    <string name="eighth_finals">Babak Delapan Besar</string>
+    <string name="quarter_finals">Perempat-Final</string>
+    <string name="semi_finals">Semi-Final</string>
+    <string name="winner">Juara</string>
+    <string name="loser">Kaleungitan</string>
+    <string name="round_of_32">Babak 32 Besar</string>
+    <string name="round_of_16">Babak 16 Besar</string>
+    <string name="_3rd_place">Tempat Katilu</string>
+    <string name="_final">Final</string>
+    <string name="group_stage">Tahap Grup</string>
+    <string name="round">Babak %1$d</string>
+    <string name="group">Grup </string>
+    <string name="_1st">Pangkat 1</string>
+    <string name="_2nd">Kadua</string>
+    <string name="_3rd">Katilu</string>
+    <string name="th">%1$dth</string>
+    <string name="remind_set">Pangingetan diatur</string>
+    <string name="remind_removed">Pangingetan dihapus</string>
+    <string name="_et1">Waktu Tambahan Babak 1</string>
+    <string name="_et2">Waktu Tambahan Babak 2</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Maénkeun</string>
+    <string name="add_similar_items">Tambahkeun item anu sarupa</string>
+    <string name="see_more">Tingali deui</string>
+    <string name="see_less">Tingali langkung saeutik</string>
+    <string name="view_all">Tingali sadaya</string>
+    <string name="home">Halaman Utama</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Live Ayeuna</string>
+    <string name="recommended_for_you">Direkomendasikeun pikeun Anjeun</string>
+    <string name="new_series">Seri Anyar</string>
+    <string name="live_badge">LIVE</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes nyayogikeun pengalaman IPTV streaming anu dipercaya.</string>
+    <string name="live_tv">Live TV</string>
+    <string name="movies">Pilem</string>
+    <string name="series">Seri</string>
+    <string name="add_profile">Tambahkeun Profil</string>
+    <string name="choose_your_profile">Pilih Profil Anjeun</string>
+    <string name="my_favorite">Karesep Abdi</string>
+    <string name="live_channel">Saluran Live</string>
+    <string name="your_favorite_list_is_empty">Daptar karesep anjeun kosong</string>
+    <string name="edit_profile">Édit Profil</string>
+    <string name="profile_name">Ngaran Profil</string>
+    <string name="delete_profile">Mupus Profil</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Naha anjeun yakin badé mupus profil ieu?</string>
+    <string name="no_browser_found">Teu aya aplikasi kapanggih pikeun muka pamilarian</string>
+    <string name="reminder_noon_title_1">Waktu réset 🧠</string>
+    <string name="reminder_noon_body_1">Ngan hiji épisode pikeun nyegerkeun pikiran anjeun!</string>
+    <string name="reminder_noon_title_2">Aya sababaraha menit? 🎬</string>
+    <string name="reminder_noon_body_2">Saluran anjeun ngan hiji tap deukeutna.</string>
+    <string name="reminder_noon_title_3">Saluran anjeun keur ngantosan 📺</string>
+    <string name="reminder_noon_body_3">TV langsung, pilem &amp; séri — kabéh dina hiji tempat.</string>
+    <string name="reminder_evening_title_1">Waktu prime keur lumangsung 🔥</string>
+    <string name="reminder_evening_body_1">Saluran anjeun ayeuna langsung siaran.</string>
+    <string name="reminder_evening_title_2">Naon nu aya wengi ieu? ⚽</string>
+    <string name="reminder_evening_body_2">Olahraga langsung, épisode anyar &amp; sajabana.</string>
+    <string name="reminder_evening_title_3">Wengi ieu di TV 📺</string>
+    <string name="reminder_evening_body_3">Saluran langsung, pilem &amp; séri — kabéh di dieu.</string>
+    <string name="reminder_no_playlist_title">TV anjeun keur ngantosan 📺</string>
+    <string name="reminder_no_playlist_body">Tambihkeun daptar puter anjeun sarta mimitian nongton.</string>
+    <string name="reminder_playlist_ready_title">Sagalana geus siap! ✅</string>
+    <string name="reminder_playlist_ready_body">Toél pikeun nongton saluran karesep anjeun.</string>
+    <string name="noti_enable_title_ver_2">Idinan %1$s ngirim iber ka anjeun</string>
+    <string name="noti_enable_desc_ver_2">Kéngingkeun émutan TV langsung, apdet pilem anyar, sarta émutan streaming penting</string>
+    <string name="deny">Tolak</string>
+    <string name="allow">Idinan</string>
+    <string name="tut_xtream_1">Pilarian “Xtream Code API Account” maké mesin pamilarian naon waé</string>
+    <string name="tut_xtream_2">Panggihan bagian “Format” atawa “Playlist” sarta salin inpormasi akun Xtream</string>
+    <string name="tut_xtream_3">Balik ka aplikasi, toél tombol &quot;+&quot;, pilih &quot;Import Stream Link&quot;, tuluy témpélkeun tautanana.</string>
+    <string name="tut_xtream_4">Wilujeng nongton Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Kumaha cara nambihan Profil Xtream</u>
+    </string>
+</resources>

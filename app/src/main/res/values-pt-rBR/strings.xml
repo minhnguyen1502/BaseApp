@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Idioma padrão</string>
+    <string name="setting">Contexto</string>
+    <string name="language">Linguagem</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="get_started">Comece</string>
+    <string name="welcome">Bem-vindo ao</string>
+    <string name="next">Próximo</string>
+    <string name="title_onb_1">Assista tudo</string>
+    <string name="content_onb_1">Acesse TV ao vivo, esportes, filmes e desenhos animados a qualquer hora e em qualquer lugar.</string>
+    <string name="title_onb_2">Construa sua lista de reprodução</string>
+    <string name="content_onb_2">Adicione canais que você adora e assista-os a qualquer hora, instantaneamente.</string>
+    <string name="habit_1">TV ao vivo</string>
+    <string name="habit_2">Filmes</string>
+    <string name="habit_3">Esporte</string>
+    <string name="habit_4">Notícias</string>
+    <string name="habit_5">Família</string>
+    <string name="habit_6">Entretenimento</string>
+    <string name="feedback">Opinião</string>
+    <string name="rate_now">Avalie agora</string>
+    <string name="send_feedback">Enviar comentários</string>
+    <string name="cancel">Cancelar</string>
+    <string name="please_select_your_language">Por favor selecione seu idioma</string>
+    <string name="please_choose_at_least_one_option">Escolha pelo menos uma opção</string>
+    <string name="try_again">Tente novamente</string>
+    <string name="got_it">Entendi!</string>
+    <string name="_continue">Continuar</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="how_to_add_a_playlist">Como adicionar uma lista de reprodução</string>
+    <string name="tutorial_step_1">Pesquise por “lista de reprodução pública de IPTV” usando qualquer mecanismo de busca.</string>
+    <string name="tutorial_step_2">Copie o link da lista de reprodução M3U ou salve os arquivos da lista de reprodução.</string>
+    <string name="tutorial_step_3">Abra o aplicativo novamente.\nToque no botão \"+\", selecione \"Importar URL da lista de reprodução\" e cole o link.</string>
+    <string name="tutorial_step_4">Divirta-se assistindo seus canais de IPTV!</string>
+    <string name="tab_import_url">URL de importação</string>
+    <string name="tab_upload_file">Carregar arquivo</string>
+    <string name="tab_stream">Fluxo</string>
+    <string name="tut_url_1">Pesquise por “lista de reprodução pública de IPTV” usando qualquer mecanismo de busca.</string>
+    <string name="tut_url_2">Copie o link da lista de reprodução M3U ou salve o arquivo da lista de reprodução.</string>
+    <string name="tut_url_3">Abra o aplicativo novamente.\nToque no botão \"+\", selecione \"Importar URL da lista de reprodução\" e cole o link.</string>
+    <string name="tut_url_4">Divirta-se assistindo seus canais de IPTV!</string>
+    <string name="tut_file_1">Procure por “arquivo M3U” usando qualquer mecanismo de busca.</string>
+    <string name="tut_file_2">Salve o arquivo .m3u em seu dispositivo.</string>
+    <string name="tut_file_3">Volte ao aplicativo, toque no botão \"+\", selecione \"Carregar arquivo M3U\" e escolha o arquivo que você baixou.</string>
+    <string name="tut_file_4">Divirta-se assistindo seus canais de IPTV!</string>
+    <string name="tut_stream_1">Pesquise por \"URL de stream de IPTV público\" usando qualquer mecanismo de busca.</string>
+    <string name="tut_stream_2">Copie o URL completo do stream para sua área de transferência.</string>
+    <string name="tut_stream_3">Retorne ao aplicativo, toque no botão \"+\", selecione \"Import Stream Link\" e cole o link.</string>
+    <string name="tut_stream_4">Divirta-se assistindo seus canais de IPTV!</string>
+    <string name="unlock_premium">Desbloquear</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Agradeceríamos se você pudesse nos dar um feedback detalhado (pelo menos 6 caracteres)</string>
+    <string name="at_least_6_characters">Pelo menos 6 caracteres</string>
+    <string name="loading">Carregando…</string>
+    <string name="install_now">Instale agora</string>
+    <string name="channels">%1$d canais</string>
+    <string name="this_action_may_contain_ads">Esta ação pode conter anúncios</string>
+    <string name="what_do_you_mainly_use_iptv_for">Para que você usa principalmente IPTV?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Encontre uma lista de reprodução de IPTV (M3U) disponível online.</string>
+    <string name="title_1">Localize uma fonte M3U</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Copie o link da lista de reprodução ou baixe o arquivo M3U para o seu dispositivo.</string>
+    <string name="title_2">Salve as informações da lista de reprodução</string>
+    <string name="title_3">Carregar para o aplicativo</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Abra o aplicativo → selecione Adicionar lista de reprodução → escolha Do URL → cole o link.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Acesse a playlist e comece a assistir seus canais favoritos.</string>
+    <string name="title_4">Aproveite o seu conteúdo</string>
+    <string name="search">Procurar…</string>
+    <string name="all">Todos</string>
+    <string name="recent">Recente</string>
+    <string name="favorites">Favoritos</string>
+    <string name="url">URL</string>
+    <string name="file">Arquivo</string>
+    <string name="no_channels_found">Nenhum canal encontrado</string>
+    <string name="no_recents">Nenhum recente</string>
+    <string name="play_something_to_begin">Reproduzir mídia para começar</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Importe novos canais tocando no botão abaixo.</string>
+    <string name="a_z_sort">Classificação A-Z</string>
+    <string name="z_a_sort">Classificação Z-A</string>
+    <string name="_0_9_sort">0–9 Classificar</string>
+    <string name="_9_0_sort">Classificação 9–0</string>
+    <string name="refresh">Atualizar</string>
+    <string name="accept">Aceitar</string>
+    <string name="license_agreement">Contrato de licença</string>
+    <string name="i_agree">Eu concordo com o Contrato de Licença</string>
+    <string name="content_license_agreement">IPTV suporta listas de reprodução M3U e JSON criadas pelos usuários. Não fornecemos nem hospedamos nenhum conteúdo.\n\nEste aplicativo destina-se apenas a conteúdo obtido legalmente. Você é responsável por garantir que suas playlists e seu conteúdo estejam em conformidade com as leis e permissões aplicáveis.\n\nAo continuar, você confirma que entende e aceita estes termos.\n\nIsenção de responsabilidade\n\nA IPTV não fornece nem promove nenhum conteúdo e não é afiliada a provedores terceirizados.\n\nOs usuários devem fornecer seu próprio conteúdo. A transmissão não autorizada de material protegido por direitos autorais é fortemente desencorajada.</string>
+    <string name="content_1">Você pode pesquisar on-line com palavras-chave como “lista de reprodução IPTV M3U” ou verificar as orientações fornecidas pelo seu serviço de TV/streaming.\nNormalmente, um link M3U adequado:\n• Começa com http:// ou https://\n• Termina com .m3u ou .m3u8\nTente usar fontes confiáveis ​​e legais sempre que possível. Observe que algumas playlists podem expirar, exigir credenciais de login ou ser limitadas por região.</string>
+    <string name="content_2">Para copiar o URL M3U:\n• No celular: toque e segure o link → selecione Copiar link\n• No computador: clique com o botão direito do mouse no link → escolha Copiar endereço do link\nPara baixar o arquivo da lista de reprodução:\n• Salve o arquivo .m3u ou .m3u8 em um local de fácil acesso no seu dispositivo\nMais tarde, você pode importar o arquivo diretamente do seu armazenamento local (consulte a Etapa 3).</string>
+    <string name="content_3">Inicie o IPTV Smart Player.\nSelecione Adicionar lista de reprodução.\nEscolha um método para importar:\n• Via URL → Cole seu link M3U\n• Do arquivo → Navegue e escolha o arquivo .m3u / .m3u8 salvo em seu dispositivo\n(Opcional) Digite um nome personalizado para identificar facilmente sua lista de reprodução mais tarde\nToque em Salvar para terminar.</string>
+    <string name="content_4">Aguarde um momento para o app carregar canais e categorias.\nExplore a lista de canais ou use o recurso de pesquisa para encontrar rapidamente o que deseja.\nSe nenhum conteúdo for exibido:\n• Verifique sua conexão com a Internet\n• Certifique-se de que o link ou arquivo M3U ainda seja válido e esteja funcionando</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">É necessária uma conexão com a Internet para continuar usando o aplicativo.\nVerifique suas configurações de rede e reconecte-se.</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="thank_you_for_using_iptv">Obrigado por usar IPTV</string>
+    <string name="playlist_name">Nome da lista de reprodução</string>
+    <string name="playlist">Lista de reprodução</string>
+    <string name="save">Salvar</string>
+    <string name="password">Senha</string>
+    <string name="username">Nome de usuário</string>
+    <string name="no_file_selected">Nenhum arquivo selecionado</string>
+    <string name="m3u_file">Arquivo M3U</string>
+    <string name="playlist_url">URL da lista de reprodução</string>
+    <string name="choose_icon">Escolha o ícone</string>
+    <string name="choose_color">Escolha a cor</string>
+    <string name="paste_your_url_here">Cole seu URL aqui</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="rate_this_app">Avalie este aplicativo</string>
+    <string name="tell_us_about_your_experiences">Conte-nos sobre suas experiências</string>
+    <string name="enter_your_stream_link_here">Insira o link da sua transmissão aqui</string>
+    <string name="stream_link">Link de transmissão</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Suporta protocolos de rede: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Canais</string>
+    <string name="import_playlist_url">Importar URL da lista de reprodução</string>
+    <string name="load_from_device">Carregar do dispositivo</string>
+    <string name="play_single_stream">Reproduzir fluxo único</string>
+    <string name="upload_m3u_file">Carregar arquivo M3U</string>
+    <string name="all_channels">Todos os canais</string>
+    <string name="playback_error">Erro de reprodução</string>
+    <string name="no_internet_connection">Sem conexão com a Internet</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Este canal está temporariamente fora de serviço ou indisponível em sua região. Por favor, tente novamente mais tarde.</string>
+    <string name="lock">Trancar</string>
+    <string name="full_screen">Tela cheia</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Bloqueio de tela. Pressione para desbloquear</string>
+    <string name="delete_playlist">Excluir lista de reprodução?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Tem certeza de que deseja excluir esta playlist? Esta ação não pode ser desfeita.</string>
+    <string name="yes_delete">Sim, excluir</string>
+    <string name="error_1">Você precisa preencher os campos obrigatórios</string>
+    <string name="error_2">Alguns campos são inválidos</string>
+    <string name="success_1">Importação bem-sucedida</string>
+    <string name="success_2">Salvar com sucesso</string>
+    <string name="content_rate_1">Se você adorou seu tempo conosco, deixe uma avaliação de 5 estrelas!</string>
+    <string name="content_rate_2">Se você adorou seu tempo conosco, deixe uma avaliação de 5 estrelas!</string>
+    <string name="content_rate_3">Se você adorou seu tempo conosco, deixe uma avaliação de 5 estrelas!</string>
+    <string name="content_rate_4">Quase perfeito? Nós nos esforçaremos por essa estrela extra!</string>
+    <string name="content_rate_5">Você fez totalmente o nosso dia! 🌟 Vamos manter as boas vibrações rolando.</string>
+    <string name="no_results_found_for">Nenhum resultado encontrado para</string>
+    <string name="the_device_does_not_support_pip">O dispositivo não oferece suporte a PiP.</string>
+    <string name="video_file_not_found">Arquivo de vídeo não encontrado</string>
+    <string name="minimize">Minimizar janela</string>
+    <string name="refresh_in_progress_please_wait">Atualização em andamento. Aguarde...</string>
+    <string name="no_email_app_found">Nenhum aplicativo de e-mail encontrado!</string>
+    <string name="error_5">Alguns campos são inválidos</string>
+    <string name="no_favorite_channel_yet">Nenhum canal favorito ainda</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Encontre um canal que você gosta e toque no coração para mantê-lo.</string>
+    <string name="refreshed_successfully">Atualizado com sucesso</string>
+    <string name="import_xtream_codes_api">API de importação de códigos Xtream</string>
+    <string name="suggestion">Sugestão</string>
+    <string name="suggestion_1">Família</string>
+    <string name="suggestion_2">Esporte</string>
+    <string name="suggestion_3">Filmes</string>
+    <string name="_100_no_ads">100%sem anúncios</string>
+    <string name="hd_4d_quality">Qualidade HD e 4D</string>
+    <string name="premium_channels">Canais Premium</string>
+    <string name="most_popular">Mais populares</string>
+    <string name="weekly">Semanalmente</string>
+    <string name="monthly">Mensal</string>
+    <string name="yearly">Anual</string>
+    <string name="_3_day_free_trial">Teste gratuito de 3 dias</string>
+    <string name="something_went_wrong">Algo deu errado</string>
+    <string name="content_error">Siga esta etapa e tente novamente:\n1. Verifique sua conexão de rede\n2. Verifique se você está conectado à sua conta do Google\n3. Certifique-se de que você pode executar o aplicativo Google Play</string>
+    <string name="cancel_anytime">Cancele a qualquer momento</string>
+    <string name="term_of_use">
+        <u>Termo de uso</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Política de Privacidade</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Sua versão Premium agora está ativa. Divirta-se usando o aplicativo!</string>
+    <string name="payment_success">Sucesso no pagamento</string>
+    <string name="payment_failed">Falha no pagamento</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Um pequeno problema impediu o pagamento. Por favor, tente novamente</string>
+    <string name="go_premium">Torne-se Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Desbloqueie todos os recursos e aproveite o aplicativo sem anúncios!</string>
+    <string name="premium_member">Membro Premium</string>
+    <string name="active_until">Ativo até %s</string>
+    <string name="sever_url">URL do servidor</string>
+    <string name="find_an_xtream_account">Encontre uma conta Xtream</string>
+    <string name="search_for_xtream_code_api_account_online">Pesquise "Conta API do Xtream Code" online.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Toque em Adicionar perfil para salvar e aproveitar seu conteúdo.</string>
+    <string name="start_streaming">Iniciar transmissão</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Abra o aplicativo e preencha os campos do perfil do Xtream.</string>
+    <string name="enter_the_information">Insira as informações</string>
+    <string name="copy_the_server_url_username_and_password">Copie o URL do servidor, nome de usuário e senha.</string>
+    <string name="copy_the_account_details">Copie os detalhes da conta</string>
+    <string name="how_to_add_an_xtream_profile">Como adicionar um perfil Xtream</string>
+    <string name="account_added_successfully">Conta adicionada com sucesso</string>
+    <string name="your_account_is_ready_to_use">Sua conta está pronta para uso</string>
+    <string name="view_now">Ver agora</string>
+    <string name="later">Mais tarde</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Adicione sua primeira playlist para começar a assistir</string>
+    <string name="title_slider_1">Transmita esportes ao vivo no telefone</string>
+    <string name="action_try_now">Experimente agora</string>
+    <string name="title_slider_2">Crie sua lista de reprodução de filmes</string>
+    <string name="title_slider_3">Aproveite todos os recursos sem anúncios</string>
+    <string name="tap_to_search">Toque para pesquisar</string>
+    <string name="sports_hub">Central de Esportes</string>
+    <string name="wc_schedule">Cronogramas</string>
+    <string name="wc_team">Times</string>
+    <string name="wc_standing">Classificação</string>
+    <string name="wc_today">Hoje</string>
+    <string name="wc_upcoming">Próximas</string>
+    <string name="wc_full_time">Tempo final</string>
+    <string name="wc_live">Ao Vivo</string>
+    <string name="wc_no_matches">Nenhuma partida encontrada</string>
+    <string name="wc_no_standings">Nenhuma classificação disponível</string>
+    <string name="wc_remind_me">Me lembrar</string>
+    <string name="wc_updating">Atualizando…</string>
+    <string name="wc_match_detail">Detalhes da Partida</string>
+    <string name="wc_events">Eventos</string>
+    <string name="wc_no_events">Nenhum evento disponível</string>
+    <string name="wc_no_events_desc">A partida ainda não começou. Defina um lembrete para não perder nenhuma ação.</string>
+    <string name="wc_switch_team">Trocar Time</string>
+    <string name="wc_bracket">Chaveamento</string>
+    <string name="wc_round_of_32">Ronda de 32</string>
+    <string name="wc_starting_soon">Começando em breve</string>
+    <string name="wc_round_of_16">Oitavos de final</string>
+    <string name="wc_quarter_finals">Quartas de Final</string>
+    <string name="wc_semi_finals">Semi-finais</string>
+    <string name="wc_final">Final</string>
+    <string name="wc_no_bracket">Nenhum dado de chaveamento disponível</string>
+    <string name="wc_no_matches_today">Nenhuma Partida Hoje</string>
+    <string name="wc_upcoming_fixtures">Os próximos jogos aparecerão aqui</string>
+    <string name="wc_no_recent">Nenhuma partida recente</string>
+    <string name="wc_no_upcoming">Nenhuma partida próxima</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Ativar Notificações</string>
+    <string name="noti_enable_desc">Receba lembretes de partidas, atualizações de novo conteúdo e alertas de streaming importantes.</string>
+    <string name="noti_go_to_setting">Ir para configurações</string>
+    <string name="visit_sports_hub">Visitar Central de Esportes</string>
+    <string name="_3rd_place_final">Final do 3º Lugar</string>
+    <string name="_16th_finals">Oitavas de Final</string>
+    <string name="ranking_of_third_placed_teams">Classificação dos times em 3º lugar</string>
+    <string name="out">"Saída: "</string>
+    <string name="_in">"Em: "</string>
+    <string name="_2nd_half">2º Tempo</string>
+    <string name="_1st_half">1º Tempo</string>
+    <string name="asst">Assistente %1$s</string>
+    <string name="out_s">Saída: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">A partida foi encerrada. Abra o app para o resultado completo.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Pontapé inicial em 15 minutos. Abra o app para acompanhar.</string>
+    <string name="live_now">Ao vivo agora</string>
+    <string name="full_time">Tempo integral</string>
+    <string name="_2nd_group">2º Grupo %1$s</string>
+    <string name="_1st_group">1º Grupo %1$s</string>
+    <string name="eighth_finals">Oitavas de Final</string>
+    <string name="quarter_finals">Quartas de Final</string>
+    <string name="semi_finals">Semifinais</string>
+    <string name="winner">Vencedor</string>
+    <string name="loser">Perdedor</string>
+    <string name="round_of_32">32 avos de Final</string>
+    <string name="round_of_16">Oitavas de Final</string>
+    <string name="_3rd_place">3º Lugar</string>
+    <string name="_final">Final</string>
+    <string name="group_stage">Fase de Grupos</string>
+    <string name="round">Rodada %1$d</string>
+    <string name="group">Grupo </string>
+    <string name="_1st">1º</string>
+    <string name="_2nd">2º</string>
+    <string name="_3rd">3º</string>
+    <string name="th">%1$dº</string>
+    <string name="remind_set">Lembrete definido</string>
+    <string name="remind_removed">Lembrete removido</string>
+    <string name="_et1">Prorrogação 1º Tempo</string>
+    <string name="_et2">Prorrogação 2º Tempo</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Reproduzir</string>
+    <string name="add_similar_items">Adicionar itens similares</string>
+    <string name="see_more">Ver mais</string>
+    <string name="see_less">Ver menos</string>
+    <string name="view_all">Exibir tudo</string>
+    <string name="home">Início</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Ao Vivo Agora</string>
+    <string name="recommended_for_you">Recomendado Para Você</string>
+    <string name="new_series">Novas Séries</string>
+    <string name="live_badge">AO VIVO</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes oferece uma experiência confiável de streaming IPTV.</string>
+    <string name="live_tv">TV ao Vivo</string>
+    <string name="movies">Filmes</string>
+    <string name="series">Séries</string>
+    <string name="add_profile">Adicionar Perfil</string>
+    <string name="choose_your_profile">Escolha Seu Perfil</string>
+    <string name="my_favorite">Meus Favoritos</string>
+    <string name="live_channel">Canal ao Vivo</string>
+    <string name="your_favorite_list_is_empty">Sua lista de favoritos está vazia</string>
+    <string name="edit_profile">Editar Perfil</string>
+    <string name="profile_name">Nome do Perfil</string>
+    <string name="delete_profile">Excluir Perfil</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Tem certeza de que deseja excluir este perfil?</string>
+    <string name="no_browser_found">Nenhuma aplicação encontrada para abrir a pesquisa</string>
+    <string name="reminder_noon_title_1">Hora de recarregar 🧠</string>
+    <string name="reminder_noon_body_1">Apenas um episódio para refrescar sua mente!</string>
+    <string name="reminder_noon_title_2">Tem alguns minutos? 🎬</string>
+    <string name="reminder_noon_body_2">Seus canais estão a um toque de distância.</string>
+    <string name="reminder_noon_title_3">Seus canais estão à espera 📺</string>
+    <string name="reminder_noon_body_3">TV ao vivo, filmes &amp; séries — tudo num só lugar.</string>
+    <string name="reminder_evening_title_1">O horário nobre começou 🔥</string>
+    <string name="reminder_evening_body_1">Seus canais estão ao vivo agora.</string>
+    <string name="reminder_evening_title_2">O que tem hoje à noite? ⚽</string>
+    <string name="reminder_evening_body_2">Esportes ao vivo, novos episódios &amp; muito mais.</string>
+    <string name="reminder_evening_title_3">Hoje à noite na TV 📺</string>
+    <string name="reminder_evening_body_3">Canais ao vivo, filmes &amp; séries — tudo aqui.</string>
+    <string name="reminder_no_playlist_title">Sua TV está à espera 📺</string>
+    <string name="reminder_no_playlist_body">Adicione sua lista de reprodução e comece a assistir.</string>
+    <string name="reminder_playlist_ready_title">Tudo pronto! ✅</string>
+    <string name="reminder_playlist_ready_body">Toque para assistir ao seu canal favorito.</string>
+    <string name="noti_enable_title_ver_2">Permitir que %1$s envie notificações para você</string>
+    <string name="noti_enable_desc_ver_2">Receba lembretes de TV ao vivo, atualizações de novos filmes e alertas importantes de streaming</string>
+    <string name="deny">Negar</string>
+    <string name="allow">Permitir</string>
+    <string name="tut_xtream_1">Pesquise por “Xtream Code API Account” em qualquer motor de busca</string>
+    <string name="tut_xtream_2">Encontre a seção “Format” ou “Playlist” e copie as informações da conta Xtream</string>
+    <string name="tut_xtream_3">Volte para o aplicativo, toque no botão &quot;+&quot;, selecione &quot;Import Stream Link&quot; e depois cole o link.</string>
+    <string name="tut_xtream_4">Aproveite assistindo Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Como adicionar um perfil Xtream</u>
+    </string>
+</resources>

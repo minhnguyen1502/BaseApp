@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Подразумевани језик</string>
+    <string name="setting">Подешавање</string>
+    <string name="language">Језик</string>
+    <string name="privacy_policy">Политика приватности</string>
+    <string name="get_started">Започните</string>
+    <string name="welcome">Добродошли у</string>
+    <string name="next">Следеће</string>
+    <string name="title_onb_1">Гледајте све</string>
+    <string name="content_onb_1">Приступите ТВ-у уживо, спорту, филмовима и цртаним филмовима било када и било где.</string>
+    <string name="title_onb_2">Направите своју листу за репродукцију</string>
+    <string name="content_onb_2">Додајте канале које волите и гледајте их било када, одмах.</string>
+    <string name="habit_1">ТВ уживо</string>
+    <string name="habit_2">Филмови</string>
+    <string name="habit_3">Спорт</string>
+    <string name="habit_4">Вести</string>
+    <string name="habit_5">Породица</string>
+    <string name="habit_6">Забава</string>
+    <string name="feedback">Повратне информације</string>
+    <string name="rate_now">Рате Нов</string>
+    <string name="send_feedback">Пошаљите повратне информације</string>
+    <string name="cancel">Откажи</string>
+    <string name="please_select_your_language">Молимо изаберите свој језик</string>
+    <string name="please_choose_at_least_one_option">Изаберите бар једну опцију</string>
+    <string name="try_again">Покушајте поново</string>
+    <string name="got_it">Схватио сам!</string>
+    <string name="_continue">Настави</string>
+    <string name="tutorial">Туториал</string>
+    <string name="how_to_add_a_playlist">Како додати листу за репродукцију</string>
+    <string name="tutorial_step_1">Потражите „јавну ИПТВ листу песама“ користећи било који претраживач.</string>
+    <string name="tutorial_step_2">Копирајте везу М3У листе песама или сачувајте датотеке листе песама.</string>
+    <string name="tutorial_step_3">Поново отворите апликацију.\нТапните на дугме \"+\", изаберите \"Увези УРЛ плејлисте\" и налепите везу.</string>
+    <string name="tutorial_step_4">Уживајте у гледању својих ИПТВ канала!</string>
+    <string name="tab_import_url">Увезите УРЛ</string>
+    <string name="tab_upload_file">Уплоад филе</string>
+    <string name="tab_stream">Стреам</string>
+    <string name="tut_url_1">Потражите „јавну ИПТВ листу песама“ користећи било који претраживач.</string>
+    <string name="tut_url_2">Копирајте везу М3У листе песама или сачувајте датотеку листе песама.</string>
+    <string name="tut_url_3">Поново отворите апликацију.\нТапните на дугме \"+\", изаберите \"Увези УРЛ плејлисте\" и налепите везу.</string>
+    <string name="tut_url_4">Уживајте у гледању својих ИПТВ канала!</string>
+    <string name="tut_file_1">Потражите „М3У датотеку“ користећи било који претраживач.</string>
+    <string name="tut_file_2">Сачувајте .м3у датотеку на свом уређају.</string>
+    <string name="tut_file_3">Вратите се у апликацију, додирните дугме \"+\", изаберите \"Отпреми М3У датотеку\", а затим изаберите датотеку коју сте преузели.</string>
+    <string name="tut_file_4">Уживајте у гледању својих ИПТВ канала!</string>
+    <string name="tut_stream_1">Потражите „УРЛ јавног ИПТВ стрима“ користећи било који претраживач.</string>
+    <string name="tut_stream_2">Копирајте цео УРЛ стрима у међуспремник.</string>
+    <string name="tut_stream_3">Вратите се у апликацију, додирните дугме \"+\", изаберите \"Увези везу за стрим\", а затим налепите везу.</string>
+    <string name="tut_stream_4">Уживајте у гледању својих ИПТВ канала!</string>
+    <string name="unlock_premium">Откључај</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Били бисмо захвални ако бисте нам дали детаљне повратне информације (најмање 6 карактера)</string>
+    <string name="at_least_6_characters">Најмање 6 знакова</string>
+    <string name="loading">Учитавање…</string>
+    <string name="install_now">Инсталирајте сада</string>
+    <string name="channels">%1$д канала</string>
+    <string name="this_action_may_contain_ads">Ова радња може да садржи огласе</string>
+    <string name="what_do_you_mainly_use_iptv_for">За шта углавном користите ИПТВ?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Пронађите ИПТВ листу за репродукцију (М3У) која је доступна на мрежи.</string>
+    <string name="title_1">Пронађите М3У извор</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Копирајте везу до листе песама или преузмите М3У датотеку на свој уређај.</string>
+    <string name="title_2">Сачувајте информације о плејлисти</string>
+    <string name="title_3">Отпремите у апликацију</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Отворите апликацију → изаберите Додај плејлисту → изаберите Са УРЛ адресе → налепите везу.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Приступите листи за репродукцију и почните да гледате своје омиљене канале.</string>
+    <string name="title_4">Уживајте у свом садржају</string>
+    <string name="search">Тражи…</string>
+    <string name="all">Све</string>
+    <string name="recent">Недавно</string>
+    <string name="favorites">Фаворитес</string>
+    <string name="url">Урл</string>
+    <string name="file">Филе</string>
+    <string name="no_channels_found">Није пронађен ниједан канал</string>
+    <string name="no_recents">Нема недавних</string>
+    <string name="play_something_to_begin">Пустите медије за почетак</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Увезите нове канале додиром на дугме испод.</string>
+    <string name="a_z_sort">А-З Сорт</string>
+    <string name="z_a_sort">З-А Сорт</string>
+    <string name="_0_9_sort">0–9 Сорт</string>
+    <string name="_9_0_sort">9–0 Сорт</string>
+    <string name="refresh">Освежи</string>
+    <string name="accept">Прихвати</string>
+    <string name="license_agreement">Уговор о лиценци</string>
+    <string name="i_agree">Слажем се са Уговором о лиценци</string>
+    <string name="content_license_agreement">ИПТВ подржава М3У и ЈСОН листе песама које креирају корисници. Не пружамо нити хостујемо никакав садржај.\н\нОва апликација је намењена само за легално добијен садржај. Одговорни сте да обезбедите да ваше плејлисте и садржај буду у складу са важећим законима и дозволама.\н\нАко наставите, потврђујете да разумете и прихватате ове услове.\н\нОдрицање одговорности\н\нИПТВ не пружа нити промовише никакав садржај и није повезан са добављачима трећих страна.\н\нКорисници морају да испоруче сопствени садржај. Строго се не препоручује неовлашћено стримовање материјала заштићеног ауторским правима.</string>
+    <string name="content_1">Можете да претражујете на мрежи помоћу кључних речи као што је „ИПТВ М3У листа за репродукцију“ или проверите упутства која вам даје ваш ТВ/стриминг сервис.\нПрава М3У веза обично:\н• почиње са хттп:// или хттпс://\н• завршава се са .м3у или .м3у8\нПокушајте да користите поуздане и легалне изворе кад год је то могуће. Имајте на уму да неке плејлисте могу истећи, захтевати акредитиве за пријаву или бити ограничене регионом.</string>
+    <string name="content_2">Да бисте копирали М3У УРЛ:\н• На мобилном уређају: Додирните и задржите везу → изаберите Копирај везу\н• На радној површини: Кликните десним тастером миша на везу → изаберите Копирај адресу везе\нДа бисте преузели датотеку листе за репродукцију:\н• Сачувајте .м3у или .м3у8 датотеку на локацији којој је лако приступити на свом уређају\нКасније можете да увезете датотеку директно из свог локалног складишта за корак 3).</string>
+    <string name="content_3">Покрените ИПТВ Смарт Плаиер.\нИзаберите Додај плејлисту.\нИзаберите један метод за увоз:\н• Преко УРЛ-а → Налепите М3У везу\н• Из датотеке → Прегледај и изаберите сачувану .м3у / .м3у8 датотеку на свом уређају\н(Опционално) Унесите прилагођено име да бисте касније лако идентификовали своју листу песама\нДодирните Сачувај да бисте завршили.</string>
+    <string name="content_4">Дајте апликацији тренутак да учита канале и категорије.\нИстражите листу канала или користите функцију претраге да бисте брзо пронашли оно што желите.\нАко се не појави никакав садржај:\н• Проверите интернет везу\н• Уверите се да је М3У линк или датотека и даље важећи и да раде</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Потребна је интернет веза да бисте наставили да користите апликацију.\нПроверите подешавања мреже и поново се повежите.</string>
+    <string name="retry">Покушајте поново</string>
+    <string name="thank_you_for_using_iptv">Хвала вам што користите ИПТВ</string>
+    <string name="playlist_name">Име плејлисте</string>
+    <string name="playlist">Плаилист</string>
+    <string name="save">Сачувај</string>
+    <string name="password">Лозинка</string>
+    <string name="username">Корисничко име</string>
+    <string name="no_file_selected">Није изабрана ниједна датотека</string>
+    <string name="m3u_file">М3У Филе</string>
+    <string name="playlist_url">УРЛ плејлисте</string>
+    <string name="choose_icon">Изаберите Икона</string>
+    <string name="choose_color">Изаберите Боја</string>
+    <string name="paste_your_url_here">Налепите своју УРЛ адресу овде</string>
+    <string name="edit">Уреди</string>
+    <string name="delete">Избриши</string>
+    <string name="rate_this_app">Оцените ову апликацију</string>
+    <string name="tell_us_about_your_experiences">Реците нам своја искуства</string>
+    <string name="enter_your_stream_link_here">Овде унесите линк за стрим</string>
+    <string name="stream_link">Стрим линк</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Подржава мрежне протоколе: хттп, фтп, ртсп, ртп, удп…</string>
+    <string name="channel">Канали</string>
+    <string name="import_playlist_url">Увезите УРЛ плејлисте</string>
+    <string name="load_from_device">Учитај са уређаја</string>
+    <string name="play_single_stream">Пустите један стрим</string>
+    <string name="upload_m3u_file">Отпремите М3У датотеку</string>
+    <string name="all_channels">Сви канали</string>
+    <string name="playback_error">Грешка при репродукцији</string>
+    <string name="no_internet_connection">Нема Интернет везе</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Овај канал је привремено ван функције или није доступан у вашем региону. Покушајте поново касније.</string>
+    <string name="lock">Закључај</string>
+    <string name="full_screen">Цијели екран</string>
+    <string name="pip">Пип</string>
+    <string name="screen_lock_press_to_unlock">Закључавање екрана. Притисните за откључавање</string>
+    <string name="delete_playlist">Избрисати плејлисту?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Да ли сте сигурни да желите да избришете ову плејлисту? Ова радња се не може опозвати.</string>
+    <string name="yes_delete">Да, избриши</string>
+    <string name="error_1">Потребно је да попуните обавезна поља</string>
+    <string name="error_2">Нека поља су неважећа</string>
+    <string name="success_1">Увези успешно</string>
+    <string name="success_2">Сачувај успешно</string>
+    <string name="content_rate_1">Ако вам се допало проведено време са нама, оставите оцену од 5 звездица!</string>
+    <string name="content_rate_2">Ако вам се допало проведено време са нама, оставите оцену од 5 звездица!</string>
+    <string name="content_rate_3">Ако вам се допало проведено време са нама, оставите оцену од 5 звездица!</string>
+    <string name="content_rate_4">Скоро савршено? Трудићемо се за ту додатну звезду!</string>
+    <string name="content_rate_5">Потпуно сте нам улепшали дан! 🌟 Хајде да наставимо са добрим вибрацијама.</string>
+    <string name="no_results_found_for">Нису пронађени резултати за</string>
+    <string name="the_device_does_not_support_pip">Уређај не подржава ПиП.</string>
+    <string name="video_file_not_found">Видео датотека није пронађена</string>
+    <string name="minimize">Минимизирајте прозор</string>
+    <string name="refresh_in_progress_please_wait">Освежавање је у току, сачекајте…</string>
+    <string name="no_email_app_found">Није пронађена апликација за е-пошту!</string>
+    <string name="error_5">Нека поља су неважећа</string>
+    <string name="no_favorite_channel_yet">Још нема омиљеног канала</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Пронађите канал који вам се свиђа и додирните срце да бисте га задржали.</string>
+    <string name="refreshed_successfully">Успешно освежено</string>
+    <string name="import_xtream_codes_api">АПИ за увоз Кстреам кодова</string>
+    <string name="suggestion">Предлог</string>
+    <string name="suggestion_1">Породица</string>
+    <string name="suggestion_2">Спорт</string>
+    <string name="suggestion_3">Филмови</string>
+    <string name="_100_no_ads">100% без огласа</string>
+    <string name="hd_4d_quality">ХД и 4Д квалитет</string>
+    <string name="premium_channels">Премиум канали</string>
+    <string name="most_popular">Најпопуларнији</string>
+    <string name="weekly">Недељно</string>
+    <string name="monthly">Месечно</string>
+    <string name="yearly">Годишње</string>
+    <string name="_3_day_free_trial">3-дневна бесплатна пробна верзија</string>
+    <string name="something_went_wrong">Нешто је пошло по злу</string>
+    <string name="content_error">Пратите овај корак и покушајте поново:\н1. Проверите мрежну везу\н2. Уверите се да сте пријављени на свој Гоогле налог\н3. Уверите се да можете да покренете апликацију Гоогле плаи</string>
+    <string name="cancel_anytime">Откажите било када</string>
+    <string name="term_of_use">
+        <u>Термин коришћења</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Политика приватности</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Ваша Премиум верзија је сада активна. Уживајте у коришћењу апликације!</string>
+    <string name="payment_success">Паимент Суццесс</string>
+    <string name="payment_failed">Плаћање није успело</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Мали проблем је зауставио плаћање. Покушајте поново</string>
+    <string name="go_premium">Иди Премиум</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Откључајте све функције и уживајте у апликацији без огласа!</string>
+    <string name="premium_member">Премиум члан</string>
+    <string name="active_until">Активан до %с</string>
+    <string name="sever_url">Север УРЛ</string>
+    <string name="find_an_xtream_account">Пронађите Кстреам налог</string>
+    <string name="search_for_xtream_code_api_account_online">Потражите „Кстреам Цоде АПИ налог“ на мрежи.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Додирните Додај профил да бисте сачували и уживали у свом садржају.</string>
+    <string name="start_streaming">Започните стримовање</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Отворите апликацију и попуните поља Кстреам профила.</string>
+    <string name="enter_the_information">Унесите информације</string>
+    <string name="copy_the_server_url_username_and_password">Копирајте УРЛ сервера, корисничко име и лозинку.</string>
+    <string name="copy_the_account_details">Копирајте детаље налога</string>
+    <string name="how_to_add_an_xtream_profile">Како додати Кстреам профил</string>
+    <string name="account_added_successfully">Налог је успешно додат</string>
+    <string name="your_account_is_ready_to_use">Ваш налог је спреман за употребу</string>
+    <string name="view_now">Погледај сада</string>
+    <string name="later">касније</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Додајте своју прву плејлисту да бисте почели да гледате</string>
+    <string name="title_slider_1">Преносите спорт уживо на телефону</string>
+    <string name="action_try_now">Покушајте сада</string>
+    <string name="title_slider_2">Направите своју листу за репродукцију филмова</string>
+    <string name="title_slider_3">Уживајте у свим функцијама без огласа</string>
+    <string name="tap_to_search">Dodirnite za pretragu</string>
+    <string name="sports_hub">Спортски центар</string>
+    <string name="wc_schedule">Распоред</string>
+    <string name="wc_team">Тимови</string>
+    <string name="wc_standing">Табела</string>
+    <string name="wc_today">Данас</string>
+    <string name="wc_upcoming">Предстојеће</string>
+    <string name="wc_full_time">Крај утакмице</string>
+    <string name="wc_live">Уживо</string>
+    <string name="wc_no_matches">Нема пронађених утакмица</string>
+    <string name="wc_no_standings">Нема доступне табеле</string>
+    <string name="wc_remind_me">Подсети ме</string>
+    <string name="wc_updating">Ажурирање…</string>
+    <string name="wc_match_detail">Детаљи утакмице</string>
+    <string name="wc_events">Догађаји</string>
+    <string name="wc_no_events">Нема доступних догађаја</string>
+    <string name="wc_no_events_desc">Утакмица се још није почела. Постави подсетник да не пропустиш ниједну акцију.</string>
+    <string name="wc_switch_team">Промени тим</string>
+    <string name="wc_bracket">Табела</string>
+    <string name="wc_round_of_32">Круг од 32</string>
+    <string name="wc_starting_soon">Почиње ускоро</string>
+    <string name="wc_round_of_16">Круг од 16</string>
+    <string name="wc_quarter_finals">Четвртфинале</string>
+    <string name="wc_semi_finals">Полуфинале</string>
+    <string name="wc_final">Финале</string>
+    <string name="wc_no_bracket">Нема доступних података табеле</string>
+    <string name="wc_no_matches_today">Нема утакмица данас</string>
+    <string name="wc_upcoming_fixtures">Предстојеће утакмице ће се појавити овде</string>
+    <string name="wc_no_recent">Нема скорашњих утакмица</string>
+    <string name="wc_no_upcoming">Нема предстојећих утакмица</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Омогући обавештења</string>
+    <string name="noti_enable_desc">Добиј подсетнике за утакмице, обавештења о новом садржају и важне упозоре о стриминговању.</string>
+    <string name="noti_go_to_setting">Иди на подешавања</string>
+    <string name="visit_sports_hub">Посети Sports Hub</string>
+    <string name="_3rd_place_final">Финале за треће место</string>
+    <string name="_16th_finals">16-ти финал</string>
+    <string name="ranking_of_third_placed_teams">Рангирање тимова на трећем месту</string>
+    <string name="out">"Ван: "</string>
+    <string name="_in">"У: "</string>
+    <string name="_2nd_half">Други део</string>
+    <string name="_1st_half">Прво полувреме</string>
+    <string name="asst">Асист. %1$s</string>
+    <string name="out_s">Ван: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Утакмица је завршена. Отвори апликацију за коначан резултат.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Почетак за 15 минута. Отвори апликацију да пратиш.</string>
+    <string name="live_now">Уживо сада</string>
+    <string name="full_time">Пуно време</string>
+    <string name="_2nd_group">2. Група %1$s</string>
+    <string name="_1st_group">1. Група %1$s</string>
+    <string name="eighth_finals">Осмина финала</string>
+    <string name="quarter_finals">Четвртфиналe</string>
+    <string name="semi_finals">Полуфиналe</string>
+    <string name="winner">Победник</string>
+    <string name="loser">Губитник</string>
+    <string name="round_of_32">Рунда од 32</string>
+    <string name="round_of_16">Runda od 16</string>
+    <string name="_3rd_place">3. место</string>
+    <string name="_final">Финале</string>
+    <string name="group_stage">Групна фаза</string>
+    <string name="round">Runda %1$d</string>
+    <string name="group">Група </string>
+    <string name="_1st">1.</string>
+    <string name="_2nd">2.</string>
+    <string name="_3rd">3.</string>
+    <string name="th">%1$d-та</string>
+    <string name="remind_set">Podsetnik postavljen</string>
+    <string name="remind_removed">Podsetnik uklonjen</string>
+    <string name="_et1">Produžetak 1. poluvreme</string>
+    <string name="_et2">Produžetak 2. poluvreme</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Пусти</string>
+    <string name="add_similar_items">Додај слична ставке</string>
+    <string name="see_more">Погледај више</string>
+    <string name="see_less">Погледај мање</string>
+    <string name="view_all">Прикажи све</string>
+    <string name="home">Почетна</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Уживо сада</string>
+    <string name="recommended_for_you">Препоручено за вас</string>
+    <string name="new_series">Нове серије</string>
+    <string name="live_badge">УЖИВО</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes пружа поуздано IPTV стриминг искуство.</string>
+    <string name="live_tv">Уживо ТВ</string>
+    <string name="movies">Филмови</string>
+    <string name="series">Серије</string>
+    <string name="add_profile">Додај профил</string>
+    <string name="choose_your_profile">Одаберите свој профил</string>
+    <string name="my_favorite">Моје омиљене</string>
+    <string name="live_channel">Уживо канал</string>
+    <string name="your_favorite_list_is_empty">Ваша листа омиљених је празна</string>
+    <string name="edit_profile">Уреди профил</string>
+    <string name="profile_name">Назив профила</string>
+    <string name="delete_profile">Избриши профил</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Да ли сте сигурни да желите избрисати овај профил?</string>
+    <string name="no_browser_found">Није пронађена апликација за отварање претраге</string>
+    <string name="reminder_noon_title_1">Време је за ресетовање 🧠</string>
+    <string name="reminder_noon_body_1">Само једна епизода да освежите ум!</string>
+    <string name="reminder_noon_title_2">Имате пар минута? 🎬</string>
+    <string name="reminder_noon_body_2">Ваши канали су удаљени само један додир.</string>
+    <string name="reminder_noon_title_3">Ваши канали чекају 📺</string>
+    <string name="reminder_noon_body_3">Уживо ТВ, филмови и серије — све на једном месту.</string>
+    <string name="reminder_evening_title_1">Почело је прајм тајм време 🔥</string>
+    <string name="reminder_evening_body_1">Ваши канали су сада уживо.</string>
+    <string name="reminder_evening_title_2">Шта има вечерас? ⚽</string>
+    <string name="reminder_evening_body_2">Спорт уживо, нове епизоде и још тога.</string>
+    <string name="reminder_evening_title_3">Вечерас на ТВ-у 📺</string>
+    <string name="reminder_evening_body_3">Канали уживо, филмови и серије — све овде.</string>
+    <string name="reminder_no_playlist_title">Ваш ТВ чека 📺</string>
+    <string name="reminder_no_playlist_body">Додајте своју листу за пуштање и почните да гледате.</string>
+    <string name="reminder_playlist_ready_title">Све је спремно! ✅</string>
+    <string name="reminder_playlist_ready_body">Додирните да гледате омиљени канал.</string>
+    <string name="noti_enable_title_ver_2">Дозволите %1$s да вам шаље обавештења</string>
+    <string name="noti_enable_desc_ver_2">Примајте подсетнике за ТВ уживо, ажурирања нових филмова и важна упозорења о стримовању</string>
+    <string name="deny">Одбиј</string>
+    <string name="allow">Дозволи</string>
+    <string name="tut_xtream_1">Претражите „Xtream Code API Account” помоћу било ког претраживача</string>
+    <string name="tut_xtream_2">Пронађите одељак „Format” или „Playlist” и копирајте информације о Xtream налогу</string>
+    <string name="tut_xtream_3">Вратите се у апликацију, додирните дугме &quot;+&quot;, изаберите &quot;Import Stream Link&quot;, а затим налепите везу.</string>
+    <string name="tut_xtream_4">Уживајте гледајући Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Како додати Xtream профил</u>
+    </string>
+</resources>

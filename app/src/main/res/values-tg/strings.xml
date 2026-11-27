@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Забони пешфарз</string>
+    <string name="setting">Танзимот</string>
+    <string name="language">Забон</string>
+    <string name="privacy_policy">Сиёсати Корбурди Маълумоти Шахсӣ</string>
+    <string name="get_started">Оғоз кунед</string>
+    <string name="welcome">Хуш омадед ба</string>
+    <string name="next">Баъдӣ</string>
+    <string name="title_onb_1">Ҳама чизро тамошо кунед</string>
+    <string name="content_onb_1">Ба телевизиони мустақим, варзиш, филмҳо ва мультфильмҳо дар вақти дилхоҳ ва дар ҳама ҷо дастрасӣ пайдо кунед.</string>
+    <string name="title_onb_2">Рӯйхати навозишро созед</string>
+    <string name="content_onb_2">Каналҳои дӯстдоштаатонро илова кунед ва онҳоро дар вақти дилхоҳ фавран тамошо кунед.</string>
+    <string name="habit_1">Телевизиони зинда</string>
+    <string name="habit_2">Филмҳо</string>
+    <string name="habit_3">Варзиш</string>
+    <string name="habit_4">Ахбор</string>
+    <string name="habit_5">Оила</string>
+    <string name="habit_6">Вақтхушӣ</string>
+    <string name="feedback">Алоқа</string>
+    <string name="rate_now">Ҳоло баҳо диҳед</string>
+    <string name="send_feedback">Фиристодани фикру ақида</string>
+    <string name="cancel">Бекор кардан</string>
+    <string name="please_select_your_language">Лутфан забони худро интихоб кунед</string>
+    <string name="please_choose_at_least_one_option">Лутфан ақаллан як вариантро интихоб кунед</string>
+    <string name="try_again">Як бори дигар санҷед</string>
+    <string name="got_it">Гир онро!</string>
+    <string name="_continue">Давом додан</string>
+    <string name="tutorial">Дарсӣ</string>
+    <string name="how_to_add_a_playlist">Чӣ тавр илова кардани рӯйхати навозиш</string>
+    <string name="tutorial_step_1">Бо истифода аз ҳама гуна системаи ҷустуҷӯӣ \"рӯйхати плеери IPTV-ро" ҷустуҷӯ кунед.</string>
+    <string name="tutorial_step_2">Истиноди рӯйхати навозиш M3U-ро нусхабардорӣ кунед ё файлҳои рӯйхати навозишро захира кунед.</string>
+    <string name="tutorial_step_3">Барномаро дубора кушоед.\nТугмаи \"+\"-ро клик кунед, \"Воридоти URL-и рӯйхати навозиш\"-ро интихоб кунед ва истинодро часбонед.</string>
+    <string name="tutorial_step_4">Аз тамошои каналҳои IPTV-и худ лаззат баред!</string>
+    <string name="tab_import_url">URL ворид кунед</string>
+    <string name="tab_upload_file">Файлро бор кунед</string>
+    <string name="tab_stream">Ҷараён</string>
+    <string name="tut_url_1">Бо истифода аз ҳама гуна системаи ҷустуҷӯӣ \"рӯйхати плеери IPTV-ро" ҷустуҷӯ кунед.</string>
+    <string name="tut_url_2">Истиноди рӯйхати навозиш M3U-ро нусхабардорӣ кунед ё файли рӯйхати навозишро захира кунед.</string>
+    <string name="tut_url_3">Барномаро дубора кушоед.\nТугмаи \"+\"-ро клик кунед, \"Воридоти URL-и рӯйхати навозиш\"-ро интихоб кунед ва истинодро часбонед.</string>
+    <string name="tut_url_4">Аз тамошои каналҳои IPTV-и худ лаззат баред!</string>
+    <string name="tut_file_1">Ҷустуҷӯи \"файл M3U\" бо истифода аз ягон системаи ҷустуҷӯ.</string>
+    <string name="tut_file_2">Файли .m3u -ро дар дастгоҳи худ захира кунед.</string>
+    <string name="tut_file_3">Ба барнома баргардед, тугмаи \"+\"-ро клик кунед, \"Файли M3U-ро бор кунед\"-ро интихоб кунед, пас файли зеркашидаатонро интихоб кунед.</string>
+    <string name="tut_file_4">Аз тамошои каналҳои IPTV-и худ лаззат баред!</string>
+    <string name="tut_stream_1">Ҷустуҷӯи \"URL-и ҷараёни оммавии IPTV\" бо истифода аз ҳама гуна системаи ҷустуҷӯ.</string>
+    <string name="tut_stream_2">URL-и пурраи ҷараёнро ба буфери худ нусхабардорӣ кунед.</string>
+    <string name="tut_stream_3">Ба барнома баргардед, тугмаи \"+\"-ро клик кунед, \"Импорти пайванди ҷараёни\"-ро интихоб кунед ва истинодро часбонед.</string>
+    <string name="tut_stream_4">Аз тамошои каналҳои IPTV-и худ лаззат баред!</string>
+    <string name="unlock_premium">Кушодан</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Агар шумо ба мо фикру мулоҳизаҳои муфассал диҳед (ҳадди ақал 6 аломат) мо миннатдорем.</string>
+    <string name="at_least_6_characters">Ақаллан 6 аломат</string>
+    <string name="loading">Бор карда мешавад…</string>
+    <string name="install_now">Ҳоло насб кунед</string>
+    <string name="channels">%1$d канал</string>
+    <string name="this_action_may_contain_ads">Ин амал метавонад дорои таблиғ бошад</string>
+    <string name="what_do_you_mainly_use_iptv_for">Шумо асосан IPTV-ро барои чӣ истифода мебаред?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Рӯйхати навозишҳои IPTV (M3U)-ро пайдо кунед, ки дар интернет дастрас аст.</string>
+    <string name="title_1">Ҷойгир кардани манбаи M3U</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Истиноди рӯйхати навозишро нусхабардорӣ кунед ё файли M3U-ро ба дастгоҳи худ зеркашӣ кунед.</string>
+    <string name="title_2">Маълумоти рӯйхати навозишро захира кунед</string>
+    <string name="title_3">Ба барнома бор кунед</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Барномаро кушоед → Иловаи рӯйхати навозиш-ро интихоб кунед → Аз URL-ро интихоб кунед → истинодро часбонед.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Ба рӯйхати навозиш дастрасӣ пайдо кунед ва тамошои каналҳои дӯстдоштаи худро оғоз кунед.</string>
+    <string name="title_4">Аз мундариҷаи худ лаззат баред</string>
+    <string name="search">Ҷустуҷӯ…</string>
+    <string name="all">Ҳама</string>
+    <string name="recent">Ба наздикӣ</string>
+    <string name="favorites">Дӯстдоштаҳо</string>
+    <string name="url">URL</string>
+    <string name="file">Файл</string>
+    <string name="no_channels_found">Ягон канал ёфт нашуд</string>
+    <string name="no_recents">Охирин нест</string>
+    <string name="play_something_to_begin">Барои оғоз кардани медиа сабт кунед</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Каналҳои навро бо пахш кардани тугмаи зер ворид кунед.</string>
+    <string name="a_z_sort">Навъи A-Z</string>
+    <string name="z_a_sort">Z-A Сорт</string>
+    <string name="_0_9_sort">0–9 Гузариш</string>
+    <string name="_9_0_sort">9-0 Гузариш</string>
+    <string name="refresh">Навсозӣ</string>
+    <string name="accept">Қабул кунед</string>
+    <string name="license_agreement">Шартномаи литсензионӣ</string>
+    <string name="i_agree">Ман ба Шартномаи литсензионӣ розӣ ҳастам</string>
+    <string name="content_license_agreement">IPTV рӯйхати навозишҳои M3U ва JSON-ро, ки аз ҷониби корбарон сохта шудаанд, дастгирӣ мекунад. Мо ягон мундариҷаро пешниҳод намекунем ё ҷойгир намекунем.\n\nИн барнома танҳо барои мундариҷаи қонунӣ гирифташуда пешбинӣ шудааст. Шумо масъул ҳастед, ки рӯйхати навозишҳо ва мундариҷаи шумо ба қонунҳо ва иҷозатҳои дахлдор мувофиқат кунанд.\n\nБо идома додан, шумо тасдиқ мекунед, ки ин шартҳоро мефаҳмед ва қабул мекунед.\n\nРадд\n\nIPTV ҳеҷ гуна мундариҷаро пешниҳод намекунад ё таблиғ намекунад ва бо провайдерҳои тарафи сеюм алоқаманд нест.\n\nИстифодабарандагон бояд мундариҷаи худро таъмин кунанд. Ҷараёни беиҷозати маводи ҳуқуқи муаллиф қатъиян манъ карда мешавад.</string>
+    <string name="content_1">Шумо метавонед бо калимаҳои калидӣ ба мисли "Рӯйхати навозиш IPTV M3U" ҷустуҷӯ кунед ё роҳнамоии хидматрасонии ТВ/Ҷараёнро санҷед.\nПайванди дурусти M3U маъмулан:\n• Бо http:// ё https://\n• Бо .m3u ё .m3u8 хотима меёбад\nТо ҳадди имкон кӯшиш кунед, ки манбаъҳои боэътимод ва қонуниро истифода баред. Аҳамият диҳед, ки баъзе рӯйхатҳои навозиш метавонад ба охир расад, маълумотҳои воридшавиро талаб кунанд ё аз рӯи минтақа маҳдуд шаванд.</string>
+    <string name="content_2">Барои нусхабардории URL-и M3U:\n• Дар мобилӣ: Истинодро пахш карда нигоҳ доред → Нусхабардории истинод-ро интихоб кунед\n• Дар мизи корӣ: Истиноди ростро клик кунед → Суроғаи Нусхабардории истинод-ро интихоб кунед\nБарои зеркашии файли рӯйхати навозиш:\n• Файли .m3u ё .m3u8-ро ба макони дастраси осон дар дастгоҳи худ захира кунед\nШумо метавонед баъдтар метавонед нигаҳдории маҳаллии худро ворид кунед (мувофиқ аз қадами 3).</string>
+    <string name="content_3">IPTV Smart Player-ро оғоз кунед.\nИловаи рӯйхати навозиш-ро интихоб кунед.\nЯке усули воридотро интихоб кунед:\n• Тавассути URL → Истиноди M3U-и худро часбонед\n• Аз Файл → Файли захирашудаи .m3u / .m3u8-ро дар дастгоҳи худ паймоиш кунед ва интихоб кунед\n(Ихтиёрӣ) Номи фармоиширо ворид кунед, то баъдтар рӯйхати навозишро ба осонӣ муайян кунед\nЗахира -ро клик кунед.</string>
+    <string name="content_4">Барои бор кардани каналҳо ва категорияҳо ба барнома фурсат диҳед.\nРӯйхати каналҳоро омӯзед ё хусусияти Ҷустуҷӯро истифода баред, то он чизеро, ки мехоҳед зуд пайдо кунед.\nАгар ягон мундариҷа пайдо нашавад:\n• Пайвасти интернети худро санҷед\n• Боварӣ ҳосил кунед, ки истинод ё файли M3U то ҳол эътибор дорад ва кор мекунад.</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Барои идомаи истифодаи барнома пайвасти интернет лозим аст.\nЛутфан танзимоти шабакаи худро санҷед ва аз нав пайваст шавед.</string>
+    <string name="retry">Аз нав кӯшиш кунед</string>
+    <string name="thank_you_for_using_iptv">Ташаккур ба шумо барои истифодаи IPTV</string>
+    <string name="playlist_name">Номи рӯйхати навозиш</string>
+    <string name="playlist">Рӯйхати навозиш</string>
+    <string name="save">Захира</string>
+    <string name="password">Рамз</string>
+    <string name="username">Номи корбар</string>
+    <string name="no_file_selected">Ягон файл интихоб нашудааст</string>
+    <string name="m3u_file">Файли M3U</string>
+    <string name="playlist_url">URL-и рӯйхати навозиш</string>
+    <string name="choose_icon">Нишона-ро интихоб кунед</string>
+    <string name="choose_color">Рангро интихоб кунед</string>
+    <string name="paste_your_url_here">URL-и худро дар ин ҷо гузоред</string>
+    <string name="edit">Таҳрир</string>
+    <string name="delete">Нобуд кунед</string>
+    <string name="rate_this_app">Ба ин барнома баҳо диҳед</string>
+    <string name="tell_us_about_your_experiences">Дар бораи таҷрибаи худ ба мо нақл кунед</string>
+    <string name="enter_your_stream_link_here">Истиноди ҷараёнии худро дар ин ҷо ворид кунед</string>
+    <string name="stream_link">Истиноди ҷараён</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Дастгирии протоколҳои шабакавӣ: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Каналҳо</string>
+    <string name="import_playlist_url">URL-и рӯйхати навозишро ворид кунед</string>
+    <string name="load_from_device">Бор кардан аз дастгоҳ</string>
+    <string name="play_single_stream">Ҷараёни ягонаро бозӣ кунед</string>
+    <string name="upload_m3u_file">Файли M3U-ро бор кунед</string>
+    <string name="all_channels">Хамаи каналхо</string>
+    <string name="playback_error">Хатои бозикунии</string>
+    <string name="no_internet_connection">Пайвасти интернет нест</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Ин канал муваққатан кор намекунад ё дар минтақаи шумо дастрас нест. Лутфан баъдтар бори дигар кӯшиш кунед.</string>
+    <string name="lock">Қулф</string>
+    <string name="full_screen">Тамомсафҳа</string>
+    <string name="pip">Пип</string>
+    <string name="screen_lock_press_to_unlock">Қулфи экран. Барои кушодан пахш кунед</string>
+    <string name="delete_playlist">Рӯйхати навозишро нест кунед?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Шумо мутмаин ҳастед, ки мехоҳед ин рӯйхати навозишро нест кунед? Ин амалро бекор кардан мумкин нест.</string>
+    <string name="yes_delete">Бале, нест кунед</string>
+    <string name="error_1">Шумо бояд майдонҳои заруриро пур кунед</string>
+    <string name="error_2">Баъзе майдонҳо нодурустанд</string>
+    <string name="success_1">Бомуваффақият ворид кунед</string>
+    <string name="success_2">Бомуваффақият захира кунед</string>
+    <string name="content_rate_1">Агар шумо вақти худро бо мо дӯст медоштед, лутфан рейтинги 5-ситорадорро тарк кунед!</string>
+    <string name="content_rate_2">Агар шумо вақти худро бо мо дӯст медоштед, лутфан рейтинги 5-ситорадорро тарк кунед!</string>
+    <string name="content_rate_3">Агар шумо вақти худро бо мо дӯст медоштед, лутфан рейтинги 5-ситорадорро тарк кунед!</string>
+    <string name="content_rate_4">Қариб комил? Мо барои он ситораи иловагӣ саъй хоҳем кард!</string>
+    <string name="content_rate_5">Шумо рӯзи моро комилан сохтед! 🌟 Бигзор эҳсосоти хубро идома диҳем.</string>
+    <string name="no_results_found_for">Ягон натиҷа барои</string>
+    <string name="the_device_does_not_support_pip">Дастгоҳ PiP-ро дастгирӣ намекунад.</string>
+    <string name="video_file_not_found">Файли видео ёфт нашуд</string>
+    <string name="minimize">Тирезаро кам кунед</string>
+    <string name="refresh_in_progress_please_wait">Навсозӣ идома дорад, лутфан интизор шавед…</string>
+    <string name="no_email_app_found">Ягон барномаи почтаи электронӣ ёфт нашуд!</string>
+    <string name="error_5">Баъзе майдонҳо нодурустанд</string>
+    <string name="no_favorite_channel_yet">Ҳанӯз ягон канали дӯстдошта нест</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Канали ба шумо маъқулро пайдо кунед ва дилро клик кунед, то онро нигоҳ доред.</string>
+    <string name="refreshed_successfully">Бомуваффақият навсозӣ шуд</string>
+    <string name="import_xtream_codes_api">API Codes Xtream ворид кунед</string>
+    <string name="suggestion">Пешниҳод</string>
+    <string name="suggestion_1">Оила</string>
+    <string name="suggestion_2">Варзиш</string>
+    <string name="suggestion_3">Филмҳо</string>
+    <string name="_100_no_ads">100% Бе реклама</string>
+    <string name="hd_4d_quality">Сифати HD ва 4D</string>
+    <string name="premium_channels">Каналҳои Premium</string>
+    <string name="most_popular">Маъмултарин</string>
+    <string name="weekly">Ҳар ҳафта</string>
+    <string name="monthly">Ҳармоҳа</string>
+    <string name="yearly">солона</string>
+    <string name="_3_day_free_trial">Озмоиши ройгони 3 рӯз</string>
+    <string name="something_went_wrong">Чизе хато кард</string>
+    <string name="content_error">Лутфан ин қадамро иҷро кунед ва дубора кӯшиш кунед:\n1. Пайвасти шабакавии худро санҷед\n2. Боварӣ ҳосил кунед, ки шумо ба ҳисоби Google-и худ ворид шудаед\n3. Боварӣ ҳосил кунед, ки шумо метавонед барномаи Google play-ро иҷро кунед</string>
+    <string name="cancel_anytime">Ҳар вақт бекор кунед</string>
+    <string name="term_of_use">
+        <u>Мӯҳлати истифода</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Сиёсати Корбурди Маълумоти Шахсӣ</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Версияи Premium шумо ҳоло фаъол аст. Аз истифодаи барнома лаззат баред!</string>
+    <string name="payment_success">Муваффақияти пардохт</string>
+    <string name="payment_failed">Пардохт иҷро нашуд</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Як масъалаи хурд пардохтро қатъ кард. Лутфан бори дигар кӯшиш кунед</string>
+    <string name="go_premium">Ба Premium гузаред</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Ҳама хусусиятҳоро кушоед ва аз барнома бидуни таблиғ лаззат баред!</string>
+    <string name="premium_member">Аъзои Premium</string>
+    <string name="active_until">То %s фаъол аст</string>
+    <string name="sever_url">Суроғаи URL</string>
+    <string name="find_an_xtream_account">Ҳисоби Xtream-ро пайдо кунед</string>
+    <string name="search_for_xtream_code_api_account_online">Ҷустуҷӯи "Ҳисоби Xtream Code API" онлайн.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Иловаи профилро клик кунед, то мундариҷаи худро захира кунед ва лаззат баред.</string>
+    <string name="start_streaming">Ҷараёнро оғоз кунед</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Барномаро кушоед ва майдонҳои профили Xtreamро пур кунед.</string>
+    <string name="enter_the_information">Маълумотро ворид кунед</string>
+    <string name="copy_the_server_url_username_and_password">URL-и сервер, номи корбар ва паролро нусхабардорӣ кунед.</string>
+    <string name="copy_the_account_details">Тафсилоти ҳисобро нусхабардорӣ кунед</string>
+    <string name="how_to_add_an_xtream_profile">Чӣ тавр илова кардани профили Xtream</string>
+    <string name="account_added_successfully">Ҳисоб бомуваффақият илова карда шуд</string>
+    <string name="your_account_is_ready_to_use">Ҳисоби шумо барои истифода омода аст</string>
+    <string name="view_now">Ҳоло бинед</string>
+    <string name="later">Баъдтар</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Барои оғози тамошо рӯйхати аввалини навозишро илова кунед</string>
+    <string name="title_slider_1">Ҷараёни варзиш дар телефон</string>
+    <string name="action_try_now">Ҳоло кӯшиш кунед</string>
+    <string name="title_slider_2">Рӯйхати навозиш филми худро созед</string>
+    <string name="title_slider_3">Аз ҳама хусусиятҳо бе таблиғ лаззат баред</string>
+    <string name="tap_to_search">Барои ҷустуҷӯ пахш кунед</string>
+    <string name="sports_hub">Маркази Варзиш</string>
+    <string name="wc_schedule">Ҷадвалҳо</string>
+    <string name="wc_team">Гурӯҳҳо</string>
+    <string name="wc_standing">Ҷадвалҳои баҳоди</string>
+    <string name="wc_today">Имрӯз</string>
+    <string name="wc_upcoming">Оянда</string>
+    <string name="wc_full_time">Вақти пурра</string>
+    <string name="wc_live">Зинда</string>
+    <string name="wc_no_matches">Ҳеҷ мусобиқа пайда нашуд</string>
+    <string name="wc_no_standings">Ҳеҷ ҷадвали баҳоди мавҷуд нест</string>
+    <string name="wc_remind_me">Маро ду ёд кун</string>
+    <string name="wc_updating">Навсозӣ…</string>
+    <string name="wc_match_detail">Тафсилоти мусобиқа</string>
+    <string name="wc_events">Ҷарёнҳо</string>
+    <string name="wc_no_events">Ҳеҷ ҷараён мавҷуд нест</string>
+    <string name="wc_no_events_desc">Мусобиқа ҳанӯз оғоз нашудаст. Ду ёддоштро танзим кунед, то ҳеҷ чизро вознегирӣ накунед.</string>
+    <string name="wc_switch_team">Ғайр кунии гурӯҳ</string>
+    <string name="wc_bracket">Қавсҳо</string>
+    <string name="wc_round_of_32">Раунди 32</string>
+    <string name="wc_starting_soon">Ба зудӣ оғоз мешавад</string>
+    <string name="wc_round_of_16">Раунди 16</string>
+    <string name="wc_quarter_finals">Чорёбиҳо</string>
+    <string name="wc_semi_finals">Нимфиналҳо</string>
+    <string name="wc_final">Финал</string>
+    <string name="wc_no_bracket">Ҳеҷ маълумоти қавсҳо мавҷуд нест</string>
+    <string name="wc_no_matches_today">Имрӯз ҳеҷ мусобиқаи нест</string>
+    <string name="wc_upcoming_fixtures">Мусобиқаҳои оянда дар ин ҷо пайдо мешаванд</string>
+    <string name="wc_no_recent">Ҳеҷ мусобиқаи охирин нест</string>
+    <string name="wc_no_upcoming">Ҳеҷ мусобиқаи оянда нест</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Барқарории Огаҳномаҳо</string>
+    <string name="noti_enable_desc">Огаҳномаҳои мусобиқа, навсозиҳои мундариҷаи нав ва ҳушдорҳои ҷидди трансляция гирифт.</string>
+    <string name="noti_go_to_setting">Ба танзимот равед</string>
+    <string name="visit_sports_hub">Маркази Варзишро дидан</string>
+    <string name="_3rd_place_final">Финали Ҷойи 3-юм</string>
+    <string name="_16th_finals">Финали 16-ум</string>
+    <string name="ranking_of_third_placed_teams">Рейтинги гурӯҳҳои сеюм ҷойй</string>
+    <string name="out">"Беруна: "</string>
+    <string name="_in">"Дар: "</string>
+    <string name="_2nd_half">Нимаи дуюм</string>
+    <string name="_1st_half">Нимаи аввал</string>
+    <string name="asst">Кумак. %1$s</string>
+    <string name="out_s">Беруна: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Мусобиқа ба итмом расид. Барномаро кушоед барои натиҷаи пурра.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Оғоз дар 15 дақиқа. Барномаро кушоед то пайравӣ кунед.</string>
+    <string name="live_now">Ҳало зинда</string>
+    <string name="full_time">Вақти пур</string>
+    <string name="_2nd_group">Гурӯҳи 2 %1$s</string>
+    <string name="_1st_group">Гурӯҳи 1 %1$s</string>
+    <string name="eighth_finals">Ҳаштум-финалҳо</string>
+    <string name="quarter_finals">Чорёбишӣ-финалҳо</string>
+    <string name="semi_finals">Ним-финалҳо</string>
+    <string name="winner">Фоизӣ</string>
+    <string name="loser">Шикаста</string>
+    <string name="round_of_32">Раунди 32</string>
+    <string name="round_of_16">Раунди 16</string>
+    <string name="_3rd_place">Ҷойи 3-ум</string>
+    <string name="_final">Финал</string>
+    <string name="group_stage">Марҳилаи гурӯҳӣ</string>
+    <string name="round">Раунди %1$d</string>
+    <string name="group">Гурӯҳ </string>
+    <string name="_1st">1-ум</string>
+    <string name="_2nd">2-ум</string>
+    <string name="_3rd">3-ум</string>
+    <string name="th">%1$dум</string>
+    <string name="remind_set">Ёдоварандаи танзим шуд</string>
+    <string name="remind_removed">Ёдоварандаи бартараф шуд</string>
+    <string name="_et1">Вақти Иловагӣ Ниме 1</string>
+    <string name="_et2">Вақти Иловагӣ Ниме 2</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Плей</string>
+    <string name="add_similar_items">Илова кунед ашёи монанд</string>
+    <string name="see_more">Бештар бинед</string>
+    <string name="see_less">Камтар бинед</string>
+    <string name="view_all">Ҳамасини бинед</string>
+    <string name="home">Сарсуҳта</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Ҳоло Зинда</string>
+    <string name="recommended_for_you">Барои Шумо Тавсиякардашуда</string>
+    <string name="new_series">Силсилаҳои Нав</string>
+    <string name="live_badge">ЗИНДА</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes таҷрибаи IPTV потоки барқарори фароҳам медиҳад.</string>
+    <string name="live_tv">Телевизиони Зинда</string>
+    <string name="movies">Филмҳо</string>
+    <string name="series">Силсилаҳо</string>
+    <string name="add_profile">Илова кунед Профил</string>
+    <string name="choose_your_profile">Профили худро интихоб кунед</string>
+    <string name="my_favorite">Дӯстони Ман</string>
+    <string name="live_channel">Канали Зинда</string>
+    <string name="your_favorite_list_is_empty">Рӯйхати дӯстони шумо холӣ аст</string>
+    <string name="edit_profile">Таҳрири Профил</string>
+    <string name="profile_name">Номи Профил</string>
+    <string name="delete_profile">Нест кунед Профил</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Оё шумо боварӣ доред, ки мехоҳед ин профилро нест кунед?</string>
+    <string name="no_browser_found">Барои кушодани ҷустуҷӯ ягон барнома пайдо нашуд</string>
+    <string name="reminder_noon_title_1">Вақти аз нав насб кардан 🧠</string>
+    <string name="reminder_noon_body_1">Танҳо як қисм барои тароват додани зеҳни шумо!</string>
+    <string name="reminder_noon_title_2">Якчанд дақиқа доред? 🎬</string>
+    <string name="reminder_noon_body_2">Каналҳои шумо танҳо як бор пахш кардан дур аст.</string>
+    <string name="reminder_noon_title_3">Каналҳои шумо интизоранд 📺</string>
+    <string name="reminder_noon_body_3">Телевизиони зинда, филмҳо ва силсилаҳо — ҳама дар як ҷо.</string>
+    <string name="reminder_evening_title_1">Вақти прайм-тайм оғоз шуд 🔥</string>
+    <string name="reminder_evening_body_1">Каналҳои шумо ҳозир пахши зинда доранд.</string>
+    <string name="reminder_evening_title_2">Имшаб чӣ хабар аст? ⚽</string>
+    <string name="reminder_evening_body_2">Варзиши зинда, қисмҳои нав ва бештар.</string>
+    <string name="reminder_evening_title_3">Имшаб дар телевизион 📺</string>
+    <string name="reminder_evening_body_3">Каналҳои зинда, филмҳо ва силсилаҳо — ҳама дар ин ҷо.</string>
+    <string name="reminder_no_playlist_title">Телевизиони шумо интизор аст 📺</string>
+    <string name="reminder_no_playlist_body">Плейлисти худро илова кунед ва тамошокуниро оғоз кунед.</string>
+    <string name="reminder_playlist_ready_title">Ҳама чиз омода аст! ✅</string>
+    <string name="reminder_playlist_ready_body">Барои тамошои канали дӯстдоштаатон зер кунед.</string>
+    <string name="noti_enable_title_ver_2">Ба %1$s иҷозат диҳед, ки ба шумо огоҳиномаҳо фиристад</string>
+    <string name="noti_enable_desc_ver_2">Ёдрасиҳои телевизиони зинда, навсозиҳои филмҳои нав ва огоҳиномаҳои муҳими пахш гиред</string>
+    <string name="deny">Рад кардан</string>
+    <string name="allow">Иҷозат додан</string>
+    <string name="tut_xtream_1">Бо истифода аз ягон системаи ҷустуҷӯ «Xtream Code API Account»-ро ҷустуҷӯ кунед</string>
+    <string name="tut_xtream_2">Бахши «Format» ё «Playlist»-ро ёбед ва маълумоти ҳисоби Xtream-ро нусхабардорӣ кунед</string>
+    <string name="tut_xtream_3">Ба барнома баргардед, тугмаи &quot;+&quot;-ро зер кунед, &quot;Import Stream Link&quot;-ро интихоб кунед, сипас пайвандро гузоред.</string>
+    <string name="tut_xtream_4">Аз тамошои Xtream лаззат баред</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Чӣ тавр профили Xtream илова кардан</u>
+    </string>
+</resources>

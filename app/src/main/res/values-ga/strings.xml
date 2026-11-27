@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Teanga réamhshocraithe</string>
+    <string name="setting">Socrú</string>
+    <string name="language">Teanga</string>
+    <string name="privacy_policy">Beartas príobháideachta</string>
+    <string name="get_started">Faigh Tosaigh</string>
+    <string name="welcome">Fáilte chuig</string>
+    <string name="next">Ar aghaidh</string>
+    <string name="title_onb_1">Féach ar gach rud</string>
+    <string name="content_onb_1">Faigh rochtain ar theilifís bheo, spóirt, scannáin agus cartúin am ar bith, áit ar bith.</string>
+    <string name="title_onb_2">Tóg Do Seinmliosta</string>
+    <string name="content_onb_2">Cuir leis na cainéil is breá leat agus féach orthu am ar bith, láithreach.</string>
+    <string name="habit_1">Teilifís beo</string>
+    <string name="habit_2">Scannáin</string>
+    <string name="habit_3">Spórt</string>
+    <string name="habit_4">Nuacht</string>
+    <string name="habit_5">Teaghlaigh</string>
+    <string name="habit_6">Siamsaíocht</string>
+    <string name="feedback">Aiseolas</string>
+    <string name="rate_now">Ráta Anois</string>
+    <string name="send_feedback">Seol Aiseolas</string>
+    <string name="cancel">Cealaigh</string>
+    <string name="please_select_your_language">Roghnaigh do theanga le do thoil</string>
+    <string name="please_choose_at_least_one_option">Roghnaigh rogha amháin ar a laghad</string>
+    <string name="try_again">Bain triail eile as</string>
+    <string name="got_it">Fuair ​​​​sé!</string>
+    <string name="_continue">Lean ort</string>
+    <string name="tutorial">Teagaisc</string>
+    <string name="how_to_add_a_playlist">Conas Seinmliosta a Chur Leis</string>
+    <string name="tutorial_step_1">Déan cuardach do \"seinnliosta IPTV poiblí\" ag úsáid inneall cuardaigh ar bith.</string>
+    <string name="tutorial_step_2">Cóipeáil an nasc seinmliosta M3U nó sábháil na comhaid seinmliosta.</string>
+    <string name="tutorial_step_3">Oscail an aip arís.\nTapáil ar an gcnaipe \"+\", roghnaigh \"Iompórtáil URL an Seinmliosta\", agus greamaigh an nasc.</string>
+    <string name="tutorial_step_4">Bain sult as féachaint ar do chainéil IPTV!</string>
+    <string name="tab_import_url">Iompórtáil URL</string>
+    <string name="tab_upload_file">Uaslódáil comhad</string>
+    <string name="tab_stream">Sruthán</string>
+    <string name="tut_url_1">Déan cuardach do \"seinnliosta IPTV poiblí\" ag úsáid inneall cuardaigh ar bith.</string>
+    <string name="tut_url_2">Cóipeáil an nasc seinmliosta M3U nó sábháil an comhad seinmliosta.</string>
+    <string name="tut_url_3">Oscail an aip arís.\nTapáil ar an gcnaipe \"+\", roghnaigh \"Iompórtáil URL an Seinmliosta\", agus greamaigh an nasc.</string>
+    <string name="tut_url_4">Bain sult as féachaint ar do chainéil IPTV!</string>
+    <string name="tut_file_1">Déan cuardach do \"comhad M3U\" ag úsáid inneall cuardaigh ar bith.</string>
+    <string name="tut_file_2">Sábháil an comhad .m3u ar do ghléas.</string>
+    <string name="tut_file_3">Fill ar an aip, tapáil an cnaipe \"+\", roghnaigh \"Uaslódáil Comhad M3U\", ansin roghnaigh an comhad a d\'íoslódáil tú.</string>
+    <string name="tut_file_4">Bain sult as féachaint ar do chainéil IPTV!</string>
+    <string name="tut_stream_1">Déan cuardach do \"URL sruth IPTV poiblí\" ag úsáid inneall cuardaigh ar bith.</string>
+    <string name="tut_stream_2">Cóipeáil an URL sruth iomlán chuig do ghearrthaisce.</string>
+    <string name="tut_stream_3">Fill ar an aip, tapáil an cnaipe \"+\", roghnaigh \"Iompórtáil Nasc Sruthán\", ansin greamaigh an nasc.</string>
+    <string name="tut_stream_4">Bain sult as féachaint ar do chainéil IPTV!</string>
+    <string name="unlock_premium">Díghlasáil</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">Bheimis fíor bhuíoch dá bhféadfá aiseolas mionsonraithe a thabhairt dúinn (6 charachtar ar a laghad)</string>
+    <string name="at_least_6_characters">6 charachtar ar a laghad</string>
+    <string name="loading">Á lódáil…</string>
+    <string name="install_now">Suiteáil anois</string>
+    <string name="channels">%1$d cainéal</string>
+    <string name="this_action_may_contain_ads">Seans go mbeidh fógraí sa ghníomh seo</string>
+    <string name="what_do_you_mainly_use_iptv_for">Cad chuige a mbaineann tú úsáid go príomha as IPTV?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Aimsigh seinmliosta IPTV (M3U) atá ar fáil ar líne.</string>
+    <string name="title_1">Aimsigh Foinse M3U</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Cóipeáil an nasc seinmliosta nó íoslódáil an comhad M3U chuig do ghléas.</string>
+    <string name="title_2">Sábháil an Seinmliosta Faisnéise</string>
+    <string name="title_3">Uaslódáil chuig an App</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Oscail an aip → roghnaigh Cuir Seinmliosta leis → roghnaigh Ó URL → greamaigh an nasc.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Faigh rochtain ar an seinmliosta agus tosú ag féachaint ar na cainéil is fearr leat.</string>
+    <string name="title_4">Bain sult as d\'Ábhar</string>
+    <string name="search">Cuardaigh…</string>
+    <string name="all">Gach</string>
+    <string name="recent">le déanaí</string>
+    <string name="favorites">Ceanáin</string>
+    <string name="url">URL</string>
+    <string name="file">Comhad</string>
+    <string name="no_channels_found">Níor aimsíodh aon chainéil</string>
+    <string name="no_recents">Uimh déanaí</string>
+    <string name="play_something_to_begin">Seinn meáin chun tús a chur</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Iompórtáil cainéil nua trí chliceáil ar an gcnaipe thíos.</string>
+    <string name="a_z_sort">Sórtáil A-Z</string>
+    <string name="z_a_sort">Sórtáil Z-A</string>
+    <string name="_0_9_sort">0–9 Sórtáil</string>
+    <string name="_9_0_sort">9–0 Sórtáil</string>
+    <string name="refresh">Athnuaigh</string>
+    <string name="accept">Glac</string>
+    <string name="license_agreement">Comhaontú Ceadúnais</string>
+    <string name="i_agree">Aontaím leis an gComhaontú Ceadúnais</string>
+    <string name="content_license_agreement">Tacaíonn IPTV le seinmliostaí M3U agus JSON cruthaithe ag úsáideoirí. Ní sholáthraímid ná ní dhéanaimid óstáil ar aon inneachar.\n\nTá an aip seo dírithe ar ábhar a fhaightear go dleathach amháin. Tá tú freagrach as a chinntiú go gcomhlíonann do sheinnliostaí agus d’inneachar na dlíthe agus na ceadanna is infheidhme.\n\nMá leanann tú ar aghaidh, deimhníonn tú go dtuigeann tú na téarmaí seo agus go nglacann tú leo.\n\nSéanadh\n\nNí chuireann IPTV aon inneachar ar fáil ná ní chuireann sé chun cinn é agus nach bhfuil sé cleamhnaithe le soláthraithe tríú páirtí.\n\nNí mór d’úsáideoirí a n-inneachar féin a sholáthar. Moltar go láidir sruthú neamhúdaraithe ábhair faoi chóipcheart.</string>
+    <string name="content_1">Is féidir leat cuardach a dhéanamh ar líne le heochairfhocail ar nós “IPTV M3U playlist” nó seiceáil an treoir a sholáthraíonn do sheirbhís teilifíse/sruthaithe.\nTá nasc ceart M3U de ghnáth:\n• Tosaíonn le http:// nó https://\n• Críochnaíonn sé le .m3u nó .m3u8\nDéan iarracht foinsí iontaofa agus dlíthiúla a úsáid nuair is féidir. Tabhair faoi deara go bhféadfadh roinnt seinmliostaí dul in éag, dintiúir logáil isteach a bheith ag teastáil uathu, nó a bheith teoranta de réir réigiúin.</string>
+    <string name="content_2">Chun URL an M3U a chóipeáil:\n• Ar fhóin phóca: Tapáil agus coinnigh an nasc → roghnaigh Cóipeáil nasc\n• Ar an deasc: Deaschliceáil ar an nasc → roghnaigh Cóipeáil seoladh an naisc\nChun an comhad seinmliosta a íoslódáil:\n• Sábháil an comhad .m3u nó .m3u8 chuig suíomh atá éasca le rochtain ar do ghléas\nIs féidir leat an comhad a iompórtáil go díreach ó do stór áitiúil ar ball (féach Céim 3).</string>
+    <string name="content_3">Seoladh IPTV Smart Player.\nRoghnaigh Cuir Seinmliosta leis.\nRoghnaigh modh amháin lena iompórtáil:\n• Trí URL → Greamaigh do nasc M3U\n• Ó Chomhad → Brabhsáil agus roghnaigh an comhad .m3u / .m3u8 atá sábháilte ar do ghléas\n(Roghnach) Iontráil ainm saincheaptha chun do sheinnliosta a aithint go héasca níos déanaí\nTapáil Sábháil chun críochnú.</string>
+    <string name="content_4">Tabhair nóiméad don aip chun cainéil agus catagóirí a luchtú.\nDéan iniúchadh ar an liosta cainéal nó úsáid an ghné Cuardaigh chun a bhfuil uait a fháil go tapa.\nMura dtaispeánann aon ábhar:\n• Seiceáil do cheangal idirlín\n• Cinntigh go bhfuil an nasc nó an comhad M3U fós bailí agus ag obair</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Tá nasc idirlín ag teastáil chun leanúint leis an aip a úsáid.\nSeiceáil do shocruithe líonra agus athcheangail le do thoil.</string>
+    <string name="retry">Bain triail eile as</string>
+    <string name="thank_you_for_using_iptv">Go raibh maith agat as IPTV a úsáid</string>
+    <string name="playlist_name">Ainm an Seinmliosta</string>
+    <string name="playlist">Seinmliosta</string>
+    <string name="save">Sábháil</string>
+    <string name="password">Pasfhocal</string>
+    <string name="username">Ainm úsáideora</string>
+    <string name="no_file_selected">Níor roghnaíodh aon chomhad</string>
+    <string name="m3u_file">Comhad M3U</string>
+    <string name="playlist_url">URL seinmliosta</string>
+    <string name="choose_icon">Roghnaigh Deilbhín</string>
+    <string name="choose_color">Roghnaigh Dath</string>
+    <string name="paste_your_url_here">Greamaigh do URL anseo</string>
+    <string name="edit">Cuir in eagar</string>
+    <string name="delete">Scrios</string>
+    <string name="rate_this_app">Déan rátáil ar an aip seo</string>
+    <string name="tell_us_about_your_experiences">Inis dúinn faoi do thaithí</string>
+    <string name="enter_your_stream_link_here">Cuir isteach do nasc sruth anseo</string>
+    <string name="stream_link">Nasc sruth</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Prótacail líonra tacaíochta: http, ftp, rtsp, rtp, udp…</string>
+    <string name="channel">Cainéil</string>
+    <string name="import_playlist_url">Iompórtáil URL Seinmliosta</string>
+    <string name="load_from_device">Luchtaigh Ó Gléas</string>
+    <string name="play_single_stream">Seinn sruth amháin</string>
+    <string name="upload_m3u_file">Íoslódáil an comhad m3u</string>
+    <string name="all_channels">Gach Cainéil</string>
+    <string name="playback_error">Earráid Athsheinm</string>
+    <string name="no_internet_connection">Gan nasc Idirlín</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Tá an cainéal seo as seirbhís go sealadach nó níl sé ar fáil i do réigiún. Bain triail eile as ar ball.</string>
+    <string name="lock">Glasáil</string>
+    <string name="full_screen">scáileán iomlán</string>
+    <string name="pip">Píob</string>
+    <string name="screen_lock_press_to_unlock">Glasáil scáileáin. Brúigh chun díghlasáil</string>
+    <string name="delete_playlist">Scrios Seinmliosta?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">An bhfuil tú cinnte gur mhaith leat an seinmliosta seo a scriosadh? Ní féidir an gníomh seo a chealú.</string>
+    <string name="yes_delete">Sea, scrios</string>
+    <string name="error_1">Ní mór duit réimsí riachtanacha a líonadh</string>
+    <string name="error_2">Tá roinnt réimsí neamhbhailí</string>
+    <string name="success_1">D\'éirigh le hiompórtáil</string>
+    <string name="success_2">Sábháil go rathúil</string>
+    <string name="content_rate_1">Má thaitin do chuid ama linn leat, fág rátáil 5 réalta le do thoil!</string>
+    <string name="content_rate_2">Má thaitin do chuid ama linn leat, fág rátáil 5 réalta le do thoil!</string>
+    <string name="content_rate_3">Má thaitin do chuid ama linn leat, fág rátáil 5 réalta le do thoil!</string>
+    <string name="content_rate_4">Beagnach foirfe? Déanfaimid ár ndícheall an réalta bhreise sin!</string>
+    <string name="content_rate_5">Rinne tú ár lá go hiomlán! 🌟 Coinnímid na dea-chraiceanna ag rolladh.</string>
+    <string name="no_results_found_for">Níor aimsíodh aon torthaí le haghaidh</string>
+    <string name="the_device_does_not_support_pip">Ní thacaíonn an gléas PiP.</string>
+    <string name="video_file_not_found">Níor aimsíodh an comhad físe</string>
+    <string name="minimize">Íoslaghdaigh an fhuinneog</string>
+    <string name="refresh_in_progress_please_wait">Athnuaigh ar siúl, fan go fóill...</string>
+    <string name="no_email_app_found">Níor aimsíodh aon aip ríomhphoist!</string>
+    <string name="error_5">Tá roinnt réimsí neamhbhailí</string>
+    <string name="no_favorite_channel_yet">Níl an cainéal is fearr leat fós</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Aimsigh cainéal is maith leat agus tapáil an croí chun é a choinneáil.</string>
+    <string name="refreshed_successfully">D\'éirigh leis an athnuachan</string>
+    <string name="import_xtream_codes_api">Iompórtáil Xtream Codes API</string>
+    <string name="suggestion">Moladh</string>
+    <string name="suggestion_1">Teaghlaigh</string>
+    <string name="suggestion_2">Spórt</string>
+    <string name="suggestion_3">Scannáin</string>
+    <string name="_100_no_ads">100% Gan Fógraí</string>
+    <string name="hd_4d_quality">HD &amp; 4D Cáilíochta</string>
+    <string name="premium_channels">Cainéil Préimh</string>
+    <string name="most_popular">An chuid is mó tóir</string>
+    <string name="weekly">Seachtainiúil</string>
+    <string name="monthly">go míosúil</string>
+    <string name="yearly">Bliantúil</string>
+    <string name="_3_day_free_trial">Triail saor in aisce 3 lá</string>
+    <string name="something_went_wrong">Chuaigh rud éigin mícheart</string>
+    <string name="content_error">Lean an chéim seo agus bain triail eile as:\n1. Seiceáil do cheangal líonra\n2. Cinntigh go bhfuil tú logáilte isteach i do Chuntas Google\n3. Cinntigh gur féidir leat an feidhmchlár súgartha Google a rith</string>
+    <string name="cancel_anytime">Cealaigh am ar bith</string>
+    <string name="term_of_use">
+        <u>Téarma úsáide</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Beartas príobháideachta</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Tá do leagan Préimh gníomhach anois. Bain sult as an aip a úsáid!</string>
+    <string name="payment_success">Rath Íocaíochta</string>
+    <string name="payment_failed">Theip ar an íocaíocht</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Chuir ceist bheag stop leis an íocaíocht. Bain triail eile as</string>
+    <string name="go_premium">Téigh Préimh</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Díghlasáil na gnéithe go léir agus bain sult as an aip gan aon fhógraí!</string>
+    <string name="premium_member">Ball Préimhe</string>
+    <string name="active_until">Gníomhach go dtí %s</string>
+    <string name="sever_url">URL an fhreastalaí</string>
+    <string name="find_an_xtream_account">Aimsigh cuntas Xtream</string>
+    <string name="search_for_xtream_code_api_account_online">Cuardaigh "Cuntas API Cód Xtream" ar líne.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Tapáil Cuir Próifíl leis chun d\'ábhar a shábháil agus taitneamh a bhaint as.</string>
+    <string name="start_streaming">Tosaigh sruthú</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Oscail an app agus líon isteach na réimsí próifíl Xtream.</string>
+    <string name="enter_the_information">Cuir isteach an t-eolas</string>
+    <string name="copy_the_server_url_username_and_password">Cóipeáil an URL Freastalaí, Ainm Úsáideora, agus Pasfhocal.</string>
+    <string name="copy_the_account_details">Cóipeáil sonraí an chuntais</string>
+    <string name="how_to_add_an_xtream_profile">Conas Próifíl Xtream a Chur Leis</string>
+    <string name="account_added_successfully">D\'éirigh leis an gcuntas a chur leis</string>
+    <string name="your_account_is_ready_to_use">Tá do chuntas réidh le húsáid</string>
+    <string name="view_now">Féach anois</string>
+    <string name="later">Níos déanaí</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Cuir do chéad seinmliosta leis chun tosú ag breathnú</string>
+    <string name="title_slider_1">Íosluchtaigh spóirt beo ar an fón</string>
+    <string name="action_try_now">Bain triail as anois</string>
+    <string name="title_slider_2">Cruthaigh do Seinmliosta Scannán</string>
+    <string name="title_slider_3">Bain sult as na gnéithe go léir gan fógraí</string>
+    <string name="tap_to_search">Tapáil chun Cuardach</string>
+    <string name="sports_hub">Hub Spóirt</string>
+    <string name="wc_schedule">Sceidil</string>
+    <string name="wc_team">Foirne</string>
+    <string name="wc_standing">Seasamh</string>
+    <string name="wc_today">Inniu</string>
+    <string name="wc_upcoming">Ag teacht</string>
+    <string name="wc_full_time">Am iomlán</string>
+    <string name="wc_live">Beo</string>
+    <string name="wc_no_matches">Níl aon imirt aimsithe</string>
+    <string name="wc_no_standings">Níl aon stádas ar fáil</string>
+    <string name="wc_remind_me">Cuir i gcuimhne dom</string>
+    <string name="wc_updating">Ag nuashonrú…</string>
+    <string name="wc_match_detail">Sonraí an Imirt</string>
+    <string name="wc_events">Imeachtaí</string>
+    <string name="wc_no_events">Níl aon imeachtaí ar fáil</string>
+    <string name="wc_no_events_desc">Níl an imirt tosaithe go fóill. Socraigh meabhrúchán ionas nach mbeidh d\'fhaisnéis ar iarraidh.</string>
+    <string name="wc_switch_team">Athraigh Foireann</string>
+    <string name="wc_bracket">Braistear</string>
+    <string name="wc_round_of_32">Babhtaí ar 32</string>
+    <string name="wc_starting_soon">Ag tosú go fóill</string>
+    <string name="wc_round_of_16">Babhtaí ar 16</string>
+    <string name="wc_quarter_finals">Ceathairfhionráir</string>
+    <string name="wc_semi_finals">Leathfhionráir</string>
+    <string name="wc_final">Fionráir</string>
+    <string name="wc_no_bracket">Níl aon bhraistear sonraí ar fáil</string>
+    <string name="wc_no_matches_today">Gan Imirt Inniu</string>
+    <string name="wc_upcoming_fixtures">Feistiú ag teacht a bheidh ar taispeáint anseo</string>
+    <string name="wc_no_recent">Níl aon imirt dhéanaí</string>
+    <string name="wc_no_upcoming">Níl aon imirt dheiridh</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Cumasaigh Fógraí</string>
+    <string name="noti_enable_desc">Faigh meabhrúcháin imirt, nuashonruithe ábhair nua, agus fógraí sreabhadh tábhachtacha.</string>
+    <string name="noti_go_to_setting">Téigh go socrúchán</string>
+    <string name="visit_sports_hub">Tabhair cuairt ar Sports Hub</string>
+    <string name="_3rd_place_final">Fionráir an 3ú Áit</string>
+    <string name="_16th_finals">16ú Dhréicheal</string>
+    <string name="ranking_of_third_placed_teams">Rangú na bhfoireann ar an 3ú áit</string>
+    <string name="out">"Amach: "</string>
+    <string name="_in">"I: "</string>
+    <string name="_2nd_half">2ú Leath</string>
+    <string name="_1st_half">An 1ú Leath</string>
+    <string name="asst">Cúntóir %1$s</string>
+    <string name="out_s">Amach: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">Tá an imirt críochnaithe. Oscail an aip chun an toradh iomlán a fháil.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Tosú i 15 nóiméad. Oscail an aip chun a leanúint.</string>
+    <string name="live_now">Beo anois</string>
+    <string name="full_time">Am iomlán</string>
+    <string name="_2nd_group">2ú Ghrúpa %1$s</string>
+    <string name="_1st_group">1ú Ghrúpa %1$s</string>
+    <string name="eighth_finals">Ochtú Fináil</string>
+    <string name="quarter_finals">Ceathrú Fináil</string>
+    <string name="semi_finals">Leathfhináil</string>
+    <string name="winner">Buaiteoir</string>
+    <string name="loser">Caillitheoir</string>
+    <string name="round_of_32">Babhta 32</string>
+    <string name="round_of_16">Babhta 16</string>
+    <string name="_3rd_place">3ú Áit</string>
+    <string name="_final">An Final</string>
+    <string name="group_stage">Céim an Ghrúpa</string>
+    <string name="round">Babhta %1$d</string>
+    <string name="group">Grúpa </string>
+    <string name="_1st">1ú</string>
+    <string name="_2nd">2ú</string>
+    <string name="_3rd">3ú</string>
+    <string name="th">%1$dú</string>
+    <string name="remind_set">Meabhrúchán socraíthe</string>
+    <string name="remind_removed">Meabhrúchán bainte</string>
+    <string name="_et1">Am Bhreise 1ú Leath</string>
+    <string name="_et2">Am Bhreise 2ú Leath</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Imirt</string>
+    <string name="add_similar_items">Cuir míreanna cosúla leis</string>
+    <string name="see_more">Féach ar bhreise</string>
+    <string name="see_less">Féach ar bhreise níos lú</string>
+    <string name="view_all">Féach ar an uile</string>
+    <string name="home">Baile</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Beo Anois</string>
+    <string name="recommended_for_you">Arna Mholadh Duit</string>
+    <string name="new_series">Sraith Nua</string>
+    <string name="live_badge">BEO</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Cuireann Xtream Codes taithí IPTV sruthaithe iontaofa ar fáil.</string>
+    <string name="live_tv">Teilifís Bheo</string>
+    <string name="movies">Scannáin</string>
+    <string name="series">Sraith</string>
+    <string name="add_profile">Cuir Próifíl Leis</string>
+    <string name="choose_your_profile">Roghnaigh Do Phróifíl</string>
+    <string name="my_favorite">Mo Rogha Féin</string>
+    <string name="live_channel">Sruth Beo</string>
+    <string name="your_favorite_list_is_empty">Tá do liosta rogha féin folamh</string>
+    <string name="edit_profile">Cuir Próifíl in Eagar</string>
+    <string name="profile_name">Ainm an Phróifíl</string>
+    <string name="delete_profile">Scrios Próifíl</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">An bhfuil tú cinnte go bhágfaidh tú an próifíl seo a scriosadh?</string>
+    <string name="no_browser_found">Níor aimsíodh aon aip chun an cuardach a oscailt</string>
+    <string name="reminder_noon_title_1">Am athshocraithe 🧠</string>
+    <string name="reminder_noon_body_1">Eipeasóid amháin chun d\'intinn a athnuachan!</string>
+    <string name="reminder_noon_title_2">An bhfuil cúpla nóiméad agat? 🎬</string>
+    <string name="reminder_noon_body_2">Tá do chainéil díreach cnaipe amháin uait.</string>
+    <string name="reminder_noon_title_3">Tá do chainéil ag fanacht 📺</string>
+    <string name="reminder_noon_body_3">Teilifís bheo, scannáin &amp; sraitheanna — go léir in aon áit amháin.</string>
+    <string name="reminder_evening_title_1">Tá am ard-fhéachana ar siúl 🔥</string>
+    <string name="reminder_evening_body_1">Tá do chainéil beo faoi láthair.</string>
+    <string name="reminder_evening_title_2">Cad atá ar siúl anocht? ⚽</string>
+    <string name="reminder_evening_body_2">Spórt beo, eipeasóidí nua &amp; tuilleadh.</string>
+    <string name="reminder_evening_title_3">Anocht ar an teilifís 📺</string>
+    <string name="reminder_evening_body_3">Cainéil bheo, scannáin &amp; sraitheanna — go léir anseo.</string>
+    <string name="reminder_no_playlist_title">Tá do theilifís ag fanacht 📺</string>
+    <string name="reminder_no_playlist_body">Cuir do sheinnliosta leis agus tosaigh ag féachaint.</string>
+    <string name="reminder_playlist_ready_title">Tá gach rud réidh! ✅</string>
+    <string name="reminder_playlist_ready_body">Tapáil chun do chainéal is fearr leat a fheiceáil.</string>
+    <string name="noti_enable_title_ver_2">Ceadaigh do %1$s fógraí a sheoladh chugat</string>
+    <string name="noti_enable_desc_ver_2">Faigh meabhrúcháin teilifíse bí, nuashonruithe scannán nua, agus foláirimh sruthú thábhachtacha</string>
+    <string name="deny">Diúltaigh</string>
+    <string name="allow">Ceadaigh</string>
+    <string name="tut_xtream_1">Cuardaigh “Xtream Code API Account” ag baint úsáide as aon inneall cuardaigh</string>
+    <string name="tut_xtream_2">Aimsigh an rannán “Format” nó “Playlist” agus cóipeáil faisnéis chuntas Xtream</string>
+    <string name="tut_xtream_3">Téigh ar ais go dtí an aip, tapáil an cnaipe &quot;+&quot;, roghnaigh &quot;Import Stream Link&quot;, ansin greamaigh an nasc.</string>
+    <string name="tut_xtream_4">Bain sult as bheith ag féachaint ar Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Conas Próifíl Xtream a chur leis</u>
+    </string>
+</resources>

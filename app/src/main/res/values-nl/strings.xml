@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_english_na" translatable="false">English</string>
+    
+    <string name="lan_spanish_na" translatable="false">Español</string>
+    
+    <string name="lan_german_na" translatable="false">Deutsch</string>
+    
+    <string name="lan_portuguese_na" translatable="false">Português</string>
+    
+    <string name="lan_hindi_na" translatable="false">हिन्दी</string>
+    
+    <string name="lan_vietnamese_na" translatable="false">Tiếng Việt</string>
+    
+    <string name="lan_arabic_na" translatable="false">عربي</string>
+    
+    <string name="lan_french_na" translatable="false">Français</string>
+    
+    <string name="lan_indonesian_na" translatable="false">Bahasa Indo</string>
+    
+    <string name="lan_filipino_na" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_na" translatable="false">ภาษาไทย</string>
+    
+    <string name="lan_chinese_na" translatable="false">中国语訳</string>
+    
+    <string name="lan_japanese_na" translatable="false">日本語</string>
+    
+    <string name="lan_korean_na" translatable="false">한국어</string>
+    
+    <string name="lan_italian_na" translatable="false">Italiano</string>
+    
+    <string name="lan_dutch_na" translatable="false">Nederlands</string>
+    
+    <string name="lan_turkish_na" translatable="false">Türkçe</string>
+    
+    <string name="lan_english_en" translatable="false">English</string>
+    
+    <string name="lan_spanish_en" translatable="false">Spanish</string>
+    
+    <string name="lan_german_en" translatable="false">German</string>
+    
+    <string name="lan_portuguese_en" translatable="false">Portuguese</string>
+    
+    <string name="lan_hindi_en" translatable="false">Hindi</string>
+    
+    <string name="lan_vietnamese_en" translatable="false">Vietnamese</string>
+    
+    <string name="lan_arabic_en" translatable="false">Arabic</string>
+    
+    <string name="lan_french_en" translatable="false">French</string>
+    
+    <string name="lan_indonesian_en" translatable="false">Indonesian</string>
+    
+    <string name="lan_filipino_en" translatable="false">Filipino</string>
+    
+    <string name="lan_thai_en" translatable="false">Thai</string>
+    
+    <string name="lan_chinese_en" translatable="false">Chinese</string>
+    
+    <string name="lan_japanese_en" translatable="false">Japanese</string>
+    
+    <string name="lan_korean_en" translatable="false">Korean</string>
+    
+    <string name="lan_italian_en" translatable="false">Italian</string>
+    
+    <string name="lan_dutch_en" translatable="false">Dutch</string>
+    
+    <string name="lan_turkish_en" translatable="false">Turkish</string>
+
+    
+    <string name="lan_defaults">Standaardtaal</string>
+    <string name="setting">Instelling</string>
+    <string name="language">Taal</string>
+    <string name="privacy_policy">Privacybeleid</string>
+    <string name="get_started">Aan de slag</string>
+    <string name="welcome">Welkom bij</string>
+    <string name="next">Volgende</string>
+    <string name="title_onb_1">Bekijk alles</string>
+    <string name="content_onb_1">Altijd en overal toegang tot live tv, sport, films en tekenfilms.</string>
+    <string name="title_onb_2">Bouw uw afspeellijst</string>
+    <string name="content_onb_2">Voeg kanalen toe waar u van houdt en bekijk ze altijd en direct.</string>
+    <string name="habit_1">Live-tv</string>
+    <string name="habit_2">Films</string>
+    <string name="habit_3">Sport</string>
+    <string name="habit_4">Nieuws</string>
+    <string name="habit_5">Familie</string>
+    <string name="habit_6">Amusement</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_now">Beoordeel nu</string>
+    <string name="send_feedback">Feedback verzenden</string>
+    <string name="cancel">Annuleren</string>
+    <string name="please_select_your_language">Selecteer uw taal</string>
+    <string name="please_choose_at_least_one_option">Kies ten minste één optie</string>
+    <string name="try_again">Probeer het opnieuw</string>
+    <string name="got_it">Begrepen!</string>
+    <string name="_continue">Doorgaan</string>
+    <string name="tutorial">Handleiding</string>
+    <string name="how_to_add_a_playlist">Hoe een afspeellijst toe te voegen</string>
+    <string name="tutorial_step_1">Zoek naar \"openbare IPTV-afspeellijst\" met behulp van een zoekmachine.</string>
+    <string name="tutorial_step_2">Kopieer de M3U-afspeellijstlink of sla de afspeellijstbestanden op.</string>
+    <string name="tutorial_step_3">Open de app opnieuw.\nTik op de knop \"+\", selecteer \"Afspeellijst-URL importeren\" en plak de link.</string>
+    <string name="tutorial_step_4">Geniet van het kijken naar uw IPTV-kanalen!</string>
+    <string name="tab_import_url">Import-URL</string>
+    <string name="tab_upload_file">Bestand uploaden</string>
+    <string name="tab_stream">Stroom</string>
+    <string name="tut_url_1">Zoek naar \"openbare IPTV-afspeellijst\" met behulp van een zoekmachine.</string>
+    <string name="tut_url_2">Kopieer de M3U-afspeellijstlink of sla het afspeellijstbestand op.</string>
+    <string name="tut_url_3">Open de app opnieuw.\nTik op de knop \"+\", selecteer \"Afspeellijst-URL importeren\" en plak de link.</string>
+    <string name="tut_url_4">Geniet van het kijken naar uw IPTV-kanalen!</string>
+    <string name="tut_file_1">Zoek naar \"M3U-bestand\" met een willekeurige zoekmachine.</string>
+    <string name="tut_file_2">Sla het .m3u-bestand op uw apparaat op.</string>
+    <string name="tut_file_3">Keer terug naar de app, tik op de knop \"+\", selecteer \"M3U-bestand uploaden\" en kies vervolgens het bestand dat u hebt gedownload.</string>
+    <string name="tut_file_4">Geniet van het kijken naar uw IPTV-kanalen!</string>
+    <string name="tut_stream_1">Zoek naar \"openbare IPTV-stream-URL\" met behulp van een zoekmachine.</string>
+    <string name="tut_stream_2">Kopieer de volledige stream-URL naar uw klembord.</string>
+    <string name="tut_stream_3">Keer terug naar de app, tik op de knop \"+\", selecteer \"Streamlink importeren\" en plak de link.</string>
+    <string name="tut_stream_4">Geniet van het kijken naar uw IPTV-kanalen!</string>
+    <string name="unlock_premium">Ontgrendelen</string>
+    <string name="we_would_kindly_appreciate_if_you_could_give_us_detailed_feedback_at_least_6_characters">We zouden het op prijs stellen als u ons gedetailleerde feedback zou kunnen geven (minimaal 6 tekens)</string>
+    <string name="at_least_6_characters">Minimaal 6 tekens</string>
+    <string name="loading">Laden…</string>
+    <string name="install_now">Installeer nu</string>
+    <string name="channels">%1$d kanalen</string>
+    <string name="this_action_may_contain_ads">Deze actie kan advertenties bevatten</string>
+    <string name="what_do_you_mainly_use_iptv_for">Waar gebruik je IPTV voornamelijk voor?</string>
+    <string name="find_an_iptv_playlist_m3u_that_s_available_online">Zoek een IPTV-afspeellijst (M3U) die online beschikbaar is.</string>
+    <string name="title_1">Zoek een M3U-bron</string>
+    <string name="copy_the_playlist_link_or_download_the_m3u_file_to_your_device">Kopieer de afspeellijstlink of download het M3U-bestand naar uw apparaat.</string>
+    <string name="title_2">Sla de afspeellijstinformatie op</string>
+    <string name="title_3">Uploaden naar de app</string>
+    <string name="open_the_app_select_add_playlist_choose_from_url_paste_the_link">Open de app → selecteer Afspeellijst toevoegen → kies Van URL → plak de link.</string>
+    <string name="access_the_playlist_and_start_watching_your_favorite_channels">Open de afspeellijst en kijk naar uw favoriete kanalen.</string>
+    <string name="title_4">Geniet van uw inhoud</string>
+    <string name="search">Zoekopdracht…</string>
+    <string name="all">Alle</string>
+    <string name="recent">Recent</string>
+    <string name="favorites">Favorieten</string>
+    <string name="url">URL</string>
+    <string name="file">Bestand</string>
+    <string name="no_channels_found">Geen kanalen gevonden</string>
+    <string name="no_recents">Geen recente berichten</string>
+    <string name="play_something_to_begin">Speel media af om te beginnen</string>
+    <string name="import_new_channels_by_tapping_the_button_below">Importeer nieuwe kanalen door op de onderstaande knop te tikken.</string>
+    <string name="a_z_sort">A-Z sortering</string>
+    <string name="z_a_sort">Z-A sortering</string>
+    <string name="_0_9_sort">0–9 Sorteren</string>
+    <string name="_9_0_sort">9–0 Sorteren</string>
+    <string name="refresh">Vernieuwen</string>
+    <string name="accept">Accepteren</string>
+    <string name="license_agreement">Licentieovereenkomst</string>
+    <string name="i_agree">Ik ga akkoord met de Licentieovereenkomst</string>
+    <string name="content_license_agreement">IPTV ondersteunt M3U- en JSON-afspeellijsten die door gebruikers zijn gemaakt. We bieden of hosten geen inhoud.\n\nDeze app is alleen bedoeld voor legaal verkregen inhoud. U bent ervoor verantwoordelijk dat uw afspeellijsten en inhoud voldoen aan de toepasselijke wetten en toestemmingen.\n\nAls u doorgaat, bevestigt u dat u deze voorwaarden begrijpt en accepteert.\n\nDisclaimer\n\nIPTV levert of promoot geen inhoud en is niet gelieerd aan externe providers.\n\nGebruikers moeten hun eigen inhoud aanleveren. Het ongeoorloofd streamen van auteursrechtelijk beschermd materiaal wordt sterk afgeraden.</string>
+    <string name="content_1">Je kunt online zoeken met trefwoorden als \'IPTV M3U-afspeellijst\' of de richtlijnen van je tv-/streamingservice raadplegen.\nEen goede M3U-link is doorgaans:\n• Begint met http:// of https://\n• Eindigt met .m3u of .m3u8\nProbeer waar mogelijk vertrouwde en legale bronnen te gebruiken. Houd er rekening mee dat sommige afspeellijsten kunnen verlopen, inloggegevens vereisen of beperkt zijn per regio.</string>
+    <string name="content_2">De M3U-URL kopiëren:\n• Op mobiel: tik op de link en houd deze vast → selecteer Link kopiëren\n• Op desktop: klik met de rechtermuisknop op de link → kies Linkadres kopiëren\nHet afspeellijstbestand downloaden:\n• Sla het .m3u- of .m3u8-bestand op op een gemakkelijk toegankelijke locatie op uw apparaat\nU kunt het bestand later rechtstreeks vanuit uw lokale opslag importeren (zie stap 3).</string>
+    <string name="content_3">Start IPTV Smart Player.\nSelecteer Afspeellijst toevoegen.\nKies één methode om te importeren:\n• Via URL → Plak uw M3U-link\n• Vanuit bestand → Blader en kies het opgeslagen .m3u/.m3u8-bestand op uw apparaat\n(Optioneel) Voer een aangepaste naam in zodat u uw afspeellijst later gemakkelijk kunt identificeren\nTik op Opslaan om te voltooien.</string>
+    <string name="content_4">Geef de app even de tijd om kanalen en categorieën te laden.\nVerken de kanalenlijst of gebruik de zoekfunctie om snel te vinden wat je zoekt.\nAls er geen inhoud verschijnt:\n• Controleer je internetverbinding\n• Zorg ervoor dat de M3U-link of het bestand nog steeds geldig is en werkt</string>
+    <string name="an_internet_connection_is_required_to_continue_using_the_app_please_check_your_network_settings_and_reconnect">Er is een internetverbinding vereist om de app te kunnen blijven gebruiken.\nControleer uw netwerkinstellingen en maak opnieuw verbinding.</string>
+    <string name="retry">Opnieuw proberen</string>
+    <string name="thank_you_for_using_iptv">Bedankt voor het gebruik van IPTV</string>
+    <string name="playlist_name">Naam van afspeellijst</string>
+    <string name="playlist">Afspeellijst</string>
+    <string name="save">Opslaan</string>
+    <string name="password">Wachtwoord</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="no_file_selected">Geen bestand geselecteerd</string>
+    <string name="m3u_file">M3U-bestand</string>
+    <string name="playlist_url">URL van afspeellijst</string>
+    <string name="choose_icon">Kies Pictogram</string>
+    <string name="choose_color">Kies Kleur</string>
+    <string name="paste_your_url_here">Plak hier uw URL</string>
+    <string name="edit">Bewerking</string>
+    <string name="delete">Verwijderen</string>
+    <string name="rate_this_app">Beoordeel deze app</string>
+    <string name="tell_us_about_your_experiences">Vertel ons over uw ervaringen</string>
+    <string name="enter_your_stream_link_here">Voer hier uw streamlink in</string>
+    <string name="stream_link">Streamlink</string>
+    <string name="support_network_protocols_http_ftp_rtsp_rtp_udp">Ondersteuning van netwerkprotocollen: http, ftp, rtsp, rtp, udp...</string>
+    <string name="channel">Kanalen</string>
+    <string name="import_playlist_url">Importeer de URL van de afspeellijst</string>
+    <string name="load_from_device">Laden vanaf apparaat</string>
+    <string name="play_single_stream">Speel een enkele stream</string>
+    <string name="upload_m3u_file">M3U-bestand uploaden</string>
+    <string name="all_channels">Alle kanalen</string>
+    <string name="playback_error">Afspeelfout</string>
+    <string name="no_internet_connection">Geen internetverbinding</string>
+    <string name="this_channel_is_temporarily_out_of_service_or_not_availlable_in_your_region_please_try_again_later">Dit kanaal is tijdelijk buiten gebruik of niet beschikbaar in uw regio. Probeer het later opnieuw.</string>
+    <string name="lock">Slot</string>
+    <string name="full_screen">Volledig scherm</string>
+    <string name="pip">PiP</string>
+    <string name="screen_lock_press_to_unlock">Schermvergrendeling. Druk om te ontgrendelen</string>
+    <string name="delete_playlist">Afspeellijst verwijderen?</string>
+    <string name="are_you_sure_you_want_to_delete_this_playlist_this_action_can_t_be_undone">Weet je zeker dat je deze afspeellijst wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.</string>
+    <string name="yes_delete">Ja, verwijderen</string>
+    <string name="error_1">U moet verplichte velden invullen</string>
+    <string name="error_2">Sommige velden zijn ongeldig</string>
+    <string name="success_1">Importeren is gelukt</string>
+    <string name="success_2">Succesvol opslaan</string>
+    <string name="content_rate_1">Als u genoten heeft van uw tijd bij ons, laat dan een 5-sterrenbeoordeling achter!</string>
+    <string name="content_rate_2">Als u genoten heeft van uw tijd bij ons, laat dan een 5-sterrenbeoordeling achter!</string>
+    <string name="content_rate_3">Als u genoten heeft van uw tijd bij ons, laat dan een 5-sterrenbeoordeling achter!</string>
+    <string name="content_rate_4">Bijna perfect? Wij gaan voor die extra ster!</string>
+    <string name="content_rate_5">Je hebt onze dag helemaal gemaakt! 🌟 Laten we de goede sfeer behouden.</string>
+    <string name="no_results_found_for">Er zijn geen resultaten gevonden voor</string>
+    <string name="the_device_does_not_support_pip">Het apparaat ondersteunt geen PiP.</string>
+    <string name="video_file_not_found">Videobestand niet gevonden</string>
+    <string name="minimize">Minimaliseer het venster</string>
+    <string name="refresh_in_progress_please_wait">Vernieuwen wordt uitgevoerd. Even geduld a.u.b....</string>
+    <string name="no_email_app_found">Geen e-mailapp gevonden!</string>
+    <string name="error_5">Sommige velden zijn ongeldig</string>
+    <string name="no_favorite_channel_yet">Nog geen favoriete zender</string>
+    <string name="find_a_channel_you_like_and_tap_the_heart_to_keep_it">Zoek een kanaal dat je leuk vindt en tik op het hartje om het te behouden.</string>
+    <string name="refreshed_successfully">Succesvol vernieuwd</string>
+    <string name="import_xtream_codes_api">Importeer de Xstream Codes-API</string>
+    <string name="suggestion">Suggestie</string>
+    <string name="suggestion_1">Familie</string>
+    <string name="suggestion_2">Sport</string>
+    <string name="suggestion_3">Films</string>
+    <string name="_100_no_ads">100% Geen advertenties</string>
+    <string name="hd_4d_quality">HD- en 4D-kwaliteit</string>
+    <string name="premium_channels">Premiumkanalen</string>
+    <string name="most_popular">Meest populair</string>
+    <string name="weekly">Wekelijks</string>
+    <string name="monthly">Maandelijks</string>
+    <string name="yearly">Jaarlijks</string>
+    <string name="_3_day_free_trial">Gratis proefperiode van 3 dagen</string>
+    <string name="something_went_wrong">Er is iets misgegaan</string>
+    <string name="content_error">Volg deze stap en probeer het opnieuw:\n1. Controleer je netwerkverbinding\n2. Zorg ervoor dat u bent ingelogd op uw Google-account\n3. Zorg ervoor dat u de Google Play-applicatie kunt uitvoeren</string>
+    <string name="cancel_anytime">Annuleer op elk gewenst moment</string>
+    <string name="term_of_use">
+        <u>Gebruiksduur</u>
+    </string>
+    <string name="privacy_policy_ver_2">
+        <u>Privacybeleid</u>
+    </string>
+    <string name="your_premium_version_is_now_active_enjoy_using_the_app">Uw Premium-versie is nu actief. Veel plezier met het gebruiken van de app!</string>
+    <string name="payment_success">Betaling succes</string>
+    <string name="payment_failed">Betaling mislukt</string>
+    <string name="a_small_issue_stopped_the_payment_please_try_again">Een klein probleem heeft de betaling stopgezet. Probeer het opnieuw</string>
+    <string name="go_premium">Ga voor Premium</string>
+    <string name="unlock_all_features_and_enjoy_the_app_with_no_ads">Ontgrendel alle functies en geniet van de app zonder advertenties!</string>
+    <string name="premium_member">Premium-lid</string>
+    <string name="active_until">Actief tot %s</string>
+    <string name="sever_url">Sever-URL</string>
+    <string name="find_an_xtream_account">Zoek een Xtream-account</string>
+    <string name="search_for_xtream_code_api_account_online">Zoek online naar \'Xtream Code API-account\'.</string>
+    <string name="tap_add_profile_to_save_and_enjoy_your_content">Tik op Profiel toevoegen om uw inhoud op te slaan en ervan te genieten.</string>
+    <string name="start_streaming">Begin met streamen</string>
+    <string name="open_the_app_and_fill_in_the_xtream_profile_fields">Open de app en vul de Xtream-profielvelden in.</string>
+    <string name="enter_the_information">Voer de informatie in</string>
+    <string name="copy_the_server_url_username_and_password">Kopieer de server-URL, gebruikersnaam en wachtwoord.</string>
+    <string name="copy_the_account_details">Kopieer de accountgegevens</string>
+    <string name="how_to_add_an_xtream_profile">Hoe u een Xtream-profiel kunt toevoegen</string>
+    <string name="account_added_successfully">Account succesvol toegevoegd</string>
+    <string name="your_account_is_ready_to_use">Uw account is klaar voor gebruik</string>
+    <string name="view_now">Bekijk nu</string>
+    <string name="later">Later</string>
+    <string name="label_ad" translatable="false">Ad</string>
+    
+    <string name="add_your_first_playlist_to_start_watching">Voeg je eerste afspeellijst toe om te beginnen met kijken</string>
+    <string name="title_slider_1">Stream sport live op telefoon</string>
+    <string name="action_try_now">Probeer het nu</string>
+    <string name="title_slider_2">Stel uw filmafspeellijst samen</string>
+    <string name="title_slider_3">Geniet van alle functies zonder advertenties</string>
+    <string name="tap_to_search">Tik om te zoeken</string>
+    <string name="sports_hub">Sportshub</string>
+    <string name="wc_schedule">Schema\'s</string>
+    <string name="wc_team">Teams</string>
+    <string name="wc_standing">Stand</string>
+    <string name="wc_today">Vandaag</string>
+    <string name="wc_upcoming">Aankomend</string>
+    <string name="wc_full_time">Volledige speeltijd</string>
+    <string name="wc_live">Live</string>
+    <string name="wc_no_matches">Geen wedstrijden gevonden</string>
+    <string name="wc_no_standings">Geen stand beschikbaar</string>
+    <string name="wc_remind_me">Herinner mij</string>
+    <string name="wc_updating">Aan het bijwerken…</string>
+    <string name="wc_match_detail">Wedstrijddetails</string>
+    <string name="wc_events">Evenementen</string>
+    <string name="wc_no_events">Geen evenementen beschikbaar</string>
+    <string name="wc_no_events_desc">De wedstrijd is nog niet begonnen. Stel een herinnering in zodat je geen actie mist.</string>
+    <string name="wc_switch_team">Team Wisselen</string>
+    <string name="wc_bracket">Schema</string>
+    <string name="wc_round_of_32">Achtste finales</string>
+    <string name="wc_starting_soon">Begint binnenkort</string>
+    <string name="wc_round_of_16">Achtste finales</string>
+    <string name="wc_quarter_finals">Kwartfinales</string>
+    <string name="wc_semi_finals">Halve finales</string>
+    <string name="wc_final">Finale</string>
+    <string name="wc_no_bracket">Geen schemagegevens beschikbaar</string>
+    <string name="wc_no_matches_today">Geen Wedstrijden Vandaag</string>
+    <string name="wc_upcoming_fixtures">Aankomende wedstrijden verschijnen hier</string>
+    <string name="wc_no_recent">Geen recente wedstrijden</string>
+    <string name="wc_no_upcoming">Geen aankomende wedstrijden</string>
+    <string name="wc_reminded"></string>
+    <string name="noti_enable_title">Meldingen Inschakelen</string>
+    <string name="noti_enable_desc">Ontvang wedstrijdherinneringen, updates over nieuwe inhoud en belangrijke streamingwaarschuwingen.</string>
+    <string name="noti_go_to_setting">Ga naar instellingen</string>
+    <string name="visit_sports_hub">Bezoek Sports Hub</string>
+    <string name="_3rd_place_final">Wedstrijd om 3e Plaats</string>
+    <string name="_16th_finals">16e Finale</string>
+    <string name="ranking_of_third_placed_teams">Rangschikking van teams die derde eindigden</string>
+    <string name="out">"Uit: "</string>
+    <string name="_in">"In: "</string>
+    <string name="_2nd_half">2e Helft</string>
+    <string name="_1st_half">1e Helft</string>
+    <string name="asst">Assist. %1$s</string>
+    <string name="out_s">Uit: %1$s</string>
+    <string name="the_match_has_wrapped_up_open_the_app_for_the_full_result">De wedstrijd is afgelopen. Open de app voor het volledige resultaat.</string>
+    <string name="kickoff_in_15_minutes_open_the_app_to_follow_along">Aftrap over 15 minuten. Open de app om mee te volgen.</string>
+    <string name="live_now">Live nu</string>
+    <string name="full_time">Volledige tijd</string>
+    <string name="_2nd_group">2e Groep %1$s</string>
+    <string name="_1st_group">1e Groep %1$s</string>
+    <string name="eighth_finals">Achtste finales</string>
+    <string name="quarter_finals">Kwartfinales</string>
+    <string name="semi_finals">Halve finales</string>
+    <string name="winner">Winnaar</string>
+    <string name="loser">Verliezer</string>
+    <string name="round_of_32">32e finale</string>
+    <string name="round_of_16">Achtste finale</string>
+    <string name="_3rd_place">3e Plaats</string>
+    <string name="_final">Finale</string>
+    <string name="group_stage">Groepsfase</string>
+    <string name="round">Ronde %1$d</string>
+    <string name="group">Groep </string>
+    <string name="_1st">1e</string>
+    <string name="_2nd">2e</string>
+    <string name="_3rd">3e</string>
+    <string name="th">%1$dde</string>
+    <string name="remind_set">Herinnering ingesteld</string>
+    <string name="remind_removed">Herinnering verwijderd</string>
+    <string name="_et1">Extra Time 1e helft</string>
+    <string name="_et2">Extra Time 2e helft</string>
+    <string name="wc_penalty_score" translatable="false">(Pen: %1$d - %2$d)</string>
+    
+    <string name="play">Afspelen</string>
+    <string name="add_similar_items">Vergelijkbare items toevoegen</string>
+    <string name="see_more">Meer weergeven</string>
+    <string name="see_less">Minder weergeven</string>
+    <string name="view_all">Alles weergeven</string>
+    <string name="home">Start</string>
+    <string name="xstream">Xstream</string>
+    <string name="_live_now">Live nu</string>
+    <string name="recommended_for_you">Aanbevolen voor u</string>
+    <string name="new_series">Nieuwe series</string>
+    <string name="live_badge">LIVE</string>
+    <string name="n_a" translatable="false">N/A</string>
+    
+    <string name="xtream" translatable="false">Xtream</string>
+    
+    <string name="xtream_codes_provides_a_reliable_iptv_streaming_experience">Xtream Codes biedt een betrouwbare IPTV-streamingervaring.</string>
+    <string name="live_tv">Live TV</string>
+    <string name="movies">Films</string>
+    <string name="series">Series</string>
+    <string name="add_profile">Profiel toevoegen</string>
+    <string name="choose_your_profile">Kies uw profiel</string>
+    <string name="my_favorite">Mijn favorieten</string>
+    <string name="live_channel">Live-kanaal</string>
+    <string name="your_favorite_list_is_empty">Uw favorieteenlijst is leeg</string>
+    <string name="edit_profile">Profiel bewerken</string>
+    <string name="profile_name">Profielnaam</string>
+    <string name="delete_profile">Profiel verwijderen</string>
+    <string name="are_you_sure_you_want_to_delete_this_profile">Weet u zeker dat u dit profiel wilt verwijderen?</string>
+    <string name="no_browser_found">Geen app gevonden om de zoekopdracht te openen</string>
+    <string name="reminder_noon_title_1">Tijd om te resetten 🧠</string>
+    <string name="reminder_noon_body_1">Slechts één aflevering om je geest op te frissen!</string>
+    <string name="reminder_noon_title_2">Heb je een paar minuten? 🎬</string>
+    <string name="reminder_noon_body_2">Je kanalen zijn maar één tik verwijderd.</string>
+    <string name="reminder_noon_title_3">Je kanalen wachten 📺</string>
+    <string name="reminder_noon_body_3">Live tv, films &amp; series — allemaal op één plek.</string>
+    <string name="reminder_evening_title_1">Prime time is bezig 🔥</string>
+    <string name="reminder_evening_body_1">Je kanalen zijn nu live.</string>
+    <string name="reminder_evening_title_2">Wat is er vanavond? ⚽</string>
+    <string name="reminder_evening_body_2">Live sport, nieuwe afleveringen &amp; meer.</string>
+    <string name="reminder_evening_title_3">Vanavond op tv 📺</string>
+    <string name="reminder_evening_body_3">Live kanalen, films &amp; series — allemaal hier.</string>
+    <string name="reminder_no_playlist_title">Je tv wacht 📺</string>
+    <string name="reminder_no_playlist_body">Voeg je afspeellijst toe en begin met kijken.</string>
+    <string name="reminder_playlist_ready_title">Alles is klaar! ✅</string>
+    <string name="reminder_playlist_ready_body">Tik om je favoriete kanaal te bekijken.</string>
+    <string name="noti_enable_title_ver_2">Sta %1$s toe om je meldingen te sturen</string>
+    <string name="noti_enable_desc_ver_2">Ontvang live tv-herinneringen, nieuwe filmupdates en belangrijke streamingwaarschuwingen</string>
+    <string name="deny">Weigeren</string>
+    <string name="allow">Toestaan</string>
+    <string name="tut_xtream_1">Zoek naar “Xtream Code API Account” met een willekeurige zoekmachine</string>
+    <string name="tut_xtream_2">Zoek de sectie “Format” of “Playlist” en kopieer de Xtream-accountinformatie</string>
+    <string name="tut_xtream_3">Ga terug naar de app, tik op de &quot;+&quot; knop, selecteer &quot;Import Stream Link&quot; en plak vervolgens de link.</string>
+    <string name="tut_xtream_4">Geniet van het kijken naar Xtream</string>
+    <string name="how_to_add_xtream_profile">
+        <u>Hoe voeg je een Xtream-profiel toe</u>
+    </string>
+</resources>

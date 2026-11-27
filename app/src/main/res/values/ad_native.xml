@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="native_media_ratio" translatable="false">H,16:9</string>
+    <item name="native_media_width_percent" type="dimen" format="float">1.0</item>
+</resources>

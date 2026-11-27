@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btn_root_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:background="@drawable/bg_dialog_pre"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            android:layout_marginTop="8dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_purchase_successful" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/quicksand_semi_bold_600"
+            android:gravity="center"
+            android:paddingHorizontal="16dp"
+            android:text="@string/payment_success"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="21dp"
+            android:layout_marginTop="2dp"
+            android:fontFamily="@font/quicksand_regular_400"
+            android:gravity="center"
+            android:paddingHorizontal="16dp"
+            android:text="@string/your_premium_version_is_now_active_enjoy_using_the_app"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/btnGotIt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/bg_corner_100"
+            android:fontFamily="@font/quicksand_bold_700"
+            android:gravity="center"
+            android:paddingVertical="11dp"
+            android:text="@string/got_it"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>
